@@ -1,0 +1,1 @@
+TRUYENQQTO_ENPOINT = "https://truyenqqto.com/truyen-tranh"
