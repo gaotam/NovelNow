@@ -90,12 +90,20 @@ class Runner:
         self.prepare()
 
         latest_chapter_map = {}
+        have_new_chapter = False
         for provider in self.providers:
             (latest_chapter, date_chapter) = provider.get_latest_chapter()
             if latest_chapter == 0:
-                print(f"ID: {provider.title} -> Không có chương mới")
+                # print(f"ID: {provider.title} -> Không có chương mới")
+                a =1
             else:
+                have_new_chapter = True
                 latest_chapter_map[provider.id] = (latest_chapter, date_chapter)
                 print(f"ID: {provider.title} -> Chương {latest_chapter} - Ngày cập nhật: {date_chapter}")
-            time.sleep(2)
-        self.update_data(latest_chapter_map)
+            time.sleep(1.4)
+
+        if have_new_chapter:
+            self.update_data(latest_chapter_map)
+        else:
+            print(f"Hiện tại chưa có chap mới của truyện nào...")
+
