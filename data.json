@@ -1,24 +1,31 @@
 [
     {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "last_chapter": 0,
-        "update_date": "",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "bach-luyen-thanh-than-1099",
-        "title": "Bách Luyện Thành Thần",
-        "last_chapter": 0,
-        "update_date": "",
-        "provider": "truyenqqto"
-    },
-    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "last_chapter": 0,
         "update_date": "",
         "provider": "truyenqqto"
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "121068",
+        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "106542",
+        "title": "Xích Tâm Tuần Thiên",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "metruyenchu"
     },
     {
         "id": "tuyet-the-vo-than-2664",
@@ -28,8 +35,29 @@
         "provider": "truyenqqto"
     },
     {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "bach-luyen-thanh-than-1099",
+        "title": "Bách Luyện Thành Thần",
         "last_chapter": 0,
         "update_date": "",
         "provider": "truyenqqto"
@@ -63,15 +91,8 @@
         "provider": "truyenqqto"
     },
     {
-        "id": "vua-trom-mo-7689",
-        "title": "Vua Trộm Mộ",
-        "last_chapter": 0,
-        "update_date": "",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "su-thuc-tinh-cua-hac-ma-phap-su-sau-66666-nam-11431",
-        "title": "Sự Thức Tỉnh Của Hắc Ma Pháp Sư Sau 66666 Năm",
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
         "last_chapter": 0,
         "update_date": "",
         "provider": "truyenqqto"
@@ -79,13 +100,6 @@
     {
         "id": "chuong-mon-khiem-ton-chut-11685",
         "title": "chuong-mon-khiem-ton-chut-11685",
-        "last_chapter": 0,
-        "update_date": "",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "ta-lam-kieu-hung-tai-di-gioi-13913",
-        "title": "Ta Làm Kiêu Hùng Tại Dị Giới",
         "last_chapter": 0,
         "update_date": "",
         "provider": "truyenqqto"
@@ -105,10 +119,24 @@
         "provider": "truyenqqto"
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "id": "su-thuc-tinh-cua-hac-ma-phap-su-sau-66666-nam-11431",
+        "title": "Sự Thức Tỉnh Của Hắc Ma Pháp Sư Sau 66666 Năm",
         "last_chapter": 0,
         "update_date": "",
-        "provider": "metruyenchu"
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "ta-lam-kieu-hung-tai-di-gioi-13913",
+        "title": "Ta Làm Kiêu Hùng Tại Dị Giới",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "vua-trom-mo-7689",
+        "title": "Vua Trộm Mộ",
+        "last_chapter": 0,
+        "update_date": "",
+        "provider": "truyenqqto"
     }
 ]
