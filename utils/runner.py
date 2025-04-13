@@ -1,5 +1,6 @@
 import time
-from typing import List, Dict, Tuple
+from datetime import datetime
+from typing import List, Dict, Tuple, Any
 from utils import load_json_file, write_json_file
 from consts import ProviderName
 from providers.base import BaseProvider
@@ -10,6 +11,25 @@ class Runner:
         self.data_path = data_path
         self.data = []
         self.providers: List[BaseProvider] = []
+
+    @staticmethod
+    def sort_by_update_date(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """
+            Sorts a list of data entries by the 'update_date' field in descending order (newest first).
+            Args:
+                data (List[Dict[str, Any]]): A list of dictionaries, where each dictionary represents
+                a data entry and may contain an 'update_date' field as a string in the format "DD/MM/YYYY".
+            Returns:
+                List[Dict[str, Any]]: The sorted list of dictionaries, ordered by 'update_date' from newest to oldest.
+        """
+        def parse_date(date_str: str):
+            try:
+                return datetime.strptime(date_str, "%d/%m/%Y")
+            except ValueError:
+                # Return a very old date for items with invalid dates
+                return datetime(1900, 1, 1)
+
+        return sorted(data, key=lambda x: parse_date(x.get('update_date', '')), reverse=True)
 
     def prepare(self):
         """
@@ -39,7 +59,7 @@ class Runner:
                 d['last_chapter'] = latest_chapter_map[d['id']][0]
                 d['update_date'] = latest_chapter_map[d['id']][1]
 
-        write_json_file(self.data_path, self.data)
+        write_json_file(self.data_path, Runner.sort_by_update_date(self.data))
         print("data.json updated successfully.")
 
     def run(self):
