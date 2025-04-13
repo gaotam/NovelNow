@@ -5,6 +5,8 @@ from utils import load_json_file, write_json_file
 from consts import ProviderName
 from providers.base import BaseProvider
 from providers.truyenqqto import TruyenQQTOProvider
+from providers.metruyenchu import MeChuyenChuProvider
+
 
 class Runner:
     def __init__(self, data_path: str):
@@ -41,9 +43,15 @@ class Runner:
             and appends it to the `self.providers` list.
         """
         self.data = load_json_file(self.data_path)
+        provider_map = {
+            ProviderName.TRUYENQQTO.value: TruyenQQTOProvider,
+            ProviderName.METRUYENCHU.value: MeChuyenChuProvider
+        }
+
         for d in self.data:
-            if d['provider'] == ProviderName.TRUYENQQTO.value:
-                self.providers.append(TruyenQQTOProvider(d['id'], d['last_chapter']))
+            provider_class = provider_map.get(d['provider'])
+            if provider_class:
+                self.providers.append(provider_class(d['id'], d['last_chapter']))
 
     def update_data(self, latest_chapter_map: Dict[str, Tuple[int, str]]):
         """

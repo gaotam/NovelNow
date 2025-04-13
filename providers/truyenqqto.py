@@ -1,7 +1,7 @@
 import requests
 from .base import BaseProvider
-from datetime import date
-from consts.enpoint import TRUYENQQTO_ENPOINT
+from consts import ProviderName
+from consts.enpoint import ENDPOINTS
 from typing import Optional
 from utils import extract_chapter_number
 
@@ -23,7 +23,7 @@ class TruyenQQTOProvider(BaseProvider):
                     - str: The release date of the latest chapter in string format.
         """
         try:
-            url = f"{TRUYENQQTO_ENPOINT}/{self.id}"
+            url = f"{ENDPOINTS[ProviderName.TRUYENQQTO]}/{self.id}"
             res = requests.get(url)
             res.raise_for_status()
             return res.text
@@ -53,9 +53,11 @@ class TruyenQQTOProvider(BaseProvider):
         html = self.fetch_html()
         soup = super().parse_html(html)
         if soup is None:
-            return self.last_chapter, date.today()
+            return 0, ""
 
         chapter_item = soup.select_one(".works-chapter-item")
         latest_chapter = extract_chapter_number(chapter_item.select_one(".name-chap a").get_text(strip=True))
         date_chapter = chapter_item.select_one(".time-chap").get_text(strip=True)
-        return (0, "") if latest_chapter == self.last_chapter else (latest_chapter, date_chapter)
+        if latest_chapter == self.last_chapter:
+            return 0, ""
+        return latest_chapter, date_chapter
