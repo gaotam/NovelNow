@@ -96,6 +96,6 @@ class Runner:
                 print(f"ID: {provider.title} -> Không có chương mới")
             else:
                 latest_chapter_map[provider.id] = (latest_chapter, date_chapter)
-                print(f"ID: {provider.title} -> Chương {latest_chapter} - Ngày cập nhật {date_chapter}")
+                print(f"ID: {provider.title} -> Chương {latest_chapter} - Ngày cập nhật: {date_chapter}")
             time.sleep(2)
         self.update_data(latest_chapter_map)
