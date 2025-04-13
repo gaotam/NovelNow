@@ -35,4 +35,7 @@ class MeChuyenChuProvider(BaseProvider):
         latest_chapter_info = self.fetch_api()['data'][-1]
         latest_chapter = extract_chapter_number(latest_chapter_info['name'])
         date_chapter = iso_to_ddmmyyyy(latest_chapter_info['published_at'])
+
+        if latest_chapter == self.last_chapter:
+            return 0, ""
         return latest_chapter, date_chapter
