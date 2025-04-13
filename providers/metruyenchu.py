@@ -7,9 +7,15 @@ from utils import extract_chapter_number
 from utils.datetime import iso_to_ddmmyyyy
 
 class MeChuyenChuProvider(BaseProvider):
-    def __init__(self, id: str, last_chapter: int = 0):
-        self.id = id
-        self.last_chapter = last_chapter
+    def __init__(self, id: str, title: str, last_chapter: int = 0):
+        """
+            Initializes the MeChuyenChuProvider instance.
+            Args:
+                id (str): The unique identifier for the provider.
+                title (str): The title of the content.
+                last_chapter (int, optional): The last chapter number. Defaults to 0.
+        """
+        super().__init__(id, title, last_chapter)
 
     def fetch_api(self) -> Optional[str]:
         params = {

@@ -51,7 +51,7 @@ class Runner:
         for d in self.data:
             provider_class = provider_map.get(d['provider'])
             if provider_class:
-                self.providers.append(provider_class(d['id'], d['last_chapter']))
+                self.providers.append(provider_class(d['id'], d['title'], d['last_chapter']))
 
     def update_data(self, latest_chapter_map: Dict[str, Tuple[int, str]]):
         """
@@ -93,9 +93,9 @@ class Runner:
         for provider in self.providers:
             (latest_chapter, date_chapter) = provider.get_latest_chapter()
             if latest_chapter == 0:
-                print(f"ID: {provider.id} -> no new chapter")
+                print(f"ID: {provider.title} -> Không có chương mới")
             else:
                 latest_chapter_map[provider.id] = (latest_chapter, date_chapter)
-                print(f"ID: {provider.id} -> new chapter {latest_chapter} - {date_chapter}")
+                print(f"ID: {provider.title} -> Chương {latest_chapter} - Ngày cập nhật {date_chapter}")
             time.sleep(2)
         self.update_data(latest_chapter_map)
