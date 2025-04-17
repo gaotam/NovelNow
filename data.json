@@ -1,22 +1,50 @@
 [
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "last_chapter": 1776,
-        "update_date": "16/04/2025",
-        "provider": "metruyenchu"
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "last_chapter": 1124,
+        "update_date": "17/04/2025",
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "bach-luyen-thanh-than-1099",
+        "title": "Bách Luyện Thành Thần",
+        "last_chapter": 1283,
+        "update_date": "17/04/2025",
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "last_chapter": 144,
+        "update_date": "17/04/2025",
+        "provider": "truyenqqto"
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "last_chapter": 3828,
+        "update_date": "17/04/2025",
+        "provider": "truyenqqto"
     },
     {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
-        "last_chapter": 1216,
-        "update_date": "16/04/2025",
+        "last_chapter": 1218,
+        "update_date": "17/04/2025",
         "provider": "metruyenchu"
     },
     {
         "id": "106542",
         "title": "Xích Tâm Tuần Thiên",
-        "last_chapter": 159,
+        "last_chapter": 160,
+        "update_date": "17/04/2025",
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "last_chapter": 1777,
         "update_date": "16/04/2025",
         "provider": "metruyenchu"
     },
@@ -28,25 +56,32 @@
         "provider": "truyenqqto"
     },
     {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "last_chapter": 1123,
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "last_chapter": 516,
         "update_date": "16/04/2025",
-        "provider": "truyenqqto"
+        "provider": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "last_chapter": 2354,
+        "update_date": "16/04/2025",
+        "provider": "metruyenchu"
     },
     {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "last_chapter": 305,
-        "update_date": "15/04/2025",
+        "update_date": "16/04/2025",
         "provider": "truyenqqto"
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "last_chapter": 515,
-        "update_date": "15/04/2025",
-        "provider": "metruyenchu"
+        "id": "chuong-mon-khiem-ton-chut-11685",
+        "title": "chuong-mon-khiem-ton-chut-11685",
+        "last_chapter": 489,
+        "update_date": "16/04/2025",
+        "provider": "truyenqqto"
     },
     {
         "id": "ta-la-ta-de-8456",
@@ -54,13 +89,6 @@
         "last_chapter": 563,
         "update_date": "15/04/2025",
         "provider": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "last_chapter": 2353,
-        "update_date": "15/04/2025",
-        "provider": "metruyenchu"
     },
     {
         "id": "van-co-chi-ton-11261",
@@ -84,38 +112,10 @@
         "provider": "truyenqqto"
     },
     {
-        "id": "chuong-mon-khiem-ton-chut-11685",
-        "title": "chuong-mon-khiem-ton-chut-11685",
-        "last_chapter": 488,
-        "update_date": "13/04/2025",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "bach-luyen-thanh-than-1099",
-        "title": "Bách Luyện Thành Thần",
-        "last_chapter": 1282,
-        "update_date": "11/04/2025",
-        "provider": "truyenqqto"
-    },
-    {
         "id": "nguoi-choi-moi-cap-toi-da-11540",
         "title": "Người Chơi Mới Cấp Tối Đa",
         "last_chapter": 201,
         "update_date": "11/04/2025",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "last_chapter": 143,
-        "update_date": "10/04/2025",
-        "provider": "truyenqqto"
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "last_chapter": 3826,
-        "update_date": "09/04/2025",
         "provider": "truyenqqto"
     },
     {
