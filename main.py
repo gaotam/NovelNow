@@ -1,4 +1,4 @@
-from utils.runner import Runner
+from runner import Runner
 
 def main():
     runner = Runner("data.json")

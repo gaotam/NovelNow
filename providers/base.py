@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 from bs4 import BeautifulSoup
+
 class BaseProvider(ABC):
     @staticmethod
     def parse_html(html_content: str) -> BeautifulSoup:
@@ -19,21 +20,19 @@ class BaseProvider(ABC):
         return soup
 
     @abstractmethod
-    def __init__(self, id: str, title: str, last_chapter: int = 0):
+    def __init__(self, id: str, last_chapter: int = 0):
         """
             Initializes the BaseProvider instance.
 
             Args:
                 id (str): The unique identifier for the provider.
-                title (str): The title of the content.
                 last_chapter (int, optional): The last chapter number. Defaults to 0.
         """
         self.id = id
-        self.title = title
         self.last_chapter = last_chapter
 
     @abstractmethod
-    def get_latest_chapter(self) -> (int, str):
+    def get_latest_chapter(self) -> tuple[int, str]:
         """
             Abstract method to retrieve the latest chapter information.
 
