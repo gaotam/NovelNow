@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+
 from providers import PROVIDER_MAP
 from providers.base import BaseProvider
 
@@ -63,4 +64,4 @@ class Story:
             self.display()
 
     def display(self):
-        print(f"📚 Truyện: {self.title} -> 🔖 Chương {self.last_chapter} - 📅 Ngày cập nhật: {self.update_date}")
+        print(f"### 📚 Truyện: {self.title} -> 🔖 Chương {self.last_chapter} - 📅 Ngày cập nhật: {self.update_date}")
