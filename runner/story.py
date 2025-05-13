@@ -11,6 +11,7 @@ class Story:
     last_chapter: int
     update_date: str
     source: str
+    channel_id: int
     is_new_chapter: bool = False
     provider: BaseProvider = None
 
@@ -42,6 +43,7 @@ class Story:
         return {
             "id": self.id,
             "title": self.title,
+            "channel_id": self.channel_id,
             "last_chapter": self.last_chapter,
             "update_date": self.update_date,
             "source": self.source
@@ -63,5 +65,29 @@ class Story:
             self.is_new_chapter = True
             self.display()
 
+    def channel_message(self):
+        """
+            Generates a formatted message containing the latest chapter and update date of the story.
+
+            Returns:
+                str: A string in the format:
+                     "🔖 Chương {last_chapter} - 📅 Ngày cập nhật: {update_date}",
+                     where `last_chapter` is the latest chapter number and `update_date` is the date of the last update.
+            """
+        return f"🔥 Chương {self.last_chapter} - Ngày cập nhật: {self.update_date}"
+
+    def channel_general(self):
+        """
+        Generates a message for the channel.
+
+        This method creates a message string that includes the story's title and
+        the latest chapter information. The message is formatted for display in
+        a channel or chat application.
+
+        Returns:
+            str: A formatted message string containing the story's title and latest chapter information.
+        """
+        return f"<#{self.channel_id}> -> {self.channel_message()}"
+
     def display(self):
-        print(f"#\"{self.title}\" -> 🔖 Chương {self.last_chapter} - 📅 Ngày cập nhật: {self.update_date}")
+        print(f"{self.title} -> {self.channel_message()}")

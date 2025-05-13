@@ -1,0 +1,7 @@
+[common]
+data_path = "./data.json"
+
+[discord]
+bot_token = ""
+general_channel_id = 123456
+

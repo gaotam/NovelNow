@@ -2,6 +2,7 @@
     {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
+        "channel_id": 1359006015567171745,
         "last_chapter": 1271,
         "update_date": "13/05/2025",
         "source": "metruyenchu"
@@ -9,6 +10,7 @@
     {
         "id": "106542",
         "title": "Xích Tâm Tuần Thiên",
+        "channel_id": 1359014633616441474,
         "last_chapter": 186,
         "update_date": "13/05/2025",
         "source": "metruyenchu"
@@ -16,6 +18,7 @@
     {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
         "last_chapter": 319,
         "update_date": "13/05/2025",
         "source": "truyenqqto"
@@ -23,6 +26,7 @@
     {
         "id": "dai-tuong-vo-hinh-8339",
         "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
         "last_chapter": 499,
         "update_date": "13/05/2025",
         "source": "truyenqqto"
@@ -30,6 +34,7 @@
     {
         "id": "song-tu-dao-lu-cua-toi-1695",
         "title": "Song Tu Đạo Lữ Của Tôi",
+        "channel_id": 1364782404564291586,
         "last_chapter": 815,
         "update_date": "13/05/2025",
         "source": "truyenqqto"
@@ -37,27 +42,31 @@
     {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "last_chapter": 1803,
-        "update_date": "12/05/2025",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1804,
+        "update_date": "13/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 541,
+        "update_date": "13/05/2025",
         "source": "metruyenchu"
     },
     {
         "id": "van-co-chi-ton-11261",
         "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
         "last_chapter": 422,
         "update_date": "12/05/2025",
         "source": "truyenqqto"
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "last_chapter": 540,
-        "update_date": "11/05/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "106723",
         "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
         "last_chapter": 2375,
         "update_date": "11/05/2025",
         "source": "metruyenchu"
@@ -65,6 +74,7 @@
     {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
         "last_chapter": 423,
         "update_date": "11/05/2025",
         "source": "truyenqqto"
@@ -72,6 +82,7 @@
     {
         "id": "bach-luyen-thanh-than-1099",
         "title": "Bách Luyện Thành Thần",
+        "channel_id": 1359020501556531383,
         "last_chapter": 1289,
         "update_date": "11/05/2025",
         "source": "truyenqqto"
@@ -79,6 +90,7 @@
     {
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
         "last_chapter": 1136,
         "update_date": "09/05/2025",
         "source": "truyenqqto"
@@ -86,6 +98,7 @@
     {
         "id": "ta-la-ta-de-8456",
         "title": "Ta Là Tà Đế",
+        "channel_id": 1358987253765898381,
         "last_chapter": 570,
         "update_date": "09/05/2025",
         "source": "truyenqqto"
@@ -93,6 +106,7 @@
     {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
         "last_chapter": 370,
         "update_date": "08/05/2025",
         "source": "truyenqqto"
@@ -100,6 +114,7 @@
     {
         "id": "vo-luyen-dinh-phong-3926",
         "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
         "last_chapter": 3831,
         "update_date": "08/05/2025",
         "source": "truyenqqto"
@@ -107,6 +122,7 @@
     {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
         "last_chapter": 991,
         "update_date": "06/05/2025",
         "source": "truyenqqto"
@@ -114,6 +130,7 @@
     {
         "id": "chuong-mon-khiem-ton-chut-11685",
         "title": "Chưởng Môn Khiêm Tốn Chút",
+        "channel_id": 1358986879126736936,
         "last_chapter": 497,
         "update_date": "05/05/2025",
         "source": "truyenqqto"
@@ -121,6 +138,7 @@
     {
         "id": "nguoi-choi-moi-cap-toi-da-11540",
         "title": "Người Chơi Mới Cấp Tối Đa",
+        "channel_id": 1359001165697781760,
         "last_chapter": 203,
         "update_date": "25/04/2025",
         "source": "truyenqqto"
@@ -128,6 +146,7 @@
     {
         "id": "gacha-vo-han-13496",
         "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
         "last_chapter": 144,
         "update_date": "17/04/2025",
         "source": "truyenqqto"
@@ -135,6 +154,7 @@
     {
         "id": "su-thuc-tinh-cua-hac-ma-phap-su-sau-66666-nam-11431",
         "title": "Sự Thức Tỉnh Của Hắc Ma Pháp Sư Sau 66666 Năm",
+        "channel_id": 1359019599240233000,
         "last_chapter": 153,
         "update_date": "12/03/2025",
         "source": "truyenqqto"
@@ -142,15 +162,9 @@
     {
         "id": "ta-lam-kieu-hung-tai-di-gioi-13913",
         "title": "Ta Làm Kiêu Hùng Tại Dị Giới",
+        "channel_id": 1359011315557077012,
         "last_chapter": 722,
         "update_date": "31/12/2023",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "vua-trom-mo-7689",
-        "title": "Vua Trộm Mộ",
-        "last_chapter": 411,
-        "update_date": "07/09/2023",
         "source": "truyenqqto"
     }
 ]

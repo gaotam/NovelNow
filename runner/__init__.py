@@ -1,4 +1,7 @@
 import time
+
+from utils.config import Config
+from utils.discord import DiscordClient
 from .story import Story
 from datetime import datetime
 from typing import List, Dict, Any
@@ -6,8 +9,10 @@ from collections import defaultdict
 from utils import load_json_file, write_json_file
 
 class Runner:
-    def __init__(self, data_path: str):
-        self.data_path = data_path
+    def __init__(self, config: Config):
+        self.data_path = config['common']['data_path']
+        self.config = config
+        self.discord_client = DiscordClient(config['discord']['bot_token'])
         self.stories: List[Story] = []
 
     @staticmethod
@@ -75,15 +80,78 @@ class Runner:
             data.append(story.to_dict())
 
         write_json_file(self.data_path, Runner.sort_by_update_date(data))
-        print("✅ data.json updated successfully.")
+        print("✅ data.json cập nhật thành công.")
+
+
+    def send_story_channels(self):
+        """
+        Sends a notification message to the respective Discord channels for stories with new chapters.
+
+        This method iterates through the list of stories, checks if a story has a new chapter,
+        and sends a notification message to the Discord channel associated with that story.
+
+        Raises:
+            Exception: If there is an issue sending the message to Discord.
+        """
+        for story in self.stories:
+            if story.is_new_chapter:
+                self.discord_client.send_message(story.channel_id, story.channel_message())
+                time.sleep(0.2)
+
+    def send_general_channel(self):
+        """
+        Sends a notification message to the general Discord channel.
+
+        This method sends a predefined message to the general channel specified
+        in the configuration. It is useful for broadcasting general updates or
+        notifications.
+
+        Raises:
+            Exception: If there is an issue sending the message to Discord.
+        """
+        message = "📢 Bản tin cập nhật công pháp!"
+        for story in self.stories:
+            if story.is_new_chapter:
+                message += f"\n{story.channel_general()}"
+        self.discord_client.send_message(self.config['discord']['general_channel_id'], message)
+
+    def confirm_and_send_discord(self):
+        """
+        Confirms with the user and sends notifications to Discord.
+
+        This method checks if the Discord bot token is configured. If it is,
+        it prompts the user to confirm whether they want to send notifications
+        to Discord. If the user confirms, it sends messages to both the general
+        channel and the story-specific channels.
+
+        Returns:
+            None
+        """
+        if not self.config['discord']['bot_token']:
+            print("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
+            return
+
+        choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
+        if choice == 'y':
+            self.send_general_channel()
+            self.send_story_channels()
+            print("✅ Gửi thành công.")
 
     def run(self):
-        print("🚀 Running...")
+        print("🚀 Đang khởi động...")
         self.prepare()
 
         for story in self.stories:
             story.get_latest_chapter()
-            time.sleep(1.4)                
+            time.sleep(1.4)
+
+        # Check if any story has a new chapter
+        has_new_chapters = any(story.is_new_chapter for story in self.stories)
+        if not has_new_chapters:
+            print("🚫 Không có chương mới.")
+            return
 
         self.print_new_chapters_grouped_by_source()
         self.update_data()
+
+        self.confirm_and_send_discord()
