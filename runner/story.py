@@ -64,4 +64,4 @@ class Story:
             self.display()
 
     def display(self):
-        print(f"### 📚 Truyện: {self.title} -> 🔖 Chương {self.last_chapter} - 📅 Ngày cập nhật: {self.update_date}")
+        print(f"#\"{self.title}\" -> 🔖 Chương {self.last_chapter} - 📅 Ngày cập nhật: {self.update_date}")
