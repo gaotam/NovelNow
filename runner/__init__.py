@@ -143,7 +143,7 @@ class Runner:
 
         for story in self.stories:
             story.get_latest_chapter()
-            time.sleep(1.4)
+            time.sleep(2)
 
         # Check if any story has a new chapter
         has_new_chapters = any(story.is_new_chapter for story in self.stories)
