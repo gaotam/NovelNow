@@ -109,7 +109,7 @@ class Runner:
         Raises:
             Exception: If there is an issue sending the message to Discord.
         """
-        message = "📢 Bản tin cập nhật công pháp!"
+        message = "📢 BẢN TIN CẬP NHẬT CÔNG PHÁP!"
         for story in self.stories:
             if story.is_new_chapter:
                 message += f"\n{story.channel_general()}"
