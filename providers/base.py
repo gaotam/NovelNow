@@ -1,5 +1,5 @@
-from abc import ABC, abstractmethod
 from bs4 import BeautifulSoup
+from abc import ABC, abstractmethod
 
 class BaseProvider(ABC):
     @staticmethod

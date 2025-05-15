@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
-from typing import Any, Dict, Iterable, List
 import tomllib as toml_loader
+from typing import Any, Dict, Iterable, List
 
 PathLike = str | os.PathLike[str]
 

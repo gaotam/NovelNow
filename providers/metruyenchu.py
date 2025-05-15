@@ -1,8 +1,8 @@
 import requests
+from typing import Optional
 from .base import BaseProvider
 from consts import ProviderName
 from consts.enpoint import ENDPOINTS
-from typing import Optional
 from utils import extract_chapter_number
 from utils.datetime import iso_to_ddmmyyyy
 

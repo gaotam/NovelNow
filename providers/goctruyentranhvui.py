@@ -1,11 +1,10 @@
-import re
 import requests
 from typing import Optional
 from .base import BaseProvider
 from consts import ProviderName
-from datetime import datetime, date
 from consts.enpoint import ENDPOINTS
 from utils import extract_chapter_number
+from utils.datetime import format_date_chapter
 
 class GocTruyenTranhVuiProvider(BaseProvider):
     def __init__(self, id: str, last_chapter: int = 0):
@@ -67,12 +66,7 @@ class GocTruyenTranhVuiProvider(BaseProvider):
 
         chapter_item = soup.select_one("div.list.row.pa-4 > div:nth-child(1)")
         latest_chapter = extract_chapter_number(chapter_item.select_one("div.chapter-info span").get_text(strip=True))
-
-        date_chapter = chapter_item.select_one("div.text--disabled div.d-flex div").get_text(strip=True)
-        if re.match(r"(\d+)\s+giờ\s+trước", date_chapter):
-            date_chapter = date.today().strftime("%d/%m/%Y")
-        else:
-            date_chapter = date_chapter.replace('-', '/')
+        date_chapter = format_date_chapter(chapter_item.select_one("div.text--disabled div.d-flex div").get_text(strip=True))
 
         if latest_chapter == self.last_chapter:
             return 0, ""
