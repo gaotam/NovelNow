@@ -8,6 +8,30 @@
         "source": "metruyenchu"
     },
     {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 500,
+        "update_date": "15/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1139,
+        "update_date": "15/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3832,
+        "update_date": "15/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
@@ -56,14 +80,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 499,
-        "update_date": "13/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "song-tu-dao-lu-cua-toi-1695",
         "title": "Song Tu Đạo Lữ Của Tôi",
         "channel_id": 1364782404564291586,
@@ -96,14 +112,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1136,
-        "update_date": "09/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "ta-la-ta-de-8456",
         "title": "Ta Là Tà Đế",
         "channel_id": 1358987253765898381,
@@ -116,14 +124,6 @@
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
         "last_chapter": 370,
-        "update_date": "08/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3831,
         "update_date": "08/05/2025",
         "source": "truyenqqto"
     },
@@ -174,5 +174,13 @@
         "last_chapter": 722,
         "update_date": "31/12/2023",
         "source": "truyenqqto"
+    },
+    {
+        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
+        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+        "channel_id": 1372427575858692198,
+        "last_chapter": 215,
+        "update_date": "4 ngày trước",
+        "source": "goctruyentranhvui"
     }
 ]
