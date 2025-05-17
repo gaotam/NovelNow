@@ -24,6 +24,22 @@
         "source": "metruyenchu"
     },
     {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 424,
+        "update_date": "17/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
+        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+        "channel_id": 1372427575858692198,
+        "last_chapter": 216,
+        "update_date": "17/05/2025",
+        "source": "goctruyentranhvui"
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
@@ -120,14 +136,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 423,
-        "update_date": "11/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "bach-luyen-thanh-than-1099",
         "title": "Bách Luyện Thành Thần",
         "channel_id": 1359020501556531383,
@@ -190,13 +198,5 @@
         "last_chapter": 722,
         "update_date": "31/12/2023",
         "source": "truyenqqto"
-    },
-    {
-        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
-        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
-        "channel_id": 1372427575858692198,
-        "last_chapter": 215,
-        "update_date": "4 ngày trước",
-        "source": "goctruyentranhvui"
     }
 ]
