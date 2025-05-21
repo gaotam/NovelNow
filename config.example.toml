@@ -1,7 +1,11 @@
 [common]
 data_path = "./data.json"
+story_fetch_delay_sec = 2
 
 [discord]
 bot_token = ""
 general_channel_id = 123456
+general_channel_chunk_size = 10
+story_send_delay_sec = 0.1
+general_send_delay_sec = 0.3
 

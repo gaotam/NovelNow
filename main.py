@@ -1,9 +1,10 @@
 from runner import Runner
-from utils.config import Config
+from utils.config import load_config
+
 
 def main():
-    config = Config.from_file("config.toml")
-    runner = Runner(config)
+    load_config("config.toml")
+    runner = Runner()
     runner.run()
 
 if __name__ == "__main__":

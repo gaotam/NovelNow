@@ -1,22 +1,22 @@
 import time
 
-from utils.config import Config
+from utils.config import get_config
 from utils.discord import DiscordClient
 from .story import Story
 from datetime import datetime
 from typing import List, Dict, Any
 from collections import defaultdict
-from utils import load_json_file, write_json_file
+from utils import load_json_file, write_json_file, chunk_by_size
+
 
 class Runner:
-    def __init__(self, config: Config):
-        self.data_path = config['common']['data_path']
-        self.config = config
-        self.discord_client = DiscordClient(config['discord']['bot_token'])
+    def __init__(self):
+        self.data_path = get_config('common.data_path')
+        self.discord_client = DiscordClient(get_config('discord.bot_token'))
         self.stories: List[Story] = []
 
     @staticmethod
-    def sort_by_update_date(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    def sort_by_update_date(data: List[Story]) -> List[Story]:
         """
             Sorts a list of data entries by the 'update_date' field in descending order (newest first).
             Args:
@@ -32,8 +32,13 @@ class Runner:
                 # Return a very old date for items with invalid dates
                 return datetime(1900, 1, 1)
 
-        return sorted(data, key=lambda x: parse_date(x.get('update_date', '')), reverse=True)
-    
+        return sorted(data, key=lambda x: parse_date(x.update_date), reverse=True)
+
+    def fetch_latest_chapters(self):
+        for story in self.stories:
+            story.get_latest_chapter()
+            time.sleep(get_config("common.story_fetch_delay_sec"))
+
     def print_new_chapters_grouped_by_source(self) -> None:
         """
         Prints new chapters grouped by their source.
@@ -75,15 +80,12 @@ class Runner:
         Raises:
             Exception: If there is an issue writing to the JSON file.
         """
-        data = []
-        for story in self.stories:  
-            data.append(story.to_dict())
-
-        write_json_file(self.data_path, Runner.sort_by_update_date(data))
+        data = [story.to_dict() for story in Runner.sort_by_update_date(self.stories)]
+        write_json_file(self.data_path, data)
         print("✅ data.json cập nhật thành công.")
 
 
-    def send_story_channels(self):
+    def send_story_channels(self, new_stories: List[Story]):
         """
         Sends a notification message to the respective Discord channels for stories with new chapters.
 
@@ -93,12 +95,11 @@ class Runner:
         Raises:
             Exception: If there is an issue sending the message to Discord.
         """
-        for story in self.stories:
-            if story.is_new_chapter:
-                self.discord_client.send_message(story.channel_id, story.channel_message())
-                time.sleep(0.3)
+        for story in new_stories:
+            self.discord_client.send_message(story.channel_id, story.channel_message())
+            time.sleep(get_config('discord.story_send_delay_sec'))
 
-    def send_general_channel(self):
+    def send_general_channel(self, new_stories: List[Story]):
         """
         Sends a notification message to the general Discord channel.
 
@@ -109,11 +110,20 @@ class Runner:
         Raises:
             Exception: If there is an issue sending the message to Discord.
         """
-        message = "📢 BẢN TIN CẬP NHẬT CÔNG PHÁP!"
-        for story in self.stories:
-            if story.is_new_chapter:
-                message += f"\n{story.channel_general()}"
-        self.discord_client.send_message(self.config['discord']['general_channel_id'], message)
+        if not new_stories:
+            return
+
+        header = "📢 BẢN TIN CẬP NHẬT CÔNG PHÁP!"
+        channel_id = get_config('discord.general_channel_id')
+
+        sorted_stories = Runner.sort_by_update_date(new_stories)
+        chunk_stories = chunk_by_size(sorted_stories, get_config("discord.general_channel_chunk_size"))
+
+        for i, chunk in enumerate(chunk_stories):
+            lines = [story.channel_general() for story in chunk]
+            message = header + "\n" + "\n".join(lines) if i == 0 else "\n".join(lines)
+            self.discord_client.send_message(channel_id, message)
+            time.sleep(get_config('discord.general_send_delay_sec'))
 
     def confirm_and_send_discord(self):
         """
@@ -127,23 +137,21 @@ class Runner:
         Returns:
             None
         """
-        if not self.config['discord']['bot_token']:
+        if not get_config('discord.bot_token'):
             print("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
-            self.send_general_channel()
-            self.send_story_channels()
+            new_stories = [s for s in self.stories]
+            self.send_general_channel(new_stories)
+            self.send_story_channels(new_stories)
             print("✅ Gửi thành công.")
 
     def run(self):
         print("🚀 Đang khởi động...")
         self.prepare()
-
-        for story in self.stories:
-            story.get_latest_chapter()
-            time.sleep(2)
+        self.fetch_latest_chapters()
 
         # Check if any story has a new chapter
         has_new_chapters = any(story.is_new_chapter for story in self.stories)
@@ -153,5 +161,4 @@ class Runner:
 
         self.print_new_chapters_grouped_by_source()
         self.update_data()
-
         self.confirm_and_send_discord()

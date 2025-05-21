@@ -38,7 +38,12 @@ class DiscordClient:
         """
         url = f"{self.BASE_URL}/channels/{channel_id}/messages"
         resp = self.session.post(url, json={"content": content}, timeout=10)
-        resp.raise_for_status()
+        try:
+            resp.raise_for_status()
+        except requests.exceptions.HTTPError:
+            print(f"[DiscordResponse] Body: {resp.text}")
+            raise
+
         return resp.json()
 
     def close(self) -> None:

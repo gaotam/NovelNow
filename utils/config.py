@@ -5,7 +5,6 @@ from typing import Any, Dict, Iterable, List
 
 PathLike = str | os.PathLike[str]
 
-
 class Config:
     def __init__(self, data: Dict[str, Any]) -> None:
         self._data = data
@@ -57,3 +56,42 @@ class Config:
 
     def __repr__(self) -> str:  # pragma: no cover
         return f"{self.__class__.__name__}({self._data})"
+
+_config: Config | None = None
+
+def load_config(path: PathLike) -> Config:
+    """
+        Load the global configuration from a TOML file.
+
+        This function reads the configuration data from the specified file
+        and initializes the global `_config` variable with a `Config` instance.
+
+        Args:
+            path (PathLike): The path to the TOML configuration file.
+
+        Returns:
+            Config: The loaded `Config` instance.
+    """
+    global _config
+    _config = Config.from_file(path)
+    return _config
+
+def get_config(path: str | None = None, default: Any = None) -> Any:
+    """
+    Get a value from the global config.
+
+    Args:
+        path (str | None): Dot-path string key, e.g., "discord.abc".
+                           If None, return the entire config object.
+        default (Any): Default value if key not found.
+
+    Returns:
+        Any: The requested config value or entire Config object.
+    """
+    if _config is None:
+        raise RuntimeError("Config not loaded. Call `load_config(path)` first.")
+
+    if path is None:
+        return _config
+
+    return _config.get(path, default)
