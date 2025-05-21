@@ -96,7 +96,7 @@ class Runner:
         for story in self.stories:
             if story.is_new_chapter:
                 self.discord_client.send_message(story.channel_id, story.channel_message())
-                time.sleep(0.2)
+                time.sleep(0.3)
 
     def send_general_channel(self):
         """
