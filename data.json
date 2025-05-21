@@ -1,5 +1,13 @@
 [
     {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hoá Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 351,
+        "update_date": "21/05/2025",
+        "source": "goctruyentranhvui"
+    },
+    {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
@@ -48,6 +56,22 @@
         "source": "metruyenchu"
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1811,
+        "update_date": "20/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2382,
+        "update_date": "20/05/2025",
+        "source": "metruyenchu"
+    },
+    {
         "id": "van-co-chi-ton-11261",
         "title": "Vạn Cổ Chí Tôn",
         "channel_id": 1358993391534215350,
@@ -56,28 +80,12 @@
         "source": "truyenqqto"
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1810,
-        "update_date": "19/05/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
         "last_chapter": 425,
         "update_date": "18/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2381,
-        "update_date": "18/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "chuong-mon-khiem-ton-chut-11685",
@@ -134,14 +142,6 @@
         "last_chapter": 639,
         "update_date": "15/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hoá Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 350,
-        "update_date": "14/05/2025",
-        "source": "goctruyentranhvui"
     },
     {
         "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
