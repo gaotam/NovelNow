@@ -143,7 +143,7 @@ class Runner:
 
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
-            new_stories = [s for s in self.stories]
+            new_stories = [s for s in self.stories if s.is_new_chapter]
             self.send_general_channel(new_stories)
             self.send_story_channels(new_stories)
             print("✅ Gửi thành công.")
