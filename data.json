@@ -19,7 +19,7 @@
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
-        "last_chapter": 1144,
+        "last_chapter": 1145,
         "update_date": "22/05/2025",
         "source": "truyenqqto"
     },
@@ -48,20 +48,44 @@
         "source": "truyenqqto"
     },
     {
+        "id": "106542",
+        "title": "Xích Tâm Tuần Thiên",
+        "channel_id": 1359014633616441474,
+        "last_chapter": 195,
+        "update_date": "22/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
+        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
+        "channel_id": 1374646460494381158,
+        "last_chapter": 296,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 548,
+        "update_date": "22/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3833,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "hoa-than-thanh-meo",
         "title": "Hoá Thân Thành Mèo",
         "channel_id": 1364846977887768626,
         "last_chapter": 351,
         "update_date": "21/05/2025",
         "source": "goctruyentranhvui"
-    },
-    {
-        "id": "106542",
-        "title": "Xích Tâm Tuần Thiên",
-        "channel_id": 1359014633616441474,
-        "last_chapter": 194,
-        "update_date": "21/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "nhan-dao-dai-thanh-12631",
@@ -176,14 +200,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
-        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
-        "channel_id": 1374646460494381158,
-        "last_chapter": 295,
-        "update_date": "20/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "luc-do-toi-da-chuyen-sinh-thanh-slime-1475",
         "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
         "channel_id": 1374613564291285063,
@@ -206,14 +222,6 @@
         "last_chapter": 501,
         "update_date": "20/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 547,
-        "update_date": "20/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "cam-kiem-tuyet-doi-12431",
@@ -424,6 +432,14 @@
         "source": "goctruyentranhvui"
     },
     {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1375047499865264159,
+        "last_chapter": 300,
+        "update_date": "17/05/2025",
+        "source": "nettruyen"
+    },
+    {
         "id": "tinh-vo-than-quyet-1893",
         "title": "Tinh Võ Thần Quyết",
         "channel_id": 1374609968417734666,
@@ -460,14 +476,6 @@
         "title": "100 Điều Muốn Làm Trước Khi Chết",
         "channel_id": 1374610755818754128,
         "last_chapter": 71,
-        "update_date": "15/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3832,
         "update_date": "15/05/2025",
         "source": "truyenqqto"
     },
@@ -750,13 +758,5 @@
         "last_chapter": 103,
         "update_date": "13/05/2022",
         "source": "truyenqqto"
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1375047499865264159,
-        "last_chapter": 0,
-        "update_date": "",
-        "source": "nettruyen"
     }
 ]
