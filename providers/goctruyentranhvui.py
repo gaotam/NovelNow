@@ -28,17 +28,13 @@ class GocTruyenTranhVuiProvider(BaseProvider):
                     - int: The latest chapter number.
                     - str: The release date of the latest chapter in string format.
         """
-        try:
-            url = f"{ENDPOINTS[ProviderName.GOCTRUYENTRANHVUI]}/{self.id}"
-            headers = {
-                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-            }
-            res = requests.get(url, headers=headers)
-            res.raise_for_status()
-            return res.text
-        except requests.RequestException as e:
-            print(f"Error fetching HTML: {e}")
-            return None
+
+        url = f"{ENDPOINTS[ProviderName.GOCTRUYENTRANHVUI]}/{self.id}"
+        headers = {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        }
+        res = super().request_get(url, headers=headers)
+        return res.text if res else None
 
     def get_latest_chapter(self) -> tuple[int, str]:
         """

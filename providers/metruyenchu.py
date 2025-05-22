@@ -22,13 +22,8 @@ class MeChuyenChuProvider(BaseProvider):
             "filter[type]": "published"
         }
 
-        try:
-            res = requests.get(ENDPOINTS[ProviderName.METRUYENCHU], params=params)
-            res.raise_for_status()
-            return res.json()
-        except requests.RequestException as e:
-            print(f"Error fetching HTML: {e}")
-            return None
+        res = super().request_get(ENDPOINTS[ProviderName.METRUYENCHU], params=params)
+        return res.json() if res else None
 
     def get_latest_chapter(self) -> tuple[int, str]:
         latest_chapter_info = self.fetch_api()['data'][-1]

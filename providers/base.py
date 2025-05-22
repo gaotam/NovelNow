@@ -1,3 +1,5 @@
+import requests
+from typing import Optional
 from bs4 import BeautifulSoup
 from abc import ABC, abstractmethod
 
@@ -18,6 +20,29 @@ class BaseProvider(ABC):
         """
         soup = BeautifulSoup(html_content, "html.parser")
         return soup
+
+    @staticmethod
+    def request_get(url: str, **kwargs) -> Optional[requests.Response]:
+        """
+            Sends a GET request to the specified URL.
+
+            Args:
+                url (str): The URL to send the GET request to.
+                **kwargs: Additional keyword arguments to be passed to the requests.get() method.
+
+            Returns:
+                Optional[requests.Response]: The response object if the request is successful, None otherwise.
+
+            This method handles exceptions that may occur during the GET request and
+            prints an error message if the request fails.
+        """
+        try:
+            res = requests.get(url, **kwargs)
+            res.raise_for_status()
+            return res
+        except requests.RequestException as e:
+            print(f"[Error] GET {url} failed: {e}")
+            return None
 
     @abstractmethod
     def __init__(self, id: str, last_chapter: int = 0):
