@@ -1,5 +1,37 @@
 [
     {
+        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
+        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
+        "channel_id": 1374619906187853955,
+        "last_chapter": 562,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "bat-bai-chan-ma-8003",
+        "title": "Bất bại chân ma",
+        "channel_id": 1373490819750826065,
+        "last_chapter": 250,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1144,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
+        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
+        "channel_id": 1374645008161837117,
+        "last_chapter": 114,
+        "update_date": "22/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "hoa-than-thanh-meo",
         "title": "Hoá Thân Thành Mèo",
         "channel_id": 1364846977887768626,
@@ -56,20 +88,28 @@
         "source": "truyenqqto"
     },
     {
-        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
-        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
-        "channel_id": 1374619906187853955,
-        "last_chapter": 561,
-        "update_date": "21/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "chuong-mon-khiem-ton-chut-11685",
         "title": "Chưởng Môn Khiêm Tốn Chút",
         "channel_id": 1358986879126736936,
         "last_chapter": 504,
         "update_date": "21/05/2025",
         "source": "truyenqqto"
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1812,
+        "update_date": "21/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2383,
+        "update_date": "21/05/2025",
+        "source": "metruyenchu"
     },
     {
         "id": "121068",
@@ -164,22 +204,6 @@
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
         "last_chapter": 547,
-        "update_date": "20/05/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1811,
-        "update_date": "20/05/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2382,
         "update_date": "20/05/2025",
         "source": "metruyenchu"
     },
@@ -304,14 +328,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "bat-bai-chan-ma-8003",
-        "title": "Bất bại chân ma",
-        "channel_id": 1373490819750826065,
-        "last_chapter": 249,
-        "update_date": "18/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -416,14 +432,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1139,
-        "update_date": "15/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "vo-luyen-dinh-phong-3926",
         "title": "Võ Luyện Đỉnh Phong",
         "channel_id": 1358998124571525130,
@@ -452,14 +460,6 @@
         "title": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
         "channel_id": 1374645255680294943,
         "last_chapter": 176,
-        "update_date": "14/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
-        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
-        "channel_id": 1374645008161837117,
-        "last_chapter": 113,
         "update_date": "14/05/2025",
         "source": "truyenqqto"
     },
