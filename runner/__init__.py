@@ -57,6 +57,7 @@ class Runner:
             print(f"\n🌟 Source: {source}")
             for story in story_list:
                 story.display()
+            print("\n")
 
     def prepare(self):
         """

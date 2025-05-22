@@ -1,5 +1,6 @@
 import re
 from datetime import date, timedelta, datetime
+from dateutil.relativedelta import relativedelta
 
 def iso_to_ddmmyyyy(iso_date: str) -> str:
     """
@@ -34,12 +35,17 @@ def format_date_chapter(raw_date_str: str) -> str:
         """
     raw_date_str = raw_date_str.lower().strip()
 
-    if re.match(r"\d+\s+giờ\s+trước", raw_date_str):
+    if re.match(r"\d+\s+(phút|giờ)\s+trước", raw_date_str):
         return date.today().strftime("%d/%m/%Y")
 
     match_day = re.match(r"(\d+)\s+ngày\s+trước", raw_date_str)
     if match_day:
         days_ago = int(match_day.group(1))
         return (date.today() - timedelta(days=days_ago)).strftime("%d/%m/%Y")
+
+    match_months = re.match(r"(\d+)\s+tháng\s+trước", raw_date_str)
+    if match_months:
+        months_ago = int(match_months.group(1))
+        return (date.today() - relativedelta(months=months_ago)).strftime("%d/%m/%Y")
 
     return raw_date_str.replace('-', '/')
