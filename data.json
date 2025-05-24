@@ -1,5 +1,21 @@
 [
     {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 302,
+        "update_date": "24/05/2025",
+        "source": "nettruyen"
+    },
+    {
+        "id": "nen-van-minh-nebula-15204",
+        "title": "Nền Văn Minh Nebula",
+        "channel_id": 1374646772709855284,
+        "last_chapter": 91,
+        "update_date": "24/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "139812",
         "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
         "channel_id": 1361193789661909082,
@@ -19,7 +35,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1813,
+        "last_chapter": 1814,
         "update_date": "23/05/2025",
         "source": "metruyenchu"
     },
@@ -46,14 +62,6 @@
         "last_chapter": 376,
         "update_date": "23/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 301,
-        "update_date": "23/05/2025",
-        "source": "nettruyen"
     },
     {
         "id": "ong-vo-gia-va-chau-chi-ton-14852",
@@ -120,6 +128,14 @@
         "source": "truyenqqto"
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2385,
+        "update_date": "23/05/2025",
+        "source": "metruyenchu"
+    },
+    {
         "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
         "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
         "channel_id": 1374619906187853955,
@@ -182,14 +198,6 @@
         "last_chapter": 3833,
         "update_date": "22/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2384,
-        "update_date": "22/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "hoa-than-thanh-meo",
@@ -429,14 +437,6 @@
         "channel_id": 1358999157544845486,
         "last_chapter": 997,
         "update_date": "18/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "nen-van-minh-nebula-15204",
-        "title": "Nền Văn Minh Nebula",
-        "channel_id": 1374646772709855284,
-        "last_chapter": 90,
-        "update_date": "17/05/2025",
         "source": "truyenqqto"
     },
     {
