@@ -67,3 +67,15 @@ class GocTruyenTranhVuiProvider(BaseProvider):
         if latest_chapter == self.last_chapter:
             return 0, ""
         return latest_chapter, date_chapter
+
+    def get_link_chapter(self, chapter: int) -> str:
+        """
+        Constructs the URL for a specific chapter of the comic.
+
+        Args:
+            chapter (int): The chapter number for which the URL is to be constructed.
+
+        Returns:
+            str: The URL for the specified chapter.
+        """
+        return f"{ENDPOINTS[ProviderName.GOCTRUYENTRANHVUI]}/{self.id}/chuong-{chapter}"

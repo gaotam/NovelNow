@@ -70,3 +70,19 @@ class BaseProvider(ABC):
                     - str: The release date of the latest chapter in string format.
         """
         pass
+
+    @abstractmethod
+    def get_link_chapter(self, chapter: int) -> str:
+        """
+            Abstract method to retrieve the link to a specific chapter.
+
+            This method must be implemented by subclasses of `BaseProvider`.
+            It is expected to return the URL for the specified chapter.
+
+            Args:
+                chapter (int): The chapter number for which the link is requested.
+
+            Returns:
+                str: The URL for the specified chapter.
+        """
+        pass
