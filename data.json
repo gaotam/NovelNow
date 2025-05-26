@@ -1,5 +1,13 @@
 [
     {
+        "id": "the-thao-cuc-han-2641",
+        "title": "Thể Thao Cực Hạn",
+        "channel_id": 1374603526201937960,
+        "last_chapter": 551,
+        "update_date": "26/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
         "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
         "channel_id": 1372427575858692198,
@@ -152,6 +160,22 @@
         "source": "truyenqqto"
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1816,
+        "update_date": "25/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2387,
+        "update_date": "25/05/2025",
+        "source": "metruyenchu"
+    },
+    {
         "id": "chang-re-manh-nhat-lich-su",
         "title": "Chàng Rể Mạnh Nhất Lịch Sử",
         "channel_id": 1374647250117988423,
@@ -166,14 +190,6 @@
         "last_chapter": 91,
         "update_date": "24/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1815,
-        "update_date": "24/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
@@ -206,14 +222,6 @@
         "last_chapter": 37,
         "update_date": "24/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2386,
-        "update_date": "24/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "ong-vo-gia-va-chau-chi-ton-14852",
@@ -436,14 +444,6 @@
         "title": "Góc Cao Khung Thành",
         "channel_id": 1374602431878660116,
         "last_chapter": 176,
-        "update_date": "19/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "the-thao-cuc-han-2641",
-        "title": "Thể Thao Cực Hạn",
-        "channel_id": 1374603526201937960,
-        "last_chapter": 550,
         "update_date": "19/05/2025",
         "source": "truyenqqto"
     },
