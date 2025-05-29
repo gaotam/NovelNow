@@ -1,12 +1,13 @@
 import time
+from collections import defaultdict
+from datetime import datetime
+from typing import List, Dict
 
+from utils import load_json_file, write_json_file, chunk_by_size
 from utils.config import get_config
+from utils.datetime import get_time_now_format
 from utils.discord import DiscordClient
 from .story import Story
-from datetime import datetime
-from typing import List, Dict, Any
-from collections import defaultdict
-from utils import load_json_file, write_json_file, chunk_by_size
 
 
 class Runner:
@@ -25,6 +26,7 @@ class Runner:
             Returns:
                 List[Dict[str, Any]]: The sorted list of dictionaries, ordered by 'update_date' from newest to oldest.
         """
+
         def parse_date(date_str: str):
             try:
                 return datetime.strptime(date_str, "%d/%m/%Y")
@@ -85,7 +87,6 @@ class Runner:
         write_json_file(self.data_path, data)
         print("✅ data.json cập nhật thành công.")
 
-
     def send_story_channels(self, new_stories: List[Story]):
         """
         Sends a notification message to the respective Discord channels for stories with new chapters.
@@ -114,7 +115,8 @@ class Runner:
         if not new_stories:
             return
 
-        header = "📢 BẢN TIN CẬP NHẬT CÔNG PHÁP!"
+        header = f"📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! {get_time_now_format()}"
+
         channel_id = get_config('discord.general_channel_id')
 
         sorted_stories = Runner.sort_by_update_date(new_stories)
@@ -142,12 +144,17 @@ class Runner:
             print("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
-        choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
-        if choice == 'y':
-            new_stories = [s for s in self.stories if s.is_new_chapter]
-            self.send_general_channel(new_stories)
-            self.send_story_channels(new_stories)
-            print("✅ Gửi thành công.")
+        print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
+        # choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
+        # if choice == 'y':
+        #     new_stories = [s for s in self.stories if s.is_new_chapter]
+        #     self.send_general_channel(new_stories)
+        #     # self.send_story_channels(new_stories)
+        #     print("✅ Gửi thành công.")
+        new_stories = [s for s in self.stories if s.is_new_chapter]
+        self.send_general_channel(new_stories)
+        self.send_story_channels(new_stories)
+        print("✅ Gửi thành công.")
 
     def run(self):
         print("🚀 Đang khởi động...")

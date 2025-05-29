@@ -65,7 +65,8 @@ class Story:
             self.last_chapter = latest_chapter
             self.update_date = date_chapter
             self.is_new_chapter = True
-            self.display()
+            # update: 29/05/2025: not display story new chapter, only display story new chap group by source
+            # self.display()
 
     def channel_message(self):
         """

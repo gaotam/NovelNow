@@ -49,3 +49,8 @@ def format_date_chapter(raw_date_str: str) -> str:
         return (date.today() - relativedelta(months=months_ago)).strftime("%d/%m/%Y")
 
     return raw_date_str.replace('-', '/')
+
+
+def get_time_now_format() -> str:
+    now = datetime.now()
+    return now.strftime("%H:%M - %d/%m/%Y")
