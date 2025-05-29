@@ -144,17 +144,17 @@ class Runner:
             print("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
-        print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
-        # choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
-        # if choice == 'y':
-        #     new_stories = [s for s in self.stories if s.is_new_chapter]
-        #     self.send_general_channel(new_stories)
-        #     # self.send_story_channels(new_stories)
-        #     print("✅ Gửi thành công.")
-        new_stories = [s for s in self.stories if s.is_new_chapter]
-        self.send_general_channel(new_stories)
-        self.send_story_channels(new_stories)
-        print("✅ Gửi thành công.")
+        # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
+        choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
+        if choice == 'y':
+            new_stories = [s for s in self.stories if s.is_new_chapter]
+            self.send_general_channel(new_stories)
+            # self.send_story_channels(new_stories)
+            print("✅ Gửi thành công.")
+        # new_stories = [s for s in self.stories if s.is_new_chapter]
+        # self.send_general_channel(new_stories)
+        # self.send_story_channels(new_stories)
+        # print("✅ Gửi thành công.")
 
     def run(self):
         print("🚀 Đang khởi động...")
