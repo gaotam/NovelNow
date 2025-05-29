@@ -1,5 +1,21 @@
 [
     {
+        "id": "bach-luyen-thanh-than-1099",
+        "title": "Bách Luyện Thành Thần",
+        "channel_id": 1359020501556531383,
+        "last_chapter": 1293,
+        "update_date": "29/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ong-vo-gia-va-chau-chi-ton-14852",
+        "title": "Ông Võ Giả Và Cháu Chí Tôn",
+        "channel_id": 1375006678021439488,
+        "last_chapter": 95,
+        "update_date": "29/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
@@ -128,6 +144,30 @@
         "source": "truyenqqto"
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1819,
+        "update_date": "28/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 554,
+        "update_date": "28/05/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2390,
+        "update_date": "28/05/2025",
+        "source": "metruyenchu"
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -150,22 +190,6 @@
         "last_chapter": 1000,
         "update_date": "27/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "bach-luyen-thanh-than-1099",
-        "title": "Bách Luyện Thành Thần",
-        "channel_id": 1359020501556531383,
-        "last_chapter": 1292,
-        "update_date": "27/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1818,
-        "update_date": "27/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
@@ -222,22 +246,6 @@
         "last_chapter": 860,
         "update_date": "27/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 553,
-        "update_date": "27/05/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2389,
-        "update_date": "27/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "the-thao-cuc-han-2641",
@@ -381,14 +389,6 @@
         "channel_id": 1374608833644728390,
         "last_chapter": 37,
         "update_date": "24/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "ong-vo-gia-va-chau-chi-ton-14852",
-        "title": "Ông Võ Giả Và Cháu Chí Tôn",
-        "channel_id": 1375006678021439488,
-        "last_chapter": 94,
-        "update_date": "23/05/2025",
         "source": "truyenqqto"
     },
     {
