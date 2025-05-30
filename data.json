@@ -1,5 +1,45 @@
 [
     {
+        "id": "goc-cao-khung-thanh-15222",
+        "title": "Góc Cao Khung Thành",
+        "channel_id": 1374602431878660116,
+        "last_chapter": 182,
+        "update_date": "30/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dai-phung-da-canh-nhan-12047",
+        "title": "Đại Phụng Đả Canh Nhân",
+        "channel_id": 1374646108315451432,
+        "last_chapter": 527,
+        "update_date": "30/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 379,
+        "update_date": "30/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 303,
+        "update_date": "30/05/2025",
+        "source": "nettruyen"
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 557,
+        "update_date": "30/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "bach-luyen-thanh-than-1099",
         "title": "Bách Luyện Thành Thần",
         "channel_id": 1359020501556531383,
@@ -88,22 +128,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "goc-cao-khung-thanh-15222",
-        "title": "Góc Cao Khung Thành",
-        "channel_id": 1374602431878660116,
-        "last_chapter": 179,
-        "update_date": "29/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-phung-da-canh-nhan-12047",
-        "title": "Đại Phụng Đả Canh Nhân",
-        "channel_id": 1374646108315451432,
-        "last_chapter": 525,
-        "update_date": "29/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "shuumatsu-no-valkyrie-6399",
         "title": "Thế giới game thủ",
         "channel_id": 1374614794736373880,
@@ -118,6 +142,14 @@
         "last_chapter": 184,
         "update_date": "29/05/2025",
         "source": "truyenqqto"
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1820,
+        "update_date": "29/05/2025",
+        "source": "metruyenchu"
     },
     {
         "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
@@ -222,14 +254,6 @@
         "last_chapter": 378,
         "update_date": "28/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1819,
-        "update_date": "28/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "123707",
@@ -384,14 +408,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 378,
-        "update_date": "25/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
         "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
         "channel_id": 1374603769991401492,
@@ -438,14 +454,6 @@
         "last_chapter": 239,
         "update_date": "25/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 302,
-        "update_date": "24/05/2025",
-        "source": "nettruyen"
     },
     {
         "id": "tham-hoa-tu-linh-su-14421",
@@ -524,14 +532,6 @@
         "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
         "channel_id": 1374608403543887943,
         "last_chapter": 228,
-        "update_date": "23/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 556,
         "update_date": "23/05/2025",
         "source": "truyenqqto"
     },
