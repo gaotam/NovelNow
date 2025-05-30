@@ -14,6 +14,7 @@ class MeChuyenChuProvider(BaseProvider):
                 last_chapter (int, optional): The last chapter number. Defaults to 0.
         """
         self.novel_link = ""
+        self.latest_chapter = 0
         super().__init__(id, last_chapter)
 
     def fetch_api(self) -> Optional[dict]:
@@ -28,6 +29,7 @@ class MeChuyenChuProvider(BaseProvider):
     def get_latest_chapter(self) -> tuple[int, str]:
         res = self.fetch_api()
         self.novel_link = res['extra']['book']['link']
+        self.latest_chapter = res['extra']['book']['latest_index']
         latest_chapter_info = res['data'][-1]
         latest_chapter = extract_chapter_number(latest_chapter_info['name'])
         date_chapter = iso_to_ddmmyyyy(latest_chapter_info['published_at'])
@@ -46,4 +48,4 @@ class MeChuyenChuProvider(BaseProvider):
         Returns:
             str: The URL for the specified chapter.
         """
-        return f"{self.novel_link}/chuong-{chapter}"
+        return f"{self.novel_link}/chuong-{self.latest_chapter}"

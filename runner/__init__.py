@@ -115,7 +115,7 @@ class Runner:
         if not new_stories:
             return
 
-        header = f"📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! {get_time_now_format()}"
+        header = f"📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]"
 
         channel_id = get_config('discord.general_channel_id')
 
@@ -149,12 +149,8 @@ class Runner:
         if choice == 'y':
             new_stories = [s for s in self.stories if s.is_new_chapter]
             self.send_general_channel(new_stories)
-            # self.send_story_channels(new_stories)
+            self.send_story_channels(new_stories)
             print("✅ Gửi thành công.")
-        # new_stories = [s for s in self.stories if s.is_new_chapter]
-        # self.send_general_channel(new_stories)
-        # self.send_story_channels(new_stories)
-        # print("✅ Gửi thành công.")
 
     def run(self):
         print("🚀 Đang khởi động...")

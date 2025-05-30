@@ -52,5 +52,14 @@ def format_date_chapter(raw_date_str: str) -> str:
 
 
 def get_time_now_format() -> str:
+    """
+    Gets the current time and date in a specific format.
+
+    This function retrieves the current system time and formats it as
+    'HH:MM - dd/mm/yyyy'.
+
+    Returns:
+        str: The formatted current time and date.
+    """
     now = datetime.now()
     return now.strftime("%H:%M - %d/%m/%Y")
