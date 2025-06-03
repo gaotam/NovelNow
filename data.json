@@ -1,5 +1,21 @@
 [
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1824,
+        "update_date": "03/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "channel_id": 1374603769991401492,
+        "last_chapter": 803,
+        "update_date": "03/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "goc-cao-khung-thanh-15222",
         "title": "Góc Cao Khung Thành",
         "channel_id": 1374602431878660116,
@@ -96,6 +112,30 @@
         "source": "truyenqqto"
     },
     {
+        "id": "106542",
+        "title": "Xích Tâm Tuần Thiên",
+        "channel_id": 1359014633616441474,
+        "last_chapter": 206,
+        "update_date": "02/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2393,
+        "update_date": "02/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
+        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
+        "channel_id": 1374646460494381158,
+        "last_chapter": 300,
+        "update_date": "02/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
         "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
         "channel_id": 1374605940166365294,
@@ -118,14 +158,6 @@
         "last_chapter": 381,
         "update_date": "01/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106542",
-        "title": "Xích Tâm Tuần Thiên",
-        "channel_id": 1359014633616441474,
-        "last_chapter": 205,
-        "update_date": "01/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "dai-quan-gia-la-ma-hoang-7015",
@@ -176,28 +208,12 @@
         "source": "truyenqqto"
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1823,
-        "update_date": "01/06/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "bac-thay-thiet-ke-dien-trang-11846",
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
         "last_chapter": 189,
         "update_date": "31/05/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2392,
-        "update_date": "31/05/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "chang-re-manh-nhat-lich-su",
@@ -276,14 +292,6 @@
         "title": "Hoán Đổi Diệu Kỳ",
         "channel_id": 1374610277609246813,
         "last_chapter": 557,
-        "update_date": "30/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
-        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-        "channel_id": 1374603769991401492,
-        "last_chapter": 802,
         "update_date": "30/05/2025",
         "source": "truyenqqto"
     },
@@ -372,14 +380,6 @@
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
         "last_chapter": 1149,
-        "update_date": "29/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
-        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
-        "channel_id": 1374646460494381158,
-        "last_chapter": 299,
         "update_date": "29/05/2025",
         "source": "truyenqqto"
     },
