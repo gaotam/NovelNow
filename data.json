@@ -27,9 +27,65 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1824,
-        "update_date": "03/06/2025",
+        "last_chapter": 1825,
+        "update_date": "04/06/2025",
         "source": "metruyenchu"
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 485,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 379,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 530,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "toan-tri-doc-gia-9702",
+        "title": "Toàn Trí Độc Giả",
+        "channel_id": 1377467480120754248,
+        "last_chapter": 265,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 121,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 503,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 65,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
     },
     {
         "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
@@ -88,14 +144,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 483,
-        "update_date": "03/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "139812",
         "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
         "channel_id": 1361193789661909082,
@@ -108,14 +156,6 @@
         "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
         "channel_id": 1374645723500380330,
         "last_chapter": 125,
-        "update_date": "03/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 378,
         "update_date": "03/06/2025",
         "source": "truyenqqto"
     },
@@ -292,14 +332,6 @@
         "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
         "channel_id": 1374605650449137684,
         "last_chapter": 224,
-        "update_date": "01/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 525,
         "update_date": "01/06/2025",
         "source": "truyenqqto"
     },
@@ -536,30 +568,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "toan-tri-doc-gia-9702",
-        "title": "Toàn Trí Độc Giả",
-        "channel_id": 1377467480120754248,
-        "last_chapter": 264,
-        "update_date": "28/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 120,
-        "update_date": "28/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 502,
-        "update_date": "27/05/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -589,14 +597,6 @@
         "channel_id": 1375006332611985460,
         "last_chapter": 76,
         "update_date": "27/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 64,
-        "update_date": "25/05/2025",
         "source": "truyenqqto"
     },
     {

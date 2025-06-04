@@ -85,7 +85,7 @@ class Runner:
         """
         data = [story.to_dict() for story in Runner.sort_by_update_date(self.stories)]
         write_json_file(self.data_path, data)
-        print("✅ data.json cập nhật thành công.")
+        print(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
 
     def send_story_channels(self, new_stories: List[Story]):
         """
@@ -115,7 +115,7 @@ class Runner:
         if not new_stories:
             return
 
-        header = f"📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]"
+        header = f"**📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]**"
 
         channel_id = get_config('discord.general_channel_id')
 
@@ -153,14 +153,14 @@ class Runner:
             print("✅ Gửi thành công.")
 
     def run(self):
-        print("🚀 Đang khởi động...")
+        print(f"🚀 Đang khởi động...[{get_time_now_format()}]")
         self.prepare()
         self.fetch_latest_chapters()
 
         # Check if any story has a new chapter
         has_new_chapters = any(story.is_new_chapter for story in self.stories)
         if not has_new_chapters:
-            print("🚫 Không có chương mới.")
+            print(f"🚫 Không có chương mới.[{get_time_now_format()}]")
             return
 
         self.print_new_chapters_grouped_by_source()
