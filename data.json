@@ -8,10 +8,34 @@
         "source": "goctruyentranhvui"
     },
     {
+        "id": "muc-long-su-11320",
+        "title": "Mục Long Sư",
+        "channel_id": 1379998400619090023,
+        "last_chapter": 464,
+        "update_date": "05/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 225,
+        "update_date": "05/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
         "last_chapter": 58,
+        "update_date": "04/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 281,
         "update_date": "04/06/2025",
         "source": "truyenqqto"
     },
@@ -35,7 +59,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1825,
+        "last_chapter": 1826,
         "update_date": "04/06/2025",
         "source": "metruyenchu"
     },
@@ -136,6 +160,30 @@
         "source": "truyenqqto"
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2395,
+        "update_date": "04/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
+        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
+        "channel_id": 1380004424629620826,
+        "last_chapter": 220,
+        "update_date": "03/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 397,
+        "update_date": "03/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
         "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
         "channel_id": 1374603769991401492,
@@ -200,12 +248,12 @@
         "source": "truyenqqto"
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2394,
-        "update_date": "03/06/2025",
-        "source": "metruyenchu"
+        "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
+        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
+        "channel_id": 1380001406848733214,
+        "last_chapter": 103,
+        "update_date": "02/06/2025",
+        "source": "truyenqqto"
     },
     {
         "id": "goc-cao-khung-thanh-15222",
@@ -312,6 +360,30 @@
         "source": "truyenqqto"
     },
     {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 210,
+        "update_date": "01/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "vo-dang-ky-hiep-10673",
+        "title": "Võ Đang Kỳ Hiệp",
+        "channel_id": 1380001854980624425,
+        "last_chapter": 151,
+        "update_date": "01/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 121,
+        "update_date": "01/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
         "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
         "channel_id": 1374605940166365294,
@@ -360,11 +432,19 @@
         "source": "truyenqqto"
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 224,
-        "update_date": "01/06/2025",
+        "id": "di-len-tu-day-xa-hoi-17462",
+        "title": "Đi Lên Từ Đáy Xã Hội",
+        "channel_id": 1380003140585132092,
+        "last_chapter": 26,
+        "update_date": "31/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "lam-sao-de-chay-tron-dan-hau-cung-12242",
+        "title": "Làm Sao Để Chạy Trốn Dàn Hậu Cung",
+        "channel_id": 1380002483530764298,
+        "last_chapter": 176,
+        "update_date": "31/05/2025",
         "source": "truyenqqto"
     },
     {
@@ -600,6 +680,22 @@
         "source": "truyenqqto"
     },
     {
+        "id": "suc-manh-cua-ac-than-11700",
+        "title": "Sức Mạnh Của Ác Thần",
+        "channel_id": 1380004126313943100,
+        "last_chapter": 162,
+        "update_date": "26/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
+        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
+        "channel_id": 1380004618020454473,
+        "last_chapter": 79,
+        "update_date": "26/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "studio-tuy-hung-cua-nghe-si-thien-tai-16193",
         "title": "Studio Tùy Hứng Của Nghệ Sĩ Thiên Tài",
         "channel_id": 1374602175304564829,
@@ -621,6 +717,14 @@
         "channel_id": 1375004863217274881,
         "last_chapter": 138,
         "update_date": "23/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ke-bat-binh-thuong-o-di-gioi-4564",
+        "title": "Kẻ Bất Bình Thường Ở Dị Giới",
+        "channel_id": 1380004856059662366,
+        "last_chapter": 70,
+        "update_date": "22/05/2025",
         "source": "truyenqqto"
     },
     {
@@ -664,6 +768,22 @@
         "source": "truyenqqto"
     },
     {
+        "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
+        "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
+        "channel_id": 1380005184993886318,
+        "last_chapter": 267,
+        "update_date": "19/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
+        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
+        "channel_id": 1380005456755425300,
+        "last_chapter": 343,
+        "update_date": "18/05/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "mot-ngay-cua-toi-co-48-gio-12620",
         "title": "Một Ngày Của Tôi Có 48 Giờ",
         "channel_id": 1374606548785172551,
@@ -693,6 +813,30 @@
         "channel_id": 1358987253765898381,
         "last_chapter": 570,
         "update_date": "09/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "thap-dai-de-hoang-deu-la-de-tu-cua-ta-14009",
+        "title": "Thập Đại Đế Hoàng Đều Là Đệ Tử Của Ta",
+        "channel_id": 1380005687521837087,
+        "last_chapter": 418,
+        "update_date": "06/05/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 210,
+        "update_date": "27/04/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "la-healer-nhung-lai-co-mat-tren-chien-truong-7248",
+        "title": "Là Healer Nhưng Lại Có Mặt Trên Chiến Trường",
+        "channel_id": 1380006513787015240,
+        "last_chapter": 77,
+        "update_date": "27/04/2025",
         "source": "truyenqqto"
     },
     {
@@ -736,6 +880,14 @@
         "source": "truyenqqto"
     },
     {
+        "id": "sayonara-ryuusei-konnichiwa-jinsei-2288",
+        "title": "Sayonara Ryuusei, Konnichiwa Jinsei",
+        "channel_id": 1380007139610853458,
+        "last_chapter": 95,
+        "update_date": "15/04/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
         "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
         "channel_id": 1374620877773213716,
@@ -744,11 +896,27 @@
         "source": "truyenqqto"
     },
     {
+        "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
+        "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
+        "channel_id": 1380007350437543937,
+        "last_chapter": 301,
+        "update_date": "14/04/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "luoc-thien-ky-12433",
         "title": "Lược thiên ký",
         "channel_id": 1374618463531827271,
         "last_chapter": 95,
         "update_date": "12/04/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "tu-la-vo-than-10516",
+        "title": "Tu La Võ Thần",
+        "channel_id": 1380008696138170419,
+        "last_chapter": 800,
+        "update_date": "08/04/2025",
         "source": "truyenqqto"
     },
     {
@@ -797,6 +965,30 @@
         "channel_id": 1374624181324353607,
         "last_chapter": 157,
         "update_date": "05/03/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "yancha-gal-no-anjou-san-series-6492",
+        "title": "Yancha Gal No Anjou-San Series",
+        "channel_id": 1380009000988315701,
+        "last_chapter": 171,
+        "update_date": "12/02/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chuyen-sinh-ma-phap-dac-biet-yeu-6125",
+        "title": "Chuyển Sinh Ma Pháp Đặc Biệt Yếu",
+        "channel_id": 1380000095927402586,
+        "last_chapter": 269,
+        "update_date": "03/01/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "van-toc-chi-kiep-11198",
+        "title": "Vạn Tộc Chi Kiếp",
+        "channel_id": 1380010030446940280,
+        "last_chapter": 582,
+        "update_date": "18/11/2024",
         "source": "truyenqqto"
     },
     {
