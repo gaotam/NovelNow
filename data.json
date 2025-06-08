@@ -3,9 +3,17 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1828,
-        "update_date": "07/06/2025",
+        "last_chapter": 1829,
+        "update_date": "08/06/2025",
         "source": "metruyenchu"
+    },
+    {
+        "id": "vo-dang-ky-hiep-10673",
+        "title": "Võ Đang Kỳ Hiệp",
+        "channel_id": 1380001854980624425,
+        "last_chapter": 152,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
     },
     {
         "id": "nhat-nhan-chi-ha-1943",
@@ -140,6 +148,38 @@
         "title": "Toàn Cầu Cao Võ",
         "channel_id": 1374608088694390814,
         "last_chapter": 315,
+        "update_date": "07/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 563,
+        "update_date": "07/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2398,
+        "update_date": "07/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "139812",
+        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
+        "channel_id": 1361193789661909082,
+        "last_chapter": 322,
+        "update_date": "07/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
+        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
+        "channel_id": 1374605940166365294,
+        "last_chapter": 241,
         "update_date": "07/06/2025",
         "source": "truyenqqto"
     },
@@ -304,22 +344,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 562,
-        "update_date": "06/06/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2397,
-        "update_date": "06/06/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "nano-ma-than",
         "title": "Nano Ma Thần",
         "channel_id": 1377467226185142293,
@@ -358,14 +382,6 @@
         "last_chapter": 566,
         "update_date": "05/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "139812",
-        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
-        "channel_id": 1361193789661909082,
-        "last_chapter": 320,
-        "update_date": "05/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "106542",
@@ -672,26 +688,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "vo-dang-ky-hiep-10673",
-        "title": "Võ Đang Kỳ Hiệp",
-        "channel_id": 1380001854980624425,
-        "last_chapter": 151,
-        "update_date": "01/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
         "last_chapter": 121,
-        "update_date": "01/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
-        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
-        "channel_id": 1374605940166365294,
-        "last_chapter": 240,
         "update_date": "01/06/2025",
         "source": "truyenqqto"
     },
