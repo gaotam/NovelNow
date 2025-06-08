@@ -19,8 +19,72 @@
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
-        "last_chapter": 545,
-        "update_date": "07/06/2025",
+        "last_chapter": 546,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 384,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 712,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 431,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "channel_id": 1374603769991401492,
+        "last_chapter": 805,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "xa-thu-dan-ma-10978",
+        "title": "Xạ Thủ Đạn Ma",
+        "channel_id": 1375007491364225054,
+        "last_chapter": 190,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 226,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 433,
+        "update_date": "08/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chuong-mon-khiem-ton-chut-11685",
+        "title": "Chưởng Môn Khiêm Tốn Chút",
+        "channel_id": 1358986879126736936,
+        "last_chapter": 512,
+        "update_date": "08/06/2025",
         "source": "truyenqqto"
     },
     {
@@ -28,22 +92,6 @@
         "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
         "channel_id": 1374608403543887943,
         "last_chapter": 233,
-        "update_date": "07/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 383,
-        "update_date": "07/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 711,
         "update_date": "07/06/2025",
         "source": "truyenqqto"
     },
@@ -84,14 +132,6 @@
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
         "last_chapter": 280,
-        "update_date": "07/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 430,
         "update_date": "07/06/2025",
         "source": "truyenqqto"
     },
@@ -216,14 +256,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
-        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-        "channel_id": 1374603769991401492,
-        "last_chapter": 804,
-        "update_date": "06/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "de-co-the-song-sot-11257",
         "title": "Để Có Thể Sống Sót",
         "channel_id": 1380381235712626791,
@@ -328,14 +360,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "xa-thu-dan-ma-10978",
-        "title": "Xạ Thủ Đạn Ma",
-        "channel_id": 1375007491364225054,
-        "last_chapter": 187,
-        "update_date": "06/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
         "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
         "channel_id": 1375005735879966872,
@@ -356,14 +380,6 @@
         "title": "Tối Cường Võ Hồn Hệ Thống",
         "channel_id": 1380400689192370189,
         "last_chapter": 277,
-        "update_date": "05/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 225,
         "update_date": "05/06/2025",
         "source": "truyenqqto"
     },
@@ -576,14 +592,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 431,
-        "update_date": "03/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "nen-van-minh-nebula-15204",
         "title": "Nền Văn Minh Nebula",
         "channel_id": 1374646772709855284,
@@ -644,14 +652,6 @@
         "title": "Chiêu Hồn Giả Siêu Phàm",
         "channel_id": 1374603194956644370,
         "last_chapter": 139,
-        "update_date": "02/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "chuong-mon-khiem-ton-chut-11685",
-        "title": "Chưởng Môn Khiêm Tốn Chút",
-        "channel_id": 1358986879126736936,
-        "last_chapter": 510,
         "update_date": "02/06/2025",
         "source": "truyenqqto"
     },
