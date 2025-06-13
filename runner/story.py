@@ -2,6 +2,7 @@ from dataclasses import dataclass
 
 from providers import PROVIDER_MAP
 from providers.base import BaseProvider
+from utils.datetime import get_time_now_format2
 
 
 @dataclass
@@ -28,7 +29,7 @@ class Story:
             self.provider = self.provider(self.id, self.last_chapter)
         else:
             raise ValueError(f"Provider {self.source} not found.")
-    
+
     def to_dict(self):
         """
         Converts the story object into a dictionary representation.
@@ -65,7 +66,9 @@ class Story:
             self.last_chapter = latest_chapter
             self.update_date = date_chapter
             self.is_new_chapter = True
-            # self.display()
+            self.display()
+        else:
+            print(f"[{get_time_now_format2()}] {self.title} -> -------Chưa có chap mới...")
 
     def channel_message(self):
         """
@@ -98,4 +101,4 @@ class Story:
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
-        print(f"{self.title} -> {self.channel_message()}")
+        print(f"[{get_time_now_format2()}] {self.title} -> {self.channel_message()}")
