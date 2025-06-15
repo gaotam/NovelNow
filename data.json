@@ -16,6 +16,30 @@
         "source": "goctruyentranhvui"
     },
     {
+        "id": "bac-thay-thiet-ke-dien-trang-11846",
+        "title": "Bậc Thầy Thiết Kế Điền Trang",
+        "channel_id": 1374609754286063656,
+        "last_chapter": 195,
+        "update_date": "15/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2404,
+        "update_date": "15/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 399,
+        "update_date": "15/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -56,14 +80,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "bac-thay-thiet-ke-dien-trang-11846",
-        "title": "Bậc Thầy Thiết Kế Điền Trang",
-        "channel_id": 1374609754286063656,
-        "last_chapter": 194,
-        "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "dao-quy-di-tien-16651",
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
@@ -99,7 +115,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1835,
+        "last_chapter": 1836,
         "update_date": "14/06/2025",
         "source": "metruyenchu"
     },
@@ -134,14 +150,6 @@
         "last_chapter": 239,
         "update_date": "14/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2403,
-        "update_date": "14/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "tham-hoa-tu-linh-su-14421",
@@ -190,14 +198,6 @@
         "last_chapter": 242,
         "update_date": "14/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106542",
-        "title": "Xích Tâm Tuần Thiên",
-        "channel_id": 1359014633616441474,
-        "last_chapter": 1,
-        "update_date": "14/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
@@ -664,14 +664,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
-        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
-        "channel_id": 1380000751601979433,
-        "last_chapter": 398,
-        "update_date": "08/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
         "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
         "channel_id": 1380001406848733214,
@@ -726,6 +718,14 @@
         "last_chapter": 208,
         "update_date": "06/06/2025",
         "source": "truyenqqto"
+    },
+    {
+        "id": "106542",
+        "title": "Xích Tâm Tuần Thiên",
+        "channel_id": 1359014633616441474,
+        "last_chapter": 207,
+        "update_date": "05/06/2025",
+        "source": "metruyenchu"
     },
     {
         "id": "toi-cuong-vo-hon-he-thong-12355",
