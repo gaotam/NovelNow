@@ -60,15 +60,18 @@ class Story:
         the `last_chapter` and `update_date` attributes of the story, sets the `is_new_chapter`
         flag to True, and triggers the display of the updated information.
         """
-        latest_chapter, date_chapter = self.provider.get_latest_chapter()
-        if latest_chapter > 0:
-            self.new_chapter = latest_chapter - self.last_chapter
-            self.last_chapter = latest_chapter
-            self.update_date = date_chapter
-            self.is_new_chapter = True
-            self.display()
-        else:
-            print(f"[{get_time_now_format2()}] {self.title} -> -------Chưa có chap mới...")
+        try:
+            latest_chapter, date_chapter = self.provider.get_latest_chapter()
+            if latest_chapter > 0:
+                self.new_chapter = latest_chapter - self.last_chapter
+                self.last_chapter = latest_chapter
+                self.update_date = date_chapter
+                self.is_new_chapter = True
+                self.display()
+            else:
+                print(f"[{get_time_now_format2()}] {self.title} -> -------Chưa có chap mới...")
+        except:
+            print(f"[{get_time_now_format2()}] {self.title} -> -------Error when get latest chapter...")
 
     def channel_message(self):
         """
