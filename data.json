@@ -8,6 +8,62 @@
         "source": "nettruyen"
     },
     {
+        "id": "121068",
+        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
+        "channel_id": 1359006015567171745,
+        "last_chapter": 1355,
+        "update_date": "19/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 229,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
+        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
+        "channel_id": 1378408236453204018,
+        "last_chapter": 172,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
+        "last_chapter": 153,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
+        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
+        "channel_id": 1374645008161837117,
+        "last_chapter": 118,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "nen-van-minh-nebula-15204",
+        "title": "Nền Văn Minh Nebula",
+        "channel_id": 1374646772709855284,
+        "last_chapter": 95,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "ong-vo-gia-va-chau-chi-ton-14852",
+        "title": "Ông Võ Giả Và Cháu Chí Tôn",
+        "channel_id": 1375006678021439488,
+        "last_chapter": 97,
+        "update_date": "19/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "toan-tri-doc-gia-9702",
         "title": "Toàn Trí Độc Giả",
         "channel_id": 1377467480120754248,
@@ -30,14 +86,6 @@
         "last_chapter": 818,
         "update_date": "18/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "121068",
-        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
-        "channel_id": 1359006015567171745,
-        "last_chapter": 1353,
-        "update_date": "18/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "113404",
@@ -376,14 +424,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 228,
-        "update_date": "15/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "hoi-uc-cua-chien-than-11337",
         "title": "Hồi Ức Của Chiến Thần",
         "channel_id": 1380002190277480579,
@@ -576,26 +616,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
-        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
-        "channel_id": 1378408236453204018,
-        "last_chapter": 171,
-        "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
         "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
         "channel_id": 1377470069545635900,
         "last_chapter": 142,
-        "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "channel_id": 1359003439941554226,
-        "last_chapter": 152,
         "update_date": "12/06/2025",
         "source": "truyenqqto"
     },
@@ -612,14 +636,6 @@
         "title": "Tinh Võ Thần Quyết",
         "channel_id": 1374609968417734666,
         "last_chapter": 865,
-        "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
-        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
-        "channel_id": 1374645008161837117,
-        "last_chapter": 117,
         "update_date": "12/06/2025",
         "source": "truyenqqto"
     },
@@ -668,14 +684,6 @@
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
         "last_chapter": 59,
-        "update_date": "11/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "nen-van-minh-nebula-15204",
-        "title": "Nền Văn Minh Nebula",
-        "channel_id": 1374646772709855284,
-        "last_chapter": 94,
         "update_date": "11/06/2025",
         "source": "truyenqqto"
     },
@@ -749,14 +757,6 @@
         "channel_id": 1374613564291285063,
         "last_chapter": 130,
         "update_date": "08/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "ong-vo-gia-va-chau-chi-ton-14852",
-        "title": "Ông Võ Giả Và Cháu Chí Tôn",
-        "channel_id": 1375006678021439488,
-        "last_chapter": 96,
-        "update_date": "06/06/2025",
         "source": "truyenqqto"
     },
     {
