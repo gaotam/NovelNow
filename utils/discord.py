@@ -37,7 +37,7 @@ class DiscordClient:
             requests.exceptions.HTTPError: If the HTTP request to the Discord API fails.
         """
         url = f"{self.BASE_URL}/channels/{channel_id}/messages"
-        resp = self.session.post(url, json={"content": content}, timeout=10)
+        resp = self.session.post(url, json={"content": content}, timeout=20)
         try:
             resp.raise_for_status()
         except requests.exceptions.HTTPError:
