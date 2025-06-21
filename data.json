@@ -1,5 +1,101 @@
 [
     {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 310,
+        "update_date": "21/06/2025",
+        "source": "nettruyen"
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 717,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 389,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 191,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 434,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "yeu-than-ky-746",
+        "title": "Yêu Thần Ký",
+        "channel_id": 1372025537446547577,
+        "last_chapter": 645,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dao-quy-di-tien-16651",
+        "title": "Đạo Quỷ Dị Tiên",
+        "channel_id": 1374608833644728390,
+        "last_chapter": 41,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "cong-tu-biet-tu-14629",
+        "title": "Công Tử Biệt Tú!",
+        "channel_id": 1378408797210542230,
+        "last_chapter": 213,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
+        "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp Sss",
+        "channel_id": 1375004863217274881,
+        "last_chapter": 142,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai-11265",
+        "title": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
+        "channel_id": 1374645255680294943,
+        "last_chapter": 182,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3837,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "mot-ngay-cua-toi-co-48-gio-12620",
+        "title": "Một Ngày Của Tôi Có 48 Giờ",
+        "channel_id": 1374606548785172551,
+        "last_chapter": 92,
+        "update_date": "21/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "hoan-doi-dieu-ky-1241",
         "title": "Hoán Đổi Diệu Kỳ",
         "channel_id": 1374610277609246813,
@@ -48,34 +144,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 309,
-        "update_date": "20/06/2025",
-        "source": "nettruyen"
-    },
-    {
         "id": "bac-thay-thiet-ke-dien-trang-11846",
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
         "last_chapter": 197,
-        "update_date": "20/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 716,
-        "update_date": "20/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 388,
         "update_date": "20/06/2025",
         "source": "truyenqqto"
     },
@@ -142,6 +214,22 @@
         "last_chapter": 72,
         "update_date": "20/06/2025",
         "source": "truyenqqto"
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1842,
+        "update_date": "20/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2410,
+        "update_date": "20/06/2025",
+        "source": "metruyenchu"
     },
     {
         "id": "hoa-than-thanh-meo",
@@ -254,22 +342,6 @@
         "last_chapter": 1159,
         "update_date": "19/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1841,
-        "update_date": "19/06/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2409,
-        "update_date": "19/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "toan-tri-doc-gia-9702",
@@ -440,14 +512,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 190,
-        "update_date": "16/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "goc-cao-khung-thanh-15222",
         "title": "Góc Cao Khung Thành",
         "channel_id": 1374602431878660116,
@@ -520,14 +584,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 433,
-        "update_date": "15/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
         "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
         "channel_id": 1374603769991401492,
@@ -576,34 +632,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "yeu-than-ky-746",
-        "title": "Yêu Thần Ký",
-        "channel_id": 1372025537446547577,
-        "last_chapter": 644,
-        "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "tho-ren-huyen-thoai-9311",
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
         "last_chapter": 281,
-        "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dao-quy-di-tien-16651",
-        "title": "Đạo Quỷ Dị Tiên",
-        "channel_id": 1374608833644728390,
-        "last_chapter": 40,
-        "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "cong-tu-biet-tu-14629",
-        "title": "Công Tử Biệt Tú!",
-        "channel_id": 1378408797210542230,
-        "last_chapter": 212,
         "update_date": "14/06/2025",
         "source": "truyenqqto"
     },
@@ -621,14 +653,6 @@
         "channel_id": 1374605940166365294,
         "last_chapter": 242,
         "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
-        "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp Sss",
-        "channel_id": 1375004863217274881,
-        "last_chapter": 141,
-        "update_date": "13/06/2025",
         "source": "truyenqqto"
     },
     {
@@ -668,22 +692,6 @@
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
         "last_chapter": 382,
-        "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai-11265",
-        "title": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
-        "channel_id": 1374645255680294943,
-        "last_chapter": 181,
-        "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3836,
         "update_date": "12/06/2025",
         "source": "truyenqqto"
     },
@@ -861,14 +869,6 @@
         "channel_id": 1380005456755425300,
         "last_chapter": 343,
         "update_date": "18/05/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "mot-ngay-cua-toi-co-48-gio-12620",
-        "title": "Một Ngày Của Tôi Có 48 Giờ",
-        "channel_id": 1374606548785172551,
-        "last_chapter": 91,
-        "update_date": "17/05/2025",
         "source": "truyenqqto"
     },
     {
