@@ -1,9 +1,10 @@
 from dataclasses import dataclass
 
+from logger import setup_logger
 from providers import PROVIDER_MAP
 from providers.base import BaseProvider
-from utils.datetime import get_time_now_format2
 
+logger = setup_logger()
 
 @dataclass
 class Story:
@@ -69,9 +70,9 @@ class Story:
                 self.is_new_chapter = True
                 self.display()
             else:
-                print(f"[{get_time_now_format2()}] {self.title} -> -------Chưa có chap mới...")
-        except:
-            print(f"[{get_time_now_format2()}] {self.title} -> -------Error when get latest chapter...")
+                logger.info(f"{self.title} -> Chưa có chap mới")
+        except Exception as e:
+            logger.error(f"{self.title} -> {e}")
 
     def channel_message(self):
         """
@@ -104,4 +105,4 @@ class Story:
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
-        print(f"[{get_time_now_format2()}] {self.title} -> {self.channel_message()}")
+        logger.info(f"{self.title} -> {self.channel_message()}")
