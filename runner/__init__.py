@@ -1,13 +1,15 @@
 import time
-from collections import defaultdict
 from datetime import datetime
 from typing import List, Dict
 
-from utils import load_json_file, write_json_file, chunk_by_size
-from utils.config import get_config
-from utils.datetime import get_time_now_format
-from utils.discord import DiscordClient
 from .story import Story
+from logger import setup_logger
+from utils.config import get_config
+from utils.discord import DiscordClient
+from utils.datetime import get_time_now_format
+from utils import load_json_file, write_json_file, chunk_by_size
+
+logger = setup_logger()
 
 
 class Runner:
@@ -37,29 +39,19 @@ class Runner:
         return sorted(data, key=lambda x: parse_date(x.update_date), reverse=True)
 
     def fetch_latest_chapters(self):
+        """
+        Fetches the latest chapters for all stories.
+
+        This method iterates through the list of stories and calls the `get_latest_chapter`
+        method for each story to retrieve the latest chapter information. It also introduces
+        a delay between each fetch operation to avoid overwhelming the server.
+
+        Raises:
+            Exception: If there is an issue fetching the latest chapter for a story.
+        """
         for story in self.stories:
             story.get_latest_chapter()
             time.sleep(get_config("common.story_fetch_delay_sec"))
-
-    def print_new_chapters_grouped_by_source(self) -> None:
-        """
-        Prints new chapters grouped by their source.
-
-        This method filters the stories to include only those with new chapters,
-        groups them by their source, and then prints the grouped stories. Each
-        group is displayed with its source name followed by the details of the
-        stories in that group.
-        """
-        filtered_stories = [story for story in self.stories if story.is_new_chapter]
-        grouped_stories = defaultdict(list)
-        for story in filtered_stories:
-            grouped_stories[story.source].append(story)
-
-        for source, story_list in grouped_stories.items():
-            print(f"\n🌟 Source: {source}")
-            for story in story_list:
-                story.display()
-            print("\n")
 
     def prepare(self):
         """
@@ -85,7 +77,7 @@ class Runner:
         """
         data = [story.to_dict() for story in Runner.sort_by_update_date(self.stories)]
         write_json_file(self.data_path, data)
-        print(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
+        logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
 
     def send_story_channels(self, new_stories: List[Story]):
         """
@@ -141,7 +133,7 @@ class Runner:
             None
         """
         if not get_config('discord.bot_token'):
-            print("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
+            logger.warn("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
@@ -150,19 +142,18 @@ class Runner:
             new_stories = [s for s in self.stories if s.is_new_chapter]
             self.send_general_channel(new_stories)
             self.send_story_channels(new_stories)
-            print("✅ Gửi thành công.")
+            logger.info("✅ Gửi thành công.")
 
     def run(self):
-        print(f"🚀 Đang khởi động...[{get_time_now_format()}]")
+        logger.info(f"🚀 Đang khởi động...")
         self.prepare()
         self.fetch_latest_chapters()
 
         # Check if any story has a new chapter
         has_new_chapters = any(story.is_new_chapter for story in self.stories)
         if not has_new_chapters:
-            print(f"🚫 Không có chương mới.[{get_time_now_format()}]")
+            logger.info(f"🚫 Không có chương mới.")
             return
 
-        self.print_new_chapters_grouped_by_source()
         self.update_data()
         self.confirm_and_send_discord()

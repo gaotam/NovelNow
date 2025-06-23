@@ -2,6 +2,9 @@ import requests
 from typing import Optional
 from bs4 import BeautifulSoup
 from abc import ABC, abstractmethod
+from logger import setup_logger
+
+logger = setup_logger()
 
 class BaseProvider(ABC):
     @staticmethod
@@ -41,7 +44,7 @@ class BaseProvider(ABC):
             res.raise_for_status()
             return res
         except requests.RequestException as e:
-            print(f"[Error] GET {url} failed: {e}")
+            logger.error(f"GET {url} failed: {e}")
             return None
 
     @abstractmethod

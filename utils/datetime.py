@@ -63,16 +63,3 @@ def get_time_now_format() -> str:
     """
     now = datetime.now()
     return now.strftime("%H:%M - %d/%m/%Y")
-
-def get_time_now_format2() -> str:
-    """
-    Gets the current time and date in a specific format.
-
-    This function retrieves the current system time and formats it as
-    'HH:MM:SS - dd/mm/yyyy'.
-
-    Returns:
-        str: The formatted current time and date.
-    """
-    now = datetime.now()
-    return now.strftime("%H:%M:%S - %d/%m/%Y")
