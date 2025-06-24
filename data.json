@@ -1,5 +1,37 @@
 [
     {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 336,
+        "update_date": "24/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "goc-cao-khung-thanh-15222",
+        "title": "Góc Cao Khung Thành",
+        "channel_id": 1374602431878660116,
+        "last_chapter": 246,
+        "update_date": "24/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
+        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
+        "channel_id": 1374619906187853955,
+        "last_chapter": 571,
+        "update_date": "24/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "xa-thu-dan-ma-10978",
+        "title": "Xạ Thủ Đạn Ma",
+        "channel_id": 1375007491364225054,
+        "last_chapter": 195,
+        "update_date": "24/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
         "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
         "channel_id": 1385913211986907186,
@@ -28,14 +60,6 @@
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
         "last_chapter": 124,
-        "update_date": "23/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 335,
         "update_date": "23/06/2025",
         "source": "truyenqqto"
     },
@@ -108,6 +132,14 @@
         "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
         "channel_id": 1361193789661909082,
         "last_chapter": 338,
+        "update_date": "23/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2413,
         "update_date": "23/06/2025",
         "source": "metruyenchu"
     },
@@ -224,12 +256,12 @@
         "source": "truyenqqto"
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2412,
+        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
+        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+        "channel_id": 1372427575858692198,
+        "last_chapter": 221,
         "update_date": "22/06/2025",
-        "source": "metruyenchu"
+        "source": "goctruyentranhvui"
     },
     {
         "id": "chang-re-manh-nhat-lich-su",
@@ -456,6 +488,14 @@
         "source": "truyenqqto"
     },
     {
+        "id": "bat-dau-danh-dau-hoang-co-thanh-the",
+        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+        "channel_id": 1377466581030010922,
+        "last_chapter": 106,
+        "update_date": "20/06/2025",
+        "source": "goctruyentranhvui"
+    },
+    {
         "id": "hoa-than-thanh-meo",
         "title": "Hóa Thân Thành Mèo",
         "channel_id": 1364846977887768626,
@@ -534,6 +574,14 @@
         "last_chapter": 1159,
         "update_date": "19/06/2025",
         "source": "truyenqqto"
+    },
+    {
+        "id": "nano-ma-than",
+        "title": "Nano Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 265,
+        "update_date": "19/06/2025",
+        "source": "goctruyentranhvui"
     },
     {
         "id": "toan-tri-doc-gia-9702",
@@ -648,14 +696,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "goc-cao-khung-thanh-15222",
-        "title": "Góc Cao Khung Thành",
-        "channel_id": 1374602431878660116,
-        "last_chapter": 244,
-        "update_date": "16/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -670,14 +710,6 @@
         "last_chapter": 138,
         "update_date": "16/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
-        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
-        "channel_id": 1372427575858692198,
-        "last_chapter": 220,
-        "update_date": "15/06/2025",
-        "source": "goctruyentranhvui"
     },
     {
         "id": "hoi-uc-cua-chien-than-11337",
@@ -696,14 +728,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
-        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
-        "channel_id": 1374619906187853955,
-        "last_chapter": 569,
-        "update_date": "14/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "tro-dua-dang-yeu-4183",
         "title": "Trò Đùa Đáng Yêu",
         "channel_id": 1374607260839448646,
@@ -718,22 +742,6 @@
         "last_chapter": 82,
         "update_date": "13/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "nano-ma-than",
-        "title": "Nano Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 264,
-        "update_date": "12/06/2025",
-        "source": "goctruyentranhvui"
-    },
-    {
-        "id": "bat-dau-danh-dau-hoang-co-thanh-the",
-        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
-        "channel_id": 1377466581030010922,
-        "last_chapter": 105,
-        "update_date": "12/06/2025",
-        "source": "goctruyentranhvui"
     },
     {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
@@ -781,14 +789,6 @@
         "channel_id": 1375006332611985460,
         "last_chapter": 77,
         "update_date": "10/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "xa-thu-dan-ma-10978",
-        "title": "Xạ Thủ Đạn Ma",
-        "channel_id": 1375007491364225054,
-        "last_chapter": 193,
-        "update_date": "09/06/2025",
         "source": "truyenqqto"
     },
     {
