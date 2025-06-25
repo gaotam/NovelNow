@@ -88,8 +88,8 @@ class Story:
         """
         link = self.provider.get_link_chapter(self.last_chapter)
         if self.new_chapter > 1:
-            return f"Chương {self.last_chapter} ({self.new_chapter} chap mới) - Ngày cập nhật: {self.update_date} - [[Link-đọc]({link})]"
-        return f"Chương {self.last_chapter} - Ngày cập nhật: {self.update_date} - [[Link-đọc]({link})]"
+            return f"Chương **{self.last_chapter}** ({self.new_chapter} chap mới) - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
+        return f"Chương **{self.last_chapter}** - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
 
     def channel_general(self):
         """
