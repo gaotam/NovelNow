@@ -1,5 +1,53 @@
 [
     {
+        "id": "xa-thu-dan-ma-10978",
+        "title": "Xạ Thủ Đạn Ma",
+        "channel_id": 1375007491364225054,
+        "last_chapter": 196,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 213,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dich-vu-thue-ban-gai-3620",
+        "title": "Dịch Vụ Thuê Bạn Gái",
+        "channel_id": 1374610492659601438,
+        "last_chapter": 382,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 124,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 308,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
+        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
+        "channel_id": 1374600023588732998,
+        "last_chapter": 60,
+        "update_date": "25/06/2025",
+        "source": "truyenqqto"
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -24,18 +72,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "xa-thu-dan-ma-10978",
-        "title": "Xạ Thủ Đạn Ma",
-        "channel_id": 1375007491364225054,
-        "last_chapter": 195,
-        "update_date": "24/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
         "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
         "channel_id": 1385913211986907186,
-        "last_chapter": 198,
+        "last_chapter": 199,
         "update_date": "24/06/2025",
         "source": "truyenqqto"
     },
@@ -43,7 +83,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1845,
+        "last_chapter": 1846,
         "update_date": "24/06/2025",
         "source": "metruyenchu"
     },
@@ -68,6 +108,30 @@
         "title": "Quái Lực Loạn Thần",
         "channel_id": 1375006332611985460,
         "last_chapter": 78,
+        "update_date": "24/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 578,
+        "update_date": "24/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2414,
+        "update_date": "24/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 507,
         "update_date": "24/06/2025",
         "source": "truyenqqto"
     },
@@ -136,26 +200,10 @@
         "source": "truyenqqto"
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 577,
-        "update_date": "23/06/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "139812",
         "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
         "channel_id": 1361193789661909082,
         "last_chapter": 338,
-        "update_date": "23/06/2025",
-        "source": "metruyenchu"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2413,
         "update_date": "23/06/2025",
         "source": "metruyenchu"
     },
@@ -260,14 +308,6 @@
         "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
         "channel_id": 1380005456755425300,
         "last_chapter": 345,
-        "update_date": "22/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 212,
         "update_date": "22/06/2025",
         "source": "truyenqqto"
     },
@@ -624,22 +664,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "dich-vu-thue-ban-gai-3620",
-        "title": "Dịch Vụ Thuê Bạn Gái",
-        "channel_id": 1374610492659601438,
-        "last_chapter": 381,
-        "update_date": "18/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 123,
-        "update_date": "18/06/2025",
-        "source": "truyenqqto"
-    },
-    {
         "id": "cuong-gia-den-tu-trai-tam-than-11357",
         "title": "Cường Giả Đến Từ Trại Tâm Thần",
         "channel_id": 1378251948595220570,
@@ -684,14 +708,6 @@
         "title": "Chiêu Hồn Giả Siêu Phàm",
         "channel_id": 1374603194956644370,
         "last_chapter": 141,
-        "update_date": "17/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 307,
         "update_date": "17/06/2025",
         "source": "truyenqqto"
     },
@@ -765,22 +781,6 @@
         "channel_id": 1378409367283695626,
         "last_chapter": 134,
         "update_date": "12/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 505,
-        "update_date": "11/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
-        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
-        "channel_id": 1374600023588732998,
-        "last_chapter": 59,
-        "update_date": "11/06/2025",
         "source": "truyenqqto"
     },
     {
