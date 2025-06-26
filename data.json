@@ -1,5 +1,21 @@
 [
     {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 214,
+        "update_date": "26/06/2025",
+        "source": "truyenqqto"
+    },
+    {
+        "id": "nano-ma-than",
+        "title": "Nano Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 266,
+        "update_date": "26/06/2025",
+        "source": "goctruyentranhvui"
+    },
+    {
         "id": "thieu-gia-chu-cua-gia-toc-tu-linh-su-17279",
         "title": "Thiếu Gia Chủ Của Gia Tộc Tử Linh Sư",
         "channel_id": 1387284963266789406,
@@ -52,14 +68,6 @@
         "title": "Xạ Thủ Đạn Ma",
         "channel_id": 1375007491364225054,
         "last_chapter": 196,
-        "update_date": "25/06/2025",
-        "source": "truyenqqto"
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 213,
         "update_date": "25/06/2025",
         "source": "truyenqqto"
     },
@@ -216,6 +224,22 @@
         "source": "truyenqqto"
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1847,
+        "update_date": "25/06/2025",
+        "source": "metruyenchu"
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2415,
+        "update_date": "25/06/2025",
+        "source": "metruyenchu"
+    },
+    {
         "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
         "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
         "channel_id": 1387291211068346511,
@@ -248,14 +272,6 @@
         "source": "truyenqqto"
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1846,
-        "update_date": "24/06/2025",
-        "source": "metruyenchu"
-    },
-    {
         "id": "tai-thiet-ham-nguc-9130",
         "title": "Tái Thiết Hầm Ngục",
         "channel_id": 1374601139831705690,
@@ -270,14 +286,6 @@
         "last_chapter": 78,
         "update_date": "24/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2414,
-        "update_date": "24/06/2025",
-        "source": "metruyenchu"
     },
     {
         "id": "dai-tuong-vo-hinh-8339",
@@ -742,14 +750,6 @@
         "last_chapter": 1159,
         "update_date": "19/06/2025",
         "source": "truyenqqto"
-    },
-    {
-        "id": "nano-ma-than",
-        "title": "Nano Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 265,
-        "update_date": "19/06/2025",
-        "source": "goctruyentranhvui"
     },
     {
         "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
