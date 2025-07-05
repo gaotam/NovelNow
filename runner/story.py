@@ -1,5 +1,6 @@
 from dataclasses import dataclass
-
+from typing import Optional
+from consts.errors import StoryError
 from logger import setup_logger
 from providers import PROVIDER_MAP
 from providers.base import BaseProvider
@@ -15,6 +16,7 @@ class Story:
     source: str
     channel_id: int
     new_chapter: int = 0
+    error: Optional[StoryError] = None
     is_new_chapter: bool = False
     provider: BaseProvider = None
 
@@ -25,6 +27,12 @@ class Story:
         is found, it initializes the provider with the given id and last_chapter.
         If no matching provider is found, it raises a ValueError.
         """
+        if isinstance(self.error, str):
+            try:
+                self.error = StoryError(self.error)
+            except ValueError:
+                self.error = None
+
         self.provider = PROVIDER_MAP.get(self.source)
         if self.provider:
             self.provider = self.provider(self.id, self.last_chapter)
@@ -49,7 +57,8 @@ class Story:
             "channel_id": self.channel_id,
             "last_chapter": self.last_chapter,
             "update_date": self.update_date,
-            "source": self.source
+            "source": self.source,
+            "error": self.error if self.error else None,
         }
 
     def get_latest_chapter(self):
@@ -69,10 +78,59 @@ class Story:
                 self.update_date = date_chapter
                 self.is_new_chapter = True
                 self.display()
+            elif self.error:
+                logger.info(f"{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
             else:
                 logger.info(f"{self.title} -> Chưa có chap mới")
         except Exception as e:
             logger.error(f"{self.title} -> {e}")
+
+    def needs_attention(self) -> bool:
+        """
+        Determines if the story requires attention.
+
+        This method checks if the story has new chapters or if there is an error
+        associated with it. If either condition is true, the story is flagged as
+        needing attention.
+
+        Returns:
+            bool: True if the story has new chapters or an error, otherwise False.
+        """
+        return self.is_new_chapter or self.error is not None
+
+    def set_error(self, error: StoryError):
+        """
+        Sets the error attribute for the story.
+
+        Args:
+            error (StoryError): The error to be assigned to the story.
+        """
+        self.error = error
+
+    def clear_error_if(self, error: StoryError):
+        """
+        Clears the error attribute if it matches the specified error.
+        Args:
+            error (StoryError): The error to check against the current error.
+        """
+        if self.error == error:
+            self.error = None
+
+    def resolve_or_set_error(self, success: bool, error_type: StoryError):
+        """
+        Resolves or sets an error based on the success status.
+
+        If the operation is successful, it clears the specified error. Otherwise,
+        it sets the error attribute to the given error type.
+
+        Args:
+            success (bool): Indicates whether the operation was successful.
+            error_type (StoryError): The type of error to set if the operation fails.
+        """
+        if success:
+            self.clear_error_if(error_type)
+        else:
+            self.set_error(error_type)
 
     def channel_message(self):
         """
