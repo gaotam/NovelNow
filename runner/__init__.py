@@ -121,21 +121,23 @@ class Runner:
         sorted_stories = Runner.sort_by_update_date(filtered_stories)
         chunk_stories = chunk_by_size(sorted_stories, get_config("discord.general_channel_chunk_size"))
 
+        success = True
         for i, chunk in enumerate(chunk_stories):
-            success = True
             lines = [story.channel_general() for story in chunk]
             message = header + "\n" + "\n".join(lines) if i == 0 else "\n".join(lines)
 
             try:
                 self.discord_client.send_message(channel_id, message)
-                logger.info("✅ Gửi thông báo vào kênh chung thành công.")
             except Exception:
                 success = False
 
-            for story in chunk:
-                story.resolve_or_set_error(success, StoryError.SEND_DISCORD_GENERAL)
+            for part_story in chunk:
+                part_story.resolve_or_set_error(success, StoryError.SEND_DISCORD_GENERAL)
 
             time.sleep(get_config('discord.general_send_delay_sec'))
+
+        if success:
+            logger.info("✅ Gửi thông báo vào kênh chung thành công.")
 
     def confirm_and_send_discord(self):
         """
