@@ -2,6 +2,7 @@ import time
 from datetime import datetime
 from typing import List, Dict
 
+from consts.errors import StoryError
 from .story import Story
 from logger import setup_logger
 from utils.config import get_config
@@ -79,7 +80,7 @@ class Runner:
         write_json_file(self.data_path, data)
         logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
 
-    def send_story_channels(self, new_stories: List[Story]):
+    def send_story_channels(self, stories: List[Story]):
         """
         Sends a notification message to the respective Discord channels for stories with new chapters.
 
@@ -89,11 +90,16 @@ class Runner:
         Raises:
             Exception: If there is an issue sending the message to Discord.
         """
-        for story in new_stories:
-            self.discord_client.send_message(story.channel_id, story.channel_message())
+        filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_PER_STORY]
+        for story in filtered_stories:
+            try:
+                self.discord_client.send_message(story.channel_id, story.channel_message())
+                story.clear_error_if(StoryError.SEND_DISCORD_PER_STORY)
+            except Exception:
+                story.set_error(StoryError.SEND_DISCORD_PER_STORY)
             time.sleep(get_config('discord.story_send_delay_sec'))
 
-    def send_general_channel(self, new_stories: List[Story]):
+    def send_general_channel(self, stories: List[Story]):
         """
         Sends a notification message to the general Discord channel.
 
@@ -104,20 +110,31 @@ class Runner:
         Raises:
             Exception: If there is an issue sending the message to Discord.
         """
-        if not new_stories:
+
+        filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_GENERAL]
+        if not filtered_stories:
             return
 
         header = f"**📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]**"
-
         channel_id = get_config('discord.general_channel_id')
 
-        sorted_stories = Runner.sort_by_update_date(new_stories)
+        sorted_stories = Runner.sort_by_update_date(filtered_stories)
         chunk_stories = chunk_by_size(sorted_stories, get_config("discord.general_channel_chunk_size"))
 
         for i, chunk in enumerate(chunk_stories):
+            success = True
             lines = [story.channel_general() for story in chunk]
             message = header + "\n" + "\n".join(lines) if i == 0 else "\n".join(lines)
-            self.discord_client.send_message(channel_id, message)
+
+            try:
+                self.discord_client.send_message(channel_id, message)
+                logger.info("✅ Gửi thông báo vào kênh chung thành công.")
+            except Exception:
+                success = False
+
+            for story in chunk:
+                story.resolve_or_set_error(success, StoryError.SEND_DISCORD_GENERAL)
+
             time.sleep(get_config('discord.general_send_delay_sec'))
 
     def confirm_and_send_discord(self):
@@ -133,27 +150,24 @@ class Runner:
             None
         """
         if not get_config('discord.bot_token'):
-            logger.warn("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
+            logger.warning("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
+            return
+
+        stories_to_process = [s for s in self.stories if s.needs_attention()]
+        logger.info(f"len stories_to_process {len(stories_to_process)}")
+        if not stories_to_process:
+            logger.info(f"🚫 Không truyện nào có chương mới.")
             return
 
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
-            new_stories = [s for s in self.stories if s.is_new_chapter]
-            self.send_general_channel(new_stories)
-            self.send_story_channels(new_stories)
-            logger.info("✅ Gửi thành công.")
+            self.send_general_channel(stories_to_process)
+            self.send_story_channels(stories_to_process)
 
     def run(self):
         logger.info(f"🚀 Đang khởi động...")
         self.prepare()
         self.fetch_latest_chapters()
-
-        # Check if any story has a new chapter
-        has_new_chapters = any(story.is_new_chapter for story in self.stories)
-        if not has_new_chapters:
-            logger.info(f"🚫 Không có chương mới.")
-            return
-
-        self.update_data()
         self.confirm_and_send_discord()
+        self.update_data()
