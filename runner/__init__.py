@@ -156,7 +156,7 @@ class Runner:
             return
 
         stories_to_process = [s for s in self.stories if s.needs_attention()]
-        logger.info(f"len stories_to_process {len(stories_to_process)}")
+        logger.info(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
         if not stories_to_process:
             logger.info(f"🚫 Không truyện nào có chương mới.")
             return
