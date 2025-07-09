@@ -9,6 +9,15 @@
         "error": null
     },
     {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 165,
+        "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "muc-long-su-11320",
         "title": "Mục Long Sư",
         "channel_id": 1379998400619090023,
@@ -140,6 +149,24 @@
         "channel_id": 1380400689192370189,
         "last_chapter": 278,
         "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 70,
+        "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chung-cuc-dau-la-6700",
+        "title": "Chung Cực Đấu La",
+        "channel_id": 1392442245151719454,
+        "last_chapter": 639,
+        "update_date": "08/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -279,6 +306,15 @@
         "error": null
     },
     {
+        "id": "tu-nhan-vien-van-nang-tro-thanh-huyen-thoai-15118",
+        "title": "Từ Nhân Viên Vạn Năng Trở Thành Huyền Thoại",
+        "channel_id": 1392442531186343936,
+        "last_chapter": 86,
+        "update_date": "07/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "the-thao-cuc-han-2641",
         "title": "Thể Thao Cực Hạn",
         "channel_id": 1374603526201937960,
@@ -392,6 +428,15 @@
         "channel_id": 1358993391534215350,
         "last_chapter": 438,
         "update_date": "07/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quai-vat-sinh-ra-tu-linh-hon-chet-choc-1176",
+        "title": "Quái Vật Sinh Ra Từ Linh Hồn Chết Chóc",
+        "channel_id": 1392442835688488993,
+        "last_chapter": 244,
+        "update_date": "06/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -581,6 +626,15 @@
         "channel_id": 1374608088694390814,
         "last_chapter": 319,
         "update_date": "05/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nu-do-de-ai-nay-deu-muon-giet-ta-13485",
+        "title": "Nữ Đồ Đệ Ai Nấy Đều Muốn Giết Ta",
+        "channel_id": 1392443111166181476,
+        "last_chapter": 263,
+        "update_date": "04/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -819,6 +873,15 @@
         "error": null
     },
     {
+        "id": "ta-khong-phai-con-cung-cua-khi-van-11931",
+        "title": "Ta Không Phải Con Cưng Của Khí Vận",
+        "channel_id": 1392443347787972638,
+        "last_chapter": 232,
+        "update_date": "01/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thieu-gia-chu-cua-gia-toc-tu-linh-su-17279",
         "title": "Thiếu Gia Chủ Của Gia Tộc Tử Linh Sư",
         "channel_id": 1387284963266789406,
@@ -832,15 +895,6 @@
         "title": "Bản Chất Của Chuyển Sinh",
         "channel_id": 1387285252862509096,
         "last_chapter": 141,
-        "update_date": "01/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 69,
         "update_date": "01/07/2025",
         "source": "truyenqqto",
         "error": null
