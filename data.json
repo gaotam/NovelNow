@@ -1,5 +1,32 @@
 [
     {
+        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
+        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
+        "channel_id": 1377468517028204614,
+        "last_chapter": 251,
+        "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "muc-long-su-11320",
+        "title": "Mục Long Sư",
+        "channel_id": 1379998400619090023,
+        "last_chapter": 480,
+        "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 310,
+        "update_date": "09/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -21,7 +48,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1859,
+        "last_chapter": 1860,
         "update_date": "08/07/2025",
         "source": "metruyenchu",
         "error": null
@@ -60,15 +87,6 @@
         "last_chapter": 591,
         "update_date": "08/07/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
-        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
-        "channel_id": 1377468517028204614,
-        "last_chapter": 250,
-        "update_date": "08/07/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -139,6 +157,24 @@
         "title": "Trò Đùa Đáng Yêu",
         "channel_id": 1374607260839448646,
         "last_chapter": 322,
+        "update_date": "08/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2425,
+        "update_date": "08/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "tai-thiet-ham-nguc-9130",
+        "title": "Tái Thiết Hầm Ngục",
+        "channel_id": 1374601139831705690,
+        "last_chapter": 255,
         "update_date": "08/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -324,15 +360,6 @@
         "error": null
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2424,
-        "update_date": "06/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
         "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
         "channel_id": 1374646460494381158,
@@ -513,15 +540,6 @@
         "error": null
     },
     {
-        "id": "muc-long-su-11320",
-        "title": "Mục Long Sư",
-        "channel_id": 1379998400619090023,
-        "last_chapter": 479,
-        "update_date": "04/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-goblin-16569",
         "title": "Chuyển Sinh Thành Goblin",
         "channel_id": 1377469416433778749,
@@ -675,15 +693,6 @@
         "error": null
     },
     {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 309,
-        "update_date": "02/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toan-tri-doc-gia-9702",
         "title": "Toàn Trí Độc Giả",
         "channel_id": 1377467480120754248,
@@ -796,15 +805,6 @@
         "title": "Bản Chất Của Chuyển Sinh",
         "channel_id": 1387285252862509096,
         "last_chapter": 141,
-        "update_date": "01/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tai-thiet-ham-nguc-9130",
-        "title": "Tái Thiết Hầm Ngục",
-        "channel_id": 1374601139831705690,
-        "last_chapter": 254,
         "update_date": "01/07/2025",
         "source": "truyenqqto",
         "error": null
