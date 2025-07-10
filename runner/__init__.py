@@ -50,8 +50,9 @@ class Runner:
         Raises:
             Exception: If there is an issue fetching the latest chapter for a story.
         """
-        for story in self.stories:
-            story.get_latest_chapter()
+        for index, story in enumerate(self.stories):
+            index_title = f"[Fetching {index + 1}/{len(self.stories)}] - "
+            story.get_latest_chapter(index_title)
             time.sleep(get_config("common.story_fetch_delay_sec"))
 
     def prepare(self):

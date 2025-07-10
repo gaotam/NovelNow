@@ -61,7 +61,7 @@ class Story:
             "error": self.error if self.error else None,
         }
 
-    def get_latest_chapter(self):
+    def get_latest_chapter(self, index_title):
         """
         Retrieves the latest chapter information from the provider and updates the story's state.
 
@@ -79,11 +79,11 @@ class Story:
                 self.is_new_chapter = True
                 self.display()
             elif self.error:
-                logger.info(f"{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
+                logger.info(f"{index_title}{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
             else:
-                logger.info(f"{self.title} -> Chưa có chap mới")
+                logger.info(f"{index_title}{self.title} -> Chưa có chap mới")
         except Exception as e:
-            logger.error(f"{self.title} -> {e}")
+            logger.error(f"{index_title}{self.title} -> {e}")
 
     def needs_attention(self) -> bool:
         """
