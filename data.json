@@ -12,7 +12,7 @@
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
-        "last_chapter": 1173,
+        "last_chapter": 1174,
         "update_date": "11/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -103,6 +103,96 @@
         "title": "Sức Mạnh Của Ác Thần",
         "channel_id": 1380004126313943100,
         "last_chapter": 167,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "139812",
+        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
+        "channel_id": 1361193789661909082,
+        "last_chapter": 333,
+        "update_date": "11/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 594,
+        "update_date": "11/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
+        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
+        "channel_id": 1377468517028204614,
+        "last_chapter": 252,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 315,
+        "update_date": "11/07/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
+        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
+        "channel_id": 1374608403543887943,
+        "last_chapter": 242,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-goblin-16569",
+        "title": "Chuyển Sinh Thành Goblin",
+        "channel_id": 1377469416433778749,
+        "last_chapter": 67,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cuong-thi-tien-sinh-13742",
+        "title": "Cương Thi Tiên Sinh",
+        "channel_id": 1377469657945997392,
+        "last_chapter": 170,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1022,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chieu-hon-gia-sieu-pham-13439",
+        "title": "Chiêu Hồn Giả Siêu Phàm",
+        "channel_id": 1374603194956644370,
+        "last_chapter": 144,
+        "update_date": "11/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 290,
         "update_date": "11/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -234,24 +324,6 @@
         "error": null
     },
     {
-        "id": "139812",
-        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
-        "channel_id": 1361193789661909082,
-        "last_chapter": 332,
-        "update_date": "10/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 593,
-        "update_date": "10/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
         "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
         "channel_id": 1374645008161837117,
@@ -267,15 +339,6 @@
         "last_chapter": 2428,
         "update_date": "10/07/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
-        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
-        "channel_id": 1377468517028204614,
-        "last_chapter": 251,
-        "update_date": "09/07/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -639,15 +702,6 @@
         "error": null
     },
     {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 314,
-        "update_date": "06/07/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
         "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
         "channel_id": 1374605940166365294,
@@ -765,15 +819,6 @@
         "error": null
     },
     {
-        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
-        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
-        "channel_id": 1374608403543887943,
-        "last_chapter": 241,
-        "update_date": "05/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-the-quan-lam-16245",
         "title": "Tuyệt Thế Quân Lâm",
         "channel_id": 1389226676344324146,
@@ -814,24 +859,6 @@
         "title": "Ông Võ Giả Và Cháu Chí Tôn",
         "channel_id": 1375006678021439488,
         "last_chapter": 99,
-        "update_date": "04/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-goblin-16569",
-        "title": "Chuyển Sinh Thành Goblin",
-        "channel_id": 1377469416433778749,
-        "last_chapter": 66,
-        "update_date": "04/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cuong-thi-tien-sinh-13742",
-        "title": "Cương Thi Tiên Sinh",
-        "channel_id": 1377469657945997392,
-        "last_chapter": 169,
         "update_date": "04/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -900,15 +927,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1015,
-        "update_date": "02/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "de-nhat-vo-su-baek-cao-thu-11927",
         "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
         "channel_id": 1374645723500380330,
@@ -963,15 +981,6 @@
         "error": null
     },
     {
-        "id": "chieu-hon-gia-sieu-pham-13439",
-        "title": "Chiêu Hồn Giả Siêu Phàm",
-        "channel_id": 1374603194956644370,
-        "last_chapter": 143,
-        "update_date": "01/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "gui-em-nguoi-bat-tu-3025",
         "title": "Gửi Em, Người Bất Tử",
         "channel_id": 1381868591498002462,
@@ -1021,15 +1030,6 @@
         "title": "Thuế Trừng Giả",
         "channel_id": 1387290233959219301,
         "last_chapter": 160,
-        "update_date": "26/06/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 287,
         "update_date": "26/06/2025",
         "source": "truyenqqto",
         "error": null
