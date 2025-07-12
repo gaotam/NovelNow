@@ -7,6 +7,7 @@ from providers.base import BaseProvider
 
 logger = setup_logger()
 
+
 @dataclass
 class Story:
     id: str
@@ -77,7 +78,7 @@ class Story:
                 self.last_chapter = latest_chapter
                 self.update_date = date_chapter
                 self.is_new_chapter = True
-                self.display()
+                self.display(index_title=f"{index_title}{self.title}", is_in_running=True)
             elif self.error:
                 logger.info(f"{index_title}{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
             else:
@@ -132,7 +133,7 @@ class Story:
         else:
             self.set_error(error_type)
 
-    def channel_message(self):
+    def channel_message(self, is_in_running: bool = False):
         """
         Generates a message string based on the story's chapter information.
 
@@ -145,9 +146,15 @@ class Story:
                  the update date.
         """
         link = self.provider.get_link_chapter(self.last_chapter)
-        if self.new_chapter > 1:
-            return f"Chương **{self.last_chapter}** (**{self.new_chapter}** chap mới) - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
-        return f"Chương **{self.last_chapter}** - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
+
+        if is_in_running:
+            if self.new_chapter > 1:
+                return f"Chương {self.last_chapter} ({self.new_chapter} chap mới) - {self.update_date}"
+            return f"Chương {self.last_chapter} - {self.update_date}"
+        else:
+            if self.new_chapter > 1:
+                return f"Chương **{self.last_chapter}** (**{self.new_chapter}** chap mới) - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
+            return f"Chương **{self.last_chapter}** - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
 
     def channel_general(self):
         """
@@ -162,5 +169,8 @@ class Story:
         """
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
-    def display(self):
-        logger.info(f"{self.title} -> {self.channel_message()}")
+    def display(self, index_title: str = "", is_in_running: bool = False):
+        if is_in_running:
+            logger.info(f"{index_title}{self.title} -> {self.channel_message(is_in_running)}")
+        else:
+            logger.info(f"{self.title} -> {self.channel_message()}")
