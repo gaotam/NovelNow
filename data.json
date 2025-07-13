@@ -3,8 +3,8 @@
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
-        "last_chapter": 1400,
-        "update_date": "12/07/2025",
+        "last_chapter": 1403,
+        "update_date": "13/07/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -12,8 +12,8 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1863,
-        "update_date": "12/07/2025",
+        "last_chapter": 1864,
+        "update_date": "13/07/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -21,7 +21,151 @@
         "id": "the-thao-cuc-han-2641",
         "title": "Thể Thao Cực Hạn",
         "channel_id": 1374603526201937960,
-        "last_chapter": 558,
+        "last_chapter": 559,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tap-huyet-16816",
+        "title": "Tạp Huyết",
+        "channel_id": 1393808057645142086,
+        "last_chapter": 44,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "diep-vien-ma-giao-17196",
+        "title": "Điệp Viên Ma Giáo",
+        "channel_id": 1393810304240193616,
+        "last_chapter": 22,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-nhom-10229",
+        "title": "Học Nhóm",
+        "channel_id": 1393813974109262015,
+        "last_chapter": 283,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-doi-dan-cu-16743",
+        "title": "Tuyệt Đối Dân Cư",
+        "channel_id": 1393817115559202907,
+        "last_chapter": 38,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ong-trum-tro-lai-15061",
+        "title": "Ông Trùm Trở Lại",
+        "channel_id": 1393816223510433862,
+        "last_chapter": 84,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 75,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 49,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
+        "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
+        "channel_id": 1393808736690114641,
+        "last_chapter": 136,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 399,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 726,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
+        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
+        "channel_id": 1374605940166365294,
+        "last_chapter": 246,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tho-ren-huyen-thoai-9311",
+        "title": "Thợ Rèn Huyền Thoại",
+        "channel_id": 1374604035591639100,
+        "last_chapter": 285,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-quan-lam-16245",
+        "title": "Tuyệt Thế Quân Lâm",
+        "channel_id": 1389226676344324146,
+        "last_chapter": 51,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 214,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-tu-dang-ngo-lai-la-cao-thu-15252",
+        "title": "Tiểu Tử Đáng Ngờ Lại Là Cao Thủ",
+        "channel_id": 1389226409796436069,
+        "last_chapter": 99,
+        "update_date": "13/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "lua-dao-bang-giong-noi-lam-dao-lon-cuoc-song-cua-ban-16139",
+        "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
+        "channel_id": 1393802419548327987,
+        "last_chapter": 43,
         "update_date": "12/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -31,6 +175,69 @@
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
         "last_chapter": 44,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 47,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-de-nhat-17290",
+        "title": "Người Chơi Đệ Nhất",
+        "channel_id": 1393821558174257223,
+        "last_chapter": 59,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hand-jumper-16649",
+        "title": "Hand Jumper",
+        "channel_id": 1393820926017146890,
+        "last_chapter": 88,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quan-ca-phe-nu-than-11030",
+        "title": "Quán Cà Phê Nữ Thần",
+        "channel_id": 1393819462347653160,
+        "last_chapter": 197,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
+        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
+        "channel_id": 1393818779523354705,
+        "last_chapter": 47,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mat-the-hau-can-16141",
+        "title": "Mạt Thế Hậu Cần",
+        "channel_id": 1393818394880507924,
+        "last_chapter": 51,
+        "update_date": "12/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thinh-thich-moi-som-mai-15842",
+        "title": "Thình Thịch Mỗi Sớm Mai",
+        "channel_id": 1393817771565125702,
+        "last_chapter": 19,
         "update_date": "12/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -67,24 +274,6 @@
         "title": "Yêu Thần Ký",
         "channel_id": 1372025537446547577,
         "last_chapter": 648,
-        "update_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 398,
-        "update_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 725,
         "update_date": "12/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -783,24 +972,6 @@
         "error": null
     },
     {
-        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
-        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
-        "channel_id": 1374605940166365294,
-        "last_chapter": 245,
-        "update_date": "06/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tho-ren-huyen-thoai-9311",
-        "title": "Thợ Rèn Huyền Thoại",
-        "channel_id": 1374604035591639100,
-        "last_chapter": 284,
-        "update_date": "06/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
         "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
         "channel_id": 1380007350437543937,
@@ -842,15 +1013,6 @@
         "channel_id": 1374613564291285063,
         "last_chapter": 131,
         "update_date": "06/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-quan-lam-16245",
-        "title": "Tuyệt Thế Quân Lâm",
-        "channel_id": 1389226676344324146,
-        "last_chapter": 50,
-        "update_date": "05/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1017,29 +1179,11 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 213,
-        "update_date": "26/06/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thue-trung-gia-16398",
         "title": "Thuế Trừng Giả",
         "channel_id": 1387290233959219301,
         "last_chapter": 160,
         "update_date": "26/06/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-tu-dang-ngo-lai-la-cao-thu-15252",
-        "title": "Tiểu Tử Đáng Ngờ Lại Là Cao Thủ",
-        "channel_id": 1389226409796436069,
-        "last_chapter": 98,
-        "update_date": "25/06/2025",
         "source": "truyenqqto",
         "error": null
     },
