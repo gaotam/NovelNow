@@ -171,6 +171,6 @@ class Story:
 
     def display(self, index_title: str = "", is_in_running: bool = False):
         if is_in_running:
-            logger.info(f"{index_title}{self.title} -> {self.channel_message(is_in_running)}")
+            logger.info(f"{index_title} -> {self.channel_message(is_in_running)}")
         else:
             logger.info(f"{self.title} -> {self.channel_message()}")
