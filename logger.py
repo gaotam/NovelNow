@@ -5,6 +5,11 @@ from pathlib import Path
 LOG_DIR = Path("logs")
 LOG_DIR.mkdir(exist_ok=True)
 
+class PrefixAdapter(logging.LoggerAdapter):
+    def process(self, msg, kwargs):
+        prefix = self.extra.get("prefix", "")
+        return f"{prefix}{msg}", kwargs
+
 class ColorFormatter(logging.Formatter):
     COLOR_MAP = {
         logging.DEBUG: "\033[37m",     # Trắng

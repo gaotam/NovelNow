@@ -1,12 +1,9 @@
-from dataclasses import dataclass
-from typing import Optional
-from consts.errors import StoryError
-from logger import setup_logger
+from dataclasses import dataclass, field
+from typing import Optional, Literal
+from logging import LoggerAdapter, getLogger
 from providers import PROVIDER_MAP
+from consts.errors import StoryError
 from providers.base import BaseProvider
-
-logger = setup_logger()
-
 
 @dataclass
 class Story:
@@ -20,6 +17,7 @@ class Story:
     error: Optional[StoryError] = None
     is_new_chapter: bool = False
     provider: BaseProvider = None
+    logger: LoggerAdapter = field(default=getLogger("story"), repr=False, compare=False)
 
     def __post_init__(self):
         """
@@ -59,10 +57,10 @@ class Story:
             "last_chapter": self.last_chapter,
             "update_date": self.update_date,
             "source": self.source,
-            "error": self.error if self.error else None,
+            "error": self.error.value if self.error else None,
         }
 
-    def get_latest_chapter(self, index_title):
+    def get_latest_chapter(self):
         """
         Retrieves the latest chapter information from the provider and updates the story's state.
 
@@ -78,13 +76,13 @@ class Story:
                 self.last_chapter = latest_chapter
                 self.update_date = date_chapter
                 self.is_new_chapter = True
-                self.display(index_title=f"{index_title}{self.title}", is_in_running=True)
+                self.display()
             elif self.error:
-                logger.info(f"{index_title}{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
+                self.logger.info(f"{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
             else:
-                logger.info(f"{index_title}{self.title} -> Chưa có chap mới")
+                self.logger.info(f"{self.title} -> Chưa có chap mới")
         except Exception as e:
-            logger.error(f"{index_title}{self.title} -> {e}")
+            self.logger.error(f"{self.title} -> {e}")
 
     def needs_attention(self) -> bool:
         """
@@ -133,28 +131,37 @@ class Story:
         else:
             self.set_error(error_type)
 
-    def channel_message(self, is_in_running: bool = False):
+    def channel_message(self, format: Literal["plain", "rich"] = "rich"):
         """
-        Generates a message string based on the story's chapter information.
+        Generates a formatted message for the story's latest chapter.
 
-        This method checks if there are multiple new chapters available. If so, it
-        includes the number of new chapters in the message. Otherwise, it returns
-        a message with the last chapter information.
+        This method creates a message string based on the specified format, either "plain" or "rich".
+        The message includes details about the latest chapter, the number of new chapters, the update date,
+        and a link to the chapter if the "rich" format is selected.
+
+        Args:
+            format (Literal["plain", "rich"]): The format of the message.
+                - "plain": Returns a simple text message.
+                - "rich": Returns a message with rich formatting, including bold text and a clickable link.
 
         Returns:
-            str: A formatted message string containing the chapter information and
-                 the update date.
+            str: A formatted message string containing the latest chapter information.
+
+        Raises:
+            ValueError: If the specified format is not "plain" or "rich".
         """
         link = self.provider.get_link_chapter(self.last_chapter)
 
-        if is_in_running:
+        if format == "plain":
             if self.new_chapter > 1:
                 return f"Chương {self.last_chapter} ({self.new_chapter} chap mới) - {self.update_date}"
             return f"Chương {self.last_chapter} - {self.update_date}"
-        else:
+        elif format == "rich":
             if self.new_chapter > 1:
                 return f"Chương **{self.last_chapter}** (**{self.new_chapter}** chap mới) - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
             return f"Chương **{self.last_chapter}** - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
+        else:
+            raise ValueError(f"Unknown format: {format}")
 
     def channel_general(self):
         """
@@ -169,8 +176,5 @@ class Story:
         """
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
-    def display(self, index_title: str = "", is_in_running: bool = False):
-        if is_in_running:
-            logger.info(f"{index_title} -> {self.channel_message(is_in_running)}")
-        else:
-            logger.info(f"{self.title} -> {self.channel_message()}")
+    def display(self):
+        self.logger.info(f"{self.title} -> {self.channel_message(format='plain')}")

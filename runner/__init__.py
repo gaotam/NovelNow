@@ -4,7 +4,7 @@ from typing import List, Dict
 
 from consts.errors import StoryError
 from .story import Story
-from logger import setup_logger
+from logger import setup_logger, PrefixAdapter
 from utils.config import get_config
 from utils.discord import DiscordClient
 from utils.datetime import get_time_now_format
@@ -51,8 +51,9 @@ class Runner:
             Exception: If there is an issue fetching the latest chapter for a story.
         """
         for index, story in enumerate(self.stories):
-            index_title = f"[Fetching {index + 1}/{len(self.stories)}] - "
-            story.get_latest_chapter(index_title)
+            prefix = f"[Đang xử lý {index + 1}/{len(self.stories)}] - "
+            story.logger = PrefixAdapter(logger, {"prefix": prefix})
+            story.get_latest_chapter()
             time.sleep(get_config("common.story_fetch_delay_sec"))
 
     def prepare(self):
@@ -122,13 +123,14 @@ class Runner:
         sorted_stories = Runner.sort_by_update_date(filtered_stories)
         chunk_stories = chunk_by_size(sorted_stories, get_config("discord.general_channel_chunk_size"))
 
-        success = True
         for i, chunk in enumerate(chunk_stories):
+            success = True
             lines = [story.channel_general() for story in chunk]
             message = header + "\n" + "\n".join(lines) if i == 0 else "\n".join(lines)
 
             try:
                 self.discord_client.send_message(channel_id, message)
+                logger.info(f"✅ Gửi thông báo vào kênh chung thành công. (chunk {i + 1}/{len(chunk_stories)}).")
             except Exception:
                 success = False
 
@@ -136,9 +138,6 @@ class Runner:
                 part_story.resolve_or_set_error(success, StoryError.SEND_DISCORD_GENERAL)
 
             time.sleep(get_config('discord.general_send_delay_sec'))
-
-        if success:
-            logger.info("✅ Gửi thông báo vào kênh chung thành công.")
 
     def confirm_and_send_discord(self):
         """
@@ -157,7 +156,6 @@ class Runner:
             return
 
         stories_to_process = [s for s in self.stories if s.needs_attention()]
-        logger.info(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
         if not stories_to_process:
             logger.info(f"🚫 Không truyện nào có chương mới.")
             return
