@@ -160,6 +160,8 @@ class Runner:
             logger.info(f"🚫 Không truyện nào có chương mới.")
             return
 
+        logger.info(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
+
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
