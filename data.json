@@ -39,7 +39,7 @@
         "id": "chuong-mon-khiem-ton-chut-11685",
         "title": "Chưởng Môn Khiêm Tốn Chút",
         "channel_id": 1358986879126736936,
-        "last_chapter": 528,
+        "last_chapter": 529,
         "update_date": "14/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -102,7 +102,7 @@
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
-        "last_chapter": 126,
+        "last_chapter": 127,
         "update_date": "14/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -112,6 +112,87 @@
         "title": "Bản Chất Của Chuyển Sinh",
         "channel_id": 1387285252862509096,
         "last_chapter": 143,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 597,
+        "update_date": "14/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "139812",
+        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
+        "channel_id": 1361193789661909082,
+        "last_chapter": 335,
+        "update_date": "14/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
+        "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
+        "channel_id": 1387291211068346511,
+        "last_chapter": 151,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
+        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
+        "channel_id": 1378408236453204018,
+        "last_chapter": 180,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 166,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
+        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
+        "channel_id": 1385913211986907186,
+        "last_chapter": 213,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-chi-ton-11261",
+        "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
+        "last_chapter": 440,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gui-em-nguoi-bat-tu-3025",
+        "title": "Gửi Em, Người Bất Tử",
+        "channel_id": 1381868591498002462,
+        "last_chapter": 176,
+        "update_date": "14/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "yancha-gal-no-anjou-san-series-6492",
+        "title": "Yancha Gal No Anjou-San Series",
+        "channel_id": 1380009000988315701,
+        "last_chapter": 174,
         "update_date": "14/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -267,15 +348,6 @@
         "last_chapter": 99,
         "update_date": "13/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 596,
-        "update_date": "13/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -465,15 +537,6 @@
         "last_chapter": 648,
         "update_date": "12/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "139812",
-        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
-        "channel_id": 1361193789661909082,
-        "last_chapter": 334,
-        "update_date": "12/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -702,24 +765,6 @@
         "error": null
     },
     {
-        "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
-        "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
-        "channel_id": 1387291211068346511,
-        "last_chapter": 150,
-        "update_date": "10/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
-        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
-        "channel_id": 1378408236453204018,
-        "last_chapter": 179,
-        "update_date": "10/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
@@ -761,15 +806,6 @@
         "channel_id": 1374645008161837117,
         "last_chapter": 121,
         "update_date": "10/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-vien-toi-thuong-12539",
-        "title": "Học Viện Tối Thượng",
-        "channel_id": 1392441923872227491,
-        "last_chapter": 165,
-        "update_date": "09/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -981,15 +1017,6 @@
         "error": null
     },
     {
-        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
-        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
-        "channel_id": 1385913211986907186,
-        "last_chapter": 212,
-        "update_date": "07/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
         "title": "Người Chơi Trở Lại Sau 10000 Năm",
         "channel_id": 1383789664300699740,
@@ -1012,15 +1039,6 @@
         "title": "Ta Không Muốn Trùng Sinh Đâu",
         "channel_id": 1374601516991647896,
         "last_chapter": 437,
-        "update_date": "07/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-chi-ton-11261",
-        "title": "Vạn Cổ Chí Tôn",
-        "channel_id": 1358993391534215350,
-        "last_chapter": 438,
         "update_date": "07/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1138,15 +1156,6 @@
         "title": "Thiếu Gia Chủ Của Gia Tộc Tử Linh Sư",
         "channel_id": 1387284963266789406,
         "last_chapter": 34,
-        "update_date": "01/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gui-em-nguoi-bat-tu-3025",
-        "title": "Gửi Em, Người Bất Tử",
-        "channel_id": 1381868591498002462,
-        "last_chapter": 175,
         "update_date": "01/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1445,15 +1454,6 @@
         "channel_id": 1374624181324353607,
         "last_chapter": 157,
         "update_date": "05/03/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "yancha-gal-no-anjou-san-series-6492",
-        "title": "Yancha Gal No Anjou-San Series",
-        "channel_id": 1380009000988315701,
-        "last_chapter": 171,
-        "update_date": "12/02/2025",
         "source": "truyenqqto",
         "error": null
     },
