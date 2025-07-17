@@ -39,7 +39,7 @@
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
-        "last_chapter": 1176,
+        "last_chapter": 1177,
         "update_date": "17/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -90,21 +90,48 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 600,
+        "update_date": "17/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
+        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
+        "channel_id": 1374646460494381158,
+        "last_chapter": 320,
+        "update_date": "17/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
+        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
+        "channel_id": 1378408236453204018,
+        "last_chapter": 181,
+        "update_date": "17/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
+        "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
+        "channel_id": 1380005184993886318,
+        "last_chapter": 269,
+        "update_date": "17/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
         "last_chapter": 255,
         "update_date": "16/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 599,
-        "update_date": "16/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -130,15 +157,6 @@
         "title": "Điệp Viên Ma Giáo",
         "channel_id": 1393810304240193616,
         "last_chapter": 24,
-        "update_date": "16/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
-        "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
-        "channel_id": 1374646460494381158,
-        "last_chapter": 319,
         "update_date": "16/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -481,15 +499,6 @@
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
         "last_chapter": 127,
-        "update_date": "14/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
-        "title": "Tử Linh Sư Thiên Tài Của Học Viện",
-        "channel_id": 1378408236453204018,
-        "last_chapter": 180,
         "update_date": "14/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1093,15 +1102,6 @@
         "title": "Ông Võ Giả Và Cháu Chí Tôn",
         "channel_id": 1375006678021439488,
         "last_chapter": 99,
-        "update_date": "04/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
-        "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
-        "channel_id": 1380005184993886318,
-        "last_chapter": 268,
         "update_date": "04/07/2025",
         "source": "truyenqqto",
         "error": null
