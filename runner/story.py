@@ -142,7 +142,7 @@ class Story:
         Args:
             format (Literal["plain", "rich"]): The format of the message.
                 - "plain": Returns a simple text message.
-                - "rich": Returns a message with rich formatting, including bold text and a clickable link.
+                - "rich": Returns a message with rich formatting, including a bold text and a clickable link.
 
         Returns:
             str: A formatted message string containing the latest chapter information.
@@ -177,4 +177,4 @@ class Story:
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
-        self.logger.info(f"{self.title} -> {self.channel_message(format='plain')}")
+        self.logger.warning(f"{self.title} -> {self.channel_message(format='plain')}")
