@@ -1,5 +1,32 @@
 [
     {
+        "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
+        "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
+        "channel_id": 1387291211068346511,
+        "last_chapter": 152,
+        "update_date": "17/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nano-ma-than",
+        "title": "Nano Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 269,
+        "update_date": "17/07/2025",
+        "source": "goctruyentranhvui",
+        "error": null
+    },
+    {
+        "id": "bat-dau-danh-dau-hoang-co-thanh-the",
+        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+        "channel_id": 1377466581030010922,
+        "last_chapter": 110,
+        "update_date": "17/07/2025",
+        "source": "goctruyentranhvui",
+        "error": null
+    },
+    {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
@@ -30,7 +57,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1867,
+        "last_chapter": 1868,
         "update_date": "16/07/2025",
         "source": "metruyenchu",
         "error": null
@@ -189,6 +216,24 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2433,
+        "update_date": "16/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
+        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
+        "channel_id": 1374645008161837117,
+        "last_chapter": 122,
+        "update_date": "16/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -315,15 +360,6 @@
         "error": null
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2432,
-        "update_date": "15/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
         "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
         "channel_id": 1393818779523354705,
@@ -400,15 +436,6 @@
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
         "last_chapter": 127,
-        "update_date": "14/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
-        "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
-        "channel_id": 1387291211068346511,
-        "last_chapter": 151,
         "update_date": "14/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -918,15 +945,6 @@
         "error": null
     },
     {
-        "id": "nano-ma-than",
-        "title": "Nano Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 268,
-        "update_date": "10/07/2025",
-        "source": "goctruyentranhvui",
-        "error": null
-    },
-    {
         "id": "doi-truong-linh-danh-thue-9416",
         "title": "Đội Trưởng Lính Đánh Thuê",
         "channel_id": 1387285926774050909,
@@ -945,15 +963,6 @@
         "error": null
     },
     {
-        "id": "bat-dau-danh-dau-hoang-co-thanh-the",
-        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
-        "channel_id": 1377466581030010922,
-        "last_chapter": 109,
-        "update_date": "10/07/2025",
-        "source": "goctruyentranhvui",
-        "error": null
-    },
-    {
         "id": "gacha-vo-han-13496",
         "title": "Gacha Vô Hạn",
         "channel_id": 1359003439941554226,
@@ -967,15 +976,6 @@
         "title": "Nền Văn Minh Nebula",
         "channel_id": 1374646772709855284,
         "last_chapter": 98,
-        "update_date": "10/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
-        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
-        "channel_id": 1374645008161837117,
-        "last_chapter": 121,
         "update_date": "10/07/2025",
         "source": "truyenqqto",
         "error": null
