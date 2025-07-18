@@ -1,5 +1,41 @@
 [
     {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 400,
+        "update_date": "18/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bac-thay-thiet-ke-dien-trang-11846",
+        "title": "Bậc Thầy Thiết Kế Điền Trang",
+        "channel_id": 1374609754286063656,
+        "last_chapter": 201,
+        "update_date": "18/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 564,
+        "update_date": "18/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hom-nay-toi-hoa-kaiju-10054",
+        "title": "Hôm Nay - Tôi Hóa Kaiju",
+        "channel_id": 1375007013456838780,
+        "last_chapter": 126,
+        "update_date": "18/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
         "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
         "channel_id": 1387291211068346511,
@@ -126,21 +162,30 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1869,
+        "update_date": "17/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2434,
+        "update_date": "17/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
         "last_chapter": 255,
         "update_date": "16/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1868,
-        "update_date": "16/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -276,15 +321,6 @@
         "last_chapter": 659,
         "update_date": "16/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2433,
-        "update_date": "16/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -612,15 +648,6 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 399,
-        "update_date": "13/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -819,15 +846,6 @@
         "error": null
     },
     {
-        "id": "bac-thay-thiet-ke-dien-trang-11846",
-        "title": "Bậc Thầy Thiết Kế Điền Trang",
-        "channel_id": 1374609754286063656,
-        "last_chapter": 200,
-        "update_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
         "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp Sss",
         "channel_id": 1375004863217274881,
@@ -904,15 +922,6 @@
         "title": "Quái Vật Sinh Ra Từ Linh Hồn Chết Chóc",
         "channel_id": 1392442835688488993,
         "last_chapter": 246,
-        "update_date": "11/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 563,
         "update_date": "11/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1419,15 +1428,6 @@
         "last_chapter": 633,
         "update_date": "25/03/2025",
         "source": "goctruyentranhvui",
-        "error": null
-    },
-    {
-        "id": "hom-nay-toi-hoa-kaiju-10054",
-        "title": "Hôm Nay - Tôi Hóa Kaiju",
-        "channel_id": 1375007013456838780,
-        "last_chapter": 122,
-        "update_date": "15/03/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
