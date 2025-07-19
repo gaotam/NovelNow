@@ -1,5 +1,50 @@
 [
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1870,
+        "update_date": "19/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 287,
+        "update_date": "19/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 440,
+        "update_date": "19/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
+        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+        "channel_id": 1372427575858692198,
+        "last_chapter": 224,
+        "update_date": "19/07/2025",
+        "source": "goctruyentranhvui",
+        "error": null
+    },
+    {
+        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
+        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
+        "channel_id": 1378407667760103624,
+        "last_chapter": 43,
+        "update_date": "19/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
@@ -144,6 +189,24 @@
         "error": null
     },
     {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1178,
+        "update_date": "18/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2435,
+        "update_date": "18/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
         "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
         "channel_id": 1387291211068346511,
@@ -168,15 +231,6 @@
         "last_chapter": 110,
         "update_date": "17/07/2025",
         "source": "goctruyentranhvui",
-        "error": null
-    },
-    {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1177,
-        "update_date": "17/07/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -249,24 +303,6 @@
         "last_chapter": 181,
         "update_date": "17/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1869,
-        "update_date": "17/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2434,
-        "update_date": "17/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -873,15 +909,6 @@
         "error": null
     },
     {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 286,
-        "update_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "goc-cao-khung-thanh-15222",
         "title": "Góc Cao Khung Thành",
         "channel_id": 1374602431878660116,
@@ -906,24 +933,6 @@
         "last_chapter": 403,
         "update_date": "12/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 439,
-        "update_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
-        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
-        "channel_id": 1372427575858692198,
-        "last_chapter": 223,
-        "update_date": "12/07/2025",
-        "source": "goctruyentranhvui",
         "error": null
     },
     {
@@ -1247,15 +1256,6 @@
         "channel_id": 1374621474949693460,
         "last_chapter": 161,
         "update_date": "21/06/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
-        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
-        "channel_id": 1378407667760103624,
-        "last_chapter": 39,
-        "update_date": "20/06/2025",
         "source": "truyenqqto",
         "error": null
     },
