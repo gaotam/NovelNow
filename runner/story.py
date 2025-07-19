@@ -1,6 +1,8 @@
 from dataclasses import dataclass, field
 from typing import Optional, Literal
 from logging import LoggerAdapter, getLogger
+
+from models.story_info import StoryStatus
 from providers import PROVIDER_MAP
 from consts.errors import StoryError
 from providers.base import BaseProvider
@@ -9,13 +11,16 @@ from providers.base import BaseProvider
 class Story:
     id: str
     title: str
-    last_chapter: int
-    update_date: str
     source: str
     channel_id: int
-    new_chapter: int = 0
+    last_chapter: int
+    latest_chapter_date: str
     error: Optional[StoryError] = None
+
+    # Attributes not written to the json file
     is_new_chapter: bool = False
+    is_completed: bool = False
+    new_chapters_count: int = 0
     provider: BaseProvider = None
     logger: LoggerAdapter = field(default=getLogger("story"), repr=False, compare=False)
 
@@ -47,7 +52,7 @@ class Story:
                 - "id" (Any): The unique identifier of the story.
                 - "title" (str): The title of the story.
                 - "last_chapter" (Any): Information about the last chapter of the story.
-                - "update_date" (Any): The date when the story was last updated.
+                - "latest_chapter_date" (Any): The date when the story was last updated.
                 - "source" (Any): The source of the story.
         """
         return {
@@ -55,7 +60,7 @@ class Story:
             "title": self.title,
             "channel_id": self.channel_id,
             "last_chapter": self.last_chapter,
-            "update_date": self.update_date,
+            "latest_chapter_date": self.latest_chapter_date,
             "source": self.source,
             "error": self.error.value if self.error else None,
         }
@@ -66,16 +71,18 @@ class Story:
 
         This method fetches the latest chapter number and its associated date from the provider.
         If a new chapter is available (i.e., the chapter number is greater than 0), it updates
-        the `last_chapter` and `update_date` attributes of the story, sets the `is_new_chapter`
+        the `last_chapter` and `latest_chapter_date` attributes of the story, sets the `is_new_chapter`
         flag to True, and triggers the display of the updated information.
         """
         try:
-            latest_chapter, date_chapter = self.provider.get_latest_chapter()
+            story_info = self.provider.get_story_info()
+            latest_chapter = story_info.latest_chapter
             if latest_chapter > 0:
-                self.new_chapter = latest_chapter - self.last_chapter
-                self.last_chapter = latest_chapter
-                self.update_date = date_chapter
                 self.is_new_chapter = True
+                self.new_chapters_count = latest_chapter - self.last_chapter
+                self.last_chapter = latest_chapter
+                self.latest_chapter_date = story_info.latest_chapter_date
+                self.is_completed = story_info.status == StoryStatus.COMPLETED
                 self.display()
             elif self.error:
                 self.logger.info(f"{self.title} -> Có lỗi {self.error.value} sẽ tiến hành xử lý")
@@ -152,14 +159,24 @@ class Story:
         """
         link = self.provider.get_link_chapter(self.last_chapter)
 
-        if format == "plain":
-            if self.new_chapter > 1:
-                return f"Chương {self.last_chapter} ({self.new_chapter} chap mới) - {self.update_date}"
-            return f"Chương {self.last_chapter} - {self.update_date}"
-        elif format == "rich":
-            if self.new_chapter > 1:
-                return f"Chương **{self.last_chapter}** (**{self.new_chapter}** chap mới) - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
-            return f"Chương **{self.last_chapter}** - Ngày cập nhật: **{self.update_date}** - [[Link-đọc]({link})]"
+        if self.is_completed:
+            chapter_plain = "Hoàn thành"
+            chapter_rich = "**Hoàn thành**"
+        else:
+            if self.new_chapters_count > 1:
+                chapter_plain = f"Chương {self.last_chapter} ({self.new_chapters_count} chap mới)"
+                chapter_rich = f"Chương **{self.last_chapter}** (**{self.new_chapters_count}** chap mới)"
+            else:
+                chapter_plain = f"Chương {self.last_chapter}"
+                chapter_rich = f"Chương **{self.last_chapter}**"
+
+        if format == "rich":
+            return (
+                f"{chapter_rich} - Ngày cập nhật: **{self.latest_chapter_date}** - "
+                f"[[Link-đọc]({link})]"
+            )
+        elif format == "plain":
+            return f"{chapter_plain} - {self.latest_chapter_date}"
         else:
             raise ValueError(f"Unknown format: {format}")
 
@@ -177,4 +194,4 @@ class Story:
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
-        self.logger.warning(f"{self.title} -> {self.channel_message(format='plain')}")
+        self.logger.info(f"{self.title} -> {self.channel_message(format='plain')}")

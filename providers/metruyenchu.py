@@ -2,6 +2,7 @@ from typing import Optional
 from .base import BaseProvider
 from consts import ProviderName
 from consts.enpoint import ENDPOINTS
+from models.story_info import StoryInfo, StoryStatus
 from utils import extract_chapter_number
 from utils.datetime import iso_to_ddmmyyyy
 
@@ -26,17 +27,29 @@ class MeChuyenChuProvider(BaseProvider):
         res = super().request_get(ENDPOINTS[ProviderName.METRUYENCHU], params=params)
         return res.json() if res else None
 
-    def get_latest_chapter(self) -> tuple[int, str]:
-        res = self.fetch_api()
-        self.novel_link = res['extra']['book']['link']
-        self.latest_chapter = res['extra']['book']['latest_index']
-        latest_chapter_info = res['data'][-1]
-        latest_chapter = extract_chapter_number(latest_chapter_info['name'])
-        date_chapter = iso_to_ddmmyyyy(latest_chapter_info['published_at'])
+    def get_story_info(self) -> StoryInfo:
+        """
+        Retrieves detailed information about the story, including the latest chapter, its release date, and status.
 
+        This method fetches the HTML content of the story page, parses it to extract the latest chapter information,
+        and determines the story's status (e.g., ongoing or completed). If the latest chapter matches the previously
+        recorded chapter, an empty `StoryInfo` object is returned.
+        """
+        res = self.fetch_api()
+        if not res or 'extra' not in res or 'book' not in res['extra'] or not res['data']:
+            return StoryInfo.empty()
+
+        book_info = res['extra']['book']
+        self.novel_link = book_info.get('link', "")
+        self.latest_chapter = book_info.get('latest_index', 0)
+        latest_chapter_info = res['data'][-1]
+        latest_chapter = extract_chapter_number(latest_chapter_info.get('name', ""))
         if latest_chapter == self.last_chapter:
-            return 0, ""
-        return latest_chapter, date_chapter
+            return StoryInfo.empty()
+
+        latest_chapter_date = iso_to_ddmmyyyy(latest_chapter_info.get('published_at', ""))
+        status = StoryStatus.COMPLETED if res['extra']['book']['status'] == 2 else StoryStatus.ONGOING
+        return StoryInfo(latest_chapter, latest_chapter_date, status)
 
     def get_link_chapter(self, chapter: int) -> str:
         """
