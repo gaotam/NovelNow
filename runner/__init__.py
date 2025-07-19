@@ -37,7 +37,7 @@ class Runner:
                 # Return a very old date for items with invalid dates
                 return datetime(1900, 1, 1)
 
-        return sorted(data, key=lambda x: parse_date(x.update_date), reverse=True)
+        return sorted(data, key=lambda x: parse_date(x.latest_chapter_date), reverse=True)
 
     def fetch_latest_chapters(self):
         """
@@ -66,19 +66,17 @@ class Runner:
 
     def update_data(self):
         """
-        Updates the data file with the latest story information.
+        Updates the data file with the latest information about uncompleted stories.
 
-        This method iterates through the list of stories, converts each story
-        to a dictionary representation, and writes the updated list of stories
-        to a JSON file. The stories are sorted by their update date before
-        being written to the file.
-
-        The method also prints a confirmation message upon successful update.
+        This method filters the list of stories to include only those that are not completed,
+        sorts them by their update date in descending order, converts them to dictionary format,
+        and writes the updated data to a JSON file. It also logs a success message upon completion.
 
         Raises:
             Exception: If there is an issue writing to the JSON file.
         """
-        data = [story.to_dict() for story in Runner.sort_by_update_date(self.stories)]
+        uncompleted_stories = [story for story in self.stories if not story.is_completed]
+        data = [story.to_dict() for story in Runner.sort_by_update_date(uncompleted_stories)]
         write_json_file(self.data_path, data)
         logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
 

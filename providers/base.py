@@ -3,6 +3,7 @@ from typing import Optional
 from bs4 import BeautifulSoup
 from abc import ABC, abstractmethod
 from logger import setup_logger
+from models.story_info import StoryInfo
 
 logger = setup_logger()
 
@@ -60,7 +61,7 @@ class BaseProvider(ABC):
         self.last_chapter = last_chapter
 
     @abstractmethod
-    def get_latest_chapter(self) -> tuple[int, str]:
+    def get_story_info(self) -> StoryInfo:
         """
             Abstract method to retrieve the latest chapter information.
 
