@@ -75,6 +75,10 @@ class Runner:
         Raises:
             Exception: If there is an issue writing to the JSON file.
         """
+        stories_to_process = self.get_stories_to_process()
+        if not stories_to_process:
+            return
+
         uncompleted_stories = [story for story in self.stories if not story.is_completed]
         data = [story.to_dict() for story in Runner.sort_by_update_date(uncompleted_stories)]
         write_json_file(self.data_path, data)
@@ -153,18 +157,22 @@ class Runner:
             logger.warning("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
-        stories_to_process = [s for s in self.stories if s.needs_attention()]
+        stories_to_process = self.get_stories_to_process()
+
         if not stories_to_process:
             logger.info(f"🚫 Không truyện nào có chương mới.")
             return
 
-        logger.info(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
+        logger.warning(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
 
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
             self.send_general_channel(stories_to_process)
             self.send_story_channels(stories_to_process)
+
+    def get_stories_to_process(self):
+        return [s for s in self.stories if s.needs_attention()]
 
     def run(self):
         logger.info(f"🚀 Đang khởi động...")

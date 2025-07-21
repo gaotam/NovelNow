@@ -31,9 +31,13 @@ class GocTruyenTranhVuiProvider(BaseProvider):
 
         url = f"{ENDPOINTS[ProviderName.GOCTRUYENTRANHVUI]}/{self.id}"
         headers = {
-            "User-Agent": "PostmanRuntime/7.43.0"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
         }
-        res = super().request_get(url, headers=headers)
+
+        cookies = {
+            "cf_clearance": "44cY_F5.X28g00jPbh25eNFndgdB1S2alZtbrUsNKc4-1753067266-1.2.1.1-IvcVVExeetwA0TDdEntFaRnH0jnRQ0GxmHxwFa0WOq7f3Svx3TLgWGKQn8BOEPUeUREY4jkR5.cqyLvrRH9agch0YoX9fAGufYUFEoSyPLQ03PnNd35cJDw.OaIgs1EyDAz4RBh.a3.FpXX7_V37XK5IR.yZkxH5I0nJFbNHMFVlKzitXJC8CJ5Js_iRSy55hvck0MMURPOU0mpxX9p2pD9GpCTSQ4BPHv7d6xSQ1XwSZUJuWoPGSg00dPjKl6Jq"
+        }
+        res = super().request_get(url, headers=headers, cookies=cookies)
         return res.text if res else None
 
     def get_story_info(self) -> StoryInfo:
