@@ -35,7 +35,7 @@ class GocTruyenTranhVuiProvider(BaseProvider):
         }
 
         cookies = {
-            "cf_clearance": "44cY_F5.X28g00jPbh25eNFndgdB1S2alZtbrUsNKc4-1753067266-1.2.1.1-IvcVVExeetwA0TDdEntFaRnH0jnRQ0GxmHxwFa0WOq7f3Svx3TLgWGKQn8BOEPUeUREY4jkR5.cqyLvrRH9agch0YoX9fAGufYUFEoSyPLQ03PnNd35cJDw.OaIgs1EyDAz4RBh.a3.FpXX7_V37XK5IR.yZkxH5I0nJFbNHMFVlKzitXJC8CJ5Js_iRSy55hvck0MMURPOU0mpxX9p2pD9GpCTSQ4BPHv7d6xSQ1XwSZUJuWoPGSg00dPjKl6Jq"
+            "cf_clearance": "nCRbWlA5NrlQyAW8BBwYhUFgzpVb4VqBZddohLmzwvU-1753151485-1.2.1.1-76wRERpaxN91OEq9fjq6fzQmWAzd.Ia9g78211vDgLiAfYCLz7xRoci5JiwDKLlsc1z_qb1AtXkkHAGVQjwVgemJgL2m6C_ly34aLi75AsGokojb4tjD.NI43TxPr_8L_I5k3V9Ly.C18EvwzN_yajxrZsNbxYkSoVv98Ur60H1q8aPQJWmJBjBpSatvr_Lgg.g0CGGJOy9XCwIL0hvRbh.Lw8LtRrX87r.2cozykaYbmPmAm4B0lV9ZDssFdoWA"
         }
         res = super().request_get(url, headers=headers, cookies=cookies)
         return res.text if res else None
