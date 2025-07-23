@@ -194,4 +194,4 @@ class Story:
         return f"<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
-        self.logger.info(f"{self.title} -> {self.channel_message(format='plain')}")
+        self.logger.warning(f"{self.title} -> {self.channel_message(format='plain')}")
