@@ -1,4 +1,6 @@
 from typing import Optional
+
+from utils.config import get_config
 from .base import BaseProvider
 from consts import ProviderName
 from consts.enpoint import ENDPOINTS
@@ -14,6 +16,7 @@ class GocTruyenTranhVuiProvider(BaseProvider):
                 id (str): The unique identifier for the provider.
                 last_chapter (int, optional): The last chapter number. Defaults to 0.
         """
+        self.name = ProviderName.GOCTRUYENTRANHVUI.value
         super().__init__(id, last_chapter)
 
     def fetch_html(self) -> Optional[str]:
@@ -31,11 +34,10 @@ class GocTruyenTranhVuiProvider(BaseProvider):
 
         url = f"{ENDPOINTS[ProviderName.GOCTRUYENTRANHVUI]}/{self.id}"
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            "User-Agent": self.config['user_agent']
         }
-
         cookies = {
-            "cf_clearance": "s_ZvT2HcGjkBAgdyEQHQwccW8JWn97taw2tjrKpCfKs-1753234316-1.2.1.1-xYdxH_pQzk9epeTe6XkMWcR0XdzySEp7iDfJ326_jjRjwTC3UGKGSy.agsXQTF1jTOyTl1pIiygrbSoMVM0E1idyBQgQ2WgVztxYorXQJ7xCyRTpH8k24fM4jT681okzSNppBAVbkI3AZgGbxfBW9YZSrZ0ZhtRaYLfro8VSY4P_hEtwERep4o.n5Ztmbaouvrj1DJ01GnmaHOxYftMo3Ylkz4YLzyBzupIbp8c6RZe7p2Lxh9uc0kU7J5fVu_jq"
+            "cf_clearance": self.config['cf_clearance']
         }
         res = super().request_get(url, headers=headers, cookies=cookies)
         return res.text if res else None

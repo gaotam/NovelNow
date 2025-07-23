@@ -4,10 +4,28 @@ from bs4 import BeautifulSoup
 from abc import ABC, abstractmethod
 from logger import setup_logger
 from models.story_info import StoryInfo
+from utils.config import get_config
 
 logger = setup_logger()
 
 class BaseProvider(ABC):
+    @abstractmethod
+    def __init__(self, id: str, last_chapter: int = 0):
+        """
+            Initializes the BaseProvider instance.
+
+            Args:
+                id (str): The unique identifier for the provider.
+                last_chapter (int, optional): The last chapter number. Defaults to 0.
+        """
+        name = getattr(self, "name", None)
+        if name is not None:
+            self.config = get_config(f"provider.{name}")
+        else:
+            self.config = None
+        self.id = id
+        self.last_chapter = last_chapter
+
     @staticmethod
     def parse_html(html_content: str) -> BeautifulSoup:
         """
@@ -47,18 +65,6 @@ class BaseProvider(ABC):
         except requests.RequestException as e:
             logger.error(f"GET {url} failed: {e}")
             return None
-
-    @abstractmethod
-    def __init__(self, id: str, last_chapter: int = 0):
-        """
-            Initializes the BaseProvider instance.
-
-            Args:
-                id (str): The unique identifier for the provider.
-                last_chapter (int, optional): The last chapter number. Defaults to 0.
-        """
-        self.id = id
-        self.last_chapter = last_chapter
 
     @abstractmethod
     def get_story_info(self) -> StoryInfo:
