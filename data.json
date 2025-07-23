@@ -3,7 +3,7 @@
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
-        "last_chapter": 604,
+        "last_chapter": 605,
         "latest_chapter_date": "23/07/2025",
         "source": "metruyenchu",
         "error": null
@@ -153,6 +153,60 @@
         "error": null
     },
     {
+        "id": "139812",
+        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
+        "channel_id": 1361193789661909082,
+        "last_chapter": 341,
+        "latest_chapter_date": "23/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 505,
+        "latest_chapter_date": "23/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
+        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
+        "channel_id": 1387286765571674286,
+        "last_chapter": 80,
+        "latest_chapter_date": "23/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dich-vu-thue-ban-gai-3620",
+        "title": "Dịch Vụ Thuê Bạn Gái",
+        "channel_id": 1374610492659601438,
+        "last_chapter": 386,
+        "latest_chapter_date": "23/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
+        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
+        "channel_id": 1374645008161837117,
+        "last_chapter": 123,
+        "latest_chapter_date": "23/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "muc-long-su-11320",
+        "title": "Mục Long Sư",
+        "channel_id": 1379998400619090023,
+        "last_chapter": 483,
+        "latest_chapter_date": "23/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ky-nguyen-sieu-anh-hung-17599",
         "title": "Kỷ Nguyên Siêu Anh Hùng",
         "channel_id": 1397509911189131314,
@@ -243,15 +297,6 @@
         "error": null
     },
     {
-        "id": "139812",
-        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
-        "channel_id": 1361193789661909082,
-        "last_chapter": 340,
-        "latest_chapter_date": "22/07/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "hoa-ra-ta-da-vo-dich-tu-lau-16263",
         "title": "Hoá Ra Ta Đã Vô Địch Từ Lâu",
         "channel_id": 1374646460494381158,
@@ -283,15 +328,6 @@
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
         "last_chapter": 1179,
-        "latest_chapter_date": "22/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 504,
         "latest_chapter_date": "22/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -954,24 +990,6 @@
         "error": null
     },
     {
-        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
-        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
-        "channel_id": 1387286765571674286,
-        "last_chapter": 79,
-        "latest_chapter_date": "16/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dich-vu-thue-ban-gai-3620",
-        "title": "Dịch Vụ Thuê Bạn Gái",
-        "channel_id": 1374610492659601438,
-        "last_chapter": 385,
-        "latest_chapter_date": "16/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
@@ -994,15 +1012,6 @@
         "title": "Người Ở Rể Bị Ép Thành Phản Diện",
         "channel_id": 1380434945834614784,
         "last_chapter": 659,
-        "latest_chapter_date": "16/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
-        "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
-        "channel_id": 1374645008161837117,
-        "last_chapter": 122,
         "latest_chapter_date": "16/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1111,15 +1120,6 @@
         "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
         "channel_id": 1380005456755425300,
         "last_chapter": 351,
-        "latest_chapter_date": "13/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "muc-long-su-11320",
-        "title": "Mục Long Sư",
-        "channel_id": 1379998400619090023,
-        "last_chapter": 482,
         "latest_chapter_date": "13/07/2025",
         "source": "truyenqqto",
         "error": null
