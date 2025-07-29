@@ -1,5 +1,14 @@
 [
     {
+        "id": "thien-tai-phep-thuat-nam-giu-khai-niem-18311",
+        "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
+        "channel_id": 1397504730300813363,
+        "last_chapter": 29,
+        "latest_chapter_date": "29/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tham-hoa-tu-linh-su-14421",
         "title": "Thảm Họa Tử Linh Sư",
         "channel_id": 1374602804752289823,
@@ -66,7 +75,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1879,
+        "last_chapter": 1880,
         "latest_chapter_date": "28/07/2025",
         "source": "metruyenchu",
         "error": null
@@ -270,6 +279,24 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2444,
+        "latest_chapter_date": "28/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "bat-bai-chan-ma-8003",
+        "title": "Bất bại chân ma",
+        "channel_id": 1373490819750826065,
+        "last_chapter": 262,
+        "latest_chapter_date": "28/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -366,15 +393,6 @@
         "last_chapter": 534,
         "latest_chapter_date": "27/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2443,
-        "latest_chapter_date": "27/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -1080,15 +1098,6 @@
         "error": null
     },
     {
-        "id": "bat-bai-chan-ma-8003",
-        "title": "Bất bại chân ma",
-        "channel_id": 1373490819750826065,
-        "last_chapter": 260,
-        "latest_chapter_date": "22/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tai-thiet-ham-nguc-9130",
         "title": "Tái Thiết Hầm Ngục",
         "channel_id": 1374601139831705690,
@@ -1292,15 +1301,6 @@
         "channel_id": 1375007013456838780,
         "last_chapter": 137,
         "latest_chapter_date": "18/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-tai-phep-thuat-nam-giu-khai-niem-18311",
-        "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
-        "channel_id": 1397504730300813363,
-        "last_chapter": 28,
-        "latest_chapter_date": "17/07/2025",
         "source": "truyenqqto",
         "error": null
     },
