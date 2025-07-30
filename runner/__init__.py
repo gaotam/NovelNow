@@ -55,7 +55,8 @@ class Runner:
             prefix = f"[Đang xử lý {index + 1}/{len(self.stories)}] - "
             story.logger = PrefixAdapter(logger, {"prefix": prefix})
             story.get_latest_chapter()
-            time.sleep(get_config("common.story_fetch_delay_sec"))
+            if index < len(self.stories) - 1:  # Avoid delay after the last story
+                time.sleep(get_config("common.story_fetch_delay_sec"))
 
     def prepare(self):
         """
