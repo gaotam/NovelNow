@@ -3,18 +3,19 @@ from datetime import datetime
 from typing import List, Dict
 
 from consts.errors import StoryError
-from .story import Story
 from logger import setup_logger, PrefixAdapter
-from utils.config import get_config
-from utils.discord import DiscordClient
-from utils.datetime import get_time_now_format
 from utils import load_json_file, write_json_file, chunk_by_size
+from utils.config import get_config, load_config_project
+from utils.datetime import get_time_now_format
+from utils.discord import DiscordClient
+from .story import Story
 
 logger = setup_logger()
 
 
 class Runner:
     def __init__(self):
+        load_config_project()
         self.data_path = get_config('common.data_path')
         self.discord_client = DiscordClient(get_config('discord.bot_token'))
         self.stories: List[Story] = []

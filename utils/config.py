@@ -95,3 +95,15 @@ def get_config(path: str | None = None, default: Any = None) -> Any:
         return _config
 
     return _config.get(path, default)
+
+def load_config_project():
+    """
+    Loads the configuration from the specified config file.
+    """
+    # Đường dẫn đến config.toml
+    config_path = Path(__file__).resolve().parent.parent / 'config.toml'
+
+    if not config_path.exists():
+        raise FileNotFoundError(f"Không tìm được file config: {config_path}")
+
+    load_config(config_path)
