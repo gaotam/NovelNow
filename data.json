@@ -18,6 +18,42 @@
         "error": null
     },
     {
+        "id": "vuong-tac-19673",
+        "title": "Vương Tạc",
+        "channel_id": 1398692201801842688,
+        "last_chapter": 9,
+        "latest_chapter_date": "30/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 296,
+        "latest_chapter_date": "30/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-tri-doc-gia-9702",
+        "title": "Toàn Trí Độc Giả",
+        "channel_id": 1377467480120754248,
+        "last_chapter": 273,
+        "latest_chapter_date": "30/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 264,
+        "latest_chapter_date": "30/07/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thien-tai-phep-thuat-nam-giu-khai-niem-18311",
         "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
         "channel_id": 1397504730300813363,
@@ -162,6 +198,15 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2445,
+        "latest_chapter_date": "29/07/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "thien-tai-nhin-thau-the-gioi-17219",
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
@@ -288,15 +333,6 @@
         "error": null
     },
     {
-        "id": "vuong-tac-19673",
-        "title": "Vương Tạc",
-        "channel_id": 1398692201801842688,
-        "last_chapter": 8,
-        "latest_chapter_date": "28/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
         "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
         "channel_id": 1398692580128067674,
@@ -393,15 +429,6 @@
         "last_chapter": 353,
         "latest_chapter_date": "28/07/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2444,
-        "latest_chapter_date": "28/07/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -837,15 +864,6 @@
         "error": null
     },
     {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 295,
-        "latest_chapter_date": "25/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "bac-thay-thiet-ke-dien-trang-11846",
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
@@ -1008,15 +1026,6 @@
         "error": null
     },
     {
-        "id": "toan-tri-doc-gia-9702",
-        "title": "Toàn Trí Độc Giả",
-        "channel_id": 1377467480120754248,
-        "last_chapter": 699,
-        "latest_chapter_date": "23/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nine-peaks-13570",
         "title": "Nine Peaks",
         "channel_id": 1387287980057694248,
@@ -1030,15 +1039,6 @@
         "title": "Bản Ngã Thay Đổi",
         "channel_id": 1393822161533276200,
         "last_chapter": 49,
-        "latest_chapter_date": "23/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 263,
         "latest_chapter_date": "23/07/2025",
         "source": "truyenqqto",
         "error": null
