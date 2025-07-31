@@ -97,13 +97,17 @@ class Runner:
             Exception: If there is an issue sending the message to Discord.
         """
         filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_PER_STORY]
+        story_send_delay_sec = get_config('discord.story_send_delay_sec')
+
         for story in filtered_stories:
             try:
                 self.discord_client.send_message(story.channel_id, story.channel_message())
                 story.clear_error_if(StoryError.SEND_DISCORD_PER_STORY)
             except Exception:
                 story.set_error(StoryError.SEND_DISCORD_PER_STORY)
-            time.sleep(get_config('discord.story_send_delay_sec'))
+
+            if story is not filtered_stories[-1]:
+                time.sleep(story_send_delay_sec)
 
     def send_general_channel(self, stories: List[Story]):
         """
