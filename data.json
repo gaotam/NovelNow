@@ -3,8 +3,8 @@
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
-        "last_chapter": 735,
-        "latest_chapter_date": "02/08/2025",
+        "last_chapter": 736,
+        "latest_chapter_date": "03/08/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -12,8 +12,53 @@
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
-        "last_chapter": 409,
-        "latest_chapter_date": "02/08/2025",
+        "last_chapter": 410,
+        "latest_chapter_date": "03/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
+        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
+        "channel_id": 1374608403543887943,
+        "last_chapter": 254,
+        "latest_chapter_date": "03/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
+        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
+        "channel_id": 1374600540486631525,
+        "last_chapter": 205,
+        "latest_chapter_date": "03/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 202,
+        "latest_chapter_date": "03/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
+        "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
+        "channel_id": 1378408547594928188,
+        "last_chapter": 148,
+        "latest_chapter_date": "03/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dang-nhap-murim-10319",
+        "title": "Đăng Nhập Murim",
+        "channel_id": 1378250151377899621,
+        "last_chapter": 233,
+        "latest_chapter_date": "03/08/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -252,6 +297,33 @@
         "error": null
     },
     {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 322,
+        "latest_chapter_date": "02/08/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2449,
+        "latest_chapter_date": "02/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 223,
+        "latest_chapter_date": "02/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tinh-giap-hon-tuong-11989",
         "title": "Tinh Giáp Hồn Tướng",
         "channel_id": 1374645511323127869,
@@ -312,15 +384,6 @@
         "last_chapter": 68,
         "latest_chapter_date": "01/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 321,
-        "latest_chapter_date": "01/08/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -405,15 +468,6 @@
         "error": null
     },
     {
-        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
-        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
-        "channel_id": 1374608403543887943,
-        "last_chapter": 253,
-        "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
         "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp SSS",
         "channel_id": 1375004863217274881,
@@ -468,19 +522,10 @@
         "error": null
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2448,
-        "latest_chapter_date": "01/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "co-ban-gai-hai-mat-18159",
         "title": "Cô Bạn Gái Hai Mặt",
         "channel_id": 1397501632647790592,
-        "last_chapter": 124,
+        "last_chapter": 127,
         "latest_chapter_date": "01/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -819,15 +864,6 @@
         "error": null
     },
     {
-        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
-        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
-        "channel_id": 1374600540486631525,
-        "last_chapter": 204,
-        "latest_chapter_date": "29/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "blue-lock-7120",
         "title": "Blue Lock",
         "channel_id": 1374610990355972197,
@@ -850,15 +886,6 @@
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
         "last_chapter": 32,
-        "latest_chapter_date": "28/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 201,
         "latest_chapter_date": "28/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1021,15 +1048,6 @@
         "title": "Ta Không Muốn Trùng Sinh Đâu",
         "channel_id": 1374601516991647896,
         "last_chapter": 438,
-        "latest_chapter_date": "27/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
-        "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
-        "channel_id": 1378408547594928188,
-        "last_chapter": 147,
         "latest_chapter_date": "27/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1283,15 +1301,6 @@
         "channel_id": 1374606548785172551,
         "last_chapter": 93,
         "latest_chapter_date": "22/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 222,
-        "latest_chapter_date": "21/07/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1679,15 +1688,6 @@
         "channel_id": 1380006513787015240,
         "last_chapter": 77,
         "latest_chapter_date": "27/04/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dang-nhap-murim-10319",
-        "title": "Đăng Nhập Murim",
-        "channel_id": 1378250151377899621,
-        "last_chapter": 232,
-        "latest_chapter_date": "26/04/2025",
         "source": "truyenqqto",
         "error": null
     },
