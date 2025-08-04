@@ -1,5 +1,50 @@
 [
     {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1033,
+        "latest_chapter_date": "04/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phung-da-canh-nhan-12047",
+        "title": "Đại Phụng Đả Canh Nhân",
+        "channel_id": 1374646108315451432,
+        "last_chapter": 557,
+        "latest_chapter_date": "04/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
+        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
+        "channel_id": 1378676658432643102,
+        "last_chapter": 405,
+        "latest_chapter_date": "04/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 346,
+        "latest_chapter_date": "04/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 66,
+        "latest_chapter_date": "04/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -75,7 +120,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1885,
+        "last_chapter": 1886,
         "latest_chapter_date": "03/08/2025",
         "source": "metruyenchu",
         "error": null
@@ -168,6 +213,15 @@
         "last_chapter": 45,
         "latest_chapter_date": "03/08/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2450,
+        "latest_chapter_date": "03/08/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -270,24 +324,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1032,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phung-da-canh-nhan-12047",
-        "title": "Đại Phụng Đả Canh Nhân",
-        "channel_id": 1374646108315451432,
-        "last_chapter": 556,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-tai-phep-thuat-nam-giu-khai-niem-18311",
         "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
         "channel_id": 1397504730300813363,
@@ -375,15 +411,6 @@
         "last_chapter": 322,
         "latest_chapter_date": "02/08/2025",
         "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2449,
-        "latest_chapter_date": "02/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -756,15 +783,6 @@
         "error": null
     },
     {
-        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
-        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
-        "channel_id": 1378676658432643102,
-        "last_chapter": 404,
-        "latest_chapter_date": "30/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "blue-box-11258",
         "title": "Blue Box",
         "channel_id": 1398719506720886864,
@@ -900,15 +918,6 @@
         "error": null
     },
     {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 345,
-        "latest_chapter_date": "29/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ky-nguyen-ky-la-12533",
         "title": "Kỷ Nguyên Kỳ Lạ",
         "channel_id": 1374600250563493928,
@@ -940,15 +949,6 @@
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
         "last_chapter": 32,
-        "latest_chapter_date": "28/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 65,
         "latest_chapter_date": "28/07/2025",
         "source": "truyenqqto",
         "error": null
