@@ -181,8 +181,11 @@ class Runner:
         return [s for s in self.stories if s.needs_attention()]
 
     def run(self):
+        start_time = time.time()
         logger.info(f"🚀 Đang khởi động...")
         self.prepare()
         self.fetch_latest_chapters()
         self.confirm_and_send_discord()
         self.update_data()
+        elapsed = time.time() - start_time
+        logger.info(f"⏱ Thời gian chạy: {time.strftime('%H:%M:%S', time.gmtime(elapsed))}")
