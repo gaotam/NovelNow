@@ -27,6 +27,60 @@
         "error": null
     },
     {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1190,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 242,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bat-dau-danh-dau-hoang-co-thanh-the-14633",
+        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+        "channel_id": 1377466581030010922,
+        "last_chapter": 114,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
+        "last_chapter": 160,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-moi-cap-toi-da-11540",
+        "title": "Người Chơi Mới Cấp Tối Đa",
+        "channel_id": 1359001165697781760,
+        "last_chapter": 217,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-chat-cua-chuyen-sinh-12759",
+        "title": "Bản Chất Của Chuyển Sinh",
+        "channel_id": 1387285252862509096,
+        "last_chapter": 147,
+        "latest_chapter_date": "07/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "chien-doi-dai-that-cach-10941",
         "title": "Chiến Đội Đại Thất Cách",
         "channel_id": 1398701143185559623,
@@ -105,15 +159,6 @@
         "last_chapter": 1451,
         "latest_chapter_date": "06/08/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1189,
-        "latest_chapter_date": "06/08/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -1008,33 +1053,6 @@
         "error": null
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 241,
-        "latest_chapter_date": "31/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "bat-dau-danh-dau-hoang-co-thanh-the-14633",
-        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
-        "channel_id": 1377466581030010922,
-        "last_chapter": 113,
-        "latest_chapter_date": "31/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "channel_id": 1359003439941554226,
-        "last_chapter": 159,
-        "latest_chapter_date": "31/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
         "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
         "channel_id": 1398690848031637584,
@@ -1264,24 +1282,6 @@
         "title": "Thế giới game thủ",
         "channel_id": 1374614794736373880,
         "last_chapter": 105,
-        "latest_chapter_date": "26/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-moi-cap-toi-da-11540",
-        "title": "Người Chơi Mới Cấp Tối Đa",
-        "channel_id": 1359001165697781760,
-        "last_chapter": 216,
-        "latest_chapter_date": "26/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ban-chat-cua-chuyen-sinh-12759",
-        "title": "Bản Chất Của Chuyển Sinh",
-        "channel_id": 1387285252862509096,
-        "last_chapter": 145,
         "latest_chapter_date": "26/07/2025",
         "source": "truyenqqto",
         "error": null
