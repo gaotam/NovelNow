@@ -1,5 +1,32 @@
 [
     {
+        "id": "bac-thay-thiet-ke-dien-trang-11846",
+        "title": "Bậc Thầy Thiết Kế Điền Trang",
+        "channel_id": 1374609754286063656,
+        "last_chapter": 204,
+        "latest_chapter_date": "08/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "khong-can-than-luu-danh-muon-thua-16776",
+        "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
+        "channel_id": 1398700451720859740,
+        "last_chapter": 161,
+        "latest_chapter_date": "08/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 11,
+        "latest_chapter_date": "08/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
         "title": "Tử Linh Sư Thiên Tài Của Học Viện",
         "channel_id": 1378408236453204018,
@@ -132,6 +159,15 @@
         "last_chapter": 704,
         "latest_chapter_date": "07/08/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2453,
+        "latest_chapter_date": "07/08/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -382,15 +418,6 @@
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
         "last_chapter": 1889,
-        "latest_chapter_date": "06/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2452,
         "latest_chapter_date": "06/08/2025",
         "source": "metruyenchu",
         "error": null
@@ -945,15 +972,6 @@
         "error": null
     },
     {
-        "id": "bac-thay-thiet-ke-dien-trang-11846",
-        "title": "Bậc Thầy Thiết Kế Điền Trang",
-        "channel_id": 1374609754286063656,
-        "last_chapter": 203,
-        "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hoan-doi-dieu-ky-1241",
         "title": "Hoán Đổi Diệu Kỳ",
         "channel_id": 1374610277609246813,
@@ -976,15 +994,6 @@
         "title": "Chuyển Sinh Thành Goblin",
         "channel_id": 1377469416433778749,
         "last_chapter": 69,
-        "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "khong-can-than-luu-danh-muon-thua-16776",
-        "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
-        "channel_id": 1398700451720859740,
-        "last_chapter": 160,
         "latest_chapter_date": "01/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1058,15 +1067,6 @@
         "channel_id": 1397501632647790592,
         "last_chapter": 127,
         "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 9,
-        "latest_chapter_date": "31/07/2025",
         "source": "truyenqqto",
         "error": null
     },
