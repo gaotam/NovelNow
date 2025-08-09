@@ -1,5 +1,77 @@
 [
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1891,
+        "latest_chapter_date": "09/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 738,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 412,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-doi-dan-cu-16743",
+        "title": "Tuyệt Đối Dân Cư",
+        "channel_id": 1393817115559202907,
+        "last_chapter": 42,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
+        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
+        "channel_id": 1378407667760103624,
+        "last_chapter": 46,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bat-dau-tu-cuu-dau-dieu-11275",
+        "title": "Bắt Đầu Từ Cửu Đầu Điểu",
+        "channel_id": 1398708667582386226,
+        "last_chapter": 321,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dao-quy-di-tien-16651",
+        "title": "Đạo Quỷ Dị Tiên",
+        "channel_id": 1374608833644728390,
+        "last_chapter": 48,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-tac-19673",
+        "title": "Vương Tạc",
+        "channel_id": 1398692201801842688,
+        "last_chapter": 13,
+        "latest_chapter_date": "09/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "bac-thay-thiet-ke-dien-trang-11846",
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
@@ -12,7 +84,7 @@
         "id": "khong-can-than-luu-danh-muon-thua-16776",
         "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
         "channel_id": 1398700451720859740,
-        "last_chapter": 161,
+        "last_chapter": 162,
         "latest_chapter_date": "08/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -72,15 +144,6 @@
         "error": null
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1890,
-        "latest_chapter_date": "08/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
@@ -112,24 +175,6 @@
         "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
         "channel_id": 1398692580128067674,
         "last_chapter": 12,
-        "latest_chapter_date": "08/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 737,
-        "latest_chapter_date": "08/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 411,
         "latest_chapter_date": "08/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -234,6 +279,33 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2454,
+        "latest_chapter_date": "08/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-sieu-may-man-17307",
+        "title": "Người Chơi Siêu May Mắn",
+        "channel_id": 1397507753227980800,
+        "last_chapter": 60,
+        "latest_chapter_date": "08/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chieu-hon-gia-sieu-pham-13439",
+        "title": "Chiêu Hồn Giả Siêu Phàm",
+        "channel_id": 1374603194956644370,
+        "last_chapter": 148,
+        "latest_chapter_date": "08/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
         "title": "Tử Linh Sư Thiên Tài Của Học Viện",
         "channel_id": 1378408236453204018,
@@ -321,15 +393,6 @@
         "last_chapter": 704,
         "latest_chapter_date": "07/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2453,
-        "latest_chapter_date": "07/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -837,15 +900,6 @@
         "error": null
     },
     {
-        "id": "tuyet-doi-dan-cu-16743",
-        "title": "Tuyệt Đối Dân Cư",
-        "channel_id": 1393817115559202907,
-        "last_chapter": 41,
-        "latest_chapter_date": "03/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
         "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
         "channel_id": 1393808736690114641,
@@ -868,15 +922,6 @@
         "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
         "channel_id": 1398710018836009102,
         "last_chapter": 110,
-        "latest_chapter_date": "03/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
-        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
-        "channel_id": 1378407667760103624,
-        "last_chapter": 45,
         "latest_chapter_date": "03/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -909,28 +954,10 @@
         "error": null
     },
     {
-        "id": "bat-dau-tu-cuu-dau-dieu-11275",
-        "title": "Bắt Đầu Từ Cửu Đầu Điểu",
-        "channel_id": 1398708667582386226,
-        "last_chapter": 320,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "vo-luyen-dinh-phong-3926",
         "title": "Võ Luyện Đỉnh Phong",
         "channel_id": 1358998124571525130,
         "last_chapter": 3843,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dao-quy-di-tien-16651",
-        "title": "Đạo Quỷ Dị Tiên",
-        "channel_id": 1374608833644728390,
-        "last_chapter": 47,
         "latest_chapter_date": "02/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1044,15 +1071,6 @@
         "error": null
     },
     {
-        "id": "nguoi-choi-sieu-may-man-17307",
-        "title": "Người Chơi Siêu May Mắn",
-        "channel_id": 1397507753227980800,
-        "last_chapter": 59,
-        "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toi-la-tho-san-co-ki-nang-tu-sat-cap-sss-10675",
         "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp SSS",
         "channel_id": 1375004863217274881,
@@ -1102,15 +1120,6 @@
         "title": "Sổ Tay Thuật Sư",
         "channel_id": 1399954971306496111,
         "last_chapter": 10,
-        "latest_chapter_date": "30/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vuong-tac-19673",
-        "title": "Vương Tạc",
-        "channel_id": 1398692201801842688,
-        "last_chapter": 9,
         "latest_chapter_date": "30/07/2025",
         "source": "truyenqqto",
         "error": null
@@ -1174,15 +1183,6 @@
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
         "last_chapter": 642,
-        "latest_chapter_date": "28/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chieu-hon-gia-sieu-pham-13439",
-        "title": "Chiêu Hồn Giả Siêu Phàm",
-        "channel_id": 1374603194956644370,
-        "last_chapter": 147,
         "latest_chapter_date": "28/07/2025",
         "source": "truyenqqto",
         "error": null
