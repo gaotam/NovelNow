@@ -1,5 +1,14 @@
 [
     {
+        "id": "chung-cuc-dau-la-6700",
+        "title": "Chung Cực Đấu La",
+        "channel_id": 1392442245151719454,
+        "last_chapter": 643,
+        "latest_chapter_date": "12/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-phung-da-canh-nhan-12047",
         "title": "Đại Phụng Đả Canh Nhân",
         "channel_id": 1374646108315451432,
@@ -220,6 +229,24 @@
         "title": "Thiên Phú Của Ngươi, Giờ Là Của Ta",
         "channel_id": 1399564172328698047,
         "last_chapter": 103,
+        "latest_chapter_date": "11/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2456,
+        "latest_chapter_date": "11/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 407,
         "latest_chapter_date": "11/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -519,15 +546,6 @@
         "last_chapter": 54,
         "latest_chapter_date": "09/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2455,
-        "latest_chapter_date": "09/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -1107,15 +1125,6 @@
         "error": null
     },
     {
-        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
-        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
-        "channel_id": 1380000751601979433,
-        "last_chapter": 406,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "garbage-time-18604",
         "title": "Garbage Time",
         "channel_id": 1397503997992239124,
@@ -1237,15 +1246,6 @@
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 152,
-        "latest_chapter_date": "28/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chung-cuc-dau-la-6700",
-        "title": "Chung Cực Đấu La",
-        "channel_id": 1392442245151719454,
-        "last_chapter": 642,
         "latest_chapter_date": "28/07/2025",
         "source": "truyenqqto",
         "error": null
