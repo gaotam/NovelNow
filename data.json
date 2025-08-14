@@ -111,7 +111,79 @@
         "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
         "title": "Ta Đoạt Xá Người Chơi Hệ Thống",
         "channel_id": 1387291211068346511,
-        "last_chapter": 156,
+        "last_chapter": 157,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thue-trung-gia-16398",
+        "title": "Thuế Trừng Giả",
+        "channel_id": 1387290233959219301,
+        "last_chapter": 168,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-de-nhat-17290",
+        "title": "Người Chơi Đệ Nhất",
+        "channel_id": 1393821558174257223,
+        "last_chapter": 72,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1037,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
+        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
+        "channel_id": 1378676658432643102,
+        "last_chapter": 409,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "khong-can-than-luu-danh-muon-thua-16776",
+        "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
+        "channel_id": 1398700451720859740,
+        "last_chapter": 163,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 13,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 291,
+        "latest_chapter_date": "14/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 75,
         "latest_chapter_date": "14/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -139,15 +211,6 @@
         "title": "Nine Peaks",
         "channel_id": 1387287980057694248,
         "last_chapter": 149,
-        "latest_chapter_date": "13/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thue-trung-gia-16398",
-        "title": "Thuế Trừng Giả",
-        "channel_id": 1387290233959219301,
-        "last_chapter": 167,
         "latest_chapter_date": "13/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -495,15 +558,6 @@
         "error": null
     },
     {
-        "id": "nguoi-choi-de-nhat-17290",
-        "title": "Người Chơi Đệ Nhất",
-        "channel_id": 1393821558174257223,
-        "last_chapter": 71,
-        "latest_chapter_date": "12/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dai-tuong-vo-hinh-8339",
         "title": "Đại Tượng Vô Hình",
         "channel_id": 1364780912838971494,
@@ -774,15 +828,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1036,
-        "latest_chapter_date": "10/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
@@ -891,15 +936,6 @@
         "error": null
     },
     {
-        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
-        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
-        "channel_id": 1378676658432643102,
-        "last_chapter": 408,
-        "latest_chapter_date": "09/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toan-cau-cao-vo-9579",
         "title": "Toàn Cầu Cao Võ",
         "channel_id": 1374608088694390814,
@@ -976,24 +1012,6 @@
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
         "last_chapter": 204,
-        "latest_chapter_date": "08/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "khong-can-than-luu-danh-muon-thua-16776",
-        "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
-        "channel_id": 1398700451720859740,
-        "last_chapter": 162,
-        "latest_chapter_date": "08/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 11,
         "latest_chapter_date": "08/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1107,15 +1125,6 @@
         "error": null
     },
     {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 290,
-        "latest_chapter_date": "06/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "de-nhat-vo-su-baek-cao-thu-11927",
         "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
         "channel_id": 1374645723500380330,
@@ -1184,15 +1193,6 @@
         "channel_id": 1387280464661840064,
         "last_chapter": 28,
         "latest_chapter_date": "05/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 74,
-        "latest_chapter_date": "04/08/2025",
         "source": "truyenqqto",
         "error": null
     },
