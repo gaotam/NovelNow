@@ -1,5 +1,50 @@
 [
     {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1040,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 406,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 354,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 68,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 225,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -147,7 +192,7 @@
         "id": "hoi-uc-cua-chien-than-11337",
         "title": "Hồi Ức Của Chiến Thần",
         "channel_id": 1380002190277480579,
-        "last_chapter": 218,
+        "last_chapter": 219,
         "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -177,6 +222,24 @@
         "last_chapter": 132,
         "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2462,
+        "latest_chapter_date": "17/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 326,
+        "latest_chapter_date": "17/08/2025",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -243,15 +306,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1039,
-        "latest_chapter_date": "16/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
         "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
         "channel_id": 1374603769991401492,
@@ -276,15 +330,6 @@
         "last_chapter": 14,
         "latest_chapter_date": "16/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2461,
-        "latest_chapter_date": "16/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -510,15 +555,6 @@
         "last_chapter": 170,
         "latest_chapter_date": "15/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 325,
-        "latest_chapter_date": "15/08/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -765,15 +801,6 @@
         "error": null
     },
     {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 405,
-        "latest_chapter_date": "13/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
@@ -927,15 +954,6 @@
         "error": null
     },
     {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 353,
-        "latest_chapter_date": "12/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
@@ -1057,15 +1075,6 @@
         "title": "Mời Công Tử Trảm Yêu",
         "channel_id": 1397508751006896209,
         "last_chapter": 198,
-        "latest_chapter_date": "11/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 67,
         "latest_chapter_date": "11/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1238,15 +1247,6 @@
         "channel_id": 1374600868141207613,
         "last_chapter": 704,
         "latest_chapter_date": "07/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 224,
-        "latest_chapter_date": "06/08/2025",
         "source": "truyenqqto",
         "error": null
     },
