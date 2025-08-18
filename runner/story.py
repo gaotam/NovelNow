@@ -138,6 +138,19 @@ class Story:
         else:
             self.set_error(error_type)
 
+    def is_story_text_only(self) -> bool:
+        """
+        Checks if the story is a text-only story.
+
+        This method determines if the story is a text-only story based on its source.
+        It returns True if the source is "metruyenchu", indicating a text-only story,
+        and False otherwise.
+
+        Returns:
+            bool: True if the story is text-only, False otherwise.
+        """
+        return self.source == "metruyenchu"
+
     def channel_message(self, format: Literal["plain", "rich"] = "rich"):
         """
         Generates a formatted message for the story's latest chapter.
@@ -180,7 +193,7 @@ class Story:
         else:
             raise ValueError(f"Unknown format: {format}")
 
-    def channel_general(self):
+    def message_channel_general(self):
         """
         Generates a message for the channel.
 
@@ -191,7 +204,12 @@ class Story:
         Returns:
             str: A formatted message string containing the story's title and latest chapter information.
         """
-        return f"<#{self.channel_id}> -> {self.channel_message()}"
+        if self.is_story_text_only():
+            prefix_story = "**[Truyện chữ]**"
+        else:
+            prefix_story = "**[Truện tranh]**"
+
+        return f"{prefix_story}<#{self.channel_id}> -> {self.channel_message()}"
 
     def display(self):
         self.logger.warning(f"{self.title} -> {self.channel_message(format='plain')}")

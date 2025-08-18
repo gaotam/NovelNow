@@ -133,7 +133,7 @@ class Runner:
 
         for i, chunk in enumerate(chunk_stories):
             success = True
-            lines = [story.channel_general() for story in chunk]
+            lines = [story.message_channel_general() for story in chunk]
             message = header + "\n" + "\n".join(lines) if i == 0 else "\n".join(lines)
 
             try:
