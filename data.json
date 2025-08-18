@@ -21,7 +21,7 @@
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
-        "last_chapter": 354,
+        "last_chapter": 355,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -45,6 +45,87 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1900,
+        "latest_chapter_date": "18/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 207,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106542",
+        "title": "Xích Tâm Tuần Thiên(Truyện chữ)",
+        "channel_id": 1359014633616441474,
+        "last_chapter": 19,
+        "latest_chapter_date": "18/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "thien-tai-ma-phap-su-vat-li-17338",
+        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
+        "channel_id": 1387280464661840064,
+        "last_chapter": 30,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 76,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
+        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
+        "channel_id": 1385913211986907186,
+        "last_chapter": 218,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "muc-long-su-11320",
+        "title": "Mục Long Sư",
+        "channel_id": 1379998400619090023,
+        "last_chapter": 488,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
+        "title": "Người Chơi Trở Lại Sau 10000 Năm",
+        "channel_id": 1383789664300699740,
+        "last_chapter": 125,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-moi-cap-toi-da-11540",
+        "title": "Người Chơi Mới Cấp Tối Đa",
+        "channel_id": 1359001165697781760,
+        "last_chapter": 219,
+        "latest_chapter_date": "18/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -60,15 +141,6 @@
         "last_chapter": 416,
         "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1899,
-        "latest_chapter_date": "17/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -351,15 +423,6 @@
         "error": null
     },
     {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 206,
-        "latest_chapter_date": "16/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
         "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
         "channel_id": 1393808736690114641,
@@ -495,15 +558,6 @@
         "error": null
     },
     {
-        "id": "106542",
-        "title": "Xích Tâm Tuần Thiên(Truyện chữ)",
-        "channel_id": 1359014633616441474,
-        "last_chapter": 18,
-        "latest_chapter_date": "15/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "the-gioi-sau-tan-the-12154",
         "title": "Thế Giới Sau Tận Thế",
         "channel_id": 1374624700613005372,
@@ -607,15 +661,6 @@
         "title": "Để Có Thể Sống Sót",
         "channel_id": 1380381235712626791,
         "last_chapter": 180,
-        "latest_chapter_date": "15/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-tai-ma-phap-su-vat-li-17338",
-        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
-        "channel_id": 1387280464661840064,
-        "last_chapter": 29,
         "latest_chapter_date": "15/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -760,15 +805,6 @@
         "title": "Cậu Bé Của Thần Chết",
         "channel_id": 1374611513423302717,
         "last_chapter": 291,
-        "latest_chapter_date": "14/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 75,
         "latest_chapter_date": "14/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -990,15 +1026,6 @@
         "error": null
     },
     {
-        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
-        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
-        "channel_id": 1385913211986907186,
-        "last_chapter": 217,
-        "latest_chapter_date": "12/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
         "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
         "channel_id": 1374600540486631525,
@@ -1030,15 +1057,6 @@
         "title": "Kỷ Nguyên Kỳ Lạ",
         "channel_id": 1374600250563493928,
         "last_chapter": 517,
-        "latest_chapter_date": "12/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "muc-long-su-11320",
-        "title": "Mục Long Sư",
-        "channel_id": 1379998400619090023,
-        "last_chapter": 487,
         "latest_chapter_date": "12/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1093,15 +1111,6 @@
         "title": "Ta Không Muốn Trùng Sinh Đâu",
         "channel_id": 1374601516991647896,
         "last_chapter": 441,
-        "latest_chapter_date": "11/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
-        "title": "Người Chơi Trở Lại Sau 10000 Năm",
-        "channel_id": 1383789664300699740,
-        "last_chapter": 124,
         "latest_chapter_date": "11/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1229,15 +1238,6 @@
         "channel_id": 1398719506720886864,
         "last_chapter": 206,
         "latest_chapter_date": "08/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-moi-cap-toi-da-11540",
-        "title": "Người Chơi Mới Cấp Tối Đa",
-        "channel_id": 1359001165697781760,
-        "last_chapter": 217,
-        "latest_chapter_date": "07/08/2025",
         "source": "truyenqqto",
         "error": null
     },
