@@ -185,7 +185,7 @@ class Story:
 
         if format == "rich":
             return (
-                f"{chapter_rich} - Ngày cập nhật: **{self.latest_chapter_date}** - "
+                f"{chapter_rich} - **{self.latest_chapter_date}** - "
                 f"[[Link-đọc]({link})]"
             )
         elif format == "plain":
