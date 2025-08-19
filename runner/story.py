@@ -207,7 +207,7 @@ class Story:
         if self.is_story_text_only():
             prefix_story = "**[Truyện chữ]**"
         else:
-            prefix_story = "**[Truện tranh]**"
+            prefix_story = "**[Truyện tranh]**"
 
         return f"{prefix_story}<#{self.channel_id}> -> {self.channel_message()}"
 
