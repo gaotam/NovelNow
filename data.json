@@ -1,5 +1,14 @@
 [
     {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 356,
+        "latest_chapter_date": "19/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -13,15 +22,6 @@
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
         "last_chapter": 406,
-        "latest_chapter_date": "18/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 355,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -132,7 +132,7 @@
         "last_chapter": 631,
         "latest_chapter_date": "18/08/2025",
         "source": "metruyenchu",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "chien-doi-dai-that-cach-10941",
@@ -141,7 +141,7 @@
         "last_chapter": 184,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
@@ -150,7 +150,7 @@
         "last_chapter": 15,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "chuong-mon-khiem-ton-chut-11685",
@@ -159,7 +159,7 @@
         "last_chapter": 544,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "ta-doat-xa-nguoi-choi-he-thong-16298",
@@ -168,7 +168,7 @@
         "last_chapter": 158,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
@@ -177,7 +177,7 @@
         "last_chapter": 410,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
@@ -186,7 +186,7 @@
         "last_chapter": 268,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "chung-cuc-dau-la-6700",
@@ -195,7 +195,7 @@
         "last_chapter": 645,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
@@ -204,7 +204,7 @@
         "last_chapter": 209,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
@@ -213,7 +213,7 @@
         "last_chapter": 106,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
-        "error": "ERROR_SEND_DISCORD_GENERAL"
+        "error": null
     },
     {
         "id": "van-co-chi-ton-11261",
@@ -240,6 +240,15 @@
         "last_chapter": 345,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2463,
+        "latest_chapter_date": "18/08/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -393,15 +402,6 @@
         "last_chapter": 132,
         "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2462,
-        "latest_chapter_date": "17/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
