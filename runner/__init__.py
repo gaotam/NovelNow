@@ -192,13 +192,9 @@ class Runner:
 
             message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
 
-            for i, st in enumerate(sorted_stories):
-                space = "   " if i < 10 else "  "
-                if i > 100:
-                    space = " "
-
-                lines = f"{i + 1}.{space}{st.title} -> {st.channel_message(format='plain')}"
-                message1 = message1 + lines + "\n"
+            for i, st in enumerate(sorted_stories, 1):
+                lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
+                message1 += lines + "\n"
 
             logger.info(message1)
 
