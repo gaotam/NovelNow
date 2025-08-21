@@ -1,3 +1,4 @@
+import logging
 import time
 from datetime import datetime
 from typing import List, Dict
@@ -171,6 +172,8 @@ class Runner:
 
         logger.warning(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
 
+        self.log_output_console(stories_to_process)
+
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
@@ -179,6 +182,25 @@ class Runner:
 
     def get_stories_to_process(self):
         return [s for s in self.stories if s.needs_attention()]
+
+    @staticmethod
+    def log_output_console(stories_to_process):
+        if len(stories_to_process) > 0:
+            filtered_stories = [s for s in stories_to_process if
+                                s.error is None or s.error == StoryError.SEND_DISCORD_GENERAL]
+            sorted_stories = Runner.sort_by_update_date(filtered_stories)
+
+            message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
+
+            for i, st in enumerate(sorted_stories):
+                space = "   " if i < 10 else "  "
+                if i > 100:
+                    space = " "
+
+                lines = f"{i + 1}.{space}{st.title} -> {st.channel_message(format='plain')}"
+                message1 = message1 + lines + "\n"
+
+            logger.info(message1)
 
     def run(self):
         start_time = time.time()
