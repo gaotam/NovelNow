@@ -1,5 +1,23 @@
 [
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 637,
+        "latest_chapter_date": "25/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 358,
+        "latest_chapter_date": "25/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -147,9 +165,36 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1906,
-        "latest_chapter_date": "23/08/2025",
+        "last_chapter": 1907,
+        "latest_chapter_date": "24/08/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2468,
+        "latest_chapter_date": "24/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 328,
+        "latest_chapter_date": "24/08/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 408,
+        "latest_chapter_date": "24/08/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -288,15 +333,6 @@
         "error": null
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 636,
-        "latest_chapter_date": "23/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
         "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
         "channel_id": 1374608403543887943,
@@ -402,15 +438,6 @@
         "last_chapter": 200,
         "latest_chapter_date": "23/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2467,
-        "latest_chapter_date": "23/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -837,15 +864,6 @@
         "error": null
     },
     {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 357,
-        "latest_chapter_date": "19/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
@@ -1077,15 +1095,6 @@
         "last_chapter": 132,
         "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 326,
-        "latest_chapter_date": "17/08/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1345,15 +1354,6 @@
         "title": "Thiên Phú Của Ngươi, Giờ Là Của Ta",
         "channel_id": 1399564172328698047,
         "last_chapter": 103,
-        "latest_chapter_date": "11/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
-        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
-        "channel_id": 1380000751601979433,
-        "last_chapter": 407,
         "latest_chapter_date": "11/08/2025",
         "source": "truyenqqto",
         "error": null
