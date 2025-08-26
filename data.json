@@ -93,9 +93,63 @@
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
-        "last_chapter": 637,
-        "latest_chapter_date": "25/08/2025",
+        "last_chapter": 638,
+        "latest_chapter_date": "26/08/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "iron-ladies-6122",
+        "title": "Iron Ladies",
+        "channel_id": 1409355109619470478,
+        "last_chapter": 300,
+        "latest_chapter_date": "26/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "139812",
+        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
+        "channel_id": 1361193789661909082,
+        "last_chapter": 360,
+        "latest_chapter_date": "26/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "cam-kiem-tuyet-doi-12431",
+        "title": "Cảm Kiếm Tuyệt Đối",
+        "channel_id": 1375005323495997450,
+        "last_chapter": 148,
+        "latest_chapter_date": "26/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 108,
+        "latest_chapter_date": "26/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 63,
+        "latest_chapter_date": "26/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-nhom-10229",
+        "title": "Học Nhóm",
+        "channel_id": 1393813974109262015,
+        "last_chapter": 288,
+        "latest_chapter_date": "26/08/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -306,15 +360,6 @@
         "error": null
     },
     {
-        "id": "iron-ladies-6122",
-        "title": "Iron Ladies",
-        "channel_id": 1409355109619470478,
-        "last_chapter": 299,
-        "latest_chapter_date": "24/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
@@ -366,15 +411,6 @@
         "last_chapter": 1044,
         "latest_chapter_date": "24/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "139812",
-        "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
-        "channel_id": 1361193789661909082,
-        "last_chapter": 359,
-        "latest_chapter_date": "24/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -855,15 +891,6 @@
         "error": null
     },
     {
-        "id": "cam-kiem-tuyet-doi-12431",
-        "title": "Cảm Kiếm Tuyệt Đối",
-        "channel_id": 1375005323495997450,
-        "last_chapter": 147,
-        "latest_chapter_date": "21/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "vu-trang-sieu-nhien-11160",
         "title": "Vũ Trang Siêu Nhiên",
         "channel_id": 1397506843768782859,
@@ -886,15 +913,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 82,
-        "latest_chapter_date": "20/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 107,
         "latest_chapter_date": "20/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1057,15 +1075,6 @@
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
         "last_chapter": 132,
-        "latest_chapter_date": "19/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 62,
         "latest_chapter_date": "19/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1345,15 +1354,6 @@
         "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
         "channel_id": 1398710018836009102,
         "last_chapter": 112,
-        "latest_chapter_date": "14/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-nhom-10229",
-        "title": "Học Nhóm",
-        "channel_id": 1393813974109262015,
-        "last_chapter": 287,
         "latest_chapter_date": "14/08/2025",
         "source": "truyenqqto",
         "error": null
