@@ -135,6 +135,69 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 639,
+        "latest_chapter_date": "27/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
+        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
+        "channel_id": 1374619906187853955,
+        "last_chapter": 590,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1200,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "su-ton-nghich-do-nay-moi-khong-phai-la-thanh-tu-14454",
+        "title": "Sư Tôn: Nghịch Đồ Này Mới Không Phải Là Thánh Tử",
+        "channel_id": 1378409367283695626,
+        "last_chapter": 146,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "xa-thu-dan-ma-10978",
+        "title": "Xạ Thủ Đạn Ma",
+        "channel_id": 1375007491364225054,
+        "last_chapter": 205,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hand-jumper-16649",
+        "title": "Hand Jumper",
+        "channel_id": 1393820926017146890,
+        "last_chapter": 93,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "please-go-home-akutsu-san-9413",
+        "title": "Please Go Home, Akutsu-San!",
+        "channel_id": 1398723676949712906,
+        "last_chapter": 194,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -213,15 +276,6 @@
         "last_chapter": 171,
         "latest_chapter_date": "26/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 638,
-        "latest_chapter_date": "26/08/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -630,15 +684,6 @@
         "error": null
     },
     {
-        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
-        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
-        "channel_id": 1374619906187853955,
-        "last_chapter": 589,
-        "latest_chapter_date": "23/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dao-quy-di-tien-16651",
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
@@ -927,15 +972,6 @@
         "error": null
     },
     {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1198,
-        "latest_chapter_date": "22/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
         "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
         "channel_id": 1380005456755425300,
@@ -1057,15 +1093,6 @@
         "title": "Điệp Viên Ma Giáo",
         "channel_id": 1393810304240193616,
         "last_chapter": 30,
-        "latest_chapter_date": "20/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "su-ton-nghich-do-nay-moi-khong-phai-la-thanh-tu-14454",
-        "title": "Sư Tôn: Nghịch Đồ Này Mới Không Phải Là Thánh Tử",
-        "channel_id": 1378409367283695626,
-        "last_chapter": 145,
         "latest_chapter_date": "20/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1193,15 +1220,6 @@
         "channel_id": 1392442245151719454,
         "last_chapter": 645,
         "latest_chapter_date": "18/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "xa-thu-dan-ma-10978",
-        "title": "Xạ Thủ Đạn Ma",
-        "channel_id": 1375007491364225054,
-        "last_chapter": 204,
-        "latest_chapter_date": "17/08/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1368,15 +1386,6 @@
         "error": null
     },
     {
-        "id": "hand-jumper-16649",
-        "title": "Hand Jumper",
-        "channel_id": 1393820926017146890,
-        "last_chapter": 92,
-        "latest_chapter_date": "13/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hoc-vien-toi-thuong-12539",
         "title": "Học Viện Tối Thượng",
         "channel_id": 1392441923872227491,
@@ -1462,15 +1471,6 @@
         "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
         "channel_id": 1374605940166365294,
         "last_chapter": 249,
-        "latest_chapter_date": "02/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "please-go-home-akutsu-san-9413",
-        "title": "Please Go Home, Akutsu-San!",
-        "channel_id": 1398723676949712906,
-        "last_chapter": 193,
         "latest_chapter_date": "02/08/2025",
         "source": "truyenqqto",
         "error": null

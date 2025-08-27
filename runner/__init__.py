@@ -190,11 +190,26 @@ class Runner:
                                 s.error is None or s.error == StoryError.SEND_DISCORD_GENERAL]
             sorted_stories = Runner.sort_by_update_date(filtered_stories)
 
+            # Separate stories into text-only and comic categories
+            text_stories = [s for s in sorted_stories if s.is_story_text_only()]
+            comic_stories = [s for s in sorted_stories if s not in text_stories]
+
             message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
 
-            for i, st in enumerate(sorted_stories, 1):
-                lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
-                message1 += lines + "\n"
+            # Display text-only stories
+            if text_stories:
+                message1 += "📖 TRUYỆN CHỮ:\n"
+                for i, st in enumerate(text_stories, 1):
+                    lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
+                    message1 += lines + "\n"
+                message1 += "\n"
+
+            # Display comic stories
+            if comic_stories:
+                message1 += "🎨 TRUYỆN TRANH:\n"
+                for i, st in enumerate(comic_stories, 1):
+                    lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
+                    message1 += lines + "\n"
 
             logger.info(message1)
 
