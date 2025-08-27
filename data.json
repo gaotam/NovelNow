@@ -1,5 +1,23 @@
 [
     {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 133,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 315,
+        "latest_chapter_date": "27/08/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -153,6 +171,15 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2470,
+        "latest_chapter_date": "26/08/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "manh-ghep-so-phan-5363",
         "title": "Mảnh Ghép Số Phận",
         "channel_id": 1409355649657081987,
@@ -301,15 +328,6 @@
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
         "last_chapter": 1908,
-        "latest_chapter_date": "25/08/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2469,
         "latest_chapter_date": "25/08/2025",
         "source": "metruyenchu",
         "error": null
@@ -936,15 +954,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 132,
-        "latest_chapter_date": "20/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-xau-11255",
         "title": "Người Xấu",
         "channel_id": 1387285583751024660,
@@ -1445,15 +1454,6 @@
         "channel_id": 1374600868141207613,
         "last_chapter": 704,
         "latest_chapter_date": "07/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 314,
-        "latest_chapter_date": "06/08/2025",
         "source": "truyenqqto",
         "error": null
     },
