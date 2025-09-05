@@ -144,21 +144,93 @@
         "error": null
     },
     {
+        "id": "ta-co-mot-son-trai-10785",
+        "title": "Ta Có Một Sơn Trại",
+        "channel_id": 1359007823832547349,
+        "last_chapter": 1206,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 55,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
+        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
+        "channel_id": 1374608403543887943,
+        "last_chapter": 263,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
+        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
+        "channel_id": 1380005456755425300,
+        "last_chapter": 359,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "di-len-tu-day-xa-hoi-17462",
+        "title": "Đi Lên Từ Đáy Xã Hội",
+        "channel_id": 1380003140585132092,
+        "last_chapter": 40,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
+        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
+        "channel_id": 1378407667760103624,
+        "last_chapter": 50,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cuong-ma-tai-the-11480",
+        "title": "Cuồng Ma Tái Thế",
+        "channel_id": 1407386762984034446,
+        "last_chapter": 168,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "please-go-home-akutsu-san-9413",
+        "title": "Please Go Home, Akutsu-San!",
+        "channel_id": 1398723676949712906,
+        "last_chapter": 195,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thue-trung-gia-16398",
+        "title": "Thuế Trừng Giả",
+        "channel_id": 1387290233959219301,
+        "last_chapter": 171,
+        "latest_chapter_date": "05/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
         "last_chapter": 1918,
         "latest_chapter_date": "04/09/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "ta-co-mot-son-trai-10785",
-        "title": "Ta Có Một Sơn Trại",
-        "channel_id": 1359007823832547349,
-        "last_chapter": 1205,
-        "latest_chapter_date": "04/09/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -346,15 +418,6 @@
         "title": "Cao Đẳng Linh Hồn",
         "channel_id": 1397942857674788914,
         "last_chapter": 347,
-        "latest_chapter_date": "04/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ban-nga-thay-doi-16622",
-        "title": "Bản Ngã Thay Đổi",
-        "channel_id": 1393822161533276200,
-        "last_chapter": 54,
         "latest_chapter_date": "04/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1080,15 +1143,6 @@
         "error": null
     },
     {
-        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
-        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
-        "channel_id": 1374608403543887943,
-        "last_chapter": 262,
-        "latest_chapter_date": "30/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toan-cau-cao-vo-9579",
         "title": "Toàn Cầu Cao Võ",
         "channel_id": 1374608088694390814,
@@ -1134,28 +1188,10 @@
         "error": null
     },
     {
-        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
-        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
-        "channel_id": 1380005456755425300,
-        "last_chapter": 358,
-        "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
         "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
         "channel_id": 1398710018836009102,
         "last_chapter": 114,
-        "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "di-len-tu-day-xa-hoi-17462",
-        "title": "Đi Lên Từ Đáy Xã Hội",
-        "channel_id": 1380003140585132092,
-        "last_chapter": 39,
         "latest_chapter_date": "29/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1183,15 +1219,6 @@
         "title": "Bắt Đầu Từ Cửu Đầu Điểu",
         "channel_id": 1398708667582386226,
         "last_chapter": 324,
-        "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
-        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
-        "channel_id": 1378407667760103624,
-        "last_chapter": 49,
         "latest_chapter_date": "29/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1233,15 +1260,6 @@
         "error": null
     },
     {
-        "id": "cuong-ma-tai-the-11480",
-        "title": "Cuồng Ma Tái Thế",
-        "channel_id": 1407386762984034446,
-        "last_chapter": 167,
-        "latest_chapter_date": "27/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
         "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
         "channel_id": 1398721585082405006,
@@ -1264,15 +1282,6 @@
         "title": "Hand Jumper",
         "channel_id": 1393820926017146890,
         "last_chapter": 93,
-        "latest_chapter_date": "27/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "please-go-home-akutsu-san-9413",
-        "title": "Please Go Home, Akutsu-San!",
-        "channel_id": 1398723676949712906,
-        "last_chapter": 194,
         "latest_chapter_date": "27/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1418,15 +1427,6 @@
         "channel_id": 1374614058833281125,
         "last_chapter": 511,
         "latest_chapter_date": "21/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thue-trung-gia-16398",
-        "title": "Thuế Trừng Giả",
-        "channel_id": 1387290233959219301,
-        "last_chapter": 169,
-        "latest_chapter_date": "20/08/2025",
         "source": "truyenqqto",
         "error": null
     },
