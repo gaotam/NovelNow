@@ -1,5 +1,50 @@
 [
     {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 524,
+        "latest_chapter_date": "07/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-quan-lam-16245",
+        "title": "Tuyệt Thế Quân Lâm",
+        "channel_id": 1389226676344324146,
+        "last_chapter": 58,
+        "latest_chapter_date": "07/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ma-dao-chuyen-sinh-ky-13933",
+        "title": "Ma Đạo Chuyển Sinh Ký",
+        "channel_id": 1407385681696784595,
+        "last_chapter": 135,
+        "latest_chapter_date": "07/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
+        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
+        "channel_id": 1398707290856493083,
+        "last_chapter": 167,
+        "latest_chapter_date": "07/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-box-11258",
+        "title": "Blue Box",
+        "channel_id": 1398719506720886864,
+        "last_chapter": 208,
+        "latest_chapter_date": "07/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -31,15 +76,6 @@
         "title": "Cậu Bé Của Thần Chết",
         "channel_id": 1374611513423302717,
         "last_chapter": 294,
-        "latest_chapter_date": "06/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 521,
         "latest_chapter_date": "06/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -252,6 +288,24 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1920,
+        "latest_chapter_date": "06/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2479,
+        "latest_chapter_date": "06/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
         "title": "Tử Linh Sư Thiên Tài Của Học Viện",
         "channel_id": 1378408236453204018,
@@ -423,28 +477,10 @@
         "error": null
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1919,
-        "latest_chapter_date": "05/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
         "last_chapter": 647,
-        "latest_chapter_date": "05/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2478,
         "latest_chapter_date": "05/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -1026,24 +1062,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-quan-lam-16245",
-        "title": "Tuyệt Thế Quân Lâm",
-        "channel_id": 1389226676344324146,
-        "last_chapter": 57,
-        "latest_chapter_date": "01/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ma-dao-chuyen-sinh-ky-13933",
-        "title": "Ma Đạo Chuyển Sinh Ký",
-        "channel_id": 1407385681696784595,
-        "last_chapter": 134,
-        "latest_chapter_date": "01/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
         "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
         "channel_id": 1393808736690114641,
@@ -1165,15 +1183,6 @@
         "title": "Hôm Nay Han Yoil Là Phụ Nữ",
         "channel_id": 1412796162217349141,
         "last_chapter": 27,
-        "latest_chapter_date": "30/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
-        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
-        "channel_id": 1398707290856493083,
-        "last_chapter": 166,
         "latest_chapter_date": "30/08/2025",
         "source": "truyenqqto",
         "error": null
@@ -1381,15 +1390,6 @@
         "title": "Làm Sao Để Chạy Trốn Dàn Hậu Cung",
         "channel_id": 1380002483530764298,
         "last_chapter": 186,
-        "latest_chapter_date": "24/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "blue-box-11258",
-        "title": "Blue Box",
-        "channel_id": 1398719506720886864,
-        "last_chapter": 207,
         "latest_chapter_date": "24/08/2025",
         "source": "truyenqqto",
         "error": null
