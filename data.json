@@ -1,5 +1,41 @@
 [
     {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 367,
+        "latest_chapter_date": "10/09/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 135,
+        "latest_chapter_date": "10/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
+        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
+        "channel_id": 1374600023588732998,
+        "last_chapter": 69,
+        "latest_chapter_date": "10/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 151,
+        "latest_chapter_date": "10/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -234,6 +270,42 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1923,
+        "latest_chapter_date": "09/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2481,
+        "latest_chapter_date": "09/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 295,
+        "latest_chapter_date": "09/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hiep-khach-giang-ho-218",
+        "title": "Hiệp Khách Giang Hồ",
+        "channel_id": 1374600868141207613,
+        "last_chapter": 706,
+        "latest_chapter_date": "09/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
@@ -285,15 +357,6 @@
         "last_chapter": 79,
         "latest_chapter_date": "08/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1922,
-        "latest_chapter_date": "08/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -558,15 +621,6 @@
         "error": null
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2480,
-        "latest_chapter_date": "07/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "chang-re-manh-nhat-lich-su",
         "title": "Chàng Rể Mạnh Nhất Lịch Sử",
         "channel_id": 1374647250117988423,
@@ -616,15 +670,6 @@
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
         "last_chapter": 52,
-        "latest_chapter_date": "06/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 294,
         "latest_chapter_date": "06/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -936,15 +981,6 @@
         "error": null
     },
     {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 366,
-        "latest_chapter_date": "04/09/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "nga-lao-ma-than-10514",
         "title": "Ngã Lão Ma Thần",
         "channel_id": 1377467226185142293,
@@ -999,28 +1035,10 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 134,
-        "latest_chapter_date": "03/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "sakamoto-days-10560",
         "title": "Sakamoto Days",
         "channel_id": 1380006719144460441,
         "last_chapter": 227,
-        "latest_chapter_date": "03/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
-        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
-        "channel_id": 1374600023588732998,
-        "last_chapter": 68,
         "latest_chapter_date": "03/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1503,15 +1521,6 @@
         "error": null
     },
     {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 150,
-        "latest_chapter_date": "20/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "muc-long-su-11320",
         "title": "Mục Long Sư",
         "channel_id": 1379998400619090023,
@@ -1607,15 +1616,6 @@
         "channel_id": 1399564172328698047,
         "last_chapter": 103,
         "latest_chapter_date": "11/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hiep-khach-giang-ho-218",
-        "title": "Hiệp Khách Giang Hồ",
-        "channel_id": 1374600868141207613,
-        "last_chapter": 704,
-        "latest_chapter_date": "07/08/2025",
         "source": "truyenqqto",
         "error": null
     },
