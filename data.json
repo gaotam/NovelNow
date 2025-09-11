@@ -1,5 +1,41 @@
 [
     {
+        "id": "manh-ghep-so-phan-5363",
+        "title": "Mảnh Ghép Số Phận",
+        "channel_id": 1409355649657081987,
+        "last_chapter": 164,
+        "latest_chapter_date": "11/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 56,
+        "latest_chapter_date": "11/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nga-lao-ma-than-10514",
+        "title": "Ngã Lão Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 277,
+        "latest_chapter_date": "11/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-12417",
+        "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
+        "channel_id": 1398702655030693888,
+        "last_chapter": 163,
+        "latest_chapter_date": "11/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hoa-than-thanh-meo",
         "title": "Hóa Thân Thành Mèo",
         "channel_id": 1364846977887768626,
@@ -288,6 +324,15 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2482,
+        "latest_chapter_date": "10/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -499,15 +544,6 @@
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
         "last_chapter": 1923,
-        "latest_chapter_date": "09/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2481,
         "latest_chapter_date": "09/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -810,15 +846,6 @@
         "error": null
     },
     {
-        "id": "manh-ghep-so-phan-5363",
-        "title": "Mảnh Ghép Số Phận",
-        "channel_id": 1409355649657081987,
-        "last_chapter": 163,
-        "latest_chapter_date": "07/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chang-re-manh-nhat-lich-su",
         "title": "Chàng Rể Mạnh Nhất Lịch Sử",
         "channel_id": 1374647250117988423,
@@ -1053,15 +1080,6 @@
         "error": null
     },
     {
-        "id": "ban-nga-thay-doi-16622",
-        "title": "Bản Ngã Thay Đổi",
-        "channel_id": 1393822161533276200,
-        "last_chapter": 55,
-        "latest_chapter_date": "05/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
         "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
         "channel_id": 1380005456755425300,
@@ -1147,15 +1165,6 @@
         "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
         "channel_id": 1377466581030010922,
         "last_chapter": 118,
-        "latest_chapter_date": "04/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nga-lao-ma-than-10514",
-        "title": "Ngã Lão Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 276,
         "latest_chapter_date": "04/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1436,15 +1445,6 @@
         "channel_id": 1407385299721654282,
         "last_chapter": 41,
         "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-12417",
-        "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
-        "channel_id": 1398702655030693888,
-        "last_chapter": 162,
-        "latest_chapter_date": "28/08/2025",
         "source": "truyenqqto",
         "error": null
     },
