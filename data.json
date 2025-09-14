@@ -63,20 +63,11 @@
         "error": null
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1927,
-        "latest_chapter_date": "13/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
-        "last_chapter": 1526,
-        "latest_chapter_date": "13/09/2025",
+        "last_chapter": 1529,
+        "latest_chapter_date": "14/09/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -84,8 +75,8 @@
         "id": "139812",
         "title": "Trưởng Tử: Huynh Muội Mô Phỏng Ta Nhân Sinh, Nước Mắt Sụp Đổ",
         "channel_id": 1361193789661909082,
-        "last_chapter": 380,
-        "latest_chapter_date": "13/09/2025",
+        "last_chapter": 382,
+        "latest_chapter_date": "14/09/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -93,8 +84,8 @@
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
-        "last_chapter": 654,
-        "latest_chapter_date": "13/09/2025",
+        "last_chapter": 655,
+        "latest_chapter_date": "14/09/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -102,9 +93,72 @@
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
-        "last_chapter": 753,
-        "latest_chapter_date": "13/09/2025",
+        "last_chapter": 754,
+        "latest_chapter_date": "14/09/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 428,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 448,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 457,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguc-toi-black-haze-17155",
+        "title": "Ngục Tối Black Haze",
+        "channel_id": 1412795644636172388,
+        "last_chapter": 39,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 416,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "than-chet-part-time-18398",
+        "title": "Thần Chết Part-Time",
+        "channel_id": 1399564591100334200,
+        "last_chapter": 26,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1927,
+        "latest_chapter_date": "13/09/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -117,28 +171,10 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 427,
-        "latest_chapter_date": "13/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
         "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
         "channel_id": 1374608403543887943,
         "last_chapter": 266,
-        "latest_chapter_date": "13/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 447,
         "latest_chapter_date": "13/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -175,15 +211,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 89,
-        "latest_chapter_date": "13/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 456,
         "latest_chapter_date": "13/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -301,15 +328,6 @@
         "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
         "channel_id": 1380004424629620826,
         "last_chapter": 234,
-        "latest_chapter_date": "13/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguc-toi-black-haze-17155",
-        "title": "Ngục Tối Black Haze",
-        "channel_id": 1412795644636172388,
-        "last_chapter": 38,
         "latest_chapter_date": "13/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -679,15 +697,6 @@
         "title": "Khô Cốt Hiệp Sĩ",
         "channel_id": 1374625220517826651,
         "last_chapter": 183,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 415,
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1733,15 +1742,6 @@
         "channel_id": 1400667279863316540,
         "last_chapter": 65,
         "latest_chapter_date": "01/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "than-chet-part-time-18398",
-        "title": "Thần Chết Part-Time",
-        "channel_id": 1399564591100334200,
-        "last_chapter": 22,
-        "latest_chapter_date": "29/07/2025",
         "source": "truyenqqto",
         "error": null
     },
