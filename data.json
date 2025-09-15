@@ -1,5 +1,23 @@
 [
     {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 223,
+        "latest_chapter_date": "15/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 113,
+        "latest_chapter_date": "15/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
         "title": "Tử Linh Sư Thiên Tài Của Học Viện",
         "channel_id": 1378408236453204018,
@@ -12,7 +30,7 @@
         "id": "106723",
         "title": "Khấu Vấn Tiên Đạo",
         "channel_id": 1359013844986499235,
-        "last_chapter": 2484,
+        "last_chapter": 2485,
         "latest_chapter_date": "14/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -84,7 +102,7 @@
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
-        "last_chapter": 655,
+        "last_chapter": 656,
         "latest_chapter_date": "14/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -148,6 +166,78 @@
         "title": "Thần Chết Part-Time",
         "channel_id": 1399564591100334200,
         "last_chapter": 26,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1053,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
+        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
+        "channel_id": 1374619906187853955,
+        "last_chapter": 594,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 99,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
+        "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
+        "channel_id": 1393808736690114641,
+        "last_chapter": 145,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
+        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
+        "channel_id": 1378676658432643102,
+        "last_chapter": 415,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 334,
+        "latest_chapter_date": "14/09/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
+        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
+        "channel_id": 1380001406848733214,
+        "last_chapter": 118,
+        "latest_chapter_date": "14/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bang-vuong-15800",
+        "title": "Băng Vương",
+        "channel_id": 1407385299721654282,
+        "last_chapter": 42,
         "latest_chapter_date": "14/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -486,15 +576,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1051,
-        "latest_chapter_date": "12/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "manh-ghep-so-phan-5363",
         "title": "Mảnh Ghép Số Phận",
         "channel_id": 1409355649657081987,
@@ -720,15 +801,6 @@
         "error": null
     },
     {
-        "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
-        "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
-        "channel_id": 1374619906187853955,
-        "last_chapter": 593,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "su-ton-nghich-do-nay-moi-khong-phai-la-thanh-tu-14454",
         "title": "Sư Tôn: Nghịch Đồ Này Mới Không Phải Là Thánh Tử",
         "channel_id": 1378409367283695626,
@@ -837,28 +909,10 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 98,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
         "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
         "channel_id": 1393818779523354705,
         "last_chapter": 56,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
-        "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
-        "channel_id": 1393808736690114641,
-        "last_chapter": 144,
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1008,15 +1062,6 @@
         "error": null
     },
     {
-        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
-        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
-        "channel_id": 1378676658432643102,
-        "last_chapter": 414,
-        "latest_chapter_date": "09/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cao-dang-linh-hon-6931",
         "title": "Cao Đẳng Linh Hồn",
         "channel_id": 1397942857674788914,
@@ -1039,15 +1084,6 @@
         "title": "Tuyệt Thế Hồi Quy",
         "channel_id": 1407384025617797120,
         "last_chapter": 65,
-        "latest_chapter_date": "09/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 222,
         "latest_chapter_date": "09/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1242,24 +1278,6 @@
         "error": null
     },
     {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 332,
-        "latest_chapter_date": "07/09/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
-        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
-        "channel_id": 1380001406848733214,
-        "last_chapter": 117,
-        "latest_chapter_date": "07/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dang-nhap-murim-10319",
         "title": "Đăng Nhập Murim",
         "channel_id": 1378250151377899621,
@@ -1440,15 +1458,6 @@
         "error": null
     },
     {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 111,
-        "latest_chapter_date": "01/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "luc-do-toi-da-chuyen-sinh-thanh-slime-1475",
         "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
         "channel_id": 1374613564291285063,
@@ -1570,15 +1579,6 @@
         "title": "Tiêu Diệt Ác Nhân",
         "channel_id": 1416616686328741989,
         "last_chapter": 199,
-        "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "bang-vuong-15800",
-        "title": "Băng Vương",
-        "channel_id": 1407385299721654282,
-        "last_chapter": 41,
         "latest_chapter_date": "29/08/2025",
         "source": "truyenqqto",
         "error": null
