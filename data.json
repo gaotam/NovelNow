@@ -1,5 +1,59 @@
 [
     {
+        "id": "nen-van-minh-nebula-15204",
+        "title": "Nền Văn Minh Nebula",
+        "channel_id": 1374646772709855284,
+        "last_chapter": 108,
+        "latest_chapter_date": "17/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 368,
+        "latest_chapter_date": "17/09/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "toan-tri-doc-gia-9702",
+        "title": "Toàn Trí Độc Giả",
+        "channel_id": 1377467480120754248,
+        "last_chapter": 280,
+        "latest_chapter_date": "17/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 271,
+        "latest_chapter_date": "17/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "suc-manh-cua-ac-than-11700",
+        "title": "Sức Mạnh Của Ác Thần",
+        "channel_id": 1380004126313943100,
+        "last_chapter": 173,
+        "latest_chapter_date": "17/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 228,
+        "latest_chapter_date": "17/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nguoi-dep-va-quai-vat-11575",
         "title": "Người Đẹp Và Quái Vật",
         "channel_id": 1416625056943177758,
@@ -234,6 +288,33 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1930,
+        "latest_chapter_date": "16/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2487,
+        "latest_chapter_date": "16/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 136,
+        "latest_chapter_date": "16/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hoi-uc-cua-chien-than-11337",
         "title": "Hồi Ức Của Chiến Thần",
         "channel_id": 1380002190277480579,
@@ -249,15 +330,6 @@
         "last_chapter": 113,
         "latest_chapter_date": "15/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1929,
-        "latest_chapter_date": "15/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -339,15 +411,6 @@
         "last_chapter": 128,
         "latest_chapter_date": "15/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2486,
-        "latest_chapter_date": "15/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -684,15 +747,6 @@
         "error": null
     },
     {
-        "id": "nen-van-minh-nebula-15204",
-        "title": "Nền Văn Minh Nebula",
-        "channel_id": 1374646772709855284,
-        "last_chapter": 107,
-        "latest_chapter_date": "13/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "garbage-time-18604",
         "title": "Garbage Time",
         "channel_id": 1397503997992239124,
@@ -999,24 +1053,6 @@
         "error": null
     },
     {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 367,
-        "latest_chapter_date": "10/09/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 135,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nine-peaks-13570",
         "title": "Nine Peaks",
         "channel_id": 1387287980057694248,
@@ -1080,15 +1116,6 @@
         "error": null
     },
     {
-        "id": "toan-tri-doc-gia-9702",
-        "title": "Toàn Trí Độc Giả",
-        "channel_id": 1377467480120754248,
-        "last_chapter": 279,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dich-vu-thue-ban-gai-3620",
         "title": "Dịch Vụ Thuê Bạn Gái",
         "channel_id": 1374610492659601438,
@@ -1111,15 +1138,6 @@
         "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
         "channel_id": 1374645723500380330,
         "last_chapter": 138,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 270,
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1246,15 +1264,6 @@
         "title": "Học Nhóm",
         "channel_id": 1393813974109262015,
         "last_chapter": 290,
-        "latest_chapter_date": "08/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "suc-manh-cua-ac-than-11700",
-        "title": "Sức Mạnh Của Ác Thần",
-        "channel_id": 1380004126313943100,
-        "last_chapter": 172,
         "latest_chapter_date": "08/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1400,15 +1409,6 @@
         "channel_id": 1398722126760116334,
         "last_chapter": 218,
         "latest_chapter_date": "04/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 227,
-        "latest_chapter_date": "03/09/2025",
         "source": "truyenqqto",
         "error": null
     },
