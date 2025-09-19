@@ -126,6 +126,69 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 660,
+        "latest_chapter_date": "19/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1054,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
+        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
+        "channel_id": 1374608403543887943,
+        "last_chapter": 267,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "di-len-tu-day-xa-hoi-17462",
+        "title": "Đi Lên Từ Đáy Xã Hội",
+        "channel_id": 1380003140585132092,
+        "last_chapter": 43,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "de-nhat-vo-su-baek-cao-thu-11927",
+        "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
+        "channel_id": 1374645723500380330,
+        "last_chapter": 139,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-quy-tro-lai-thanh-ke-vo-dung-12261",
+        "title": "Hồi Quy Trở Lại Thành Kẻ Vô Dụng",
+        "channel_id": 1407383279132217465,
+        "last_chapter": 99,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 20,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
@@ -186,15 +249,6 @@
         "last_chapter": 1210,
         "latest_chapter_date": "18/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 659,
-        "latest_chapter_date": "18/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -954,15 +1008,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1053,
-        "latest_chapter_date": "14/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguyen-lai-ta-la-tu-tien-dai-lao-12142",
         "title": "Nguyên Lai Ta Là Tu Tiên Đại Lão",
         "channel_id": 1374619906187853955,
@@ -995,15 +1040,6 @@
         "channel_id": 1380001406848733214,
         "last_chapter": 118,
         "latest_chapter_date": "14/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
-        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
-        "channel_id": 1374608403543887943,
-        "last_chapter": 266,
-        "latest_chapter_date": "13/09/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1224,15 +1260,6 @@
         "error": null
     },
     {
-        "id": "di-len-tu-day-xa-hoi-17462",
-        "title": "Đi Lên Từ Đáy Xã Hội",
-        "channel_id": 1380003140585132092,
-        "last_chapter": 41,
-        "latest_chapter_date": "11/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nhat-ki-doi-nghe-18091",
         "title": "Nhật Kí Đổi Nghề",
         "channel_id": 1416623182202273823,
@@ -1264,15 +1291,6 @@
         "title": "Sống Như Một Diễn Viên",
         "channel_id": 1398723257200414791,
         "last_chapter": 140,
-        "latest_chapter_date": "10/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "de-nhat-vo-su-baek-cao-thu-11927",
-        "title": "Đệ Nhất Võ Sư, Baek Cao Thủ",
-        "channel_id": 1374645723500380330,
-        "last_chapter": 138,
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1444,15 +1462,6 @@
         "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
         "channel_id": 1380007350437543937,
         "last_chapter": 304,
-        "latest_chapter_date": "06/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoi-quy-tro-lai-thanh-ke-vo-dung-12261",
-        "title": "Hồi Quy Trở Lại Thành Kẻ Vô Dụng",
-        "channel_id": 1407383279132217465,
-        "last_chapter": 98,
         "latest_chapter_date": "06/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1705,15 +1714,6 @@
         "title": "Người Chơi Mới Cấp Tối Đa",
         "channel_id": 1359001165697781760,
         "last_chapter": 219,
-        "latest_chapter_date": "18/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 15,
         "latest_chapter_date": "18/08/2025",
         "source": "truyenqqto",
         "error": null
