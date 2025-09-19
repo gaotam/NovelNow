@@ -1,5 +1,23 @@
 [
     {
+        "id": "de-co-the-song-sot-11257",
+        "title": "Để Có Thể Sống Sót",
+        "channel_id": 1380381235712626791,
+        "last_chapter": 185,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 573,
+        "latest_chapter_date": "19/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
@@ -234,6 +252,51 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1932,
+        "latest_chapter_date": "18/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2489,
+        "latest_chapter_date": "18/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 100,
+        "latest_chapter_date": "18/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 296,
+        "latest_chapter_date": "18/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "iron-ladies-6122",
+        "title": "Iron Ladies",
+        "channel_id": 1409355109619470478,
+        "last_chapter": 301,
+        "latest_chapter_date": "18/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nen-van-minh-nebula-15204",
         "title": "Nền Văn Minh Nebula",
         "channel_id": 1374646772709855284,
@@ -420,24 +483,6 @@
         "last_chapter": 547,
         "latest_chapter_date": "17/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1931,
-        "latest_chapter_date": "17/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2488,
-        "latest_chapter_date": "17/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -873,15 +918,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 99,
-        "latest_chapter_date": "14/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
         "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
         "channel_id": 1393808736690114641,
@@ -1057,15 +1093,6 @@
         "title": "Thăng Cấp Vô Hạn Trong Murim",
         "channel_id": 1407382643460411423,
         "last_chapter": 244,
-        "latest_chapter_date": "12/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "de-co-the-song-sot-11257",
-        "title": "Để Có Thể Sống Sót",
-        "channel_id": 1380381235712626791,
-        "last_chapter": 184,
         "latest_chapter_date": "12/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1305,15 +1332,6 @@
         "error": null
     },
     {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 295,
-        "latest_chapter_date": "09/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hiep-khach-giang-ho-218",
         "title": "Hiệp Khách Giang Hồ",
         "channel_id": 1374600868141207613,
@@ -1426,15 +1444,6 @@
         "title": "Tôi Là Thợ Săn Có Kĩ Năng Tự Sát Cấp SSS",
         "channel_id": 1375004863217274881,
         "last_chapter": 151,
-        "latest_chapter_date": "05/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 571,
         "latest_chapter_date": "05/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1652,15 +1661,6 @@
         "channel_id": 1416616686328741989,
         "last_chapter": 199,
         "latest_chapter_date": "29/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "iron-ladies-6122",
-        "title": "Iron Ladies",
-        "channel_id": 1409355109619470478,
-        "last_chapter": 300,
-        "latest_chapter_date": "26/08/2025",
         "source": "truyenqqto",
         "error": null
     },
