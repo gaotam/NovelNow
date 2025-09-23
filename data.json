@@ -1,5 +1,59 @@
 [
     {
+        "id": "hoc-nhom-10229",
+        "title": "Học Nhóm",
+        "channel_id": 1393813974109262015,
+        "last_chapter": 292,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
+        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
+        "channel_id": 1398721585082405006,
+        "last_chapter": 72,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 57,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 67,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "phi-loi-dao-thuat-10484",
+        "title": "Phi Lôi Đao Thuật",
+        "channel_id": 1416625518413090928,
+        "last_chapter": 213,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "doi-truong-linh-danh-thue-9416",
+        "title": "Đội Trưởng Lính Đánh Thuê",
+        "channel_id": 1387285926774050909,
+        "last_chapter": 283,
+        "latest_chapter_date": "23/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tieu-tu-dang-ngo-lai-la-cao-thu-15252",
         "title": "Tiểu Tử Đáng Ngờ Lại Là Cao Thủ",
         "channel_id": 1389226409796436069,
@@ -57,7 +111,7 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1935,
+        "last_chapter": 1936,
         "latest_chapter_date": "22/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -238,15 +292,6 @@
         "title": "Hiệp Khách Giang Hồ",
         "channel_id": 1374600868141207613,
         "last_chapter": 707,
-        "latest_chapter_date": "22/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-nhom-10229",
-        "title": "Học Nhóm",
-        "channel_id": 1393813974109262015,
-        "last_chapter": 291,
         "latest_chapter_date": "22/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1134,15 +1179,6 @@
         "error": null
     },
     {
-        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
-        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
-        "channel_id": 1398721585082405006,
-        "last_chapter": 71,
-        "latest_chapter_date": "16/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
         "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
         "channel_id": 1387286765571674286,
@@ -1156,24 +1192,6 @@
         "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
         "channel_id": 1393802419548327987,
         "last_chapter": 48,
-        "latest_chapter_date": "16/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 56,
-        "latest_chapter_date": "16/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 66,
         "latest_chapter_date": "16/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1454,15 +1472,6 @@
         "channel_id": 1374605940166365294,
         "last_chapter": 253,
         "latest_chapter_date": "08/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "phi-loi-dao-thuat-10484",
-        "title": "Phi Lôi Đao Thuật",
-        "channel_id": 1416625518413090928,
-        "last_chapter": 212,
-        "latest_chapter_date": "07/09/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1886,15 +1895,6 @@
         "channel_id": 1393817771565125702,
         "last_chapter": 19,
         "latest_chapter_date": "12/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "doi-truong-linh-danh-thue-9416",
-        "title": "Đội Trưởng Lính Đánh Thuê",
-        "channel_id": 1387285926774050909,
-        "last_chapter": 280,
-        "latest_chapter_date": "10/07/2025",
         "source": "truyenqqto",
         "error": null
     },
