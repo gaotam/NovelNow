@@ -1,5 +1,41 @@
 [
     {
+        "id": "bang-vuong-15800",
+        "title": "Băng Vương",
+        "channel_id": 1407385299721654282,
+        "last_chapter": 45,
+        "latest_chapter_date": "26/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "de-co-the-song-sot-11257",
+        "title": "Để Có Thể Sống Sót",
+        "channel_id": 1380381235712626791,
+        "last_chapter": 186,
+        "latest_chapter_date": "26/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 574,
+        "latest_chapter_date": "26/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-tai-nhin-thau-the-gioi-17219",
+        "title": "Thiên Tài Nhìn Thấu Thế Giới",
+        "channel_id": 1399563472320204912,
+        "last_chapter": 38,
+        "latest_chapter_date": "26/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
@@ -84,7 +120,7 @@
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
-        "last_chapter": 664,
+        "last_chapter": 665,
         "latest_chapter_date": "25/09/2025",
         "source": "metruyenchu",
         "error": null
@@ -184,6 +220,33 @@
         "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
         "channel_id": 1377466581030010922,
         "last_chapter": 121,
+        "latest_chapter_date": "25/09/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1939,
+        "latest_chapter_date": "25/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2494,
+        "latest_chapter_date": "25/09/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "bac-thay-thiet-ke-dien-trang-11846",
+        "title": "Bậc Thầy Thiết Kế Điền Trang",
+        "channel_id": 1374609754286063656,
+        "last_chapter": 211,
         "latest_chapter_date": "25/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -396,15 +459,6 @@
         "error": null
     },
     {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1938,
-        "latest_chapter_date": "24/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
         "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
         "channel_id": 1404687720298709095,
@@ -609,15 +663,6 @@
         "last_chapter": 116,
         "latest_chapter_date": "23/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2493,
-        "latest_chapter_date": "23/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -945,15 +990,6 @@
         "error": null
     },
     {
-        "id": "bang-vuong-15800",
-        "title": "Băng Vương",
-        "channel_id": 1407385299721654282,
-        "last_chapter": 44,
-        "latest_chapter_date": "20/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ma-dao-chuyen-sinh-ky-13933",
         "title": "Ma Đạo Chuyển Sinh Ký",
         "channel_id": 1407385681696784595,
@@ -1134,24 +1170,6 @@
         "error": null
     },
     {
-        "id": "de-co-the-song-sot-11257",
-        "title": "Để Có Thể Sống Sót",
-        "channel_id": 1380381235712626791,
-        "last_chapter": 185,
-        "latest_chapter_date": "19/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 573,
-        "latest_chapter_date": "19/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-goblin-16569",
         "title": "Chuyển Sinh Thành Goblin",
         "channel_id": 1377469416433778749,
@@ -1165,15 +1183,6 @@
         "title": "Thi Sơn Huyết Hải",
         "channel_id": 1410468927963926549,
         "last_chapter": 6,
-        "latest_chapter_date": "19/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "bac-thay-thiet-ke-dien-trang-11846",
-        "title": "Bậc Thầy Thiết Kế Điền Trang",
-        "channel_id": 1374609754286063656,
-        "last_chapter": 210,
         "latest_chapter_date": "19/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1625,15 +1634,6 @@
         "channel_id": 1373490819750826065,
         "last_chapter": 266,
         "latest_chapter_date": "01/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-tai-nhin-thau-the-gioi-17219",
-        "title": "Thiên Tài Nhìn Thấu Thế Giới",
-        "channel_id": 1399563472320204912,
-        "last_chapter": 35,
-        "latest_chapter_date": "31/08/2025",
         "source": "truyenqqto",
         "error": null
     },
