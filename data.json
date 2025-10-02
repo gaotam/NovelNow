@@ -1,5 +1,50 @@
 [
     {
+        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
+        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
+        "channel_id": 1377468517028204614,
+        "last_chapter": 281,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nga-lao-ma-than-10514",
+        "title": "Ngã Lão Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 280,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
+        "last_chapter": 169,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tu-than-phieu-nguyet-12561",
+        "title": "Tử Thần Phiêu Nguyệt",
+        "channel_id": 1410480358947946506,
+        "last_chapter": 107,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nhan-trung-dai-chien-10703",
+        "title": "Nhân Trùng Đại Chiến",
+        "channel_id": 1410471133966241873,
+        "last_chapter": 177,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "chua-te-dong-tien-10787",
         "title": "Chúa Tể Đồng Tiền",
         "channel_id": 1398720923334610954,
@@ -234,6 +279,33 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2500,
+        "latest_chapter_date": "01/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1946,
+        "latest_chapter_date": "01/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 370,
+        "latest_chapter_date": "01/10/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
         "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
         "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
         "channel_id": 1398721585082405006,
@@ -447,24 +519,6 @@
         "last_chapter": 76,
         "latest_chapter_date": "30/09/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2499,
-        "latest_chapter_date": "30/09/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1945,
-        "latest_chapter_date": "30/09/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -864,15 +918,6 @@
         "error": null
     },
     {
-        "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
-        "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
-        "channel_id": 1377468517028204614,
-        "last_chapter": 280,
-        "latest_chapter_date": "27/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "doi-truong-linh-danh-thue-9416",
         "title": "Đội Trưởng Lính Đánh Thuê",
         "channel_id": 1387285926774050909,
@@ -1062,24 +1107,6 @@
         "error": null
     },
     {
-        "id": "nga-lao-ma-than-10514",
-        "title": "Ngã Lão Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 279,
-        "latest_chapter_date": "25/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "channel_id": 1359003439941554226,
-        "last_chapter": 168,
-        "latest_chapter_date": "25/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tap-huyet-16816",
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
@@ -1089,28 +1116,10 @@
         "error": null
     },
     {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 369,
-        "latest_chapter_date": "25/09/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
         "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
         "channel_id": 1374645008161837117,
         "last_chapter": 132,
-        "latest_chapter_date": "25/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tu-than-phieu-nguyet-12561",
-        "title": "Tử Thần Phiêu Nguyệt",
-        "channel_id": 1410480358947946506,
-        "last_chapter": 106,
         "latest_chapter_date": "25/09/2025",
         "source": "truyenqqto",
         "error": null
@@ -1408,15 +1417,6 @@
         "title": "Xích Tâm Tuần Thiên(Truyện tranh)",
         "channel_id": 1405447988129566790,
         "last_chapter": 59,
-        "latest_chapter_date": "20/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhan-trung-dai-chien-10703",
-        "title": "Nhân Trùng Đại Chiến",
-        "channel_id": 1410471133966241873,
-        "last_chapter": 176,
         "latest_chapter_date": "20/09/2025",
         "source": "truyenqqto",
         "error": null
