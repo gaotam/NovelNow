@@ -1,5 +1,50 @@
 [
     {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 204,
+        "latest_chapter_date": "03/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
+        "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
+        "channel_id": 1398710018836009102,
+        "last_chapter": 118,
+        "latest_chapter_date": "03/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 760,
+        "latest_chapter_date": "03/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "de-co-the-song-sot-11257",
+        "title": "Để Có Thể Sống Sót",
+        "channel_id": 1380381235712626791,
+        "last_chapter": 187,
+        "latest_chapter_date": "03/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 575,
+        "latest_chapter_date": "03/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
@@ -94,15 +139,6 @@
         "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
         "channel_id": 1398690848031637584,
         "last_chapter": 26,
-        "latest_chapter_date": "02/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 203,
         "latest_chapter_date": "02/10/2025",
         "source": "truyenqqto",
         "error": null
@@ -247,6 +283,24 @@
         "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
         "channel_id": 1377470069545635900,
         "last_chapter": 148,
+        "latest_chapter_date": "02/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2501,
+        "latest_chapter_date": "02/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "di-len-tu-day-xa-hoi-17462",
+        "title": "Đi Lên Từ Đáy Xã Hội",
+        "channel_id": 1380003140585132092,
+        "last_chapter": 45,
         "latest_chapter_date": "02/10/2025",
         "source": "truyenqqto",
         "error": null
@@ -447,15 +501,6 @@
         "last_chapter": 656,
         "latest_chapter_date": "01/10/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2500,
-        "latest_chapter_date": "01/10/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -873,15 +918,6 @@
         "error": null
     },
     {
-        "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
-        "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
-        "channel_id": 1398710018836009102,
-        "last_chapter": 117,
-        "latest_chapter_date": "28/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
         "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
         "channel_id": 1378676658432643102,
@@ -933,15 +969,6 @@
         "last_chapter": 338,
         "latest_chapter_date": "28/09/2025",
         "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 759,
-        "latest_chapter_date": "27/09/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -1107,24 +1134,6 @@
         "error": null
     },
     {
-        "id": "de-co-the-song-sot-11257",
-        "title": "Để Có Thể Sống Sót",
-        "channel_id": 1380381235712626791,
-        "last_chapter": 186,
-        "latest_chapter_date": "26/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 574,
-        "latest_chapter_date": "26/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-tai-nhin-thau-the-gioi-17219",
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
@@ -1183,15 +1192,6 @@
         "title": "Cuồng Ma Tái Thế",
         "channel_id": 1407386762984034446,
         "last_chapter": 171,
-        "latest_chapter_date": "26/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "di-len-tu-day-xa-hoi-17462",
-        "title": "Đi Lên Từ Đáy Xã Hội",
-        "channel_id": 1380003140585132092,
-        "last_chapter": 44,
         "latest_chapter_date": "26/09/2025",
         "source": "truyenqqto",
         "error": null
