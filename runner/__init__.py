@@ -198,7 +198,8 @@ class Runner:
 
             # Display text-only stories
             if text_stories:
-                message1 += "📖 TRUYỆN CHỮ:\n"
+                text_stories_number = len(text_stories)
+                message1 += f"📖 TRUYỆN CHỮ({text_stories_number}):\n"
                 for i, st in enumerate(text_stories, 1):
                     lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
                     message1 += lines + "\n"
@@ -206,7 +207,8 @@ class Runner:
 
             # Display comic stories
             if comic_stories:
-                message1 += "🎨 TRUYỆN TRANH:\n"
+                comic_stories_number = len(comic_stories)
+                message1 += f"🎨 TRUYỆN TRANH({comic_stories_number}):\n"
                 for i, st in enumerate(comic_stories, 1):
                     lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
                     message1 += lines + "\n"
