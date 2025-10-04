@@ -194,7 +194,8 @@ class Runner:
             text_stories = [s for s in sorted_stories if s.is_story_text_only()]
             comic_stories = [s for s in sorted_stories if s not in text_stories]
 
-            message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
+            total_stories_update = len(sorted_stories)
+            message1 = f"\n\n ---------------Danh sách truyện update({total_stories_update})---------------\n\n"
 
             # Display text-only stories
             if text_stories:
