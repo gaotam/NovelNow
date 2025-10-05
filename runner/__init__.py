@@ -187,7 +187,8 @@ class Runner:
     def log_output_console(stories_to_process):
         if len(stories_to_process) > 0:
             filtered_stories = [s for s in stories_to_process if
-                                s.error is None or s.error == StoryError.SEND_DISCORD_GENERAL]
+                                s.error is None
+                                or s.error == StoryError.SEND_DISCORD_GENERAL]
             sorted_stories = Runner.sort_by_update_date(filtered_stories)
 
             # Separate stories into text-only and comic categories
