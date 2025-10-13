@@ -3,9 +3,45 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1963,
-        "latest_chapter_date": "12/10/2025",
+        "last_chapter": 1964,
+        "latest_chapter_date": "13/10/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 76,
+        "latest_chapter_date": "13/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chieu-hon-gia-sieu-pham-13439",
+        "title": "Chiêu Hồn Giả Siêu Phàm",
+        "channel_id": 1374603194956644370,
+        "last_chapter": 158,
+        "latest_chapter_date": "13/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "suc-manh-cua-ac-than-11700",
+        "title": "Sức Mạnh Của Ác Thần",
+        "channel_id": 1380004126313943100,
+        "last_chapter": 175,
+        "latest_chapter_date": "13/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
+        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
+        "channel_id": 1380004424629620826,
+        "last_chapter": 235,
+        "latest_chapter_date": "13/10/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -180,6 +216,33 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2511,
+        "latest_chapter_date": "12/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-sieu-anh-hung-17599",
+        "title": "Kỷ Nguyên Siêu Anh Hùng",
+        "channel_id": 1397509911189131314,
+        "last_chapter": 208,
+        "latest_chapter_date": "12/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 342,
+        "latest_chapter_date": "12/10/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
@@ -348,15 +411,6 @@
         "last_chapter": 238,
         "latest_chapter_date": "11/10/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2510,
-        "latest_chapter_date": "11/10/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -1017,15 +1071,6 @@
         "error": null
     },
     {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 75,
-        "latest_chapter_date": "06/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
         "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
         "channel_id": 1385913211986907186,
@@ -1116,15 +1161,6 @@
         "error": null
     },
     {
-        "id": "chieu-hon-gia-sieu-pham-13439",
-        "title": "Chiêu Hồn Giả Siêu Phàm",
-        "channel_id": 1374603194956644370,
-        "last_chapter": 157,
-        "latest_chapter_date": "06/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "lam-sao-de-chay-tron-dan-hau-cung-12242",
         "title": "Làm Sao Để Chạy Trốn Dàn Hậu Cung",
         "channel_id": 1380002483530764298,
@@ -1206,15 +1242,6 @@
         "error": null
     },
     {
-        "id": "ky-nguyen-sieu-anh-hung-17599",
-        "title": "Kỷ Nguyên Siêu Anh Hùng",
-        "channel_id": 1397509911189131314,
-        "last_chapter": 207,
-        "latest_chapter_date": "05/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "blue-box-11258",
         "title": "Blue Box",
         "channel_id": 1398719506720886864,
@@ -1230,15 +1257,6 @@
         "last_chapter": 51,
         "latest_chapter_date": "05/10/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 340,
-        "latest_chapter_date": "05/10/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1467,15 +1485,6 @@
         "error": null
     },
     {
-        "id": "suc-manh-cua-ac-than-11700",
-        "title": "Sức Mạnh Của Ác Thần",
-        "channel_id": 1380004126313943100,
-        "last_chapter": 174,
-        "latest_chapter_date": "28/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chien-doi-dai-that-cach-10941",
         "title": "Chiến Đội Đại Thất Cách",
         "channel_id": 1398701143185559623,
@@ -1643,15 +1652,6 @@
         "channel_id": 1399564591100334200,
         "last_chapter": 26,
         "latest_chapter_date": "14/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
-        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
-        "channel_id": 1380004424629620826,
-        "last_chapter": 234,
-        "latest_chapter_date": "13/09/2025",
         "source": "truyenqqto",
         "error": null
     },
