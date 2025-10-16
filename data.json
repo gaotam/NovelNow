@@ -3,9 +3,63 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1966,
-        "latest_chapter_date": "15/10/2025",
+        "last_chapter": 1967,
+        "latest_chapter_date": "16/10/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
+        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
+        "channel_id": 1377470069545635900,
+        "last_chapter": 151,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 104,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nga-lao-ma-than-10514",
+        "title": "Ngã Lão Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 282,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
+        "last_chapter": 171,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tu-than-phieu-nguyet-12561",
+        "title": "Tử Thần Phiêu Nguyệt",
+        "channel_id": 1410480358947946506,
+        "last_chapter": 109,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 156,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -216,21 +270,30 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
-        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
-        "channel_id": 1377470069545635900,
-        "last_chapter": 150,
-        "latest_chapter_date": "15/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-moi-cap-toi-da-11540",
         "title": "Người Chơi Mới Cấp Tối Đa",
         "channel_id": 1359001165697781760,
         "last_chapter": 227,
         "latest_chapter_date": "15/10/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 683,
+        "latest_chapter_date": "15/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2514,
+        "latest_chapter_date": "15/10/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -321,24 +384,6 @@
         "last_chapter": 68,
         "latest_chapter_date": "14/10/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 682,
-        "latest_chapter_date": "14/10/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2513,
-        "latest_chapter_date": "14/10/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -882,15 +927,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 103,
-        "latest_chapter_date": "11/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "di-len-tu-day-xa-hoi-17462",
         "title": "Đi Lên Từ Đáy Xã Hội",
         "channel_id": 1380003140585132092,
@@ -1080,33 +1116,6 @@
         "error": null
     },
     {
-        "id": "nga-lao-ma-than-10514",
-        "title": "Ngã Lão Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 281,
-        "latest_chapter_date": "09/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "channel_id": 1359003439941554226,
-        "last_chapter": 170,
-        "latest_chapter_date": "09/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tu-than-phieu-nguyet-12561",
-        "title": "Tử Thần Phiêu Nguyệt",
-        "channel_id": 1410480358947946506,
-        "last_chapter": 108,
-        "latest_chapter_date": "09/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "mot-anh-hung-gioi-moi-thu-16136",
         "title": "Một Anh Hùng Giỏi Mọi Thứ",
         "channel_id": 1387289633582350466,
@@ -1147,15 +1156,6 @@
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
         "last_chapter": 57,
-        "latest_chapter_date": "09/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 155,
         "latest_chapter_date": "09/10/2025",
         "source": "truyenqqto",
         "error": null
