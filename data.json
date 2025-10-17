@@ -3,9 +3,18 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 1967,
-        "latest_chapter_date": "16/10/2025",
+        "last_chapter": 1968,
+        "latest_chapter_date": "17/10/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "he-thong-super-god-12010",
+        "title": "Hệ Thống Super God",
+        "channel_id": 1398701581439996016,
+        "last_chapter": 188,
+        "latest_chapter_date": "17/10/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -184,6 +193,33 @@
         "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
         "channel_id": 1377466581030010922,
         "last_chapter": 123,
+        "latest_chapter_date": "16/10/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 684,
+        "latest_chapter_date": "16/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2515,
+        "latest_chapter_date": "16/10/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 121,
         "latest_chapter_date": "16/10/2025",
         "source": "truyenqqto",
         "error": null
@@ -384,24 +420,6 @@
         "last_chapter": 227,
         "latest_chapter_date": "15/10/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 683,
-        "latest_chapter_date": "15/10/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2514,
-        "latest_chapter_date": "15/10/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -697,15 +715,6 @@
         "title": "Bạo Lực Vương",
         "channel_id": 1410457724793258166,
         "last_chapter": 71,
-        "latest_chapter_date": "13/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 120,
         "latest_chapter_date": "13/10/2025",
         "source": "truyenqqto",
         "error": null
@@ -1723,15 +1732,6 @@
         "title": "Shark - Cá Mập",
         "channel_id": 1409353693547200682,
         "last_chapter": 375,
-        "latest_chapter_date": "03/09/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "he-thong-super-god-12010",
-        "title": "Hệ Thống Super God",
-        "channel_id": 1398701581439996016,
-        "last_chapter": 185,
         "latest_chapter_date": "03/09/2025",
         "source": "truyenqqto",
         "error": null
