@@ -45,6 +45,96 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1987,
+        "latest_chapter_date": "05/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "121068",
+        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
+        "channel_id": 1359006015567171745,
+        "last_chapter": 1633,
+        "latest_chapter_date": "05/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "nguoi-giu-cua-van-gioi-16974",
+        "title": "Người Giữ Cửa Vạn Giới",
+        "channel_id": 1409460128947765338,
+        "last_chapter": 104,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 126,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
+        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
+        "channel_id": 1387286765571674286,
+        "last_chapter": 97,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 159,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 278,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 143,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
+        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
+        "channel_id": 1416617325624295544,
+        "last_chapter": 267,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
+        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
+        "channel_id": 1374600023588732998,
+        "last_chapter": 75,
+        "latest_chapter_date": "05/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
@@ -67,24 +157,6 @@
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
         "last_chapter": 705,
-        "latest_chapter_date": "04/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1986,
-        "latest_chapter_date": "04/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "121068",
-        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
-        "channel_id": 1359006015567171745,
-        "last_chapter": 1631,
         "latest_chapter_date": "04/11/2025",
         "source": "metruyenchu",
         "error": null
@@ -693,15 +765,6 @@
         "error": null
     },
     {
-        "id": "nguoi-giu-cua-van-gioi-16974",
-        "title": "Người Giữ Cửa Vạn Giới",
-        "channel_id": 1409460128947765338,
-        "last_chapter": 103,
-        "latest_chapter_date": "01/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "khong-can-than-luu-danh-muon-thua-16776",
         "title": "Không Cẩn Thận, Lưu Danh Muôn Thủa",
         "channel_id": 1398700451720859740,
@@ -850,15 +913,6 @@
         "title": "Re:Monster",
         "channel_id": 1373490392229740685,
         "last_chapter": 100,
-        "latest_chapter_date": "01/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 125,
         "latest_chapter_date": "01/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1121,60 +1175,6 @@
         "channel_id": 1393808057645142086,
         "last_chapter": 60,
         "latest_chapter_date": "30/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
-        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
-        "channel_id": 1387286765571674286,
-        "last_chapter": 95,
-        "latest_chapter_date": "29/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 158,
-        "latest_chapter_date": "29/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 277,
-        "latest_chapter_date": "29/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 142,
-        "latest_chapter_date": "29/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
-        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
-        "channel_id": 1416617325624295544,
-        "last_chapter": 266,
-        "latest_chapter_date": "29/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
-        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
-        "channel_id": 1374600023588732998,
-        "last_chapter": 74,
-        "latest_chapter_date": "29/10/2025",
         "source": "truyenqqto",
         "error": null
     },
