@@ -1,5 +1,32 @@
 [
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 1993,
+        "latest_chapter_date": "12/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 325,
+        "latest_chapter_date": "12/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 144,
+        "latest_chapter_date": "12/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
         "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
         "channel_id": 1430163228775682099,
@@ -75,7 +102,7 @@
         "id": "ba-xa-nha-toi-den-tu-ngan-nam-truoc-12155",
         "title": "Bà Xã Nhà Tôi Đến Từ Ngàn Năm Trước",
         "channel_id": 1374623763475337308,
-        "last_chapter": 431,
+        "last_chapter": 432,
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -144,6 +171,132 @@
         "error": null
     },
     {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 572,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 712,
+        "latest_chapter_date": "11/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2538,
+        "latest_chapter_date": "11/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
+        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
+        "channel_id": 1374600540486631525,
+        "last_chapter": 234,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-tac-19673",
+        "title": "Vương Tạc",
+        "channel_id": 1398692201801842688,
+        "last_chapter": 26,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
+        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
+        "channel_id": 1374600023588732998,
+        "last_chapter": 76,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
+        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
+        "channel_id": 1398721585082405006,
+        "last_chapter": 79,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 547,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuong-mon-khiem-ton-chut-11685",
+        "title": "Chưởng Môn Khiêm Tốn Chút",
+        "channel_id": 1358986879126736936,
+        "last_chapter": 576,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3854,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
+        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
+        "channel_id": 1380004424629620826,
+        "last_chapter": 242,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "lua-dao-bang-giong-noi-lam-dao-lon-cuoc-song-cua-ban-16139",
+        "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
+        "channel_id": 1393802419548327987,
+        "last_chapter": 56,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-sieu-anh-hung-17599",
+        "title": "Kỷ Nguyên Siêu Anh Hùng",
+        "channel_id": 1397509911189131314,
+        "last_chapter": 212,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "luc-do-toi-da-chuyen-sinh-thanh-slime-1475",
+        "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
+        "channel_id": 1374613564291285063,
+        "last_chapter": 135,
+        "latest_chapter_date": "11/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
@@ -186,24 +339,6 @@
         "last_chapter": 217,
         "latest_chapter_date": "10/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 571,
-        "latest_chapter_date": "10/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1992,
-        "latest_chapter_date": "10/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -396,24 +531,6 @@
         "error": null
     },
     {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 710,
-        "latest_chapter_date": "09/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2537,
-        "latest_chapter_date": "09/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
         "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
         "channel_id": 1374605650449137684,
@@ -598,15 +715,6 @@
         "title": "Tinh Võ Thần Quyết",
         "channel_id": 1374609968417734666,
         "last_chapter": 909,
-        "latest_chapter_date": "08/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
-        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
-        "channel_id": 1374600540486631525,
-        "last_chapter": 233,
         "latest_chapter_date": "08/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -891,15 +999,6 @@
         "error": null
     },
     {
-        "id": "vuong-tac-19673",
-        "title": "Vương Tạc",
-        "channel_id": 1398692201801842688,
-        "last_chapter": 25,
-        "latest_chapter_date": "06/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chao-mung-cau-den-truong-iruma-kun-3188",
         "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
         "channel_id": 1380000751601979433,
@@ -1026,15 +1125,6 @@
         "error": null
     },
     {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 324,
-        "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hoa-than-thanh-meo",
         "title": "Hóa Thân Thành Mèo",
         "channel_id": 1364846977887768626,
@@ -1080,28 +1170,10 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 143,
-        "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
         "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
         "channel_id": 1416617325624295544,
         "last_chapter": 267,
-        "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
-        "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
-        "channel_id": 1374600023588732998,
-        "last_chapter": 75,
         "latest_chapter_date": "05/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1179,46 +1251,10 @@
         "error": null
     },
     {
-        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
-        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
-        "channel_id": 1398721585082405006,
-        "last_chapter": 78,
-        "latest_chapter_date": "04/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 545,
-        "latest_chapter_date": "04/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuong-mon-khiem-ton-chut-11685",
-        "title": "Chưởng Môn Khiêm Tốn Chút",
-        "channel_id": 1358986879126736936,
-        "last_chapter": 574,
-        "latest_chapter_date": "04/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "the-gioi-sau-tan-the-12154",
         "title": "Thế Giới Sau Tận Thế",
         "channel_id": 1374624700613005372,
         "last_chapter": 206,
-        "latest_chapter_date": "04/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3853,
         "latest_chapter_date": "04/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1305,15 +1341,6 @@
         "error": null
     },
     {
-        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
-        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
-        "channel_id": 1380004424629620826,
-        "last_chapter": 241,
-        "latest_chapter_date": "03/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "di-len-tu-day-xa-hoi-17462",
         "title": "Đi Lên Từ Đáy Xã Hội",
         "channel_id": 1380003140585132092,
@@ -1354,15 +1381,6 @@
         "title": "Thuế Trừng Giả",
         "channel_id": 1387290233959219301,
         "last_chapter": 176,
-        "latest_chapter_date": "02/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "lua-dao-bang-giong-noi-lam-dao-lon-cuoc-song-cua-ban-16139",
-        "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
-        "channel_id": 1393802419548327987,
-        "last_chapter": 55,
         "latest_chapter_date": "02/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1472,15 +1490,6 @@
         "channel_id": 1398720923334610954,
         "last_chapter": 253,
         "latest_chapter_date": "30/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-sieu-anh-hung-17599",
-        "title": "Kỷ Nguyên Siêu Anh Hùng",
-        "channel_id": 1397509911189131314,
-        "last_chapter": 210,
-        "latest_chapter_date": "29/10/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1660,15 +1669,6 @@
         "title": "Mục Long Sư",
         "channel_id": 1379998400619090023,
         "last_chapter": 494,
-        "latest_chapter_date": "06/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "luc-do-toi-da-chuyen-sinh-thanh-slime-1475",
-        "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
-        "channel_id": 1374613564291285063,
-        "last_chapter": 134,
         "latest_chapter_date": "06/10/2025",
         "source": "truyenqqto",
         "error": null
