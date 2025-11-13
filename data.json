@@ -1,5 +1,77 @@
 [
     {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 65,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "xich-tam-tuan-thien-17481",
+        "title": "Xích Tâm Tuần Thiên(Truyện tranh)",
+        "channel_id": 1405447988129566790,
+        "last_chapter": 70,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-vo-than-quyet-1893",
+        "title": "Tinh Võ Thần Quyết",
+        "channel_id": 1374609968417734666,
+        "last_chapter": 910,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 461,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 376,
+        "latest_chapter_date": "13/11/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "the-gioi-sau-tan-the-12154",
+        "title": "Thế Giới Sau Tận Thế",
+        "channel_id": 1374624700613005372,
+        "last_chapter": 208,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
+        "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
+        "channel_id": 1380007350437543937,
+        "last_chapter": 329,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-12417",
+        "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
+        "channel_id": 1398702655030693888,
+        "last_chapter": 169,
+        "latest_chapter_date": "13/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
@@ -189,10 +261,19 @@
         "error": null
     },
     {
-        "id": "ban-nga-thay-doi-16622",
-        "title": "Bản Ngã Thay Đổi",
-        "channel_id": 1393822161533276200,
-        "last_chapter": 64,
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2539,
+        "latest_chapter_date": "12/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 127,
         "latest_chapter_date": "12/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -330,15 +411,6 @@
         "last_chapter": 572,
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2538,
-        "latest_chapter_date": "11/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -801,28 +873,10 @@
         "error": null
     },
     {
-        "id": "xich-tam-tuan-thien-17481",
-        "title": "Xích Tâm Tuần Thiên(Truyện tranh)",
-        "channel_id": 1405447988129566790,
-        "last_chapter": 69,
-        "latest_chapter_date": "08/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tu-linh-su-thien-tai-cua-hoc-vien-14899",
         "title": "Tử Linh Sư Thiên Tài Của Học Viện",
         "channel_id": 1378408236453204018,
         "last_chapter": 209,
-        "latest_chapter_date": "08/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tinh-vo-than-quyet-1893",
-        "title": "Tinh Võ Thần Quyết",
-        "channel_id": 1374609968417734666,
-        "last_chapter": 909,
         "latest_chapter_date": "08/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1170,15 +1224,6 @@
         "error": null
     },
     {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 460,
-        "latest_chapter_date": "06/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ta-co-mot-son-trai-10785",
         "title": "Ta Có Một Sơn Trại",
         "channel_id": 1359007823832547349,
@@ -1219,24 +1264,6 @@
         "title": "Ta Từng Là Tháp Vương",
         "channel_id": 1416620333867471009,
         "last_chapter": 116,
-        "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 375,
-        "latest_chapter_date": "05/11/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 126,
         "latest_chapter_date": "05/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1283,15 +1310,6 @@
         "channel_id": 1374645255680294943,
         "last_chapter": 198,
         "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-sau-tan-the-12154",
-        "title": "Thế Giới Sau Tận Thế",
-        "channel_id": 1374624700613005372,
-        "last_chapter": 206,
-        "latest_chapter_date": "04/11/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1476,15 +1494,6 @@
         "error": null
     },
     {
-        "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
-        "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
-        "channel_id": 1380007350437543937,
-        "last_chapter": 328,
-        "latest_chapter_date": "31/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hiep-khach-giang-ho-218",
         "title": "Hiệp Khách Giang Hồ",
         "channel_id": 1374600868141207613,
@@ -1535,15 +1544,6 @@
         "channel_id": 1387283975390760990,
         "last_chapter": 28,
         "latest_chapter_date": "26/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-12417",
-        "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
-        "channel_id": 1398702655030693888,
-        "last_chapter": 168,
-        "latest_chapter_date": "25/10/2025",
         "source": "truyenqqto",
         "error": null
     },
