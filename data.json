@@ -1,5 +1,32 @@
 [
     {
+        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
+        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
+        "channel_id": 1374620877773213716,
+        "last_chapter": 176,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-dang-linh-hon-6931",
+        "title": "Cao Đẳng Linh Hồn",
+        "channel_id": 1397942857674788914,
+        "last_chapter": 357,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
+        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
+        "channel_id": 1373491461865078924,
+        "last_chapter": 168,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
@@ -207,6 +234,24 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2544,
+        "latest_chapter_date": "17/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 122,
+        "latest_chapter_date": "17/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -402,15 +447,6 @@
         "last_chapter": 22,
         "latest_chapter_date": "16/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2543,
-        "latest_chapter_date": "16/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -1017,15 +1053,6 @@
         "error": null
     },
     {
-        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
-        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
-        "channel_id": 1374620877773213716,
-        "last_chapter": 175,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "phi-loi-dao-thuat-10484",
         "title": "Phi Lôi Đao Thuật",
         "channel_id": 1416625518413090928,
@@ -1260,28 +1287,10 @@
         "error": null
     },
     {
-        "id": "cao-dang-linh-hon-6931",
-        "title": "Cao Đẳng Linh Hồn",
-        "channel_id": 1397942857674788914,
-        "last_chapter": 356,
-        "latest_chapter_date": "09/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
         "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
         "channel_id": 1393818779523354705,
         "last_chapter": 65,
-        "latest_chapter_date": "09/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 121,
         "latest_chapter_date": "09/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1634,15 +1643,6 @@
         "channel_id": 1416618104548753468,
         "last_chapter": 116,
         "latest_chapter_date": "23/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
-        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
-        "channel_id": 1373491461865078924,
-        "last_chapter": 167,
-        "latest_chapter_date": "22/10/2025",
         "source": "truyenqqto",
         "error": null
     },
