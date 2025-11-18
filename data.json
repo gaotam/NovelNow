@@ -27,6 +27,105 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 2000,
+        "latest_chapter_date": "18/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "121068",
+        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
+        "channel_id": 1359006015567171745,
+        "last_chapter": 1659,
+        "latest_chapter_date": "18/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
+        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
+        "channel_id": 1374600540486631525,
+        "last_chapter": 236,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
+        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
+        "channel_id": 1374608403543887943,
+        "last_chapter": 284,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "healer-cap-s-chua-tri-cho-quai-vat-18866",
+        "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
+        "channel_id": 1410484484746252298,
+        "last_chapter": 23,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 129,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 65,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 549,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3855,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 88,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quai-luc-loan-than-15528",
+        "title": "Quái Lực Loạn Thần",
+        "channel_id": 1375006332611985460,
+        "last_chapter": 95,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
@@ -42,24 +141,6 @@
         "last_chapter": 163,
         "latest_chapter_date": "17/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 1999,
-        "latest_chapter_date": "17/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "121068",
-        "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
-        "channel_id": 1359006015567171745,
-        "last_chapter": 1657,
-        "latest_chapter_date": "17/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -459,15 +540,6 @@
         "error": null
     },
     {
-        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
-        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
-        "channel_id": 1374600540486631525,
-        "last_chapter": 235,
-        "latest_chapter_date": "16/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chang-re-manh-nhat-lich-su",
         "title": "Chàng Rể Mạnh Nhất Lịch Sử",
         "channel_id": 1374647250117988423,
@@ -589,15 +661,6 @@
         "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
         "channel_id": 1380005184993886318,
         "last_chapter": 281,
-        "latest_chapter_date": "15/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
-        "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
-        "channel_id": 1374608403543887943,
-        "last_chapter": 283,
         "latest_chapter_date": "15/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -742,15 +805,6 @@
         "title": "Bậc Thầy Thiết Kế Điền Trang",
         "channel_id": 1374609754286063656,
         "last_chapter": 216,
-        "latest_chapter_date": "14/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "healer-cap-s-chua-tri-cho-quai-vat-18866",
-        "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
-        "channel_id": 1410484484746252298,
-        "last_chapter": 22,
         "latest_chapter_date": "14/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1035,15 +1089,6 @@
         "error": null
     },
     {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 127,
-        "latest_chapter_date": "12/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
         "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
         "channel_id": 1430163228775682099,
@@ -1075,15 +1120,6 @@
         "title": "Làm Sao Để Chạy Trốn Dàn Hậu Cung",
         "channel_id": 1380002483530764298,
         "last_chapter": 194,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 64,
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1143,28 +1179,10 @@
         "error": null
     },
     {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 547,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuong-mon-khiem-ton-chut-11685",
         "title": "Chưởng Môn Khiêm Tốn Chút",
         "channel_id": 1358986879126736936,
         "last_chapter": 576,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3854,
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1485,15 +1503,6 @@
         "error": null
     },
     {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 87,
-        "latest_chapter_date": "03/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "di-len-tu-day-xa-hoi-17462",
         "title": "Đi Lên Từ Đáy Xã Hội",
         "channel_id": 1380003140585132092,
@@ -1652,15 +1661,6 @@
         "channel_id": 1409355649657081987,
         "last_chapter": 166,
         "latest_chapter_date": "22/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "quai-luc-loan-than-15528",
-        "title": "Quái Lực Loạn Thần",
-        "channel_id": 1375006332611985460,
-        "last_chapter": 94,
-        "latest_chapter_date": "21/10/2025",
         "source": "truyenqqto",
         "error": null
     },
