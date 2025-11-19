@@ -1,5 +1,50 @@
 [
     {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 576,
+        "latest_chapter_date": "19/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 377,
+        "latest_chapter_date": "19/11/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 145,
+        "latest_chapter_date": "19/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "so-tay-thuat-su-19717",
+        "title": "Sổ Tay Thuật Sư",
+        "channel_id": 1399954971306496111,
+        "last_chapter": 25,
+        "latest_chapter_date": "19/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-box-11258",
+        "title": "Blue Box",
+        "channel_id": 1398719506720886864,
+        "last_chapter": 214,
+        "latest_chapter_date": "19/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
         "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
         "channel_id": 1374620877773213716,
@@ -126,6 +171,33 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 717,
+        "latest_chapter_date": "18/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2545,
+        "latest_chapter_date": "18/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chuong-mon-khiem-ton-chut-11685",
+        "title": "Chưởng Môn Khiêm Tốn Chút",
+        "channel_id": 1358986879126736936,
+        "last_chapter": 578,
+        "latest_chapter_date": "18/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
@@ -141,24 +213,6 @@
         "last_chapter": 163,
         "latest_chapter_date": "17/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 575,
-        "latest_chapter_date": "17/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 716,
-        "latest_chapter_date": "17/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -312,15 +366,6 @@
         "last_chapter": 75,
         "latest_chapter_date": "17/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2544,
-        "latest_chapter_date": "17/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -855,15 +900,6 @@
         "error": null
     },
     {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 376,
-        "latest_chapter_date": "13/11/2025",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "the-gioi-sau-tan-the-12154",
         "title": "Thế Giới Sau Tận Thế",
         "channel_id": 1374624700613005372,
@@ -976,15 +1012,6 @@
         "title": "Blue Lock",
         "channel_id": 1374610990355972197,
         "last_chapter": 325,
-        "latest_chapter_date": "12/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 144,
         "latest_chapter_date": "12/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1179,15 +1206,6 @@
         "error": null
     },
     {
-        "id": "chuong-mon-khiem-ton-chut-11685",
-        "title": "Chưởng Môn Khiêm Tốn Chút",
-        "channel_id": 1358986879126736936,
-        "last_chapter": 576,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ky-nguyen-sieu-anh-hung-17599",
         "title": "Kỷ Nguyên Siêu Anh Hùng",
         "channel_id": 1397509911189131314,
@@ -1354,15 +1372,6 @@
         "title": "Hoàng Tử Bán Thuốc",
         "channel_id": 1393815363766063104,
         "last_chapter": 86,
-        "latest_chapter_date": "08/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "so-tay-thuat-su-19717",
-        "title": "Sổ Tay Thuật Sư",
-        "channel_id": 1399954971306496111,
-        "last_chapter": 24,
         "latest_chapter_date": "08/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1634,15 +1643,6 @@
         "channel_id": 1410457724793258166,
         "last_chapter": 73,
         "latest_chapter_date": "24/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "blue-box-11258",
-        "title": "Blue Box",
-        "channel_id": 1398719506720886864,
-        "last_chapter": 213,
-        "latest_chapter_date": "23/10/2025",
         "source": "truyenqqto",
         "error": null
     },
