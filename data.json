@@ -1,5 +1,59 @@
 [
     {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 231,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
+        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
+        "channel_id": 1374620877773213716,
+        "last_chapter": 177,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
+        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
+        "channel_id": 1380004424629620826,
+        "last_chapter": 245,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 123,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 75,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
+        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
+        "channel_id": 1398721585082405006,
+        "last_chapter": 80,
+        "latest_chapter_date": "25/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
@@ -243,6 +297,24 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2551,
+        "latest_chapter_date": "24/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "nguoi-dan-ong-thuc-thu-10789",
+        "title": "Người Đàn Ông Thực Thụ",
+        "channel_id": 1398722126760116334,
+        "last_chapter": 228,
+        "latest_chapter_date": "24/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -294,15 +366,6 @@
         "last_chapter": 474,
         "latest_chapter_date": "23/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2550,
-        "latest_chapter_date": "23/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -436,15 +499,6 @@
         "title": "Cuồng Ma Tái Thế",
         "channel_id": 1407386762984034446,
         "last_chapter": 179,
-        "latest_chapter_date": "22/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 230,
         "latest_chapter_date": "22/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -972,15 +1026,6 @@
         "error": null
     },
     {
-        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
-        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
-        "channel_id": 1374620877773213716,
-        "last_chapter": 176,
-        "latest_chapter_date": "18/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "trong-sinh-khong-lam-chan-vuong-toi-mot-minh-nap-game-thang-cap-14682",
         "title": "Trọng Sinh Không Làm Chạn Vương, Tôi Một Mình Nạp Game Thăng Cấp",
         "channel_id": 1374608403543887943,
@@ -1044,15 +1089,6 @@
         "error": null
     },
     {
-        "id": "ham-nguc-huong-dan-cap-dia-nguc-10867",
-        "title": "Hầm Ngục Hướng Dẫn Cấp Địa Ngục",
-        "channel_id": 1380004424629620826,
-        "last_chapter": 244,
-        "latest_chapter_date": "17/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
         "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
         "channel_id": 1374621474949693460,
@@ -1102,15 +1138,6 @@
         "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
         "channel_id": 1430160673723383818,
         "last_chapter": 54,
-        "latest_chapter_date": "17/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 122,
         "latest_chapter_date": "17/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1323,15 +1350,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 74,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nhat-ki-doi-nghe-18091",
         "title": "Nhật Kí Đổi Nghề",
         "channel_id": 1416623182202273823,
@@ -1354,15 +1372,6 @@
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
         "last_chapter": 76,
-        "latest_chapter_date": "11/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
-        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
-        "channel_id": 1398721585082405006,
-        "last_chapter": 79,
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1526,15 +1535,6 @@
         "channel_id": 1374645255680294943,
         "last_chapter": 198,
         "latest_chapter_date": "05/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-dan-ong-thuc-thu-10789",
-        "title": "Người Đàn Ông Thực Thụ",
-        "channel_id": 1398722126760116334,
-        "last_chapter": 225,
-        "latest_chapter_date": "04/11/2025",
         "source": "truyenqqto",
         "error": null
     },
