@@ -148,7 +148,7 @@ class Runner:
 
             time.sleep(get_config('discord.general_send_delay_sec'))
 
-    def confirm_and_send_discord(self):
+    def confirm_and_send_discord(self, time_format: str):
         """
         Confirms with the user and sends notifications to Discord.
 
@@ -172,7 +172,7 @@ class Runner:
 
         logger.warning(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
 
-        self.log_output_console(stories_to_process)
+        self.log_output_console(stories_to_process, time_format)
 
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
         choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
@@ -184,7 +184,7 @@ class Runner:
         return [s for s in self.stories if s.needs_attention()]
 
     @staticmethod
-    def log_output_console(stories_to_process):
+    def log_output_console(stories_to_process, time_format: str):
         if len(stories_to_process) > 0:
             filtered_stories = [s for s in stories_to_process if
                                 s.error is None
@@ -196,7 +196,7 @@ class Runner:
             comic_stories = [s for s in sorted_stories if s not in text_stories]
 
             total_stories_update = len(sorted_stories)
-            message1 = f"\n\n ---------------Danh sách truyện update({total_stories_update})---------------\n\n"
+            message1 = f"\n\n ---------------Danh sách truyện update({total_stories_update} - Thời gian check: {time_format})---------------\n\n"
 
             # Display text-only stories
             if text_stories:
@@ -224,7 +224,8 @@ class Runner:
         self.fetch_latest_chapters()
 
         elapsed = time.time() - start_time
-        logger.info(f"⏱ Thời gian chạy: {time.strftime('%H:%M:%S', time.gmtime(elapsed))}")
+        time_format = time.strftime('%H:%M:%S', time.gmtime(elapsed))
+        logger.info(f"⏱ Thời gian chạy: {time_format}")
 
-        self.confirm_and_send_discord()
+        self.confirm_and_send_discord(time_format)
         self.update_data()
