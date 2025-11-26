@@ -1,5 +1,59 @@
 [
     {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 579,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 146,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 327,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 162,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 280,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 305,
+        "latest_chapter_date": "26/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hoi-uc-cua-chien-than-11337",
         "title": "Hồi Ức Của Chiến Thần",
         "channel_id": 1380002190277480579,
@@ -177,6 +231,15 @@
         "last_chapter": 424,
         "latest_chapter_date": "25/11/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2552,
+        "latest_chapter_date": "25/11/2025",
+        "source": "metruyenchu",
         "error": null
     },
     {
@@ -387,15 +450,6 @@
         "error": null
     },
     {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2551,
-        "latest_chapter_date": "24/11/2025",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
         "id": "nguoi-dan-ong-thuc-thu-10789",
         "title": "Người Đàn Ông Thực Thụ",
         "channel_id": 1398722126760116334,
@@ -454,15 +508,6 @@
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
         "last_chapter": 474,
-        "latest_chapter_date": "23/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 578,
         "latest_chapter_date": "23/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -945,15 +990,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 145,
-        "latest_chapter_date": "19/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ban-nga-thay-doi-16622",
         "title": "Bản Ngã Thay Đổi",
         "channel_id": 1393822161533276200,
@@ -981,28 +1017,10 @@
         "error": null
     },
     {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 326,
-        "latest_chapter_date": "19/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tinh-giap-hon-tuong-11989",
         "title": "Tinh Giáp Hồn Tướng",
         "channel_id": 1374645511323127869,
         "last_chapter": 323,
-        "latest_chapter_date": "19/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 161,
         "latest_chapter_date": "19/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1309,24 +1327,6 @@
         "title": "Thiên Tài Ma Pháp Sư Vật Lí",
         "channel_id": 1387280464661840064,
         "last_chapter": 43,
-        "latest_chapter_date": "12/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 279,
-        "latest_chapter_date": "12/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 304,
         "latest_chapter_date": "12/11/2025",
         "source": "truyenqqto",
         "error": null
