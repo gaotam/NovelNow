@@ -126,6 +126,60 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 2010,
+        "latest_chapter_date": "28/11/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
+        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
+        "channel_id": 1378407667760103624,
+        "last_chapter": 62,
+        "latest_chapter_date": "28/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-tai-nhin-thau-the-gioi-17219",
+        "title": "Thiên Tài Nhìn Thấu Thế Giới",
+        "channel_id": 1399563472320204912,
+        "last_chapter": 43,
+        "latest_chapter_date": "28/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
+        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
+        "channel_id": 1380005456755425300,
+        "last_chapter": 371,
+        "latest_chapter_date": "28/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuong-mon-khiem-ton-chut-11685",
+        "title": "Chưởng Môn Khiêm Tốn Chút",
+        "channel_id": 1358986879126736936,
+        "last_chapter": 580,
+        "latest_chapter_date": "28/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thi-son-huyet-hai-20902",
+        "title": "Thi Sơn Huyết Hải",
+        "channel_id": 1410468927963926549,
+        "last_chapter": 16,
+        "latest_chapter_date": "28/11/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hand-jumper-16649",
         "title": "Hand Jumper",
         "channel_id": 1393820926017146890,
@@ -186,15 +240,6 @@
         "last_chapter": 306,
         "latest_chapter_date": "27/11/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 2009,
-        "latest_chapter_date": "27/11/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -855,15 +900,6 @@
         "error": null
     },
     {
-        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
-        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
-        "channel_id": 1378407667760103624,
-        "last_chapter": 61,
-        "latest_chapter_date": "24/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
         "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
         "channel_id": 1398710018836009102,
@@ -963,29 +999,11 @@
         "error": null
     },
     {
-        "id": "thien-tai-nhin-thau-the-gioi-17219",
-        "title": "Thiên Tài Nhìn Thấu Thế Giới",
-        "channel_id": 1399563472320204912,
-        "last_chapter": 42,
-        "latest_chapter_date": "23/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "wild-ranker-18314",
         "title": "Wild Ranker",
         "channel_id": 1387283975390760990,
         "last_chapter": 29,
         "latest_chapter_date": "23/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
-        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
-        "channel_id": 1380005456755425300,
-        "last_chapter": 370,
-        "latest_chapter_date": "22/11/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1021,15 +1039,6 @@
         "title": "Cao Đẳng Linh Hồn",
         "channel_id": 1397942857674788914,
         "last_chapter": 358,
-        "latest_chapter_date": "22/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuong-mon-khiem-ton-chut-11685",
-        "title": "Chưởng Môn Khiêm Tốn Chút",
-        "channel_id": 1358986879126736936,
-        "last_chapter": 579,
         "latest_chapter_date": "22/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1111,15 +1120,6 @@
         "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
         "channel_id": 1398707290856493083,
         "last_chapter": 178,
-        "latest_chapter_date": "21/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thi-son-huyet-hai-20902",
-        "title": "Thi Sơn Huyết Hải",
-        "channel_id": 1410468927963926549,
-        "last_chapter": 15,
         "latest_chapter_date": "21/11/2025",
         "source": "truyenqqto",
         "error": null
