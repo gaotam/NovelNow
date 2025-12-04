@@ -165,9 +165,81 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 2015,
-        "latest_chapter_date": "03/12/2025",
+        "last_chapter": 2016,
+        "latest_chapter_date": "04/12/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 733,
+        "latest_chapter_date": "04/12/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "ba-xa-nha-toi-den-tu-ngan-nam-truoc-12155",
+        "title": "Bà Xã Nhà Tôi Đến Từ Ngàn Năm Trước",
+        "channel_id": 1374623763475337308,
+        "last_chapter": 439,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 43,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguc-toi-black-haze-17155",
+        "title": "Ngục Tối Black Haze",
+        "channel_id": 1412795644636172388,
+        "last_chapter": 51,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 423,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chien-doi-dai-that-cach-10941",
+        "title": "Chiến Đội Đại Thất Cách",
+        "channel_id": 1398701143185559623,
+        "last_chapter": 200,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 68,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vo-luyen-dinh-phong-3926",
+        "title": "Võ Luyện Đỉnh Phong",
+        "channel_id": 1358998124571525130,
+        "last_chapter": 3857,
+        "latest_chapter_date": "04/12/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -249,15 +321,6 @@
         "last_chapter": 214,
         "latest_chapter_date": "03/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 732,
-        "latest_chapter_date": "03/12/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -909,15 +972,6 @@
         "error": null
     },
     {
-        "id": "ba-xa-nha-toi-den-tu-ngan-nam-truoc-12155",
-        "title": "Bà Xã Nhà Tôi Đến Từ Ngàn Năm Trước",
-        "channel_id": 1374623763475337308,
-        "last_chapter": 438,
-        "latest_chapter_date": "29/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "xich-tam-tuan-thien-17481",
         "title": "Xích Tâm Tuần Thiên(Truyện tranh)",
         "channel_id": 1405447988129566790,
@@ -1116,15 +1170,6 @@
         "error": null
     },
     {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 42,
-        "latest_chapter_date": "27/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "blue-box-11258",
         "title": "Blue Box",
         "channel_id": 1398719506720886864,
@@ -1152,28 +1197,10 @@
         "error": null
     },
     {
-        "id": "nguc-toi-black-haze-17155",
-        "title": "Ngục Tối Black Haze",
-        "channel_id": 1412795644636172388,
-        "last_chapter": 50,
-        "latest_chapter_date": "27/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-12417",
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 171,
-        "latest_chapter_date": "27/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
-        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
-        "channel_id": 1380000751601979433,
-        "last_chapter": 422,
         "latest_chapter_date": "27/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1192,15 +1219,6 @@
         "title": "Hệ Thống Super God",
         "channel_id": 1398701581439996016,
         "last_chapter": 191,
-        "latest_chapter_date": "27/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chien-doi-dai-that-cach-10941",
-        "title": "Chiến Đội Đại Thất Cách",
-        "channel_id": 1398701143185559623,
-        "last_chapter": 199,
         "latest_chapter_date": "27/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1242,15 +1260,6 @@
         "error": null
     },
     {
-        "id": "ban-nga-thay-doi-16622",
-        "title": "Bản Ngã Thay Đổi",
-        "channel_id": 1393822161533276200,
-        "last_chapter": 67,
-        "latest_chapter_date": "26/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-tai-ma-phap-su-vat-li-17338",
         "title": "Thiên Tài Ma Pháp Sư Vật Lí",
         "channel_id": 1387280464661840064,
@@ -1283,15 +1292,6 @@
         "channel_id": 1374610277609246813,
         "last_chapter": 582,
         "latest_chapter_date": "25/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vo-luyen-dinh-phong-3926",
-        "title": "Võ Luyện Đỉnh Phong",
-        "channel_id": 1358998124571525130,
-        "last_chapter": 3856,
-        "latest_chapter_date": "24/11/2025",
         "source": "truyenqqto",
         "error": null
     },
