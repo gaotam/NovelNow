@@ -196,7 +196,7 @@ class Runner:
             comic_stories = [s for s in sorted_stories if s not in text_stories]
 
             total_stories_update = len(sorted_stories)
-            message1 = f"\n\n ---------------Danh sách truyện update({total_stories_update} - Thời gian check: {time_format})---------------\n\n"
+            message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
 
             # Display text-only stories
             if text_stories:
@@ -215,6 +215,8 @@ class Runner:
                     lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
                     message1 += lines + "\n"
 
+            message1 += "\n---------------------------------------------------------\n"
+            message1 += f"=> {total_stories_update} truyện có chap mới- Thời gian check: {time_format})"
             logger.info(message1)
 
     def run(self):
