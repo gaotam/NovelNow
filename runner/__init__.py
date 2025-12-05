@@ -216,7 +216,7 @@ class Runner:
                     message1 += lines + "\n"
 
             message1 += "\n---------------------------------------------------------\n"
-            message1 += f"=> {total_stories_update} truyện có chap mới- Thời gian check: {time_format})"
+            message1 += f"=> {total_stories_update} truyện có chap mới- Thời gian check: {time_format}"
             logger.info(message1)
 
     def run(self):
