@@ -3,8 +3,8 @@
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
-        "last_chapter": 1711,
-        "latest_chapter_date": "14/12/2025",
+        "last_chapter": 1712,
+        "latest_chapter_date": "15/12/2025",
         "source": "metruyenchu",
         "error": null
     },
@@ -12,9 +12,45 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 2026,
-        "latest_chapter_date": "14/12/2025",
+        "last_chapter": 2027,
+        "latest_chapter_date": "15/12/2025",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "shark-ca-map-16179",
+        "title": "Shark - Cá Mập",
+        "channel_id": 1409353693547200682,
+        "last_chapter": 387,
+        "latest_chapter_date": "15/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 148,
+        "latest_chapter_date": "15/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 126,
+        "latest_chapter_date": "15/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sakamoto-days-10560",
+        "title": "Sakamoto Days",
+        "channel_id": 1380006719144460441,
+        "last_chapter": 239,
+        "latest_chapter_date": "15/12/2025",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -144,15 +180,6 @@
         "error": null
     },
     {
-        "id": "shark-ca-map-16179",
-        "title": "Shark - Cá Mập",
-        "channel_id": 1409353693547200682,
-        "last_chapter": 386,
-        "latest_chapter_date": "14/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-the-quan-lam-16245",
         "title": "Tuyệt Thế Quân Lâm",
         "channel_id": 1389226676344324146,
@@ -175,6 +202,24 @@
         "title": "Be Blues! - Ao Ni Nare",
         "channel_id": 1398724727077470238,
         "last_chapter": 227,
+        "latest_chapter_date": "14/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2568,
+        "latest_chapter_date": "14/12/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
+        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
+        "channel_id": 1430160673723383818,
+        "last_chapter": 58,
         "latest_chapter_date": "14/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -366,15 +411,6 @@
         "last_chapter": 291,
         "latest_chapter_date": "13/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2567,
-        "latest_chapter_date": "13/12/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -864,15 +900,6 @@
         "error": null
     },
     {
-        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
-        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
-        "channel_id": 1430160673723383818,
-        "last_chapter": 57,
-        "latest_chapter_date": "10/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nine-peaks-13570",
         "title": "Nine Peaks",
         "channel_id": 1387287980057694248,
@@ -949,15 +976,6 @@
         "title": "Vạn Cổ Chí Tôn",
         "channel_id": 1358993391534215350,
         "last_chapter": 484,
-        "latest_chapter_date": "08/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 147,
         "latest_chapter_date": "08/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1066,15 +1084,6 @@
         "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
         "channel_id": 1374621474949693460,
         "last_chapter": 184,
-        "latest_chapter_date": "07/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 125,
         "latest_chapter_date": "07/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1499,15 +1508,6 @@
         "channel_id": 1380005184993886318,
         "last_chapter": 282,
         "latest_chapter_date": "20/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sakamoto-days-10560",
-        "title": "Sakamoto Days",
-        "channel_id": 1380006719144460441,
-        "last_chapter": 234,
-        "latest_chapter_date": "16/11/2025",
         "source": "truyenqqto",
         "error": null
     },
