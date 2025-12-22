@@ -9,6 +9,15 @@
         "error": null
     },
     {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 149,
+        "latest_chapter_date": "22/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
@@ -198,21 +207,30 @@
         "error": null
     },
     {
+        "id": "106723",
+        "title": "Khấu Vấn Tiên Đạo",
+        "channel_id": 1359013844986499235,
+        "last_chapter": 2575,
+        "latest_chapter_date": "21/12/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 362,
+        "latest_chapter_date": "21/12/2025",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
         "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
         "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
         "channel_id": 1430163228775682099,
         "last_chapter": 66,
         "latest_chapter_date": "20/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "106723",
-        "title": "Khấu Vấn Tiên Đạo",
-        "channel_id": 1359013844986499235,
-        "last_chapter": 2574,
-        "latest_chapter_date": "20/12/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -1026,15 +1044,6 @@
         "error": null
     },
     {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 148,
-        "latest_chapter_date": "15/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "vuong-trieu-den-toi-joseon-15335",
         "title": "Vương Triều Đen Tối: Joseon",
         "channel_id": 1409354040453763254,
@@ -1176,15 +1185,6 @@
         "last_chapter": 227,
         "latest_chapter_date": "14/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 360,
-        "latest_chapter_date": "14/12/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
