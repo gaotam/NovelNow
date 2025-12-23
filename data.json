@@ -1,5 +1,14 @@
 [
     {
+        "id": "chieu-hon-gia-sieu-pham-13439",
+        "title": "Chiêu Hồn Giả Siêu Phàm",
+        "channel_id": 1374603194956644370,
+        "last_chapter": 167,
+        "latest_chapter_date": "24/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
@@ -112,6 +121,69 @@
         "title": "Quỷ Troll Mạnh Nhất Thế Giới",
         "channel_id": 1398627807310909440,
         "last_chapter": 160,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
+        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
+        "channel_id": 1374600540486631525,
+        "last_chapter": 247,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 138,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ba-xa-nha-toi-den-tu-ngan-nam-truoc-12155",
+        "title": "Bà Xã Nhà Tôi Đến Từ Ngàn Năm Trước",
+        "channel_id": 1374623763475337308,
+        "last_chapter": 444,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 558,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-cau-cao-vo-9579",
+        "title": "Toàn Cầu Cao Võ",
+        "channel_id": 1374608088694390814,
+        "last_chapter": 343,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
+        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
+        "channel_id": 1378676658432643102,
+        "last_chapter": 427,
+        "latest_chapter_date": "23/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 329,
         "latest_chapter_date": "23/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -540,15 +612,6 @@
         "error": null
     },
     {
-        "id": "de-tu-tu-luyen-con-ta-thi-luoi-bieng-15135",
-        "title": "Đệ Tử Tu Luyện Còn Ta Thì Lười Biếng",
-        "channel_id": 1374600540486631525,
-        "last_chapter": 246,
-        "latest_chapter_date": "20/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-sieu-may-man-17307",
         "title": "Người Chơi Siêu May Mắn",
         "channel_id": 1397507753227980800,
@@ -792,15 +855,6 @@
         "error": null
     },
     {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 137,
-        "latest_chapter_date": "18/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-xau-11255",
         "title": "Người Xấu",
         "channel_id": 1387285583751024660,
@@ -868,15 +922,6 @@
         "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
         "channel_id": 1374645008161837117,
         "last_chapter": 143,
-        "latest_chapter_date": "18/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ba-xa-nha-toi-den-tu-ngan-nam-truoc-12155",
-        "title": "Bà Xã Nhà Tôi Đến Từ Ngàn Năm Trước",
-        "channel_id": 1374623763475337308,
-        "last_chapter": 443,
         "latest_chapter_date": "18/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1107,15 +1152,6 @@
         "error": null
     },
     {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 557,
-        "latest_chapter_date": "17/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "truyen-vo-6000",
         "title": "Truyền Võ",
         "channel_id": 1428034477204050072,
@@ -1215,15 +1251,6 @@
         "error": null
     },
     {
-        "id": "toan-cau-cao-vo-9579",
-        "title": "Toàn Cầu Cao Võ",
-        "channel_id": 1374608088694390814,
-        "last_chapter": 342,
-        "latest_chapter_date": "14/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "be-blues-ao-ni-nare-10434",
         "title": "Be Blues! - Ao Ni Nare",
         "channel_id": 1398724727077470238,
@@ -1296,24 +1323,6 @@
         "error": null
     },
     {
-        "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
-        "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
-        "channel_id": 1378676658432643102,
-        "last_chapter": 426,
-        "latest_chapter_date": "11/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chieu-hon-gia-sieu-pham-13439",
-        "title": "Chiêu Hồn Giả Siêu Phàm",
-        "channel_id": 1374603194956644370,
-        "last_chapter": 166,
-        "latest_chapter_date": "10/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dich-vu-thue-ban-gai-3620",
         "title": "Dịch Vụ Thuê Bạn Gái",
         "channel_id": 1374610492659601438,
@@ -1328,15 +1337,6 @@
         "channel_id": 1393820926017146890,
         "last_chapter": 105,
         "latest_chapter_date": "10/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 328,
-        "latest_chapter_date": "09/12/2025",
         "source": "truyenqqto",
         "error": null
     },
