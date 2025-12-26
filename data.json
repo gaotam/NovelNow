@@ -1,9 +1,63 @@
 [
     {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 181,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chieu-hon-gia-sieu-pham-13439",
+        "title": "Chiêu Hồn Giả Siêu Phàm",
+        "channel_id": 1374603194956644370,
+        "last_chapter": 168,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1100,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 473,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
+        "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
+        "channel_id": 1374621474949693460,
+        "last_chapter": 185,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "lam-nong-dan-trong-toa-thap-thu-thach-14069",
+        "title": "Làm Nông Dân Trong Tòa Tháp Thử Thách",
+        "channel_id": 1375008021687697409,
+        "last_chapter": 101,
+        "latest_chapter_date": "26/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
-        "last_chapter": 599,
+        "last_chapter": 600,
         "latest_chapter_date": "25/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -24,15 +78,6 @@
         "last_chapter": 1733,
         "latest_chapter_date": "25/12/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "hoc-vien-toi-thuong-12539",
-        "title": "Học Viện Tối Thượng",
-        "channel_id": 1392441923872227491,
-        "last_chapter": 180,
-        "latest_chapter_date": "25/12/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -153,11 +198,20 @@
         "error": null
     },
     {
-        "id": "chieu-hon-gia-sieu-pham-13439",
-        "title": "Chiêu Hồn Giả Siêu Phàm",
-        "channel_id": 1374603194956644370,
-        "last_chapter": 167,
-        "latest_chapter_date": "24/12/2025",
+        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
+        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
+        "channel_id": 1377470069545635900,
+        "last_chapter": 161,
+        "latest_chapter_date": "25/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "diep-vien-ma-giao-17196",
+        "title": "Điệp Viên Ma Giáo",
+        "channel_id": 1393810304240193616,
+        "last_chapter": 48,
+        "latest_chapter_date": "25/12/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -175,15 +229,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 120,
-        "latest_chapter_date": "24/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1098,
         "latest_chapter_date": "24/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -693,15 +738,6 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 472,
-        "latest_chapter_date": "21/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "bang-vuong-15800",
         "title": "Băng Vương",
         "channel_id": 1407385299721654282,
@@ -1116,15 +1152,6 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
-        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
-        "channel_id": 1377470069545635900,
-        "last_chapter": 160,
-        "latest_chapter_date": "18/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "gia-vo-lam-ke-vo-dung-o-hoc-duong-12810",
         "title": "Giả Vờ Làm Kẻ Vô Dụng Ở Học Đường",
         "channel_id": 1374645008161837117,
@@ -1201,15 +1228,6 @@
         "title": "Wild Ranker",
         "channel_id": 1387283975390760990,
         "last_chapter": 33,
-        "latest_chapter_date": "17/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "diep-vien-ma-giao-17196",
-        "title": "Điệp Viên Ma Giáo",
-        "channel_id": 1393810304240193616,
-        "last_chapter": 47,
         "latest_chapter_date": "17/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1417,15 +1435,6 @@
         "title": "Gậy Gỗ Cấp 99+",
         "channel_id": 1449786638929498314,
         "last_chapter": 174,
-        "latest_chapter_date": "07/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
-        "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
-        "channel_id": 1374621474949693460,
-        "last_chapter": 184,
         "latest_chapter_date": "07/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -2291,15 +2300,6 @@
         "channel_id": 1359019599240233000,
         "last_chapter": 153,
         "latest_chapter_date": "12/03/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "lam-nong-dan-trong-toa-thap-thu-thach-14069",
-        "title": "Làm Nông Dân Trong Tòa Tháp Thử Thách",
-        "channel_id": 1375008021687697409,
-        "last_chapter": 100,
-        "latest_chapter_date": "08/03/2025",
         "source": "truyenqqto",
         "error": null
     },
