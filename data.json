@@ -144,6 +144,123 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 755,
+        "latest_chapter_date": "29/12/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 95,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 48,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phung-da-canh-nhan-12047",
+        "title": "Đại Phụng Đả Canh Nhân",
+        "channel_id": 1374646108315451432,
+        "last_chapter": 605,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-chi-ton-11261",
+        "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
+        "last_chapter": 490,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-dang-linh-hon-6931",
+        "title": "Cao Đẳng Linh Hồn",
+        "channel_id": 1397942857674788914,
+        "last_chapter": 362,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "healer-cap-s-chua-tri-cho-quai-vat-18866",
+        "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
+        "channel_id": 1410484484746252298,
+        "last_chapter": 29,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mao-hiem-gia-cuoi-cung-15599",
+        "title": "Mạo Hiểm Giả Cuối Cùng",
+        "channel_id": 1430162910616752221,
+        "last_chapter": 103,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-sieu-may-man-17307",
+        "title": "Người Chơi Siêu May Mắn",
+        "channel_id": 1397507753227980800,
+        "last_chapter": 91,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 89,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-ve-ben-chanbi-18742",
+        "title": "Trở Về Bên Chanbi",
+        "channel_id": 1416623993208700999,
+        "last_chapter": 81,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
+        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
+        "channel_id": 1393818779523354705,
+        "last_chapter": 71,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nhan-trung-dai-chien-10703",
+        "title": "Nhân Trùng Đại Chiến",
+        "channel_id": 1410471133966241873,
+        "last_chapter": 185,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hoc-vien-toi-thuong-12539",
         "title": "Học Viện Tối Thượng",
         "channel_id": 1392441923872227491,
@@ -177,15 +294,6 @@
         "last_chapter": 603,
         "latest_chapter_date": "28/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 754,
-        "latest_chapter_date": "28/12/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -657,15 +765,6 @@
         "error": null
     },
     {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 94,
-        "latest_chapter_date": "26/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "lua-dao-bang-giong-noi-lam-dao-lon-cuoc-song-cua-ban-16139",
         "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
         "channel_id": 1393802419548327987,
@@ -680,15 +779,6 @@
         "channel_id": 1398701581439996016,
         "last_chapter": 193,
         "latest_chapter_date": "26/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 47,
-        "latest_chapter_date": "25/12/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -877,15 +967,6 @@
         "title": "Yêu Thần Ký",
         "channel_id": 1372025537446547577,
         "last_chapter": 662,
-        "latest_chapter_date": "24/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phung-da-canh-nhan-12047",
-        "title": "Đại Phụng Đả Canh Nhân",
-        "channel_id": 1374646108315451432,
-        "last_chapter": 604,
         "latest_chapter_date": "24/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1107,15 +1188,6 @@
         "error": null
     },
     {
-        "id": "van-co-chi-ton-11261",
-        "title": "Vạn Cổ Chí Tôn",
-        "channel_id": 1358993391534215350,
-        "last_chapter": 488,
-        "latest_chapter_date": "22/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chung-cuc-dau-la-6700",
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
@@ -1125,28 +1197,10 @@
         "error": null
     },
     {
-        "id": "cao-dang-linh-hon-6931",
-        "title": "Cao Đẳng Linh Hồn",
-        "channel_id": 1397942857674788914,
-        "last_chapter": 361,
-        "latest_chapter_date": "22/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
         "last_chapter": 411,
-        "latest_chapter_date": "22/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "healer-cap-s-chua-tri-cho-quai-vat-18866",
-        "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
-        "channel_id": 1410484484746252298,
-        "last_chapter": 27,
         "latest_chapter_date": "22/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1165,15 +1219,6 @@
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
         "last_chapter": 46,
-        "latest_chapter_date": "21/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "mao-hiem-gia-cuoi-cung-15599",
-        "title": "Mạo Hiểm Giả Cuối Cùng",
-        "channel_id": 1430162910616752221,
-        "last_chapter": 102,
         "latest_chapter_date": "21/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1215,15 +1260,6 @@
         "error": null
     },
     {
-        "id": "nguoi-choi-sieu-may-man-17307",
-        "title": "Người Chơi Siêu May Mắn",
-        "channel_id": 1397507753227980800,
-        "last_chapter": 90,
-        "latest_chapter_date": "20/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "so-tay-thuat-su-19717",
         "title": "Sổ Tay Thuật Sư",
         "channel_id": 1399954971306496111,
@@ -1255,15 +1291,6 @@
         "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
         "channel_id": 1373491461865078924,
         "last_chapter": 172,
-        "latest_chapter_date": "19/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoang-tu-ban-thuoc-15170",
-        "title": "Hoàng Tử Bán Thuốc",
-        "channel_id": 1393815363766063104,
-        "last_chapter": 88,
         "latest_chapter_date": "19/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1309,15 +1336,6 @@
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 173,
-        "latest_chapter_date": "18/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-ve-ben-chanbi-18742",
-        "title": "Trở Về Bên Chanbi",
-        "channel_id": 1416623993208700999,
-        "last_chapter": 80,
         "latest_chapter_date": "18/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1512,28 +1530,10 @@
         "error": null
     },
     {
-        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
-        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
-        "channel_id": 1393818779523354705,
-        "last_chapter": 68,
-        "latest_chapter_date": "06/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "than-chet-part-time-18398",
         "title": "Thần Chết Part-Time",
         "channel_id": 1399564591100334200,
         "last_chapter": 37,
-        "latest_chapter_date": "05/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhan-trung-dai-chien-10703",
-        "title": "Nhân Trùng Đại Chiến",
-        "channel_id": 1410471133966241873,
-        "last_chapter": 184,
         "latest_chapter_date": "05/12/2025",
         "source": "truyenqqto",
         "error": null
