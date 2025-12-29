@@ -1,5 +1,59 @@
 [
     {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 236,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1102,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 128,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
+        "title": "Người Chơi Trở Lại Sau 10000 Năm",
+        "channel_id": 1383789664300699740,
+        "last_chapter": 140,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "shuumatsu-no-valkyrie-6399",
+        "title": "Thế giới game thủ",
+        "channel_id": 1374614794736373880,
+        "last_chapter": 113,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "manh-ghep-so-phan-5363",
+        "title": "Mảnh Ghép Số Phận",
+        "channel_id": 1409355649657081987,
+        "last_chapter": 168,
+        "latest_chapter_date": "29/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "hoc-vien-toi-thuong-12539",
         "title": "Học Viện Tối Thượng",
         "channel_id": 1392441923872227491,
@@ -162,15 +216,6 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 235,
-        "latest_chapter_date": "28/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dao-quy-di-tien-16651",
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
@@ -198,12 +243,21 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1101,
-        "latest_chapter_date": "27/12/2025",
+        "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
+        "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
+        "channel_id": 1380007350437543937,
+        "last_chapter": 333,
+        "latest_chapter_date": "28/12/2025",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 364,
+        "latest_chapter_date": "28/12/2025",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -445,15 +499,6 @@
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
         "last_chapter": 306,
-        "latest_chapter_date": "27/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tom-lai-la-em-de-thuong-duoc-chua-4746",
-        "title": "Tóm Lại Là Em Dễ Thương Được Chưa ?",
-        "channel_id": 1380007350437543937,
-        "last_chapter": 332,
         "latest_chapter_date": "27/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -972,15 +1017,6 @@
         "error": null
     },
     {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 127,
-        "latest_chapter_date": "23/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nhat-ki-doi-nghe-18091",
         "title": "Nhật Kí Đổi Nghề",
         "channel_id": 1416623182202273823,
@@ -1071,15 +1107,6 @@
         "error": null
     },
     {
-        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
-        "title": "Người Chơi Trở Lại Sau 10000 Năm",
-        "channel_id": 1383789664300699740,
-        "last_chapter": 139,
-        "latest_chapter_date": "22/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chung-cuc-dau-la-6700",
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
@@ -1149,15 +1176,6 @@
         "last_chapter": 59,
         "latest_chapter_date": "21/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 362,
-        "latest_chapter_date": "21/12/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1440,6 +1458,15 @@
         "error": null
     },
     {
+        "id": "toi-la-nong-dan-trong-vong-linh-22552",
+        "title": "Tôi Là Nông Dân Trồng Vong Linh",
+        "channel_id": 1455008138725163102,
+        "last_chapter": 7,
+        "latest_chapter_date": "13/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tro-thanh-man-di-o-the-gioi-fantasy-20054",
         "title": "Trở Thành Man Di Ở Thế Giới Fantasy",
         "channel_id": 1430161160669368391,
@@ -1552,15 +1579,6 @@
         "title": "Cương Thi Tiên Sinh",
         "channel_id": 1377469657945997392,
         "last_chapter": 197,
-        "latest_chapter_date": "29/11/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "shuumatsu-no-valkyrie-6399",
-        "title": "Thế giới game thủ",
-        "channel_id": 1374614794736373880,
-        "last_chapter": 112,
         "latest_chapter_date": "29/11/2025",
         "source": "truyenqqto",
         "error": null
@@ -1724,15 +1742,6 @@
         "channel_id": 1410457724793258166,
         "last_chapter": 73,
         "latest_chapter_date": "24/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "manh-ghep-so-phan-5363",
-        "title": "Mảnh Ghép Số Phận",
-        "channel_id": 1409355649657081987,
-        "last_chapter": 166,
-        "latest_chapter_date": "22/10/2025",
         "source": "truyenqqto",
         "error": null
     },
