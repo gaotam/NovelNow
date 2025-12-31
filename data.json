@@ -135,21 +135,93 @@
         "error": null
     },
     {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 757,
+        "latest_chapter_date": "31/12/2025",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 113,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 468,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "diep-vien-ma-giao-17196",
+        "title": "Điệp Viên Ma Giáo",
+        "channel_id": 1393810304240193616,
+        "last_chapter": 49,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 286,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-nga-thay-doi-16622",
+        "title": "Bản Ngã Thay Đổi",
+        "channel_id": 1393822161533276200,
+        "last_chapter": 72,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 140,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mat-the-hau-can-16141",
+        "title": "Mạt Thế Hậu Cần",
+        "channel_id": 1393818394880507924,
+        "last_chapter": 74,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
+        "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
+        "channel_id": 1407384660677496843,
+        "last_chapter": 53,
+        "latest_chapter_date": "31/12/2025",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "remonster-1132",
         "title": "Re:Monster",
         "channel_id": 1373490392229740685,
         "last_chapter": 112,
         "latest_chapter_date": "30/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 756,
-        "latest_chapter_date": "30/12/2025",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -972,15 +1044,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 112,
-        "latest_chapter_date": "25/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "please-go-home-akutsu-san-9413",
         "title": "Please Go Home, Akutsu-San!",
         "channel_id": 1398723676949712906,
@@ -1026,15 +1089,6 @@
         "error": null
     },
     {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 467,
-        "latest_chapter_date": "25/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tap-huyet-16816",
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
@@ -1066,15 +1120,6 @@
         "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
         "channel_id": 1377470069545635900,
         "last_chapter": 161,
-        "latest_chapter_date": "25/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "diep-vien-ma-giao-17196",
-        "title": "Điệp Viên Ma Giáo",
-        "channel_id": 1393810304240193616,
-        "last_chapter": 48,
         "latest_chapter_date": "25/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1134,28 +1179,10 @@
         "error": null
     },
     {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 285,
-        "latest_chapter_date": "24/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-manh-nhat-hoi-quy-lan-thu-100-15017",
         "title": "Người Chơi Mạnh Nhất Hồi Quy Lần Thứ 100",
         "channel_id": 1374600023588732998,
         "last_chapter": 81,
-        "latest_chapter_date": "24/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ban-nga-thay-doi-16622",
-        "title": "Bản Ngã Thay Đổi",
-        "channel_id": 1393822161533276200,
-        "last_chapter": 71,
         "latest_chapter_date": "24/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1237,15 +1264,6 @@
         "title": "Quỷ Troll Mạnh Nhất Thế Giới",
         "channel_id": 1398627807310909440,
         "last_chapter": 160,
-        "latest_chapter_date": "23/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 138,
         "latest_chapter_date": "23/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1350,15 +1368,6 @@
         "error": null
     },
     {
-        "id": "mat-the-hau-can-16141",
-        "title": "Mạt Thế Hậu Cần",
-        "channel_id": 1393818394880507924,
-        "last_chapter": 73,
-        "latest_chapter_date": "19/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "quan-ca-phe-nu-than-11030",
         "title": "Quán Cà Phê Nữ Thần",
         "channel_id": 1393819462347653160,
@@ -1399,15 +1408,6 @@
         "title": "Sức Mạnh Của Ác Thần",
         "channel_id": 1380004126313943100,
         "last_chapter": 180,
-        "latest_chapter_date": "17/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
-        "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
-        "channel_id": 1407384660677496843,
-        "last_chapter": 52,
         "latest_chapter_date": "17/12/2025",
         "source": "truyenqqto",
         "error": null
