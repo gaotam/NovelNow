@@ -1,4 +1,3 @@
-import logging
 import time
 from datetime import datetime
 from typing import List, Dict
@@ -196,11 +195,14 @@ class Runner:
             comic_stories = [s for s in sorted_stories if s not in text_stories]
 
             total_stories_update = len(sorted_stories)
-            message1 = "\n\n ---------------Danh sách truyện update---------------\n\n"
+            text_stories_number = len(text_stories)
+            comic_stories_number = len(comic_stories)
 
+            message1 = f"\n\n ---------------Danh sách truyện update"
+            message1 += f"({text_stories_number} truyện chữ, {comic_stories_number} truyện tranh)"
+            message1 += "---------------\n\n"
             # Display text-only stories
             if text_stories:
-                text_stories_number = len(text_stories)
                 message1 += f"📖 TRUYỆN CHỮ({text_stories_number}):\n"
                 for i, st in enumerate(text_stories, 1):
                     lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
@@ -209,7 +211,6 @@ class Runner:
 
             # Display comic stories
             if comic_stories:
-                comic_stories_number = len(comic_stories)
                 message1 += f"🎨 TRUYỆN TRANH({comic_stories_number}):\n"
                 for i, st in enumerate(comic_stories, 1):
                     lines = f"{i:>3}. {st.title} -> {st.channel_message(format='plain')}"
