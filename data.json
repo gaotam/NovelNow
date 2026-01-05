@@ -1,5 +1,59 @@
 [
     {
+        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
+        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
+        "channel_id": 1430160673723383818,
+        "last_chapter": 61,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 237,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
+        "title": "Người Chơi Trở Lại Sau 10000 Năm",
+        "channel_id": 1383789664300699740,
+        "last_chapter": 141,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 88,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cam-kiem-tuyet-doi-12431",
+        "title": "Cảm Kiếm Tuyệt Đối",
+        "channel_id": 1375005323495997450,
+        "last_chapter": 165,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 151,
+        "latest_chapter_date": "05/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
@@ -184,6 +238,24 @@
         "title": "Tiêu Diệt Ác Nhân",
         "channel_id": 1416616686328741989,
         "last_chapter": 216,
+        "latest_chapter_date": "04/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 366,
+        "latest_chapter_date": "04/01/2026",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "garbage-time-18604",
+        "title": "Garbage Time",
+        "channel_id": 1397503997992239124,
+        "last_chapter": 178,
         "latest_chapter_date": "04/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -864,15 +936,6 @@
         "error": null
     },
     {
-        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
-        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
-        "channel_id": 1430160673723383818,
-        "last_chapter": 60,
-        "latest_chapter_date": "30/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "vuong-tac-19673",
         "title": "Vương Tạc",
         "channel_id": 1398692201801842688,
@@ -900,28 +963,10 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 236,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "vuong-trieu-den-toi-joseon-15335",
         "title": "Vương Triều Đen Tối: Joseon",
         "channel_id": 1409354040453763254,
         "last_chapter": 128,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
-        "title": "Người Chơi Trở Lại Sau 10000 Năm",
-        "channel_id": 1383789664300699740,
-        "last_chapter": 140,
         "latest_chapter_date": "29/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -954,28 +999,10 @@
         "error": null
     },
     {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 87,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
         "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
         "channel_id": 1385913211986907186,
         "last_chapter": 237,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cam-kiem-tuyet-doi-12431",
-        "title": "Cảm Kiếm Tuyệt Đối",
-        "channel_id": 1375005323495997450,
-        "last_chapter": 164,
         "latest_chapter_date": "29/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1098,15 +1125,6 @@
         "error": null
     },
     {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 150,
-        "latest_chapter_date": "28/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-tai-phep-thuat-nam-giu-khai-niem-18311",
         "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
         "channel_id": 1397504730300813363,
@@ -1122,15 +1140,6 @@
         "last_chapter": 333,
         "latest_chapter_date": "28/12/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 364,
-        "latest_chapter_date": "28/12/2025",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1246,15 +1255,6 @@
         "title": "Chiến Đội Đại Thất Cách",
         "channel_id": 1398701143185559623,
         "last_chapter": 202,
-        "latest_chapter_date": "25/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "garbage-time-18604",
-        "title": "Garbage Time",
-        "channel_id": 1397503997992239124,
-        "last_chapter": 177,
         "latest_chapter_date": "25/12/2025",
         "source": "truyenqqto",
         "error": null
