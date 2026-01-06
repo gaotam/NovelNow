@@ -1,5 +1,86 @@
 [
     {
+        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
+        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
+        "channel_id": 1387286765571674286,
+        "last_chapter": 106,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 71,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 82,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quai-luc-loan-than-15528",
+        "title": "Quái Lực Loạn Thần",
+        "channel_id": 1375006332611985460,
+        "last_chapter": 102,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
+        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
+        "channel_id": 1374620877773213716,
+        "last_chapter": 183,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-tu-dang-ngo-lai-la-cao-thu-15252",
+        "title": "Tiểu Tử Đáng Ngờ Lại Là Cao Thủ",
+        "channel_id": 1389226409796436069,
+        "last_chapter": 124,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phung-da-canh-nhan-12047",
+        "title": "Đại Phụng Đả Canh Nhân",
+        "channel_id": 1374646108315451432,
+        "last_chapter": 607,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 185,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bat-bai-chan-ma-8003",
+        "title": "Bất bại chân ma",
+        "channel_id": 1373490819750826065,
+        "last_chapter": 280,
+        "latest_chapter_date": "06/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
         "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
         "channel_id": 1430160673723383818,
@@ -657,15 +738,6 @@
         "error": null
     },
     {
-        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
-        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
-        "channel_id": 1387286765571674286,
-        "last_chapter": 105,
-        "latest_chapter_date": "01/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170",
         "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
         "channel_id": 1403375489451823227,
@@ -954,42 +1026,6 @@
         "error": null
     },
     {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 70,
-        "latest_chapter_date": "30/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 81,
-        "latest_chapter_date": "30/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "quai-luc-loan-than-15528",
-        "title": "Quái Lực Loạn Thần",
-        "channel_id": 1375006332611985460,
-        "last_chapter": 101,
-        "latest_chapter_date": "30/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
-        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
-        "channel_id": 1374620877773213716,
-        "last_chapter": 182,
-        "latest_chapter_date": "30/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-sac-dao-lu-deu-noi-ngo-hoang-the-chat-vo-dich-13520",
         "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
         "channel_id": 1378676658432643102,
@@ -1062,28 +1098,10 @@
         "error": null
     },
     {
-        "id": "tieu-tu-dang-ngo-lai-la-cao-thu-15252",
-        "title": "Tiểu Tử Đáng Ngờ Lại Là Cao Thủ",
-        "channel_id": 1389226409796436069,
-        "last_chapter": 123,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "huan-luyen-vien-murim-thien-tai-15700",
         "title": "Huấn Luyện Viên Murim Thiên Tài",
         "channel_id": 1375007798852714548,
         "last_chapter": 95,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phung-da-canh-nhan-12047",
-        "title": "Đại Phụng Đả Canh Nhân",
-        "channel_id": 1374646108315451432,
-        "last_chapter": 605,
         "latest_chapter_date": "29/12/2025",
         "source": "truyenqqto",
         "error": null
@@ -1130,15 +1148,6 @@
         "channel_id": 1393818779523354705,
         "last_chapter": 71,
         "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-vien-toi-thuong-12539",
-        "title": "Học Viện Tối Thượng",
-        "channel_id": 1392441923872227491,
-        "last_chapter": 183,
-        "latest_chapter_date": "28/12/2025",
         "source": "truyenqqto",
         "error": null
     },
@@ -1219,15 +1228,6 @@
         "title": "Bản Chất Của Chuyển Sinh",
         "channel_id": 1387285252862509096,
         "last_chapter": 168,
-        "latest_chapter_date": "27/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "bat-bai-chan-ma-8003",
-        "title": "Bất bại chân ma",
-        "channel_id": 1373490819750826065,
-        "last_chapter": 279,
         "latest_chapter_date": "27/12/2025",
         "source": "truyenqqto",
         "error": null
