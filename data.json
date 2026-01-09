@@ -108,6 +108,60 @@
         "error": null
     },
     {
+        "id": "113404",
+        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+        "channel_id": 1359003786374545498,
+        "last_chapter": 2052,
+        "latest_chapter_date": "09/01/2026",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 615,
+        "latest_chapter_date": "09/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "123707",
+        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
+        "channel_id": 1359796416645566585,
+        "last_chapter": 766,
+        "latest_chapter_date": "09/01/2026",
+        "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "hoc-nhom-10229",
+        "title": "Học Nhóm",
+        "channel_id": 1393813974109262015,
+        "last_chapter": 304,
+        "latest_chapter_date": "09/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "garbage-time-18604",
+        "title": "Garbage Time",
+        "channel_id": 1397503997992239124,
+        "last_chapter": 179,
+        "latest_chapter_date": "09/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 90,
+        "latest_chapter_date": "09/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170",
         "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
         "channel_id": 1403375489451823227,
@@ -159,33 +213,6 @@
         "last_chapter": 111,
         "latest_chapter_date": "08/01/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "113404",
-        "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
-        "channel_id": 1359003786374545498,
-        "last_chapter": 2051,
-        "latest_chapter_date": "08/01/2026",
-        "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 614,
-        "latest_chapter_date": "08/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "123707",
-        "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
-        "channel_id": 1359796416645566585,
-        "last_chapter": 765,
-        "latest_chapter_date": "08/01/2026",
-        "source": "metruyenchu",
         "error": null
     },
     {
@@ -310,15 +337,6 @@
         "title": "Chiến Đội Đại Thất Cách",
         "channel_id": 1398701143185559623,
         "last_chapter": 203,
-        "latest_chapter_date": "08/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-nhom-10229",
-        "title": "Học Nhóm",
-        "channel_id": 1393813974109262015,
-        "last_chapter": 303,
         "latest_chapter_date": "08/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -891,15 +909,6 @@
         "error": null
     },
     {
-        "id": "garbage-time-18604",
-        "title": "Garbage Time",
-        "channel_id": 1397503997992239124,
-        "last_chapter": 178,
-        "latest_chapter_date": "04/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "sat-thu-peter-14786",
         "title": "Sát Thủ Peter",
         "channel_id": 1430164632299110431,
@@ -1237,15 +1246,6 @@
         "title": "Người Chơi Siêu May Mắn",
         "channel_id": 1397507753227980800,
         "last_chapter": 91,
-        "latest_chapter_date": "29/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoang-tu-ban-thuoc-15170",
-        "title": "Hoàng Tử Bán Thuốc",
-        "channel_id": 1393815363766063104,
-        "last_chapter": 89,
         "latest_chapter_date": "29/12/2025",
         "source": "truyenqqto",
         "error": null
