@@ -1,5 +1,77 @@
 [
     {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 52,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
+        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
+        "channel_id": 1430160673723383818,
+        "last_chapter": 62,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 238,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 89,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 130,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
+        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
+        "channel_id": 1385913211986907186,
+        "last_chapter": 239,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-sieu-anh-hung-17599",
+        "title": "Kỷ Nguyên Siêu Anh Hùng",
+        "channel_id": 1397509911189131314,
+        "last_chapter": 220,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
+        "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
+        "channel_id": 1393808736690114641,
+        "last_chapter": 162,
+        "latest_chapter_date": "12/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -186,6 +258,42 @@
         "last_chapter": 202,
         "latest_chapter_date": "11/01/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
+        "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
+        "channel_id": 1398710018836009102,
+        "last_chapter": 132,
+        "latest_chapter_date": "11/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dao-quy-di-tien-16651",
+        "title": "Đạo Quỷ Dị Tiên",
+        "channel_id": 1374608833644728390,
+        "last_chapter": 68,
+        "latest_chapter_date": "11/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 368,
+        "latest_chapter_date": "11/01/2026",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
+        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+        "channel_id": 1372427575858692198,
+        "last_chapter": 246,
+        "latest_chapter_date": "11/01/2026",
+        "source": "goctruyentranhvui",
         "error": null
     },
     {
@@ -675,15 +783,6 @@
         "error": null
     },
     {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 51,
-        "latest_chapter_date": "08/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "su-ton-nghich-do-nay-moi-khong-phai-la-thanh-tu-14454",
         "title": "Sư Tôn: Nghịch Đồ Này Mới Không Phải Là Thánh Tử",
         "channel_id": 1378409367283695626,
@@ -1053,37 +1152,10 @@
         "error": null
     },
     {
-        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
-        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
-        "channel_id": 1430160673723383818,
-        "last_chapter": 61,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 237,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
         "title": "Người Chơi Trở Lại Sau 10000 Năm",
         "channel_id": 1383789664300699740,
         "last_chapter": 141,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 88,
         "latest_chapter_date": "05/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1116,24 +1188,6 @@
         "error": null
     },
     {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 129,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam-9527",
-        "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
-        "channel_id": 1385913211986907186,
-        "last_chapter": 238,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "van-co-chi-ton-11261",
         "title": "Vạn Cổ Chí Tôn",
         "channel_id": 1358993391534215350,
@@ -1147,15 +1201,6 @@
         "title": "Mạo Hiểm Giả Cuối Cùng",
         "channel_id": 1430162910616752221,
         "last_chapter": 104,
-        "latest_chapter_date": "05/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
-        "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
-        "channel_id": 1398710018836009102,
-        "last_chapter": 131,
         "latest_chapter_date": "05/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1188,30 +1233,12 @@
         "error": null
     },
     {
-        "id": "dao-quy-di-tien-16651",
-        "title": "Đạo Quỷ Dị Tiên",
-        "channel_id": 1374608833644728390,
-        "last_chapter": 67,
-        "latest_chapter_date": "04/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tieu-diet-ac-nhan-10916",
         "title": "Tiêu Diệt Ác Nhân",
         "channel_id": 1416616686328741989,
         "last_chapter": 216,
         "latest_chapter_date": "04/01/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 366,
-        "latest_chapter_date": "04/01/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1228,24 +1255,6 @@
         "title": "Đội Trưởng Lính Đánh Thuê",
         "channel_id": 1387285926774050909,
         "last_chapter": 295,
-        "latest_chapter_date": "03/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-sieu-anh-hung-17599",
-        "title": "Kỷ Nguyên Siêu Anh Hùng",
-        "channel_id": 1397509911189131314,
-        "last_chapter": 219,
-        "latest_chapter_date": "03/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-thanh-hung-than-trong-tro-choi-thu-thanh-12692",
-        "title": "Trở Thành Hung Thần Trong Trò Chơi Thủ Thành",
-        "channel_id": 1393808736690114641,
-        "last_chapter": 161,
         "latest_chapter_date": "03/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1995,15 +2004,6 @@
         "last_chapter": 142,
         "latest_chapter_date": "30/08/2025",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dinh-cap-khi-van--lang-le-tu-luyen-ngan-nam",
-        "title": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
-        "channel_id": 1372427575858692198,
-        "last_chapter": 229,
-        "latest_chapter_date": "30/08/2025",
-        "source": "goctruyentranhvui",
         "error": null
     },
     {
