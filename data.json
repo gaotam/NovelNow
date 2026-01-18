@@ -3,8 +3,8 @@
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
-        "last_chapter": 1779,
-        "latest_chapter_date": "17/01/2026",
+        "last_chapter": 1780,
+        "latest_chapter_date": "18/01/2026",
         "source": "metruyenchu",
         "error": null
     },
@@ -12,9 +12,81 @@
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
-        "last_chapter": 2060,
-        "latest_chapter_date": "17/01/2026",
+        "last_chapter": 2061,
+        "latest_chapter_date": "18/01/2026",
         "source": "metruyenchu",
+        "error": null
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 808,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 484,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 47,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 69,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mot-anh-hung-gioi-moi-thu-16136",
+        "title": "Một Anh Hùng Giỏi Mọi Thứ",
+        "channel_id": 1387289633582350466,
+        "last_chapter": 70,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-tai-ma-phap-su-vat-li-17338",
+        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
+        "channel_id": 1387280464661840064,
+        "last_chapter": 49,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dang-nhap-murim-10319",
+        "title": "Đăng Nhập Murim",
+        "channel_id": 1378250151377899621,
+        "last_chapter": 248,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toi-la-nong-dan-trong-vong-linh-22552",
+        "title": "Tôi Là Nông Dân Trồng Vong Linh",
+        "channel_id": 1455008138725163102,
+        "last_chapter": 11,
+        "latest_chapter_date": "18/01/2026",
+        "source": "truyenqqto",
         "error": null
     },
     {
@@ -36,19 +108,10 @@
         "error": null
     },
     {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 807,
-        "latest_chapter_date": "17/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 483,
+        "id": "ta-mo-phong-truong-sinh-lo-22428",
+        "title": "Ta Mô Phỏng Trường Sinh Lộ",
+        "channel_id": 1462122248625193066,
+        "last_chapter": 31,
         "latest_chapter_date": "17/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -202,6 +265,24 @@
         "title": "Câm Miệng Đi Ác Long, Ta Không Muốn Trông Trẻ Với Ngươi Nữa!",
         "channel_id": 1459432528019587135,
         "last_chapter": 76,
+        "latest_chapter_date": "17/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-cau-cao-vo-9579",
+        "title": "Toàn Cầu Cao Võ",
+        "channel_id": 1374608088694390814,
+        "last_chapter": 347,
+        "latest_chapter_date": "17/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "garbage-time-18604",
+        "title": "Garbage Time",
+        "channel_id": 1397503997992239124,
+        "last_chapter": 180,
         "latest_chapter_date": "17/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -481,15 +562,6 @@
         "title": "Mời Công Tử Trảm Yêu",
         "channel_id": 1397508751006896209,
         "last_chapter": 200,
-        "latest_chapter_date": "14/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 46,
         "latest_chapter_date": "14/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -954,15 +1026,6 @@
         "error": null
     },
     {
-        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
-        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
-        "channel_id": 1393812543281037422,
-        "last_chapter": 68,
-        "latest_chapter_date": "11/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "lam-nong-dan-trong-toa-thap-thu-thach-14069",
         "title": "Làm Nông Dân Trong Tòa Tháp Thử Thách",
         "channel_id": 1375008021687697409,
@@ -985,24 +1048,6 @@
         "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
         "channel_id": 1378676658432643102,
         "last_chapter": 429,
-        "latest_chapter_date": "11/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "mot-anh-hung-gioi-moi-thu-16136",
-        "title": "Một Anh Hùng Giỏi Mọi Thứ",
-        "channel_id": 1387289633582350466,
-        "last_chapter": 69,
-        "latest_chapter_date": "11/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-tai-ma-phap-su-vat-li-17338",
-        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
-        "channel_id": 1387280464661840064,
-        "last_chapter": 48,
         "latest_chapter_date": "11/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1080,24 +1125,6 @@
         "error": null
     },
     {
-        "id": "dang-nhap-murim-10319",
-        "title": "Đăng Nhập Murim",
-        "channel_id": 1378250151377899621,
-        "last_chapter": 247,
-        "latest_chapter_date": "10/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toi-la-nong-dan-trong-vong-linh-22552",
-        "title": "Tôi Là Nông Dân Trồng Vong Linh",
-        "channel_id": 1455008138725163102,
-        "last_chapter": 10,
-        "latest_chapter_date": "10/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-tai-nhin-thau-the-gioi-17219",
         "title": "Thiên Tài Nhìn Thấu Thế Giới",
         "channel_id": 1399563472320204912,
@@ -1138,15 +1165,6 @@
         "title": "Hôm Nay Han Yoil Là Phụ Nữ",
         "channel_id": 1412796162217349141,
         "last_chapter": 43,
-        "latest_chapter_date": "10/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-cau-cao-vo-9579",
-        "title": "Toàn Cầu Cao Võ",
-        "channel_id": 1374608088694390814,
-        "last_chapter": 346,
         "latest_chapter_date": "10/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1210,15 +1228,6 @@
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 174,
-        "latest_chapter_date": "09/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "garbage-time-18604",
-        "title": "Garbage Time",
-        "channel_id": 1397503997992239124,
-        "last_chapter": 179,
         "latest_chapter_date": "09/01/2026",
         "source": "truyenqqto",
         "error": null
