@@ -1,5 +1,41 @@
 [
     {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 153,
+        "latest_chapter_date": "19/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
+        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
+        "channel_id": 1430160673723383818,
+        "last_chapter": 63,
+        "latest_chapter_date": "19/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-sieu-anh-hung-17599",
+        "title": "Kỷ Nguyên Siêu Anh Hùng",
+        "channel_id": 1397509911189131314,
+        "last_chapter": 221,
+        "latest_chapter_date": "19/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
+        "title": "Người Chơi Trở Lại Sau 10000 Năm",
+        "channel_id": 1383789664300699740,
+        "last_chapter": 142,
+        "latest_chapter_date": "19/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "121068",
         "title": "Ta Chỉ Muốn Hủy Diệt Tông Môn, Thế Nào Nghịch Thiên Thành Thần",
         "channel_id": 1359006015567171745,
@@ -864,15 +900,6 @@
         "error": null
     },
     {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 152,
-        "latest_chapter_date": "13/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toan-cau-bang-phong--ta-che-tao-phong-an-toan-tai-tan-the",
         "title": "Toàn Cầu Băng Phong: Ta Chế Tạo Phòng An Toàn Tại Tận Thế",
         "channel_id": 1372840331204235346,
@@ -954,15 +981,6 @@
         "error": null
     },
     {
-        "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
-        "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
-        "channel_id": 1430160673723383818,
-        "last_chapter": 62,
-        "latest_chapter_date": "12/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hoi-uc-cua-chien-than-11337",
         "title": "Hồi Ức Của Chiến Thần",
         "channel_id": 1380002190277480579,
@@ -985,15 +1003,6 @@
         "title": "Sự Trở Lại Của Pháp Sư Vĩ Đại Sau 4000 Năm",
         "channel_id": 1385913211986907186,
         "last_chapter": 239,
-        "latest_chapter_date": "12/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ky-nguyen-sieu-anh-hung-17599",
-        "title": "Kỷ Nguyên Siêu Anh Hùng",
-        "channel_id": 1397509911189131314,
-        "last_chapter": 220,
         "latest_chapter_date": "12/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1346,15 +1355,6 @@
         "channel_id": 1398721585082405006,
         "last_chapter": 87,
         "latest_chapter_date": "06/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
-        "title": "Người Chơi Trở Lại Sau 10000 Năm",
-        "channel_id": 1383789664300699740,
-        "last_chapter": 141,
-        "latest_chapter_date": "05/01/2026",
         "source": "truyenqqto",
         "error": null
     },
