@@ -1,5 +1,41 @@
 [
     {
+        "id": "doi-truong-linh-danh-thue-9416",
+        "title": "Đội Trưởng Lính Đánh Thuê",
+        "channel_id": 1387285926774050909,
+        "last_chapter": 298,
+        "latest_chapter_date": "20/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 73,
+        "latest_chapter_date": "20/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
+        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
+        "channel_id": 1374620877773213716,
+        "last_chapter": 185,
+        "latest_chapter_date": "20/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gay-go-cap-99-12236",
+        "title": "Gậy Gỗ Cấp 99+",
+        "channel_id": 1449786638929498314,
+        "last_chapter": 178,
+        "latest_chapter_date": "20/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
@@ -147,7 +183,7 @@
         "id": "van-co-chi-ton-11261",
         "title": "Vạn Cổ Chí Tôn",
         "channel_id": 1358993391534215350,
-        "last_chapter": 495,
+        "last_chapter": 496,
         "latest_chapter_date": "19/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -175,6 +211,15 @@
         "title": "Cuồng Ma Tái Thế",
         "channel_id": 1407386762984034446,
         "last_chapter": 187,
+        "latest_chapter_date": "19/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "remonster-1132",
+        "title": "Re:Monster",
+        "channel_id": 1373490392229740685,
+        "last_chapter": 114,
         "latest_chapter_date": "19/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -357,6 +402,15 @@
         "last_chapter": 419,
         "latest_chapter_date": "18/01/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 370,
+        "latest_chapter_date": "18/01/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -873,15 +927,6 @@
         "error": null
     },
     {
-        "id": "doi-truong-linh-danh-thue-9416",
-        "title": "Đội Trưởng Lính Đánh Thuê",
-        "channel_id": 1387285926774050909,
-        "last_chapter": 296,
-        "latest_chapter_date": "14/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "so-tay-thuat-su-19717",
         "title": "Sổ Tay Thuật Sư",
         "channel_id": 1399954971306496111,
@@ -922,24 +967,6 @@
         "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
         "channel_id": 1387286765571674286,
         "last_chapter": 107,
-        "latest_chapter_date": "13/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 72,
-        "latest_chapter_date": "13/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
-        "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
-        "channel_id": 1374620877773213716,
-        "last_chapter": 184,
         "latest_chapter_date": "13/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1104,15 +1131,6 @@
         "last_chapter": 68,
         "latest_chapter_date": "11/01/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 368,
-        "latest_chapter_date": "11/01/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1440,29 +1458,11 @@
         "error": null
     },
     {
-        "id": "remonster-1132",
-        "title": "Re:Monster",
-        "channel_id": 1373490392229740685,
-        "last_chapter": 113,
-        "latest_chapter_date": "01/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
         "last_chapter": 53,
         "latest_chapter_date": "31/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gay-go-cap-99-12236",
-        "title": "Gậy Gỗ Cấp 99+",
-        "channel_id": 1449786638929498314,
-        "last_chapter": 177,
-        "latest_chapter_date": "30/12/2025",
         "source": "truyenqqto",
         "error": null
     },
