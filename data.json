@@ -1,5 +1,23 @@
 [
     {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1115,
+        "latest_chapter_date": "26/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cuong-ma-tai-the-11480",
+        "title": "Cuồng Ma Tái Thế",
+        "channel_id": 1407386762984034446,
+        "last_chapter": 188,
+        "latest_chapter_date": "26/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
         "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
         "channel_id": 1374605650449137684,
@@ -39,7 +57,7 @@
         "id": "tensei-shita-saikyo-no-monsuta-kusha-bokun-ryu-e-no-fukushu-22597",
         "title": "Tensei Shita Saikyo No Monsuta Kusha: Bokun Ryu E No Fukushu",
         "channel_id": 1465029655449829469,
-        "last_chapter": 25,
+        "last_chapter": 28,
         "latest_chapter_date": "25/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -194,15 +212,6 @@
         "channel_id": 1397506843768782859,
         "last_chapter": 224,
         "latest_chapter_date": "25/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1114,
-        "latest_chapter_date": "24/01/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1012,15 +1021,6 @@
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
         "last_chapter": 665,
-        "latest_chapter_date": "19/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cuong-ma-tai-the-11480",
-        "title": "Cuồng Ma Tái Thế",
-        "channel_id": 1407386762984034446,
-        "last_chapter": 187,
         "latest_chapter_date": "19/01/2026",
         "source": "truyenqqto",
         "error": null
