@@ -1,5 +1,68 @@
 [
     {
+        "id": "tung-tien-huu-toa-linh-kiem-son-295",
+        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
+        "channel_id": 1465031264447762669,
+        "last_chapter": 710,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 153,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 343,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cau-be-cua-than-chet-9441",
+        "title": "Cậu Bé Của Thần Chết",
+        "channel_id": 1374611513423302717,
+        "last_chapter": 315,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 472,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
+        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
+        "channel_id": 1387286765571674286,
+        "last_chapter": 109,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
+        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
+        "channel_id": 1416617325624295544,
+        "last_chapter": 277,
+        "latest_chapter_date": "28/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "113404",
         "title": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
         "channel_id": 1359003786374545498,
@@ -24,15 +87,6 @@
         "last_chapter": 782,
         "latest_chapter_date": "27/01/2026",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "tung-tien-huu-toa-linh-kiem-son-295",
-        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
-        "channel_id": 1465031264447762669,
-        "last_chapter": 705,
-        "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -477,6 +531,15 @@
         "error": null
     },
     {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 372,
+        "latest_chapter_date": "25/01/2026",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
         "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
         "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
         "channel_id": 1465030930325307512,
@@ -882,15 +945,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 152,
-        "latest_chapter_date": "21/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
@@ -927,15 +981,6 @@
         "error": null
     },
     {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 342,
-        "latest_chapter_date": "21/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chainsawman-phan-2-12895",
         "title": "Chainsawman Phần 2",
         "channel_id": 1438368577194426368,
@@ -949,15 +994,6 @@
         "title": "Dịch Vụ Thuê Bạn Gái",
         "channel_id": 1374610492659601438,
         "last_chapter": 409,
-        "latest_chapter_date": "21/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cau-be-cua-than-chet-9441",
-        "title": "Cậu Bé Của Thần Chết",
-        "channel_id": 1374611513423302717,
-        "last_chapter": 314,
         "latest_chapter_date": "21/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -999,15 +1035,6 @@
         "error": null
     },
     {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 471,
-        "latest_chapter_date": "21/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "doi-truong-linh-danh-thue-9416",
         "title": "Đội Trưởng Lính Đánh Thuê",
         "channel_id": 1387285926774050909,
@@ -1030,15 +1057,6 @@
         "title": "Tuyệt Đối Dân Cư",
         "channel_id": 1393817115559202907,
         "last_chapter": 64,
-        "latest_chapter_date": "20/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toi-da-giet-tuyen-thu-hoc-vien-15046",
-        "title": "Tôi Đã Giết Tuyển Thủ Học Viện",
-        "channel_id": 1387286765571674286,
-        "last_chapter": 108,
         "latest_chapter_date": "20/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1197,15 +1215,6 @@
         "error": null
     },
     {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 370,
-        "latest_chapter_date": "18/01/2026",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "nguoi-choi-sieu-may-man-17307",
         "title": "Người Chơi Siêu May Mắn",
         "channel_id": 1397507753227980800,
@@ -1336,15 +1345,6 @@
         "title": "Hoàng Tử Bán Thuốc",
         "channel_id": 1393815363766063104,
         "last_chapter": 92,
-        "latest_chapter_date": "14/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
-        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
-        "channel_id": 1416617325624295544,
-        "last_chapter": 276,
         "latest_chapter_date": "14/01/2026",
         "source": "truyenqqto",
         "error": null
