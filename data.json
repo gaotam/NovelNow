@@ -1,5 +1,41 @@
 [
     {
+        "id": "futari-bus-22373",
+        "title": "Futari Bus",
+        "channel_id": 1459436843023208469,
+        "last_chapter": 16,
+        "latest_chapter_date": "29/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
+        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
+        "channel_id": 1380000751601979433,
+        "last_chapter": 429,
+        "latest_chapter_date": "29/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-sau-tan-the-12154",
+        "title": "Thế Giới Sau Tận Thế",
+        "channel_id": 1374624700613005372,
+        "last_chapter": 218,
+        "latest_chapter_date": "29/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
+        "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
+        "channel_id": 1430163228775682099,
+        "last_chapter": 71,
+        "latest_chapter_date": "29/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tung-tien-huu-toa-linh-kiem-son-295",
         "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
         "channel_id": 1465031264447762669,
@@ -909,24 +945,6 @@
         "error": null
     },
     {
-        "id": "futari-bus-22373",
-        "title": "Futari Bus",
-        "channel_id": 1459436843023208469,
-        "last_chapter": 15,
-        "latest_chapter_date": "22/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chao-mung-cau-den-truong-iruma-kun-3188",
-        "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
-        "channel_id": 1380000751601979433,
-        "last_chapter": 428,
-        "latest_chapter_date": "22/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tap-huyet-16816",
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
@@ -1050,6 +1068,15 @@
         "last_chapter": 176,
         "latest_chapter_date": "21/01/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 386,
+        "latest_chapter_date": "21/01/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -1377,15 +1404,6 @@
         "error": null
     },
     {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 385,
-        "latest_chapter_date": "14/01/2026",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "onepunch-man-244",
         "title": "Onepunch Man",
         "channel_id": 1438368221357932666,
@@ -1417,15 +1435,6 @@
         "title": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
         "channel_id": 1374645255680294943,
         "last_chapter": 205,
-        "latest_chapter_date": "13/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-sau-tan-the-12154",
-        "title": "Thế Giới Sau Tận Thế",
-        "channel_id": 1374624700613005372,
-        "last_chapter": 217,
         "latest_chapter_date": "13/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1734,15 +1743,6 @@
         "last_chapter": 57,
         "latest_chapter_date": "22/12/2025",
         "source": "metruyenchu",
-        "error": null
-    },
-    {
-        "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
-        "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
-        "channel_id": 1430163228775682099,
-        "last_chapter": 66,
-        "latest_chapter_date": "20/12/2025",
-        "source": "truyenqqto",
         "error": null
     },
     {
