@@ -1,5 +1,86 @@
 [
     {
+        "id": "tung-tien-huu-toa-linh-kiem-son-295",
+        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
+        "channel_id": 1465031264447762669,
+        "last_chapter": 720,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 52,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
+        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
+        "channel_id": 1373491461865078924,
+        "last_chapter": 176,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1116,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-quan-gia-la-ma-hoang-7015",
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "channel_id": 1374604556092047451,
+        "last_chapter": 812,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
+        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
+        "channel_id": 1380004618020454473,
+        "last_chapter": 89,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
+        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
+        "channel_id": 1377470069545635900,
+        "last_chapter": 166,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 86,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-tri-doc-gia-9702",
+        "title": "Toàn Trí Độc Giả",
+        "channel_id": 1377467480120754248,
+        "last_chapter": 300,
+        "latest_chapter_date": "30/01/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "futari-bus-22373",
         "title": "Futari Bus",
         "channel_id": 1459436843023208469,
@@ -31,15 +112,6 @@
         "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
         "channel_id": 1430163228775682099,
         "last_chapter": 71,
-        "latest_chapter_date": "29/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tung-tien-huu-toa-linh-kiem-son-295",
-        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
-        "channel_id": 1465031264447762669,
-        "last_chapter": 715,
         "latest_chapter_date": "29/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -423,24 +495,6 @@
         "error": null
     },
     {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 51,
-        "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
-        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
-        "channel_id": 1373491461865078924,
-        "last_chapter": 175,
-        "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
         "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
         "channel_id": 1404687720298709095,
@@ -554,15 +608,6 @@
         "channel_id": 1375006332611985460,
         "last_chapter": 103,
         "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1115,
-        "latest_chapter_date": "26/01/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -729,15 +774,6 @@
         "error": null
     },
     {
-        "id": "dai-quan-gia-la-ma-hoang-7015",
-        "title": "Đại Quản Gia Là Ma Hoàng",
-        "channel_id": 1374604556092047451,
-        "last_chapter": 811,
-        "latest_chapter_date": "25/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
@@ -823,15 +859,6 @@
         "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
         "channel_id": 1465030930325307512,
         "last_chapter": 25,
-        "latest_chapter_date": "24/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
-        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
-        "channel_id": 1380004618020454473,
-        "last_chapter": 88,
         "latest_chapter_date": "24/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1026,15 +1053,6 @@
         "error": null
     },
     {
-        "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
-        "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
-        "channel_id": 1377470069545635900,
-        "last_chapter": 165,
-        "latest_chapter_date": "22/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nha-dau-tu-nhin-thay-tuong-lai-16318",
         "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
         "channel_id": 1398722410018242690,
@@ -1156,15 +1174,6 @@
         "title": "Tuyệt Đối Dân Cư",
         "channel_id": 1393817115559202907,
         "last_chapter": 64,
-        "latest_chapter_date": "20/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 85,
         "latest_chapter_date": "20/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1382,15 +1391,6 @@
         "channel_id": 1374646772709855284,
         "last_chapter": 112,
         "latest_chapter_date": "16/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-tri-doc-gia-9702",
-        "title": "Toàn Trí Độc Giả",
-        "channel_id": 1377467480120754248,
-        "last_chapter": 298,
-        "latest_chapter_date": "15/01/2026",
         "source": "truyenqqto",
         "error": null
     },
