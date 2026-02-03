@@ -1,5 +1,77 @@
 [
     {
+        "id": "trieu-hoi-su-cuoi-cung-9182",
+        "title": "Triệu Hồi Sư Cuối Cùng",
+        "channel_id": 1465028850449907812,
+        "last_chapter": 235,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 75,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
+        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
+        "channel_id": 1398721585082405006,
+        "last_chapter": 91,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 373,
+        "latest_chapter_date": "03/02/2026",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
+        "id": "doi-truong-linh-danh-thue-9416",
+        "title": "Đội Trưởng Lính Đánh Thuê",
+        "channel_id": 1387285926774050909,
+        "last_chapter": 300,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-doi-dan-cu-16743",
+        "title": "Tuyệt Đối Dân Cư",
+        "channel_id": 1393817115559202907,
+        "last_chapter": 65,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 189,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thang-cap-vo-han-trong-murim-11005",
+        "title": "Thăng Cấp Vô Hạn Trong Murim",
+        "channel_id": 1407382643460411423,
+        "last_chapter": 250,
+        "latest_chapter_date": "03/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tung-tien-huu-toa-linh-kiem-son-295",
         "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
         "channel_id": 1465031264447762669,
@@ -76,15 +148,6 @@
         "title": "Công Chức Đặc Dị",
         "channel_id": 1416621833486073979,
         "last_chapter": 55,
-        "latest_chapter_date": "02/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "trieu-hoi-su-cuoi-cung-9182",
-        "title": "Triệu Hồi Sư Cuối Cùng",
-        "channel_id": 1465028850449907812,
-        "last_chapter": 233,
         "latest_chapter_date": "02/02/2026",
         "source": "truyenqqto",
         "error": null
@@ -963,15 +1026,6 @@
         "error": null
     },
     {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 74,
-        "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thien-quy-chang-song-noi-cuoc-doi-binh-thuong-11445",
         "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
         "channel_id": 1374620877773213716,
@@ -994,15 +1048,6 @@
         "title": "Tuyệt Sắc Đạo Lữ Đều Nói Ngô Hoàng Thể Chất Vô Địch",
         "channel_id": 1378676658432643102,
         "last_chapter": 431,
-        "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
-        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
-        "channel_id": 1398721585082405006,
-        "last_chapter": 89,
         "latest_chapter_date": "27/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1152,15 +1197,6 @@
         "error": null
     },
     {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 372,
-        "latest_chapter_date": "25/01/2026",
-        "source": "nettruyen",
-        "error": null
-    },
-    {
         "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
         "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
         "channel_id": 1465030930325307512,
@@ -1296,28 +1332,10 @@
         "error": null
     },
     {
-        "id": "doi-truong-linh-danh-thue-9416",
-        "title": "Đội Trưởng Lính Đánh Thuê",
-        "channel_id": 1387285926774050909,
-        "last_chapter": 298,
-        "latest_chapter_date": "20/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "gay-go-cap-99-12236",
         "title": "Gậy Gỗ Cấp 99+",
         "channel_id": 1449786638929498314,
         "last_chapter": 178,
-        "latest_chapter_date": "20/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-doi-dan-cu-16743",
-        "title": "Tuyệt Đối Dân Cư",
-        "channel_id": 1393817115559202907,
-        "last_chapter": 64,
         "latest_chapter_date": "20/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1363,15 +1381,6 @@
         "title": "Một Anh Hùng Giỏi Mọi Thứ",
         "channel_id": 1387289633582350466,
         "last_chapter": 70,
-        "latest_chapter_date": "18/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-vien-toi-thuong-12539",
-        "title": "Học Viện Tối Thượng",
-        "channel_id": 1392441923872227491,
-        "last_chapter": 187,
         "latest_chapter_date": "18/01/2026",
         "source": "truyenqqto",
         "error": null
@@ -1994,15 +2003,6 @@
         "channel_id": 1393821558174257223,
         "last_chapter": 95,
         "latest_chapter_date": "21/10/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thang-cap-vo-han-trong-murim-11005",
-        "title": "Thăng Cấp Vô Hạn Trong Murim",
-        "channel_id": 1407382643460411423,
-        "last_chapter": 249,
-        "latest_chapter_date": "06/10/2025",
         "source": "truyenqqto",
         "error": null
     },
