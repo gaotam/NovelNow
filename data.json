@@ -1,5 +1,68 @@
 [
     {
+        "id": "huan-luyen-vien-murim-thien-tai-15700",
+        "title": "Huấn Luyện Viên Murim Thiên Tài",
+        "channel_id": 1375007798852714548,
+        "last_chapter": 101,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 475,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 134,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-tai-ma-phap-su-vat-li-17338",
+        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
+        "channel_id": 1387280464661840064,
+        "last_chapter": 53,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 242,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mat-the-hau-can-16141",
+        "title": "Mạt Thế Hậu Cần",
+        "channel_id": 1393818394880507924,
+        "last_chapter": 78,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "he-thong-super-god-12010",
+        "title": "Hệ Thống Super God",
+        "channel_id": 1398701581439996016,
+        "last_chapter": 196,
+        "latest_chapter_date": "09/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
@@ -558,24 +621,6 @@
         "error": null
     },
     {
-        "id": "huan-luyen-vien-murim-thien-tai-15700",
-        "title": "Huấn Luyện Viên Murim Thiên Tài",
-        "channel_id": 1375007798852714548,
-        "last_chapter": 100,
-        "latest_chapter_date": "05/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 474,
-        "latest_chapter_date": "05/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cong-chuc-dac-di-15801",
         "title": "Công Chức Đặc Dị",
         "channel_id": 1416621833486073979,
@@ -643,15 +688,6 @@
         "title": "Thiên Quỷ Chẳng Sống Nổi Cuộc Đời Bình Thường",
         "channel_id": 1374620877773213716,
         "last_chapter": 187,
-        "latest_chapter_date": "05/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 133,
         "latest_chapter_date": "05/02/2026",
         "source": "truyenqqto",
         "error": null
@@ -855,15 +891,6 @@
         "error": null
     },
     {
-        "id": "thien-tai-ma-phap-su-vat-li-17338",
-        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
-        "channel_id": 1387280464661840064,
-        "last_chapter": 52,
-        "latest_chapter_date": "04/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hand-jumper-16649",
         "title": "Hand Jumper",
         "channel_id": 1393820926017146890,
@@ -954,15 +981,6 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 241,
-        "latest_chapter_date": "03/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hac-ki-si-thien-tai-gioi-han-thoi-gian-14166",
         "title": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
         "channel_id": 1398710018836009102,
@@ -985,15 +1003,6 @@
         "title": "Nền Văn Minh Nebula",
         "channel_id": 1374646772709855284,
         "last_chapter": 114,
-        "latest_chapter_date": "03/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "mat-the-hau-can-16141",
-        "title": "Mạt Thế Hậu Cần",
-        "channel_id": 1393818394880507924,
-        "last_chapter": 77,
         "latest_chapter_date": "03/02/2026",
         "source": "truyenqqto",
         "error": null
@@ -1642,15 +1651,6 @@
         "title": "Bản Ngã Thay Đổi",
         "channel_id": 1393822161533276200,
         "last_chapter": 73,
-        "latest_chapter_date": "07/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "he-thong-super-god-12010",
-        "title": "Hệ Thống Super God",
-        "channel_id": 1398701581439996016,
-        "last_chapter": 194,
         "latest_chapter_date": "07/01/2026",
         "source": "truyenqqto",
         "error": null

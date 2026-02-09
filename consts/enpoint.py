@@ -4,5 +4,5 @@ ENDPOINTS = {
     ProviderName.TRUYENQQTO: "https://truyenqqno.com/truyen-tranh",
     ProviderName.NETTRUYEN: "https://nettruyenvio.com/truyen-tranh",
     ProviderName.METRUYENCHU: "https://backend.metruyencv.com/api/chapters",
-    ProviderName.GOCTRUYENTRANHVUI: "https://goctruyentranhvui17.com/truyen"
+    ProviderName.GOCTRUYENTRANHVUI: "https://goctruyentranhvui19.com/truyen"
 }
