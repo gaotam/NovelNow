@@ -74,6 +74,11 @@ class Story:
         the `last_chapter` and `latest_chapter_date` attributes of the story, sets the `is_new_chapter`
         flag to True, and triggers the display of the updated information.
         """
+        # Skip METRUYENCHU provider
+        if self.source == "metruyenchu":
+            self.logger.info(f"{self.title} -> Bỏ qua kiểm tra (METRUYENCHU)")
+            return
+
         try:
             story_info = self.provider.get_story_info()
             latest_chapter = story_info.latest_chapter
