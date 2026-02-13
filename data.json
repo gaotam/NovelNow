@@ -72,6 +72,69 @@
         "error": null
     },
     {
+        "id": "tuyet-the-vo-than-2664",
+        "title": "Tuyệt Thế Võ Thần",
+        "channel_id": 1358999157544845486,
+        "last_chapter": 1122,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tap-huyet-16816",
+        "title": "Tạp Huyết",
+        "channel_id": 1393808057645142086,
+        "last_chapter": 74,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
+        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
+        "channel_id": 1380004618020454473,
+        "last_chapter": 92,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoan-doi-dieu-ky-1241",
+        "title": "Hoán Đổi Diệu Kỳ",
+        "channel_id": 1374610277609246813,
+        "last_chapter": 594,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
+        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
+        "channel_id": 1378407667760103624,
+        "last_chapter": 73,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "bat-dau-danh-dau-hoang-co-thanh-the-14633",
+        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+        "channel_id": 1377466581030010922,
+        "last_chapter": 141,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cong-chuc-dac-di-15801",
+        "title": "Công Chức Đặc Dị",
+        "channel_id": 1416621833486073979,
+        "last_chapter": 58,
+        "latest_chapter_date": "13/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "ta-hoc-tram-than-trong-benh-vien-tam-than-15082",
         "title": "Ta Học Trảm Thần Trong Bệnh Viện Tâm Thần",
         "channel_id": 1377468517028204614,
@@ -837,15 +900,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-vo-than-2664",
-        "title": "Tuyệt Thế Võ Thần",
-        "channel_id": 1358999157544845486,
-        "last_chapter": 1121,
-        "latest_chapter_date": "08/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
@@ -882,29 +936,11 @@
         "error": null
     },
     {
-        "id": "tap-huyet-16816",
-        "title": "Tạp Huyết",
-        "channel_id": 1393808057645142086,
-        "last_chapter": 73,
-        "latest_chapter_date": "08/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
         "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
         "channel_id": 1374621474949693460,
         "last_chapter": 189,
         "latest_chapter_date": "08/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
-        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
-        "channel_id": 1380004618020454473,
-        "last_chapter": 91,
-        "latest_chapter_date": "07/02/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -949,15 +985,6 @@
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
         "last_chapter": 311,
-        "latest_chapter_date": "07/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoan-doi-dieu-ky-1241",
-        "title": "Hoán Đổi Diệu Kỳ",
-        "channel_id": 1374610277609246813,
-        "last_chapter": 593,
         "latest_chapter_date": "07/02/2026",
         "source": "truyenqqto",
         "error": null
@@ -1071,12 +1098,12 @@
         "error": null
     },
     {
-        "id": "ta-xay-dung-de-quoc-cong-nghiep-o-dai-luc-ma-phap-16464",
-        "title": "Ta Xây Dựng Đế Quốc Công Nghiệp Ở Đại Lục Ma Pháp",
-        "channel_id": 1378407667760103624,
-        "last_chapter": 72,
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 375,
         "latest_chapter_date": "07/02/2026",
-        "source": "truyenqqto",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -1103,24 +1130,6 @@
         "channel_id": 1377469416433778749,
         "last_chapter": 96,
         "latest_chapter_date": "06/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "bat-dau-danh-dau-hoang-co-thanh-the-14633",
-        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
-        "channel_id": 1377466581030010922,
-        "last_chapter": 140,
-        "latest_chapter_date": "06/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cong-chuc-dac-di-15801",
-        "title": "Công Chức Đặc Dị",
-        "channel_id": 1416621833486073979,
-        "last_chapter": 56,
-        "latest_chapter_date": "05/02/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1194,15 +1203,6 @@
         "last_chapter": 91,
         "latest_chapter_date": "03/02/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 373,
-        "latest_chapter_date": "03/02/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
