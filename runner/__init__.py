@@ -52,7 +52,7 @@ class Runner:
             Exception: If there is an issue fetching the latest chapter for a story.
         """
         for index, story in enumerate(self.stories):
-            prefix = f"[Đang xử lý {index + 1}/{len(self.stories)}] - "
+            prefix = f"[{index + 1}/{len(self.stories)}] - "
             story.logger = PrefixAdapter(logger, {"prefix": prefix})
             story.get_latest_chapter()
             if index < len(self.stories) - 1:  # Avoid delay after the last story
