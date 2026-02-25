@@ -3,8 +3,44 @@
         "id": "ky-nguyen-ky-la-12533",
         "title": "Kỷ Nguyên Kỳ Lạ",
         "channel_id": 1374600250563493928,
-        "last_chapter": 575,
-        "latest_chapter_date": "24/02/2026",
+        "last_chapter": 581,
+        "latest_chapter_date": "25/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 157,
+        "latest_chapter_date": "25/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 90,
+        "latest_chapter_date": "25/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 172,
+        "latest_chapter_date": "25/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 293,
+        "latest_chapter_date": "25/02/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -121,6 +157,15 @@
         "title": "Ngục Tối Black Haze",
         "channel_id": 1412795644636172388,
         "last_chapter": 60,
+        "latest_chapter_date": "24/02/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vu-trang-sieu-nhien-11160",
+        "title": "Vũ Trang Siêu Nhiên",
+        "channel_id": 1397506843768782859,
+        "last_chapter": 226,
         "latest_chapter_date": "24/02/2026",
         "source": "truyenqqto",
         "error": null
@@ -855,24 +900,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 156,
-        "latest_chapter_date": "18/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 89,
-        "latest_chapter_date": "18/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-dua-dang-yeu-4183",
         "title": "Trò Đùa Đáng Yêu",
         "channel_id": 1374607260839448646,
@@ -1062,15 +1089,6 @@
         "error": null
     },
     {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 171,
-        "latest_chapter_date": "12/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chien-doi-dai-that-cach-10941",
         "title": "Chiến Đội Đại Thất Cách",
         "channel_id": 1398701143185559623,
@@ -1094,15 +1112,6 @@
         "channel_id": 1416617325624295544,
         "last_chapter": 279,
         "latest_chapter_date": "12/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 292,
-        "latest_chapter_date": "11/02/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1156,15 +1165,6 @@
         "title": "Sổ Tay Thuật Sư",
         "channel_id": 1399954971306496111,
         "last_chapter": 34,
-        "latest_chapter_date": "11/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vu-trang-sieu-nhien-11160",
-        "title": "Vũ Trang Siêu Nhiên",
-        "channel_id": 1397506843768782859,
-        "last_chapter": 225,
         "latest_chapter_date": "11/02/2026",
         "source": "truyenqqto",
         "error": null
