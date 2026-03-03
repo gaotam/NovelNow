@@ -1,5 +1,14 @@
 [
     {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 79,
+        "latest_chapter_date": "03/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
@@ -411,6 +420,15 @@
         "last_chapter": 94,
         "latest_chapter_date": "01/03/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 381,
+        "latest_chapter_date": "01/03/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -918,15 +936,6 @@
         "error": null
     },
     {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 78,
-        "latest_chapter_date": "24/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "quai-luc-loan-than-15528",
         "title": "Quái Lực Loạn Thần",
         "channel_id": 1375006332611985460,
@@ -1032,15 +1041,6 @@
         "last_chapter": 69,
         "latest_chapter_date": "22/02/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 379,
-        "latest_chapter_date": "22/02/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
