@@ -1,19 +1,10 @@
 [
     {
-        "id": "tung-tien-huu-toa-linh-kiem-son-295",
-        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
-        "channel_id": 1465031264447762669,
-        "last_chapter": 836,
-        "latest_chapter_date": "07/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
-        "last_chapter": 504,
-        "latest_chapter_date": "07/03/2026",
+        "last_chapter": 505,
+        "latest_chapter_date": "08/03/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -21,7 +12,79 @@
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
-        "last_chapter": 828,
+        "last_chapter": 829,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
+        "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
+        "channel_id": 1378408547594928188,
+        "last_chapter": 221,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tho-ren-huyen-thoai-9311",
+        "title": "Thợ Rèn Huyền Thoại",
+        "channel_id": 1374604035591639100,
+        "last_chapter": 314,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-tro-ve-12203",
+        "title": "Anh Hùng Trở Về",
+        "channel_id": 1465029149503787255,
+        "last_chapter": 144,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 76,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hiep-si-song-vi-ngay-hom-nay-15728",
+        "title": "Hiệp Sĩ Sống Vì Ngày Hôm Nay",
+        "channel_id": 1430161761041911871,
+        "last_chapter": 101,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 244,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 222,
+        "latest_chapter_date": "08/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tung-tien-huu-toa-linh-kiem-son-295",
+        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
+        "channel_id": 1465031264447762669,
+        "last_chapter": 838,
         "latest_chapter_date": "07/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -175,15 +238,6 @@
         "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
         "channel_id": 1410484484746252298,
         "last_chapter": 37,
-        "latest_chapter_date": "07/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
-        "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
-        "channel_id": 1378408547594928188,
-        "last_chapter": 220,
         "latest_chapter_date": "07/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -918,28 +972,10 @@
         "error": null
     },
     {
-        "id": "tho-ren-huyen-thoai-9311",
-        "title": "Thợ Rèn Huyền Thoại",
-        "channel_id": 1374604035591639100,
-        "last_chapter": 313,
-        "latest_chapter_date": "01/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ma-dao-chuyen-sinh-ky-13933",
         "title": "Ma Đạo Chuyển Sinh Ký",
         "channel_id": 1407385681696784595,
         "last_chapter": 160,
-        "latest_chapter_date": "01/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-tro-ve-12203",
-        "title": "Anh Hùng Trở Về",
-        "channel_id": 1465029149503787255,
-        "last_chapter": 143,
         "latest_chapter_date": "01/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -963,28 +999,10 @@
         "error": null
     },
     {
-        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
-        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
-        "channel_id": 1393812543281037422,
-        "last_chapter": 75,
-        "latest_chapter_date": "01/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
         "last_chapter": 501,
-        "latest_chapter_date": "01/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hiep-si-song-vi-ngay-hom-nay-15728",
-        "title": "Hiệp Sĩ Sống Vì Ngày Hôm Nay",
-        "channel_id": 1430161761041911871,
-        "last_chapter": 100,
         "latest_chapter_date": "01/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1224,15 +1242,6 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 243,
-        "latest_chapter_date": "16/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "truyen-vo-6000",
         "title": "Truyền Võ",
         "channel_id": 1428034477204050072,
@@ -1426,15 +1435,6 @@
         "title": "Người Chơi Siêu May Mắn",
         "channel_id": 1397507753227980800,
         "last_chapter": 96,
-        "latest_chapter_date": "03/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 221,
         "latest_chapter_date": "03/02/2026",
         "source": "truyenqqto",
         "error": null
