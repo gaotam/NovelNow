@@ -54,6 +54,96 @@
         "error": null
     },
     {
+        "id": "tung-tien-huu-toa-linh-kiem-son-295",
+        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
+        "channel_id": 1465031264447762669,
+        "last_chapter": 841,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 120,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 223,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 97,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 484,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-mo-phong-truong-sinh-lo-22428",
+        "title": "Ta Mô Phỏng Trường Sinh Lộ",
+        "channel_id": 1462122248625193066,
+        "last_chapter": 46,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 63,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vu-trang-sieu-nhien-11160",
+        "title": "Vũ Trang Siêu Nhiên",
+        "channel_id": 1397506843768782859,
+        "last_chapter": 228,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quai-luc-loan-than-15528",
+        "title": "Quái Lực Loạn Thần",
+        "channel_id": 1375006332611985460,
+        "last_chapter": 109,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
+        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
+        "channel_id": 1465030930325307512,
+        "last_chapter": 30,
+        "latest_chapter_date": "10/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "cam-kiem-tuyet-doi-12431",
         "title": "Cảm Kiếm Tuyệt Đối",
         "channel_id": 1375005323495997450,
@@ -78,15 +168,6 @@
         "last_chapter": 383,
         "latest_chapter_date": "09/03/2026",
         "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "tung-tien-huu-toa-linh-kiem-son-295",
-        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
-        "channel_id": 1465031264447762669,
-        "last_chapter": 840,
-        "latest_chapter_date": "09/03/2026",
-        "source": "truyenqqto",
         "error": null
     },
     {
@@ -130,15 +211,6 @@
         "title": "Vương Triều Đen Tối: Joseon",
         "channel_id": 1409354040453763254,
         "last_chapter": 138,
-        "latest_chapter_date": "09/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 119,
         "latest_chapter_date": "09/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -261,15 +333,6 @@
         "error": null
     },
     {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 222,
-        "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thinh-thich-moi-som-mai-15842",
         "title": "Thình Thịch Mỗi Sớm Mai",
         "channel_id": 1393817771565125702,
@@ -337,15 +400,6 @@
         "title": "Futari Bus",
         "channel_id": 1459436843023208469,
         "last_chapter": 21,
-        "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 95,
         "latest_chapter_date": "08/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -463,15 +517,6 @@
         "title": "Chưởng Môn Khiêm Tốn Chút",
         "channel_id": 1358986879126736936,
         "last_chapter": 593,
-        "latest_chapter_date": "07/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 483,
         "latest_chapter_date": "07/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -666,24 +711,6 @@
         "error": null
     },
     {
-        "id": "ta-mo-phong-truong-sinh-lo-22428",
-        "title": "Ta Mô Phỏng Trường Sinh Lộ",
-        "channel_id": 1462122248625193066,
-        "last_chapter": 45,
-        "latest_chapter_date": "06/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 62,
-        "latest_chapter_date": "06/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
         "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
         "channel_id": 1380004618020454473,
@@ -855,15 +882,6 @@
         "error": null
     },
     {
-        "id": "vu-trang-sieu-nhien-11160",
-        "title": "Vũ Trang Siêu Nhiên",
-        "channel_id": 1397506843768782859,
-        "last_chapter": 227,
-        "latest_chapter_date": "04/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cau-be-cua-than-chet-9441",
         "title": "Cậu Bé Của Thần Chết",
         "channel_id": 1374611513423302717,
@@ -990,15 +1008,6 @@
         "error": null
     },
     {
-        "id": "quai-luc-loan-than-15528",
-        "title": "Quái Lực Loạn Thần",
-        "channel_id": 1375006332611985460,
-        "last_chapter": 108,
-        "latest_chapter_date": "03/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "quan-an-dinh-menh-18488",
         "title": "Quán Ăn Định Mệnh",
         "channel_id": 1465030733272977551,
@@ -1093,15 +1102,6 @@
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
         "last_chapter": 76,
-        "latest_chapter_date": "28/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
-        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
-        "channel_id": 1465030930325307512,
-        "last_chapter": 29,
         "latest_chapter_date": "28/02/2026",
         "source": "truyenqqto",
         "error": null
