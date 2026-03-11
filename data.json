@@ -1,5 +1,41 @@
 [
     {
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 97,
+        "latest_chapter_date": "11/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 159,
+        "latest_chapter_date": "11/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-chi-ton-11261",
+        "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
+        "last_chapter": 510,
+        "latest_chapter_date": "11/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoc-vien-toi-thuong-12539",
+        "title": "Học Viện Tối Thượng",
+        "channel_id": 1392441923872227491,
+        "last_chapter": 193,
+        "latest_chapter_date": "11/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
         "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
         "channel_id": 1404687720298709095,
@@ -39,7 +75,7 @@
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
-        "last_chapter": 439,
+        "last_chapter": 440,
         "latest_chapter_date": "10/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -247,15 +283,6 @@
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
         "last_chapter": 671,
-        "latest_chapter_date": "09/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoang-tu-ban-thuoc-15170",
-        "title": "Hoàng Tử Bán Thuốc",
-        "channel_id": 1393815363766063104,
-        "last_chapter": 96,
         "latest_chapter_date": "09/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -873,15 +900,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 158,
-        "latest_chapter_date": "04/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cau-be-cua-than-chet-9441",
         "title": "Cậu Bé Của Thần Chết",
         "channel_id": 1374611513423302717,
@@ -931,15 +949,6 @@
         "title": "Sư Tôn: Nghịch Đồ Này Mới Không Phải Là Thánh Tử",
         "channel_id": 1378409367283695626,
         "last_chapter": 173,
-        "latest_chapter_date": "04/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-chi-ton-11261",
-        "title": "Vạn Cổ Chí Tôn",
-        "channel_id": 1358993391534215350,
-        "last_chapter": 508,
         "latest_chapter_date": "04/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1202,15 +1211,6 @@
         "channel_id": 1412795644636172388,
         "last_chapter": 60,
         "latest_chapter_date": "24/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoc-vien-toi-thuong-12539",
-        "title": "Học Viện Tối Thượng",
-        "channel_id": 1392441923872227491,
-        "last_chapter": 192,
-        "latest_chapter_date": "23/02/2026",
         "source": "truyenqqto",
         "error": null
     },
