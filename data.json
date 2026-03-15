@@ -3,7 +3,7 @@
         "id": "thinh-thich-moi-som-mai-15842",
         "title": "Thình Thịch Mỗi Sớm Mai",
         "channel_id": 1393817771565125702,
-        "last_chapter": 39,
+        "last_chapter": 40,
         "latest_chapter_date": "15/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -94,6 +94,51 @@
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
         "last_chapter": 75,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 245,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tho-san-cap-sss-chuyen-sinh-thanh-thien-tai-nha-cong-tuoc-22199",
+        "title": "Thợ Săn Cấp Sss Chuyển Sinh Thành Thiên Tài Nhà Công Tước",
+        "channel_id": 1465030144543428780,
+        "last_chapter": 39,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ma-dao-chuyen-sinh-ky-13933",
+        "title": "Ma Đạo Chuyển Sinh Ký",
+        "channel_id": 1407385681696784595,
+        "last_chapter": 162,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
+        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
+        "channel_id": 1393818779523354705,
+        "last_chapter": 81,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "shark-ca-map-16179",
+        "title": "Shark - Cá Mập",
+        "channel_id": 1409353693547200682,
+        "last_chapter": 399,
         "latest_chapter_date": "15/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -891,15 +936,6 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 244,
-        "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "giao-su-gian-diep-12402",
         "title": "Giáo Sư Gián Điệp",
         "channel_id": 1380000949824655441,
@@ -909,28 +945,10 @@
         "error": null
     },
     {
-        "id": "tho-san-cap-sss-chuyen-sinh-thanh-thien-tai-nha-cong-tuoc-22199",
-        "title": "Thợ Săn Cấp Sss Chuyển Sinh Thành Thiên Tài Nhà Công Tước",
-        "channel_id": 1465030144543428780,
-        "last_chapter": 38,
-        "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tham-hoa-tu-linh-su-14421",
         "title": "Thảm Họa Tử Linh Sư",
         "channel_id": 1374602804752289823,
         "last_chapter": 257,
-        "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ma-dao-chuyen-sinh-ky-13933",
-        "title": "Ma Đạo Chuyển Sinh Ký",
-        "channel_id": 1407385681696784595,
-        "last_chapter": 161,
         "latest_chapter_date": "08/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1229,15 +1247,6 @@
         "channel_id": 1393808057645142086,
         "last_chapter": 76,
         "latest_chapter_date": "28/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
-        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
-        "channel_id": 1393818779523354705,
-        "last_chapter": 80,
-        "latest_chapter_date": "26/02/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1687,15 +1696,6 @@
         "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
         "channel_id": 1397504730300813363,
         "last_chapter": 47,
-        "latest_chapter_date": "10/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "shark-ca-map-16179",
-        "title": "Shark - Cá Mập",
-        "channel_id": 1409353693547200682,
-        "last_chapter": 391,
         "latest_chapter_date": "10/01/2026",
         "source": "truyenqqto",
         "error": null
