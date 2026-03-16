@@ -1,5 +1,23 @@
 [
     {
+        "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
+        "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
+        "channel_id": 1374621474949693460,
+        "last_chapter": 194,
+        "latest_chapter_date": "16/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
+        "title": "Người Chơi Trở Lại Sau 10000 Năm",
+        "channel_id": 1383789664300699740,
+        "last_chapter": 149,
+        "latest_chapter_date": "16/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thinh-thich-moi-som-mai-15842",
         "title": "Thình Thịch Mỗi Sớm Mai",
         "channel_id": 1393817771565125702,
@@ -144,10 +162,37 @@
         "error": null
     },
     {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 504,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "channel_id": 1374603769991401492,
+        "last_chapter": 885,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "la-healer-nhung-lai-co-mat-tren-chien-truong-7248",
+        "title": "Là Healer Nhưng Lại Có Mặt Trên Chiến Trường",
+        "channel_id": 1380006513787015240,
+        "last_chapter": 86,
+        "latest_chapter_date": "15/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tung-tien-huu-toa-linh-kiem-son-295",
         "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
         "channel_id": 1465031264447762669,
-        "last_chapter": 851,
+        "last_chapter": 852,
         "latest_chapter_date": "14/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -211,15 +256,6 @@
         "title": "Hiệp Sĩ Sống Vì Ngày Hôm Nay",
         "channel_id": 1430161761041911871,
         "last_chapter": 102,
-        "latest_chapter_date": "14/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 503,
         "latest_chapter_date": "14/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -337,15 +373,6 @@
         "title": "Ngược Dòng Về Mùa Xuân",
         "channel_id": 1459435713383895132,
         "last_chapter": 73,
-        "latest_chapter_date": "13/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
-        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-        "channel_id": 1374603769991401492,
-        "last_chapter": 884,
         "latest_chapter_date": "13/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -774,15 +801,6 @@
         "error": null
     },
     {
-        "id": "trong-sinh-thanh-than-y-thoi-tam-quoc-12202",
-        "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
-        "channel_id": 1374621474949693460,
-        "last_chapter": 193,
-        "latest_chapter_date": "10/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
         "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
         "channel_id": 1410470638644236348,
@@ -850,15 +868,6 @@
         "title": "Cảm Kiếm Tuyệt Đối",
         "channel_id": 1375005323495997450,
         "last_chapter": 174,
-        "latest_chapter_date": "09/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-choi-tro-lai-sau-10000-nam-12640",
-        "title": "Người Chơi Trở Lại Sau 10000 Năm",
-        "channel_id": 1383789664300699740,
-        "last_chapter": 148,
         "latest_chapter_date": "09/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1301,15 +1310,6 @@
         "channel_id": 1407386762984034446,
         "last_chapter": 192,
         "latest_chapter_date": "22/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "la-healer-nhung-lai-co-mat-tren-chien-truong-7248",
-        "title": "Là Healer Nhưng Lại Có Mặt Trên Chiến Trường",
-        "channel_id": 1380006513787015240,
-        "last_chapter": 85,
-        "latest_chapter_date": "20/02/2026",
         "source": "truyenqqto",
         "error": null
     },
