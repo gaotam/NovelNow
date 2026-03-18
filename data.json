@@ -1,5 +1,23 @@
 [
     {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 160,
+        "latest_chapter_date": "18/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nine-peaks-13570",
+        "title": "Nine Peaks",
+        "channel_id": 1387287980057694248,
+        "last_chapter": 175,
+        "latest_chapter_date": "18/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
         "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
         "channel_id": 1410470638644236348,
@@ -819,15 +837,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 159,
-        "latest_chapter_date": "11/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "van-co-chi-ton-11261",
         "title": "Vạn Cổ Chí Tôn",
         "channel_id": 1358993391534215350,
@@ -1184,15 +1193,6 @@
         "channel_id": 1387280464661840064,
         "last_chapter": 55,
         "latest_chapter_date": "05/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nine-peaks-13570",
-        "title": "Nine Peaks",
-        "channel_id": 1387287980057694248,
-        "last_chapter": 173,
-        "latest_chapter_date": "04/03/2026",
         "source": "truyenqqto",
         "error": null
     },
