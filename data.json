@@ -9,6 +9,33 @@
         "error": null
     },
     {
+        "id": "toi-la-nong-dan-trong-vong-linh-22552",
+        "title": "Tôi Là Nông Dân Trồng Vong Linh",
+        "channel_id": 1455008138725163102,
+        "last_chapter": 20,
+        "latest_chapter_date": "24/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 246,
+        "latest_chapter_date": "24/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cong-chuc-dac-di-15801",
+        "title": "Công Chức Đặc Dị",
+        "channel_id": 1416621833486073979,
+        "last_chapter": 63,
+        "latest_chapter_date": "24/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "cam-mieng-di-ac-long-ta-khong-muon-trong-tre-voi-nguoi-nua-16447",
         "title": "Câm Miệng Đi Ác Long, Ta Không Muốn Trông Trẻ Với Ngươi Nữa!",
         "channel_id": 1459432528019587135,
@@ -882,15 +909,6 @@
         "error": null
     },
     {
-        "id": "toi-la-nong-dan-trong-vong-linh-22552",
-        "title": "Tôi Là Nông Dân Trồng Vong Linh",
-        "channel_id": 1455008138725163102,
-        "last_chapter": 19,
-        "latest_chapter_date": "16/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-the-quan-lam-16245",
         "title": "Tuyệt Thế Quân Lâm",
         "channel_id": 1389226676344324146,
@@ -922,15 +940,6 @@
         "title": "Học Viện Tối Thượng",
         "channel_id": 1392441923872227491,
         "last_chapter": 195,
-        "latest_chapter_date": "15/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 245,
         "latest_chapter_date": "15/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1066,15 +1075,6 @@
         "title": "Tiêu Diệt Ác Nhân",
         "channel_id": 1416616686328741989,
         "last_chapter": 225,
-        "latest_chapter_date": "12/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cong-chuc-dac-di-15801",
-        "title": "Công Chức Đặc Dị",
-        "channel_id": 1416621833486073979,
-        "last_chapter": 62,
         "latest_chapter_date": "12/03/2026",
         "source": "truyenqqto",
         "error": null
