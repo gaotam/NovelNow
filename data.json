@@ -1,18 +1,207 @@
 [
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 124,
-        "latest_chapter_date": "25/03/2026",
+        "id": "thien-tai-ma-phap-su-vat-li-17338",
+        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
+        "channel_id": 1387280464661840064,
+        "last_chapter": 60,
+        "latest_chapter_date": "26/03/2026",
         "source": "truyenqqto",
         "error": null
     },
     {
-        "id": "thien-tai-ma-phap-su-vat-li-17338",
-        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
-        "channel_id": 1387280464661840064,
-        "last_chapter": 58,
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 100,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tung-tien-huu-toa-linh-kiem-son-295",
+        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
+        "channel_id": 1465031264447762669,
+        "last_chapter": 861,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 491,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 306,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gacha-vo-han-13496",
+        "title": "Gacha Vô Hạn",
+        "channel_id": 1359003439941554226,
+        "last_chapter": 194,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-vo-than-quyet-1893",
+        "title": "Tinh Võ Thần Quyết",
+        "channel_id": 1374609968417734666,
+        "last_chapter": 948,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
+        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
+        "channel_id": 1465029388713197679,
+        "last_chapter": 102,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mat-the-hau-can-16141",
+        "title": "Mạt Thế Hậu Cần",
+        "channel_id": 1393818394880507924,
+        "last_chapter": 84,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
+        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
+        "channel_id": 1416617325624295544,
+        "last_chapter": 282,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tu-than-phieu-nguyet-12561",
+        "title": "Tử Thần Phiêu Nguyệt",
+        "channel_id": 1410480358947946506,
+        "last_chapter": 132,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nga-lao-ma-than-10514",
+        "title": "Ngã Lão Ma Thần",
+        "channel_id": 1377467226185142293,
+        "last_chapter": 305,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "yeu-than-ky-746",
+        "title": "Yêu Thần Ký",
+        "channel_id": 1372025537446547577,
+        "last_chapter": 674,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 161,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 356,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 551,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
+        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
+        "channel_id": 1398707290856493083,
+        "last_chapter": 195,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hiep-si-song-vi-ngay-hom-nay-15728",
+        "title": "Hiệp Sĩ Sống Vì Ngày Hôm Nay",
+        "channel_id": 1430161761041911871,
+        "last_chapter": 103,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chainsawman-phan-2-12895",
+        "title": "Chainsawman Phần 2",
+        "channel_id": 1438368577194426368,
+        "last_chapter": 232,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "onepunch-man-244",
+        "title": "Onepunch Man",
+        "channel_id": 1438368221357932666,
+        "last_chapter": 299,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nhat-ki-doi-nghe-18091",
+        "title": "Nhật Kí Đổi Nghề",
+        "channel_id": 1416623182202273823,
+        "last_chapter": 54,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
+        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
+        "channel_id": 1374605940166365294,
+        "last_chapter": 280,
+        "latest_chapter_date": "26/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 124,
         "latest_chapter_date": "25/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -54,15 +243,6 @@
         "error": null
     },
     {
-        "id": "hoang-tu-ban-thuoc-15170",
-        "title": "Hoàng Tử Bán Thuốc",
-        "channel_id": 1393815363766063104,
-        "last_chapter": 99,
-        "latest_chapter_date": "25/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "quan-an-dinh-menh-18488",
         "title": "Quán Ăn Định Mệnh",
         "channel_id": 1465030733272977551,
@@ -76,15 +256,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 146,
-        "latest_chapter_date": "25/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tung-tien-huu-toa-linh-kiem-son-295",
-        "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
-        "channel_id": 1465031264447762669,
-        "last_chapter": 859,
         "latest_chapter_date": "25/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -139,6 +310,15 @@
         "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
         "channel_id": 1374613564291285063,
         "last_chapter": 139,
+        "latest_chapter_date": "25/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 159,
         "latest_chapter_date": "25/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -405,15 +585,6 @@
         "error": null
     },
     {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 490,
-        "latest_chapter_date": "23/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chung-cuc-dau-la-6700",
         "title": "Chung Cực Đấu La",
         "channel_id": 1392442245151719454,
@@ -513,15 +684,6 @@
         "error": null
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 305,
-        "latest_chapter_date": "22/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dao-quy-di-tien-16651",
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
@@ -544,15 +706,6 @@
         "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
         "channel_id": 1398722410018242690,
         "last_chapter": 86,
-        "latest_chapter_date": "22/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gacha-vo-han-13496",
-        "title": "Gacha Vô Hạn",
-        "channel_id": 1359003439941554226,
-        "last_chapter": 193,
         "latest_chapter_date": "22/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -648,24 +801,6 @@
         "error": null
     },
     {
-        "id": "tinh-vo-than-quyet-1893",
-        "title": "Tinh Võ Thần Quyết",
-        "channel_id": 1374609968417734666,
-        "last_chapter": 947,
-        "latest_chapter_date": "21/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
-        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
-        "channel_id": 1465029388713197679,
-        "last_chapter": 101,
-        "latest_chapter_date": "21/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thi-son-huyet-hai-20902",
         "title": "Thi Sơn Huyết Hải",
         "channel_id": 1410468927963926549,
@@ -684,15 +819,6 @@
         "error": null
     },
     {
-        "id": "mat-the-hau-can-16141",
-        "title": "Mạt Thế Hậu Cần",
-        "channel_id": 1393818394880507924,
-        "last_chapter": 83,
-        "latest_chapter_date": "21/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
         "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
         "channel_id": 1373491461865078924,
@@ -702,28 +828,10 @@
         "error": null
     },
     {
-        "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
-        "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
-        "channel_id": 1416617325624295544,
-        "last_chapter": 281,
-        "latest_chapter_date": "20/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "lua-dao-bang-giong-noi-lam-dao-lon-cuoc-song-cua-ban-16139",
         "title": "Lừa Đảo Bằng Giọng Nói Làm Đảo Lộn Cuộc Sống Của Bạn",
         "channel_id": 1393802419548327987,
         "last_chapter": 72,
-        "latest_chapter_date": "20/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 158,
         "latest_chapter_date": "20/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -769,15 +877,6 @@
         "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
         "channel_id": 1377466581030010922,
         "last_chapter": 145,
-        "latest_chapter_date": "20/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tu-than-phieu-nguyet-12561",
-        "title": "Tử Thần Phiêu Nguyệt",
-        "channel_id": 1410480358947946506,
-        "last_chapter": 131,
         "latest_chapter_date": "20/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -855,24 +954,6 @@
         "error": null
     },
     {
-        "id": "nga-lao-ma-than-10514",
-        "title": "Ngã Lão Ma Thần",
-        "channel_id": 1377467226185142293,
-        "last_chapter": 304,
-        "latest_chapter_date": "19/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "yeu-than-ky-746",
-        "title": "Yêu Thần Ký",
-        "channel_id": 1372025537446547577,
-        "last_chapter": 673,
-        "latest_chapter_date": "19/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hoa-than-thanh-meo",
         "title": "Hóa Thân Thành Mèo",
         "channel_id": 1364846977887768626,
@@ -882,28 +963,10 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 160,
-        "latest_chapter_date": "18/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
         "last_chapter": 662,
-        "latest_chapter_date": "18/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 352,
         "latest_chapter_date": "18/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -949,15 +1012,6 @@
         "title": "Vũ Trang Siêu Nhiên",
         "channel_id": 1397506843768782859,
         "last_chapter": 229,
-        "latest_chapter_date": "17/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 550,
         "latest_chapter_date": "17/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1062,24 +1116,6 @@
         "error": null
     },
     {
-        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
-        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
-        "channel_id": 1398707290856493083,
-        "last_chapter": 194,
-        "latest_chapter_date": "14/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hiep-si-song-vi-ngay-hom-nay-15728",
-        "title": "Hiệp Sĩ Sống Vì Ngày Hôm Nay",
-        "channel_id": 1430161761041911871,
-        "last_chapter": 102,
-        "latest_chapter_date": "14/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "sat-thu-peter-14786",
         "title": "Sát Thủ Peter",
         "channel_id": 1430164632299110431,
@@ -1170,15 +1206,6 @@
         "error": null
     },
     {
-        "id": "chainsawman-phan-2-12895",
-        "title": "Chainsawman Phần 2",
-        "channel_id": 1438368577194426368,
-        "last_chapter": 231,
-        "latest_chapter_date": "12/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nguoi-xau-11255",
         "title": "Người Xấu",
         "channel_id": 1387285583751024660,
@@ -1201,15 +1228,6 @@
         "title": "Mạo Hiểm Giả Cuối Cùng",
         "channel_id": 1430162910616752221,
         "last_chapter": 113,
-        "latest_chapter_date": "11/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "onepunch-man-244",
-        "title": "Onepunch Man",
-        "channel_id": 1438368221357932666,
-        "last_chapter": 298,
         "latest_chapter_date": "11/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1337,15 +1355,6 @@
         "channel_id": 1380009000988315701,
         "last_chapter": 190,
         "latest_chapter_date": "04/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhat-ki-doi-nghe-18091",
-        "title": "Nhật Kí Đổi Nghề",
-        "channel_id": 1416623182202273823,
-        "last_chapter": 52,
-        "latest_chapter_date": "03/03/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1562,15 +1571,6 @@
         "channel_id": 1374645255680294943,
         "last_chapter": 206,
         "latest_chapter_date": "29/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ban-hoc-cua-toi-la-linh-danh-thue-10495",
-        "title": "Bạn Học Của Tôi Là Lính Đánh Thuê",
-        "channel_id": 1374605940166365294,
-        "last_chapter": 272,
-        "latest_chapter_date": "28/01/2026",
         "source": "truyenqqto",
         "error": null
     },
