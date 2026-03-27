@@ -3,7 +3,7 @@
         "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
         "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
         "channel_id": 1398692580128067674,
-        "last_chapter": 68,
+        "last_chapter": 69,
         "latest_chapter_date": "27/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -18,19 +18,82 @@
         "error": null
     },
     {
-        "id": "thien-tai-ma-phap-su-vat-li-17338",
-        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
-        "channel_id": 1387280464661840064,
-        "last_chapter": 60,
-        "latest_chapter_date": "26/03/2026",
+        "id": "hoang-tu-ban-thuoc-15170",
+        "title": "Hoàng Tử Bán Thuốc",
+        "channel_id": 1393815363766063104,
+        "last_chapter": 102,
+        "latest_chapter_date": "27/03/2026",
         "source": "truyenqqto",
         "error": null
     },
     {
-        "id": "hoang-tu-ban-thuoc-15170",
-        "title": "Hoàng Tử Bán Thuốc",
-        "channel_id": 1393815363766063104,
-        "last_chapter": 100,
+        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
+        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
+        "channel_id": 1398721585082405006,
+        "last_chapter": 97,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quy-troll-manh-nhat-the-gioi-13187",
+        "title": "Quỷ Troll Mạnh Nhất Thế Giới",
+        "channel_id": 1398627807310909440,
+        "last_chapter": 173,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-goblin-16569",
+        "title": "Chuyển Sinh Thành Goblin",
+        "channel_id": 1377469416433778749,
+        "last_chapter": 103,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-quan-lam-16245",
+        "title": "Tuyệt Thế Quân Lâm",
+        "channel_id": 1389226676344324146,
+        "last_chapter": 83,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179",
+        "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
+        "channel_id": 1459432141824725042,
+        "last_chapter": 27,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "gay-go-cap-99-12236",
+        "title": "Gậy Gỗ Cấp 99+",
+        "channel_id": 1449786638929498314,
+        "last_chapter": 186,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ke-bat-binh-thuong-o-di-gioi-4564",
+        "title": "Kẻ Bất Bình Thường Ở Dị Giới",
+        "channel_id": 1380004856059662366,
+        "last_chapter": 77,
+        "latest_chapter_date": "27/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thien-tai-ma-phap-su-vat-li-17338",
+        "title": "Thiên Tài Ma Pháp Sư Vật Lí",
+        "channel_id": 1387280464661840064,
+        "last_chapter": 60,
         "latest_chapter_date": "26/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -261,15 +324,6 @@
         "error": null
     },
     {
-        "id": "chau-trai-thien-tai-cua-vua-cho-vay-nang-lai-16099",
-        "title": "Cháu Trai Thiên Tài Của Vua Cho Vay Nặng Lãi",
-        "channel_id": 1398721585082405006,
-        "last_chapter": 96,
-        "latest_chapter_date": "25/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-dua-dang-yeu-4183",
         "title": "Trò Đùa Đáng Yêu",
         "channel_id": 1374607260839448646,
@@ -357,6 +411,15 @@
         "last_chapter": 159,
         "latest_chapter_date": "25/03/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 394,
+        "latest_chapter_date": "25/03/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -819,15 +882,6 @@
         "error": null
     },
     {
-        "id": "quy-troll-manh-nhat-the-gioi-13187",
-        "title": "Quỷ Troll Mạnh Nhất Thế Giới",
-        "channel_id": 1398627807310909440,
-        "last_chapter": 172,
-        "latest_chapter_date": "21/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
         "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
         "channel_id": 1373491461865078924,
@@ -868,15 +922,6 @@
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 181,
-        "latest_chapter_date": "20/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-goblin-16569",
-        "title": "Chuyển Sinh Thành Goblin",
-        "channel_id": 1377469416433778749,
-        "last_chapter": 102,
         "latest_chapter_date": "20/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -951,15 +996,6 @@
         "last_chapter": 71,
         "latest_chapter_date": "19/03/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 393,
-        "latest_chapter_date": "19/03/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1062,15 +1098,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-quan-lam-16245",
-        "title": "Tuyệt Thế Quân Lâm",
-        "channel_id": 1389226676344324146,
-        "last_chapter": 82,
-        "latest_chapter_date": "16/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "he-thong-super-god-12010",
         "title": "Hệ Thống Super God",
         "channel_id": 1398701581439996016,
@@ -1138,15 +1165,6 @@
         "title": "Làm Nông Dân Trong Tòa Tháp Thử Thách",
         "channel_id": 1375008021687697409,
         "last_chapter": 117,
-        "latest_chapter_date": "13/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179",
-        "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
-        "channel_id": 1459432141824725042,
-        "last_chapter": 24,
         "latest_chapter_date": "13/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1458,15 +1476,6 @@
         "error": null
     },
     {
-        "id": "gay-go-cap-99-12236",
-        "title": "Gậy Gỗ Cấp 99+",
-        "channel_id": 1449786638929498314,
-        "last_chapter": 181,
-        "latest_chapter_date": "10/02/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "123707",
         "title": "Đại Tần: Từ Chiến Trường Nhặt Thuộc Tính Bắt Đầu Mạnh Lên Trường Sinh",
         "channel_id": 1359796416645566585,
@@ -1606,15 +1615,6 @@
         "title": "Gachi Akuta",
         "channel_id": 1438367846865436773,
         "last_chapter": 162,
-        "latest_chapter_date": "23/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ke-bat-binh-thuong-o-di-gioi-4564",
-        "title": "Kẻ Bất Bình Thường Ở Dị Giới",
-        "channel_id": 1380004856059662366,
-        "last_chapter": 76,
         "latest_chapter_date": "23/01/2026",
         "source": "truyenqqto",
         "error": null
