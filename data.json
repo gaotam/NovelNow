@@ -1,5 +1,50 @@
 [
     {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 508,
+        "latest_chapter_date": "30/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tuyet-the-quan-lam-16245",
+        "title": "Tuyệt Thế Quân Lâm",
+        "channel_id": 1389226676344324146,
+        "last_chapter": 86,
+        "latest_chapter_date": "30/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoi-uc-cua-chien-than-11337",
+        "title": "Hồi Ức Của Chiến Thần",
+        "channel_id": 1380002190277480579,
+        "last_chapter": 247,
+        "latest_chapter_date": "30/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
+        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
+        "channel_id": 1375005735879966872,
+        "last_chapter": 100,
+        "latest_chapter_date": "30/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 79,
+        "latest_chapter_date": "30/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -171,6 +216,15 @@
         "error": null
     },
     {
+        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "channel_id": 1374603769991401492,
+        "last_chapter": 889,
+        "latest_chapter_date": "29/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "thien-tai-ma-phap-su-vat-li-17338",
         "title": "Thiên Tài Ma Pháp Sư Vật Lí",
         "channel_id": 1387280464661840064,
@@ -238,15 +292,6 @@
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
         "last_chapter": 77,
-        "latest_chapter_date": "28/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 507,
         "latest_chapter_date": "28/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -360,15 +405,6 @@
         "error": null
     },
     {
-        "id": "tuyet-the-quan-lam-16245",
-        "title": "Tuyệt Thế Quân Lâm",
-        "channel_id": 1389226676344324146,
-        "last_chapter": 85,
-        "latest_chapter_date": "27/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "gay-go-cap-99-12236",
         "title": "Gậy Gỗ Cấp 99+",
         "channel_id": 1449786638929498314,
@@ -400,15 +436,6 @@
         "title": "Tensei Shita Saikyo No Monsuta Kusha: Bokun Ryu E No Fukushu",
         "channel_id": 1465029655449829469,
         "last_chapter": 36,
-        "latest_chapter_date": "27/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
-        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-        "channel_id": 1374603769991401492,
-        "last_chapter": 888,
         "latest_chapter_date": "27/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -702,15 +729,6 @@
         "error": null
     },
     {
-        "id": "hoi-uc-cua-chien-than-11337",
-        "title": "Hồi Ức Của Chiến Thần",
-        "channel_id": 1380002190277480579,
-        "last_chapter": 246,
-        "latest_chapter_date": "24/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dinh-menh-doi-ta-giao-thoa-noi-ben-tau-18399",
         "title": "Định Mệnh Đôi Ta Giao Thoa Nơi Bến Tàu",
         "channel_id": 1430160673723383818,
@@ -810,28 +828,10 @@
         "error": null
     },
     {
-        "id": "thanh-mai-truc-ma-cua-de-nhat-thien-ha-16090",
-        "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
-        "channel_id": 1375005735879966872,
-        "last_chapter": 99,
-        "latest_chapter_date": "23/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
         "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
         "channel_id": 1380005184993886318,
         "last_chapter": 290,
-        "latest_chapter_date": "23/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
-        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
-        "channel_id": 1393812543281037422,
-        "last_chapter": 78,
         "latest_chapter_date": "23/03/2026",
         "source": "truyenqqto",
         "error": null
