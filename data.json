@@ -1,5 +1,23 @@
 [
     {
+        "id": "song-sot-qua-ngay-tan-the-15787",
+        "title": "Sống Sót Qua Ngày Tận Thế",
+        "channel_id": 1430159066499645521,
+        "last_chapter": 69,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 389,
+        "latest_chapter_date": "31/03/2026",
+        "source": "nettruyen",
+        "error": null
+    },
+    {
         "id": "van-co-toi-cuong-tong-11262",
         "title": "Vạn Cổ Tối Cường Tông",
         "channel_id": 1358989381020684438,
@@ -472,15 +490,6 @@
         "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
         "channel_id": 1398692580128067674,
         "last_chapter": 69,
-        "latest_chapter_date": "27/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "song-sot-qua-ngay-tan-the-15787",
-        "title": "Sống Sót Qua Ngày Tận Thế",
-        "channel_id": 1430159066499645521,
-        "last_chapter": 68,
         "latest_chapter_date": "27/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -996,15 +1005,6 @@
         "last_chapter": 40,
         "latest_chapter_date": "22/03/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 387,
-        "latest_chapter_date": "22/03/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
