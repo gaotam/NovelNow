@@ -1,5 +1,23 @@
 [
     {
+        "id": "vuong-trieu-den-toi-joseon-15335",
+        "title": "Vương Triều Đen Tối: Joseon",
+        "channel_id": 1409354040453763254,
+        "last_chapter": 141,
+        "latest_chapter_date": "01/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "blue-lock-7120",
+        "title": "Blue Lock",
+        "channel_id": 1374610990355972197,
+        "last_chapter": 341,
+        "latest_chapter_date": "01/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "song-sot-qua-ngay-tan-the-15787",
         "title": "Sống Sót Qua Ngày Tận Thế",
         "channel_id": 1430159066499645521,
@@ -58,6 +76,51 @@
         "title": "Mạt Thế Nắng Nóng: Ta Dựa Vào Nhà An Toàn Trở Thành Thần Minh",
         "channel_id": 1465029877471121523,
         "last_chapter": 31,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ma-dao-chuyen-sinh-ky-13933",
+        "title": "Ma Đạo Chuyển Sinh Ký",
+        "channel_id": 1407385681696784595,
+        "last_chapter": 164,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
+        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
+        "channel_id": 1465030930325307512,
+        "last_chapter": 33,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nha-dau-tu-nhin-thay-tuong-lai-16318",
+        "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
+        "channel_id": 1398722410018242690,
+        "last_chapter": 87,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tho-san-cap-sss-chuyen-sinh-thanh-thien-tai-nha-cong-tuoc-22199",
+        "title": "Thợ Săn Cấp Sss Chuyển Sinh Thành Thiên Tài Nhà Công Tước",
+        "channel_id": 1465030144543428780,
+        "last_chapter": 41,
+        "latest_chapter_date": "31/03/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
+        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
+        "channel_id": 1380005456755425300,
+        "last_chapter": 387,
         "latest_chapter_date": "31/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -220,15 +283,6 @@
         "title": "Người Chơi Trở Lại Sau 10000 Năm",
         "channel_id": 1383789664300699740,
         "last_chapter": 150,
-        "latest_chapter_date": "30/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ma-dao-chuyen-sinh-ky-13933",
-        "title": "Ma Đạo Chuyển Sinh Ký",
-        "channel_id": 1407385681696784595,
-        "last_chapter": 163,
         "latest_chapter_date": "30/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -873,15 +927,6 @@
         "error": null
     },
     {
-        "id": "vuong-trieu-den-toi-joseon-15335",
-        "title": "Vương Triều Đen Tối: Joseon",
-        "channel_id": 1409354040453763254,
-        "last_chapter": 140,
-        "latest_chapter_date": "24/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tho-ren-huyen-thoai-9311",
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
@@ -913,15 +958,6 @@
         "title": "Câm Miệng Đi Ác Long, Ta Không Muốn Trông Trẻ Với Ngươi Nữa!",
         "channel_id": 1459432528019587135,
         "last_chapter": 85,
-        "latest_chapter_date": "23/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
-        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
-        "channel_id": 1465030930325307512,
-        "last_chapter": 32,
         "latest_chapter_date": "23/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -981,28 +1017,10 @@
         "error": null
     },
     {
-        "id": "nha-dau-tu-nhin-thay-tuong-lai-16318",
-        "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
-        "channel_id": 1398722410018242690,
-        "last_chapter": 86,
-        "latest_chapter_date": "22/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-doi-dan-cu-16743",
         "title": "Tuyệt Đối Dân Cư",
         "channel_id": 1393817115559202907,
         "last_chapter": 72,
-        "latest_chapter_date": "22/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tho-san-cap-sss-chuyen-sinh-thanh-thien-tai-nha-cong-tuoc-22199",
-        "title": "Thợ Săn Cấp Sss Chuyển Sinh Thành Thiên Tài Nhà Công Tước",
-        "channel_id": 1465030144543428780,
-        "last_chapter": 40,
         "latest_chapter_date": "22/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1161,15 +1179,6 @@
         "error": null
     },
     {
-        "id": "blue-lock-7120",
-        "title": "Blue Lock",
-        "channel_id": 1374610990355972197,
-        "last_chapter": 340,
-        "latest_chapter_date": "17/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -1319,15 +1328,6 @@
         "channel_id": 1393810304240193616,
         "last_chapter": 61,
         "latest_chapter_date": "08/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
-        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
-        "channel_id": 1380005456755425300,
-        "last_chapter": 386,
-        "latest_chapter_date": "07/03/2026",
         "source": "truyenqqto",
         "error": null
     },
