@@ -1,5 +1,23 @@
 [
     {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 163,
+        "latest_chapter_date": "07/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "be-blues-ao-ni-nare-10434",
+        "title": "Be Blues! - Ao Ni Nare",
+        "channel_id": 1398724727077470238,
+        "last_chapter": 247,
+        "latest_chapter_date": "07/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tham-hoa-tu-linh-su-14421",
         "title": "Thảm Họa Tử Linh Sư",
         "channel_id": 1374602804752289823,
@@ -121,15 +139,6 @@
         "title": "Đội Trưởng Lính Đánh Thuê",
         "channel_id": 1387285926774050909,
         "last_chapter": 310,
-        "latest_chapter_date": "06/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 162,
         "latest_chapter_date": "06/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -267,6 +276,15 @@
         "last_chapter": 309,
         "latest_chapter_date": "05/04/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chang-re-manh-nhat-lich-su",
+        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
+        "channel_id": 1374647250117988423,
+        "last_chapter": 391,
+        "latest_chapter_date": "05/04/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -645,15 +663,6 @@
         "last_chapter": 69,
         "latest_chapter_date": "31/03/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chang-re-manh-nhat-lich-su",
-        "title": "Chàng Rể Mạnh Nhất Lịch Sử",
-        "channel_id": 1374647250117988423,
-        "last_chapter": 389,
-        "latest_chapter_date": "31/03/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1625,15 +1634,6 @@
         "channel_id": 1380004424629620826,
         "last_chapter": 253,
         "latest_chapter_date": "27/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "be-blues-ao-ni-nare-10434",
-        "title": "Be Blues! - Ao Ni Nare",
-        "channel_id": 1398724727077470238,
-        "last_chapter": 237,
-        "latest_chapter_date": "24/01/2026",
         "source": "truyenqqto",
         "error": null
     },
