@@ -75,7 +75,7 @@
         "id": "tap-huyet-16816",
         "title": "Tạp Huyết",
         "channel_id": 1393808057645142086,
-        "last_chapter": 80,
+        "last_chapter": 81,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -85,6 +85,69 @@
         "title": "Bias Của Tôi Trên Chuyến Tàu Cuối Cùng",
         "channel_id": 1416622706056630282,
         "last_chapter": 73,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 311,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-ve-ben-chanbi-18742",
+        "title": "Trở Về Bên Chanbi",
+        "channel_id": 1416623993208700999,
+        "last_chapter": 96,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 267,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 126,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-cau-cao-vo-9579",
+        "title": "Toàn Cầu Cao Võ",
+        "channel_id": 1374608088694390814,
+        "last_chapter": 358,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 226,
+        "latest_chapter_date": "12/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "co-ban-gai-hai-mat-18159",
+        "title": "Cô Bạn Gái Hai Mặt",
+        "channel_id": 1397501632647790592,
+        "last_chapter": 136,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -351,15 +414,6 @@
         "error": null
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 310,
-        "latest_chapter_date": "09/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
         "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
         "channel_id": 1398690848031637584,
@@ -436,15 +490,6 @@
         "title": "Blue Lock",
         "channel_id": 1374610990355972197,
         "last_chapter": 342,
-        "latest_chapter_date": "08/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-ve-ben-chanbi-18742",
-        "title": "Trở Về Bên Chanbi",
-        "channel_id": 1416623993208700999,
-        "last_chapter": 95,
         "latest_chapter_date": "08/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -679,15 +724,6 @@
         "title": "Thần Chết Part-Time",
         "channel_id": 1399564591100334200,
         "last_chapter": 44,
-        "latest_chapter_date": "07/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 265,
         "latest_chapter_date": "07/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -972,15 +1008,6 @@
         "error": null
     },
     {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 125,
-        "latest_chapter_date": "31/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
         "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
         "channel_id": 1465030930325307512,
@@ -1120,15 +1147,6 @@
         "title": "Ta Mô Phỏng Trường Sinh Lộ",
         "channel_id": 1462122248625193066,
         "last_chapter": 51,
-        "latest_chapter_date": "28/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-cau-cao-vo-9579",
-        "title": "Toàn Cầu Cao Võ",
-        "channel_id": 1374608088694390814,
-        "last_chapter": 357,
         "latest_chapter_date": "28/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1390,15 +1408,6 @@
         "title": "Thế Giới Sau Tận Thế",
         "channel_id": 1374624700613005372,
         "last_chapter": 223,
-        "latest_chapter_date": "12/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 225,
         "latest_chapter_date": "12/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -2210,15 +2219,6 @@
         "channel_id": 1374618463531827271,
         "last_chapter": 105,
         "latest_chapter_date": "13/08/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "co-ban-gai-hai-mat-18159",
-        "title": "Cô Bạn Gái Hai Mặt",
-        "channel_id": 1397501632647790592,
-        "last_chapter": 133,
-        "latest_chapter_date": "12/08/2025",
         "source": "truyenqqto",
         "error": null
     },
