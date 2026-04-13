@@ -1,5 +1,41 @@
 [
     {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 228,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 498,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "be-blues-ao-ni-nare-10434",
+        "title": "Be Blues! - Ao Ni Nare",
+        "channel_id": 1398724727077470238,
+        "last_chapter": 257,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "please-go-home-akutsu-san-9413",
+        "title": "Please Go Home, Akutsu-San!",
+        "channel_id": 1398723676949712906,
+        "last_chapter": 204,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -135,19 +171,19 @@
         "error": null
     },
     {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 226,
+        "id": "co-ban-gai-hai-mat-18159",
+        "title": "Cô Bạn Gái Hai Mặt",
+        "channel_id": 1397501632647790592,
+        "last_chapter": 136,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
     },
     {
-        "id": "co-ban-gai-hai-mat-18159",
-        "title": "Cô Bạn Gái Hai Mặt",
-        "channel_id": 1397501632647790592,
-        "last_chapter": 136,
+        "id": "gachi-akuta-12936",
+        "title": "Gachi Akuta",
+        "channel_id": 1438367846865436773,
+        "last_chapter": 164,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -279,15 +315,6 @@
         "error": null
     },
     {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 497,
-        "latest_chapter_date": "10/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ma-dao-chuyen-sinh-ky-13933",
         "title": "Ma Đạo Chuyển Sinh Ký",
         "channel_id": 1407385681696784595,
@@ -402,6 +429,15 @@
         "last_chapter": 85,
         "latest_chapter_date": "10/04/2026",
         "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-than-thanh-meo",
+        "title": "Hóa Thân Thành Mèo",
+        "channel_id": 1364846977887768626,
+        "last_chapter": 396,
+        "latest_chapter_date": "10/04/2026",
+        "source": "nettruyen",
         "error": null
     },
     {
@@ -621,15 +657,6 @@
         "error": null
     },
     {
-        "id": "be-blues-ao-ni-nare-10434",
-        "title": "Be Blues! - Ao Ni Nare",
-        "channel_id": 1398724727077470238,
-        "last_chapter": 247,
-        "latest_chapter_date": "07/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
         "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
         "channel_id": 1358987742679273674,
@@ -816,15 +843,6 @@
         "last_chapter": 252,
         "latest_chapter_date": "06/04/2026",
         "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoa-than-thanh-meo",
-        "title": "Hóa Thân Thành Mèo",
-        "channel_id": 1364846977887768626,
-        "last_chapter": 395,
-        "latest_chapter_date": "06/04/2026",
-        "source": "nettruyen",
         "error": null
     },
     {
@@ -1350,15 +1368,6 @@
         "error": null
     },
     {
-        "id": "please-go-home-akutsu-san-9413",
-        "title": "Please Go Home, Akutsu-San!",
-        "channel_id": 1398723676949712906,
-        "last_chapter": 202,
-        "latest_chapter_date": "17/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tuyet-the-vo-than-2664",
         "title": "Tuyệt Thế Võ Thần",
         "channel_id": 1358999157544845486,
@@ -1669,15 +1678,6 @@
         "title": "Làm Sao Để Chạy Trốn Dàn Hậu Cung",
         "channel_id": 1380002483530764298,
         "last_chapter": 201,
-        "latest_chapter_date": "23/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "gachi-akuta-12936",
-        "title": "Gachi Akuta",
-        "channel_id": 1438367846865436773,
-        "last_chapter": 162,
         "latest_chapter_date": "23/01/2026",
         "source": "truyenqqto",
         "error": null
