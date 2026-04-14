@@ -1,5 +1,14 @@
 [
     {
+        "id": "song-sot-qua-ngay-tan-the-15787",
+        "title": "Sống Sót Qua Ngày Tận Thế",
+        "channel_id": 1430159066499645521,
+        "last_chapter": 72,
+        "latest_chapter_date": "14/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "tieu-diet-ac-nhan-10916",
         "title": "Tiêu Diệt Ác Nhân",
         "channel_id": 1416616686328741989,
@@ -99,15 +108,6 @@
         "error": null
     },
     {
-        "id": "song-sot-qua-ngay-tan-the-15787",
-        "title": "Sống Sót Qua Ngày Tận Thế",
-        "channel_id": 1430159066499645521,
-        "last_chapter": 70,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
         "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
         "channel_id": 1465030930325307512,
@@ -121,6 +121,24 @@
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
         "last_chapter": 79,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
+        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
+        "channel_id": 1398690848031637584,
+        "last_chapter": 78,
+        "latest_chapter_date": "13/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 81,
         "latest_chapter_date": "13/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -522,15 +540,6 @@
         "error": null
     },
     {
-        "id": "sau-khi-chia-tay-hoa-khoi-vo-dao-cua-ta-thang-toi-cap-than-18709",
-        "title": "Sau Khi Chia Tay Hoa Khôi, Võ Đạo Của Ta Thẳng Tới Cấp Thần",
-        "channel_id": 1398690848031637584,
-        "last_chapter": 77,
-        "latest_chapter_date": "09/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170",
         "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
         "channel_id": 1403375489451823227,
@@ -850,15 +859,6 @@
         "title": "Mạt Thế Nắng Nóng: Ta Dựa Vào Nhà An Toàn Trở Thành Thần Minh",
         "channel_id": 1465029877471121523,
         "last_chapter": 34,
-        "latest_chapter_date": "06/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
-        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
-        "channel_id": 1393812543281037422,
-        "last_chapter": 80,
         "latest_chapter_date": "06/04/2026",
         "source": "truyenqqto",
         "error": null
