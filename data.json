@@ -36,6 +36,69 @@
         "error": null
     },
     {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 163,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
+        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
+        "channel_id": 1465029388713197679,
+        "last_chapter": 108,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-vo-than-quyet-1893",
+        "title": "Tinh Võ Thần Quyết",
+        "channel_id": 1374609968417734666,
+        "last_chapter": 954,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 73,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "yeu-than-ky-746",
+        "title": "Yêu Thần Ký",
+        "channel_id": 1372025537446547577,
+        "last_chapter": 677,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chien-doi-dai-that-cach-10941",
+        "title": "Chiến Đội Đại Thất Cách",
+        "channel_id": 1398701143185559623,
+        "last_chapter": 213,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 85,
+        "latest_chapter_date": "16/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "chuyen-sinh-vao-the-gioi-vo-lam-13379",
         "title": "Chuyển Sinh Vào Thế Giới Võ Lâm",
         "channel_id": 1377470069545635900,
@@ -193,15 +256,6 @@
         "title": "Thanh Mai Trúc Mã Của Đệ Nhất Thiên Hạ",
         "channel_id": 1375005735879966872,
         "last_chapter": 102,
-        "latest_chapter_date": "14/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 162,
         "latest_chapter_date": "14/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -486,24 +540,6 @@
         "error": null
     },
     {
-        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
-        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
-        "channel_id": 1465029388713197679,
-        "last_chapter": 107,
-        "latest_chapter_date": "11/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tinh-vo-than-quyet-1893",
-        "title": "Tinh Võ Thần Quyết",
-        "channel_id": 1374609968417734666,
-        "last_chapter": 953,
-        "latest_chapter_date": "11/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
@@ -621,24 +657,6 @@
         "error": null
     },
     {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 72,
-        "latest_chapter_date": "10/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "yeu-than-ky-746",
-        "title": "Yêu Thần Ký",
-        "channel_id": 1372025537446547577,
-        "last_chapter": 676,
-        "latest_chapter_date": "10/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
         "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
         "channel_id": 1380005184993886318,
@@ -702,15 +720,6 @@
         "error": null
     },
     {
-        "id": "chien-doi-dai-that-cach-10941",
-        "title": "Chiến Đội Đại Thất Cách",
-        "channel_id": 1398701143185559623,
-        "last_chapter": 212,
-        "latest_chapter_date": "09/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "nga-lao-ma-than-10514",
         "title": "Ngã Lão Ma Thần",
         "channel_id": 1377467226185142293,
@@ -769,15 +778,6 @@
         "title": "Điệp Viên Ma Giáo",
         "channel_id": 1393810304240193616,
         "last_chapter": 63,
-        "latest_chapter_date": "08/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 84,
         "latest_chapter_date": "08/04/2026",
         "source": "truyenqqto",
         "error": null
