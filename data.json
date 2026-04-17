@@ -93,7 +93,7 @@
         "id": "thang-cap-vo-han-trong-murim-11005",
         "title": "Thăng Cấp Vô Hạn Trong Murim",
         "channel_id": 1407382643460411423,
-        "last_chapter": 254,
+        "last_chapter": 255,
         "latest_chapter_date": "17/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -243,6 +243,78 @@
         "error": null
     },
     {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 74,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179",
+        "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
+        "channel_id": 1459432141824725042,
+        "last_chapter": 31,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "channel_id": 1374603769991401492,
+        "last_chapter": 894,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170",
+        "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
+        "channel_id": 1403375489451823227,
+        "last_chapter": 75,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "diep-vien-ma-giao-17196",
+        "title": "Điệp Viên Ma Giáo",
+        "channel_id": 1393810304240193616,
+        "last_chapter": 64,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mat-the-nang-nong-ta-dua-vao-nha-an-toan-tro-thanh-than-minh-22577",
+        "title": "Mạt Thế Nắng Nóng: Ta Dựa Vào Nhà An Toàn Trở Thành Thần Minh",
+        "channel_id": 1465029877471121523,
+        "last_chapter": 36,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
+        "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
+        "channel_id": 1430163228775682099,
+        "last_chapter": 82,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "remonster-1132",
+        "title": "Re:Monster",
+        "channel_id": 1373490392229740685,
+        "last_chapter": 117,
+        "latest_chapter_date": "17/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
@@ -297,15 +369,6 @@
         "error": null
     },
     {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 73,
-        "latest_chapter_date": "16/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "yeu-than-ky-746",
         "title": "Yêu Thần Ký",
         "channel_id": 1372025537446547577,
@@ -346,15 +409,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 152,
-        "latest_chapter_date": "15/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179",
-        "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
-        "channel_id": 1459432141824725042,
-        "last_chapter": 30,
         "latest_chapter_date": "15/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -535,15 +589,6 @@
         "title": "Please Go Home, Akutsu-San!",
         "channel_id": 1398723676949712906,
         "last_chapter": 204,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836",
-        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-        "channel_id": 1374603769991401492,
-        "last_chapter": 893,
         "latest_chapter_date": "13/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -846,15 +891,6 @@
         "error": null
     },
     {
-        "id": "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170",
-        "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
-        "channel_id": 1403375489451823227,
-        "last_chapter": 74,
-        "latest_chapter_date": "09/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "garbage-time-18604",
         "title": "Garbage Time",
         "channel_id": 1397503997992239124,
@@ -886,15 +922,6 @@
         "title": "Tung Tiền Hữu Tọa Linh Kiếm Sơn",
         "channel_id": 1465031264447762669,
         "last_chapter": 866,
-        "latest_chapter_date": "08/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "diep-vien-ma-giao-17196",
-        "title": "Điệp Viên Ma Giáo",
-        "channel_id": 1393810304240193616,
-        "last_chapter": 63,
         "latest_chapter_date": "08/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1012,15 +1039,6 @@
         "title": "Mạo Hiểm Giả Cuối Cùng",
         "channel_id": 1430162910616752221,
         "last_chapter": 116,
-        "latest_chapter_date": "06/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "mat-the-nang-nong-ta-dua-vao-nha-an-toan-tro-thanh-than-minh-22577",
-        "title": "Mạt Thế Nắng Nóng: Ta Dựa Vào Nhà An Toàn Trở Thành Thần Minh",
-        "channel_id": 1465029877471121523,
-        "last_chapter": 34,
         "latest_chapter_date": "06/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1337,15 +1355,6 @@
         "channel_id": 1428034477204050072,
         "last_chapter": 504,
         "latest_chapter_date": "24/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ma-phap-su-hac-am-tro-ve-de-nhap-ngu-13899",
-        "title": "Ma Pháp Sư Hắc Ám Trở Về Để Nhập Ngũ",
-        "channel_id": 1430163228775682099,
-        "last_chapter": 79,
-        "latest_chapter_date": "22/03/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -1688,15 +1697,6 @@
         "channel_id": 1416620333867471009,
         "last_chapter": 136,
         "latest_chapter_date": "22/01/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "remonster-1132",
-        "title": "Re:Monster",
-        "channel_id": 1373490392229740685,
-        "last_chapter": 114,
-        "latest_chapter_date": "19/01/2026",
         "source": "truyenqqto",
         "error": null
     },
