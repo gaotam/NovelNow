@@ -57,8 +57,8 @@
         "id": "nhat-nhan-chi-ha-1943",
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
-        "last_chapter": 672,
-        "latest_chapter_date": "18/04/2026",
+        "last_chapter": 673,
+        "latest_chapter_date": "19/04/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -66,8 +66,35 @@
         "id": "mat-the-nang-nong-ta-dua-vao-nha-an-toan-tro-thanh-than-minh-22577",
         "title": "Mạt Thế Nắng Nóng: Ta Dựa Vào Nhà An Toàn Trở Thành Thần Minh",
         "channel_id": 1465029877471121523,
-        "last_chapter": 37,
-        "latest_chapter_date": "18/04/2026",
+        "last_chapter": 38,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-choi-moi-cap-toi-da-11540",
+        "title": "Người Chơi Mới Cấp Tối Đa",
+        "channel_id": 1359001165697781760,
+        "last_chapter": 254,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 514,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "garbage-time-18604",
+        "title": "Garbage Time",
+        "channel_id": 1397503997992239124,
+        "last_chapter": 188,
+        "latest_chapter_date": "19/04/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -630,15 +657,6 @@
         "error": null
     },
     {
-        "id": "nguoi-choi-moi-cap-toi-da-11540",
-        "title": "Người Chơi Mới Cấp Tối Đa",
-        "channel_id": 1359001165697781760,
-        "last_chapter": 253,
-        "latest_chapter_date": "15/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "hand-jumper-16649",
         "title": "Hand Jumper",
         "channel_id": 1393820926017146890,
@@ -837,15 +855,6 @@
         "error": null
     },
     {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 512,
-        "latest_chapter_date": "12/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
         "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
         "channel_id": 1380004618020454473,
@@ -951,15 +960,6 @@
         "last_chapter": 396,
         "latest_chapter_date": "10/04/2026",
         "source": "nettruyen",
-        "error": null
-    },
-    {
-        "id": "garbage-time-18604",
-        "title": "Garbage Time",
-        "channel_id": 1397503997992239124,
-        "last_chapter": 187,
-        "latest_chapter_date": "09/04/2026",
-        "source": "truyenqqto",
         "error": null
     },
     {
