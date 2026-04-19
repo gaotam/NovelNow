@@ -1,19 +1,10 @@
 [
     {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 672,
-        "latest_chapter_date": "18/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
-        "last_chapter": 845,
-        "latest_chapter_date": "18/04/2026",
+        "last_chapter": 846,
+        "latest_chapter_date": "19/04/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -21,7 +12,52 @@
         "id": "trieu-hoi-su-cuoi-cung-9182",
         "title": "Triệu Hồi Sư Cuối Cùng",
         "channel_id": 1465028850449907812,
-        "last_chapter": 266,
+        "last_chapter": 267,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
+        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
+        "channel_id": 1374605650449137684,
+        "last_chapter": 313,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
+        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
+        "channel_id": 1465029388713197679,
+        "last_chapter": 109,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
+        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
+        "channel_id": 1380005456755425300,
+        "last_chapter": 391,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "thi-son-huyet-hai-20902",
+        "title": "Thi Sơn Huyết Hải",
+        "channel_id": 1410468927963926549,
+        "last_chapter": 31,
+        "latest_chapter_date": "19/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 672,
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -202,6 +238,24 @@
         "title": "Thiên Tài Phép Thuật Nắm Giữ Khái Niệm",
         "channel_id": 1397504730300813363,
         "last_chapter": 48,
+        "latest_chapter_date": "18/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
+        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
+        "channel_id": 1373491461865078924,
+        "last_chapter": 185,
+        "latest_chapter_date": "18/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
+        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
+        "channel_id": 1393818779523354705,
+        "last_chapter": 86,
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -477,15 +531,6 @@
         "error": null
     },
     {
-        "id": "cao-vo-ha-canh-den-mot-van-nam-sau-16624",
-        "title": "Cao Võ: Hạ Cánh Đến Một Vạn Năm Sau",
-        "channel_id": 1374605650449137684,
-        "last_chapter": 312,
-        "latest_chapter_date": "16/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "the-gioi-sau-tan-the-12154",
         "title": "Thế Giới Sau Tận Thế",
         "channel_id": 1374624700613005372,
@@ -499,15 +544,6 @@
         "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
         "channel_id": 1404687720298709095,
         "last_chapter": 163,
-        "latest_chapter_date": "16/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
-        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
-        "channel_id": 1465029388713197679,
-        "last_chapter": 108,
         "latest_chapter_date": "16/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -864,15 +900,6 @@
         "error": null
     },
     {
-        "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-12327",
-        "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
-        "channel_id": 1373491461865078924,
-        "last_chapter": 184,
-        "latest_chapter_date": "11/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "anh-hung-manh-nhat-ta-khong-lam-lau-roi-8781",
         "title": "Anh Hùng Mạnh Nhất? Ta Không Làm Lâu Rồi!",
         "channel_id": 1416617325624295544,
@@ -913,24 +940,6 @@
         "title": "Chào Mừng Cậu Đến Trường Iruma-Kun",
         "channel_id": 1380000751601979433,
         "last_chapter": 439,
-        "latest_chapter_date": "10/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "cac-nu-do-de-cua-ta-deu-la-chu-thien-dai-lao-tuong-lai-11655",
-        "title": "Các Nữ Đồ Đệ Của Ta Đều Là Chư Thiên Đại Lão Tương Lai",
-        "channel_id": 1380005456755425300,
-        "last_chapter": 389,
-        "latest_chapter_date": "10/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "kim-chien-si-hanh-trinh-xay-dung-dac-tinh-16546",
-        "title": "Kim Chiến Sĩ: Hành Trình Xây Dựng Đặc Tính",
-        "channel_id": 1393818779523354705,
-        "last_chapter": 85,
         "latest_chapter_date": "10/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1112,15 +1121,6 @@
         "channel_id": 1387285926774050909,
         "last_chapter": 310,
         "latest_chapter_date": "06/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "thi-son-huyet-hai-20902",
-        "title": "Thi Sơn Huyết Hải",
-        "channel_id": 1410468927963926549,
-        "last_chapter": 30,
-        "latest_chapter_date": "05/04/2026",
         "source": "truyenqqto",
         "error": null
     },
