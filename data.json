@@ -3,7 +3,7 @@
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
-        "last_chapter": 61,
+        "last_chapter": 62,
         "latest_chapter_date": "20/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -12,7 +12,79 @@
         "id": "suc-manh-cua-ac-than-11700",
         "title": "Sức Mạnh Của Ác Thần",
         "channel_id": 1380004126313943100,
-        "last_chapter": 187,
+        "last_chapter": 188,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "trieu-hoi-su-cuoi-cung-9182",
+        "title": "Triệu Hồi Sư Cuối Cùng",
+        "channel_id": 1465028850449907812,
+        "last_chapter": 270,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "co-ban-gai-hai-mat-18159",
+        "title": "Cô Bạn Gái Hai Mặt",
+        "channel_id": 1397501632647790592,
+        "last_chapter": 148,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 501,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "be-blues-ao-ni-nare-10434",
+        "title": "Be Blues! - Ao Ni Nare",
+        "channel_id": 1398724727077470238,
+        "last_chapter": 267,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 448,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 269,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-xau-11255",
+        "title": "Người Xấu",
+        "channel_id": 1387285583751024660,
+        "last_chapter": 298,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-son-tai-xuat-11376",
+        "title": "Hoa Sơn Tái Khởi",
+        "channel_id": 1374624181324353607,
+        "last_chapter": 163,
         "latest_chapter_date": "20/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -22,15 +94,6 @@
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
         "last_chapter": 846,
-        "latest_chapter_date": "19/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "trieu-hoi-su-cuoi-cung-9182",
-        "title": "Triệu Hồi Sư Cuối Cùng",
-        "channel_id": 1465028850449907812,
-        "last_chapter": 267,
         "latest_chapter_date": "19/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -117,28 +180,10 @@
         "error": null
     },
     {
-        "id": "co-ban-gai-hai-mat-18159",
-        "title": "Cô Bạn Gái Hai Mặt",
-        "channel_id": 1397501632647790592,
-        "last_chapter": 145,
-        "latest_chapter_date": "19/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "remonster-1132",
         "title": "Re:Monster",
         "channel_id": 1373490392229740685,
         "last_chapter": 120,
-        "latest_chapter_date": "18/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 500,
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -756,28 +801,10 @@
         "error": null
     },
     {
-        "id": "be-blues-ao-ni-nare-10434",
-        "title": "Be Blues! - Ao Ni Nare",
-        "channel_id": 1398724727077470238,
-        "last_chapter": 257,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "please-go-home-akutsu-san-9413",
         "title": "Please Go Home, Akutsu-San!",
         "channel_id": 1398723676949712906,
         "last_chapter": 204,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 447,
         "latest_chapter_date": "13/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -886,15 +913,6 @@
         "title": "Trở Về Bên Chanbi",
         "channel_id": 1416623993208700999,
         "last_chapter": 96,
-        "latest_chapter_date": "12/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 267,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1472,15 +1490,6 @@
         "channel_id": 1374645008161837117,
         "last_chapter": 153,
         "latest_chapter_date": "12/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nguoi-xau-11255",
-        "title": "Người Xấu",
-        "channel_id": 1387285583751024660,
-        "last_chapter": 296,
-        "latest_chapter_date": "11/03/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -2444,15 +2453,6 @@
         "channel_id": 1416612509867315210,
         "last_chapter": 79,
         "latest_chapter_date": "16/03/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "hoa-son-tai-xuat-11376",
-        "title": "Hoa Sơn Tái Khởi",
-        "channel_id": 1374624181324353607,
-        "last_chapter": 157,
-        "latest_chapter_date": "05/03/2025",
         "source": "truyenqqto",
         "error": null
     },
