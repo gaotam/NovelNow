@@ -90,6 +90,87 @@
         "error": null
     },
     {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 674,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-diet-ac-nhan-10916",
+        "title": "Tiêu Diệt Ác Nhân",
+        "channel_id": 1416616686328741989,
+        "last_chapter": 230,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "quan-an-dinh-menh-18488",
+        "title": "Quán Ăn Định Mệnh",
+        "channel_id": 1465030733272977551,
+        "last_chapter": 52,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "song-sot-qua-ngay-tan-the-15787",
+        "title": "Sống Sót Qua Ngày Tận Thế",
+        "channel_id": 1430159066499645521,
+        "last_chapter": 73,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chung-cuc-dau-la-6700",
+        "title": "Chung Cực Đấu La",
+        "channel_id": 1392442245151719454,
+        "last_chapter": 677,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 555,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nha-dau-tu-nhin-thay-tuong-lai-16318",
+        "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
+        "channel_id": 1398722410018242690,
+        "last_chapter": 90,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
+        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
+        "channel_id": 1393812543281037422,
+        "last_chapter": 82,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vo-dang-ky-hiep-10673",
+        "title": "Võ Đang Kỳ Hiệp",
+        "channel_id": 1380001854980624425,
+        "last_chapter": 159,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-quan-gia-la-ma-hoang-7015",
         "title": "Đại Quản Gia Là Ma Hoàng",
         "channel_id": 1374604556092047451,
@@ -130,15 +211,6 @@
         "title": "Thi Sơn Huyết Hải",
         "channel_id": 1410468927963926549,
         "last_chapter": 31,
-        "latest_chapter_date": "19/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 673,
         "latest_chapter_date": "19/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -202,15 +274,6 @@
         "title": "Người Giữ Cửa Vạn Giới",
         "channel_id": 1409460128947765338,
         "last_chapter": 153,
-        "latest_chapter_date": "18/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-diet-ac-nhan-10916",
-        "title": "Tiêu Diệt Ác Nhân",
-        "channel_id": 1416616686328741989,
-        "last_chapter": 229,
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -292,15 +355,6 @@
         "title": "Trọng Sinh Thành Thần Y Thời Tam Quốc",
         "channel_id": 1374621474949693460,
         "last_chapter": 198,
-        "latest_chapter_date": "18/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "quan-an-dinh-menh-18488",
-        "title": "Quán Ăn Định Mệnh",
-        "channel_id": 1465030733272977551,
-        "last_chapter": 51,
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -720,15 +774,6 @@
         "error": null
     },
     {
-        "id": "song-sot-qua-ngay-tan-the-15787",
-        "title": "Sống Sót Qua Ngày Tận Thế",
-        "channel_id": 1430159066499645521,
-        "last_chapter": 72,
-        "latest_chapter_date": "14/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "bias-cua-toi-tren-chuyen-tau-cuoi-cung-19737",
         "title": "Bias Của Tôi Trên Chuyến Tàu Cuối Cùng",
         "channel_id": 1416622706056630282,
@@ -751,15 +796,6 @@
         "title": "Chuyển Sinh Thành Goblin",
         "channel_id": 1377469416433778749,
         "last_chapter": 105,
-        "latest_chapter_date": "14/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chung-cuc-dau-la-6700",
-        "title": "Chung Cực Đấu La",
-        "channel_id": 1392442245151719454,
-        "last_chapter": 676,
         "latest_chapter_date": "14/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -819,24 +855,6 @@
         "error": null
     },
     {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 554,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nha-dau-tu-nhin-thay-tuong-lai-16318",
-        "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
-        "channel_id": 1398722410018242690,
-        "last_chapter": 89,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "he-thong-super-god-12010",
         "title": "Hệ Thống Super God",
         "channel_id": 1398701581439996016,
@@ -859,15 +877,6 @@
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
         "last_chapter": 79,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "anh-hung-huyen-thoai-la-hoc-vien-danh-du-cua-hoc-vien-16927",
-        "title": "Anh Hùng Huyền Thoại Là Học Viên Danh Dự Của Học Viện",
-        "channel_id": 1393812543281037422,
-        "last_chapter": 81,
         "latest_chapter_date": "13/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -2273,15 +2282,6 @@
         "channel_id": 1374606548785172551,
         "last_chapter": 93,
         "latest_chapter_date": "22/07/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vo-dang-ky-hiep-10673",
-        "title": "Võ Đang Kỳ Hiệp",
-        "channel_id": 1380001854980624425,
-        "last_chapter": 157,
-        "latest_chapter_date": "20/07/2025",
         "source": "truyenqqto",
         "error": null
     },
