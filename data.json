@@ -1,5 +1,23 @@
 [
     {
+        "id": "tap-huyet-16816",
+        "title": "Tạp Huyết",
+        "channel_id": 1393808057645142086,
+        "last_chapter": 82,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
+        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
+        "channel_id": 1398707290856493083,
+        "last_chapter": 197,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
@@ -166,6 +184,24 @@
         "title": "Võ Đang Kỳ Hiệp",
         "channel_id": 1380001854980624425,
         "last_chapter": 159,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
+        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
+        "channel_id": 1465030930325307512,
+        "last_chapter": 36,
+        "latest_chapter_date": "20/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-phap-su-mo-nha-hang-15137",
+        "title": "Đại Pháp Sư Mở Nhà Hàng",
+        "channel_id": 1412794937631571979,
+        "last_chapter": 127,
         "latest_chapter_date": "20/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -864,15 +900,6 @@
         "error": null
     },
     {
-        "id": "than-hao-nhu-ta-lam-tra-nam-cung-la-hop-ly-20345",
-        "title": "Thần Hào Như Ta, Làm Tra Nam Cũng Là Hợp Lý",
-        "channel_id": 1465030930325307512,
-        "last_chapter": 35,
-        "latest_chapter_date": "13/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "dao-quy-di-tien-16651",
         "title": "Đạo Quỷ Dị Tiên",
         "channel_id": 1374608833644728390,
@@ -909,28 +936,10 @@
         "error": null
     },
     {
-        "id": "tap-huyet-16816",
-        "title": "Tạp Huyết",
-        "channel_id": 1393808057645142086,
-        "last_chapter": 81,
-        "latest_chapter_date": "12/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-ve-ben-chanbi-18742",
         "title": "Trở Về Bên Chanbi",
         "channel_id": 1416623993208700999,
         "last_chapter": 96,
-        "latest_chapter_date": "12/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-phap-su-mo-nha-hang-15137",
-        "title": "Đại Pháp Sư Mở Nhà Hàng",
-        "channel_id": 1412794937631571979,
-        "last_chapter": 126,
         "latest_chapter_date": "12/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1211,15 +1220,6 @@
         "channel_id": 1378407667760103624,
         "last_chapter": 80,
         "latest_chapter_date": "04/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "tieu-thieu-gia-gia-toc-tai-phiet-13085",
-        "title": "Tiểu Thiếu Gia Gia Tộc Tài Phiệt",
-        "channel_id": 1398707290856493083,
-        "last_chapter": 196,
-        "latest_chapter_date": "03/04/2026",
         "source": "truyenqqto",
         "error": null
     },
