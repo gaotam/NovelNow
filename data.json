@@ -18,6 +18,60 @@
         "error": null
     },
     {
+        "id": "trieu-hoi-su-cuoi-cung-9182",
+        "title": "Triệu Hồi Sư Cuối Cùng",
+        "channel_id": 1465028850449907812,
+        "last_chapter": 273,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "co-ban-gai-hai-mat-18159",
+        "title": "Cô Bạn Gái Hai Mặt",
+        "channel_id": 1397501632647790592,
+        "last_chapter": 151,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 449,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 75,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
+        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
+        "channel_id": 1380004618020454473,
+        "last_chapter": 102,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "mao-hiem-gia-cuoi-cung-15599",
+        "title": "Mạo Hiểm Giả Cuối Cùng",
+        "channel_id": 1430162910616752221,
+        "last_chapter": 118,
+        "latest_chapter_date": "21/04/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
         "id": "dai-thanh-trung-sinh-nam-cung-the-gia-17539",
         "title": "Đại Thánh Trùng Sinh Nam Cung Thế Gia",
         "channel_id": 1407384660677496843,
@@ -36,24 +90,6 @@
         "error": null
     },
     {
-        "id": "trieu-hoi-su-cuoi-cung-9182",
-        "title": "Triệu Hồi Sư Cuối Cùng",
-        "channel_id": 1465028850449907812,
-        "last_chapter": 270,
-        "latest_chapter_date": "20/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "co-ban-gai-hai-mat-18159",
-        "title": "Cô Bạn Gái Hai Mặt",
-        "channel_id": 1397501632647790592,
-        "last_chapter": 148,
-        "latest_chapter_date": "20/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
         "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
         "channel_id": 1358987506413994144,
@@ -67,15 +103,6 @@
         "title": "Be Blues! - Ao Ni Nare",
         "channel_id": 1398724727077470238,
         "last_chapter": 267,
-        "latest_chapter_date": "20/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 448,
         "latest_chapter_date": "20/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -648,15 +675,6 @@
         "error": null
     },
     {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 74,
-        "latest_chapter_date": "17/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179",
         "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
         "channel_id": 1459432141824725042,
@@ -927,15 +945,6 @@
         "error": null
     },
     {
-        "id": "huong-dan-sinh-ton-trong-hoc-vien-15264",
-        "title": "Hướng Dẫn Sinh Tồn Trong Học Viện",
-        "channel_id": 1380004618020454473,
-        "last_chapter": 101,
-        "latest_chapter_date": "12/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "tro-ve-ben-chanbi-18742",
         "title": "Trở Về Bên Chanbi",
         "channel_id": 1416623993208700999,
@@ -1139,15 +1148,6 @@
         "channel_id": 1392441923872227491,
         "last_chapter": 196,
         "latest_chapter_date": "07/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "mao-hiem-gia-cuoi-cung-15599",
-        "title": "Mạo Hiểm Giả Cuối Cùng",
-        "channel_id": 1430162910616752221,
-        "last_chapter": 116,
-        "latest_chapter_date": "06/04/2026",
         "source": "truyenqqto",
         "error": null
     },
