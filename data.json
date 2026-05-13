@@ -3,7 +3,7 @@
         "id": "trieu-hoi-su-cuoi-cung-9182",
         "title": "Triệu Hồi Sư Cuối Cùng",
         "channel_id": 1465028850449907812,
-        "last_chapter": 327,
+        "last_chapter": 330,
         "latest_chapter_date": "12/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -39,8 +39,53 @@
         "id": "chua-te-dong-tien-10787",
         "title": "Chúa Tể Đồng Tiền",
         "channel_id": 1398720923334610954,
-        "last_chapter": 286,
-        "latest_chapter_date": "11/05/2026",
+        "last_chapter": 287,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 511,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 169,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 604,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 81,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
+        "title": "Chuyển Sinh Thành Liễu Đột Biến",
+        "channel_id": 1374605106431000676,
+        "last_chapter": 516,
+        "latest_chapter_date": "12/05/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -198,15 +243,6 @@
         "error": null
     },
     {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 510,
-        "latest_chapter_date": "10/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "than-chet-part-time-18398",
         "title": "Thần Chết Part-Time",
         "channel_id": 1399564591100334200,
@@ -248,15 +284,6 @@
         "channel_id": 1409460128947765338,
         "last_chapter": 159,
         "latest_chapter_date": "09/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 168,
-        "latest_chapter_date": "08/05/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -306,15 +333,6 @@
         "error": null
     },
     {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 601,
-        "latest_chapter_date": "08/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "gacha-vo-han-13496",
         "title": "Gacha Vô Hạn",
         "channel_id": 1359003439941554226,
@@ -337,15 +355,6 @@
         "title": "Hệ Thống Super God",
         "channel_id": 1398701581439996016,
         "last_chapter": 202,
-        "latest_chapter_date": "08/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 80,
         "latest_chapter_date": "08/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -408,7 +417,7 @@
         "id": "co-ban-gai-hai-mat-18159",
         "title": "Cô Bạn Gái Hai Mặt",
         "channel_id": 1397501632647790592,
-        "last_chapter": 171,
+        "last_chapter": 174,
         "latest_chapter_date": "06/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -1003,15 +1012,6 @@
         "title": "Để Có Thể Sống Sót",
         "channel_id": 1380381235712626791,
         "last_chapter": 213,
-        "latest_chapter_date": "25/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
-        "title": "Chuyển Sinh Thành Liễu Đột Biến",
-        "channel_id": 1374605106431000676,
-        "last_chapter": 514,
         "latest_chapter_date": "25/04/2026",
         "source": "truyenqqto",
         "error": null
