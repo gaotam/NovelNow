@@ -3,8 +3,26 @@
         "id": "trieu-hoi-su-cuoi-cung-9182",
         "title": "Triệu Hồi Sư Cuối Cùng",
         "channel_id": 1465028850449907812,
-        "last_chapter": 330,
-        "latest_chapter_date": "12/05/2026",
+        "last_chapter": 331,
+        "latest_chapter_date": "13/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "giao-su-gian-diep-12402",
+        "title": "Giáo Sư Gián Điệp",
+        "channel_id": 1380000949824655441,
+        "last_chapter": 168,
+        "latest_chapter_date": "13/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "vo-dang-ky-hiep-10673",
+        "title": "Võ Đang Kỳ Hiệp",
+        "channel_id": 1380001854980624425,
+        "last_chapter": 163,
+        "latest_chapter_date": "13/05/2026",
         "source": "truyenqqto",
         "error": null
     },
@@ -85,6 +103,15 @@
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
         "last_chapter": 516,
+        "latest_chapter_date": "12/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "dai-tuong-vo-hinh-8339",
+        "title": "Đại Tượng Vô Hình",
+        "channel_id": 1364780912838971494,
+        "last_chapter": 558,
         "latest_chapter_date": "12/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -454,24 +481,6 @@
         "title": "Thợ Rèn Huyền Thoại",
         "channel_id": 1374604035591639100,
         "last_chapter": 321,
-        "latest_chapter_date": "05/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "dai-tuong-vo-hinh-8339",
-        "title": "Đại Tượng Vô Hình",
-        "channel_id": 1364780912838971494,
-        "last_chapter": 557,
-        "latest_chapter_date": "05/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "giao-su-gian-diep-12402",
-        "title": "Giáo Sư Gián Điệp",
-        "channel_id": 1380000949824655441,
-        "last_chapter": 167,
         "latest_chapter_date": "05/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -1138,15 +1147,6 @@
         "title": "Nhất Nhân Chi Hạ",
         "channel_id": 1377467924553535539,
         "last_chapter": 677,
-        "latest_chapter_date": "23/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "vo-dang-ky-hiep-10673",
-        "title": "Võ Đang Kỳ Hiệp",
-        "channel_id": 1380001854980624425,
-        "last_chapter": 160,
         "latest_chapter_date": "23/04/2026",
         "source": "truyenqqto",
         "error": null
