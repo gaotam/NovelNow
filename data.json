@@ -3,7 +3,97 @@
         "id": "trieu-hoi-su-cuoi-cung-9182",
         "title": "Triệu Hồi Sư Cuối Cùng",
         "channel_id": 1465028850449907812,
-        "last_chapter": 359,
+        "last_chapter": 362,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nguoi-giu-cua-van-gioi-16974",
+        "title": "Người Giữ Cửa Vạn Giới",
+        "channel_id": 1409460128947765338,
+        "last_chapter": 162,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "toan-tri-doc-gia-9702",
+        "title": "Toàn Trí Độc Giả",
+        "channel_id": 1377467480120754248,
+        "last_chapter": 311,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 364,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "onepunch-man-244",
+        "title": "Onepunch Man",
+        "channel_id": 1438368221357932666,
+        "last_chapter": 303,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "nen-van-minh-nebula-15204",
+        "title": "Nền Văn Minh Nebula",
+        "channel_id": 1374646772709855284,
+        "last_chapter": 127,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "hoa-son-tai-xuat-11376",
+        "title": "Hoa Sơn Tái Khởi",
+        "channel_id": 1374624181324353607,
+        "last_chapter": 167,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 522,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "van-co-chi-ton-11261",
+        "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
+        "last_chapter": 530,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "su-thuc-tinh-cua-hac-ma-phap-su-sau-66666-nam-11431",
+        "title": "Sự Thức Tỉnh Của Hắc Ma Pháp Sư Sau 66666 Năm",
+        "channel_id": 1359019599240233000,
+        "last_chapter": 179,
+        "latest_chapter_date": "20/05/2026",
+        "source": "truyenqqto",
+        "error": null
+    },
+    {
+        "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
+        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
+        "channel_id": 1380001406848733214,
+        "last_chapter": 131,
         "latest_chapter_date": "20/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -306,15 +396,6 @@
         "error": null
     },
     {
-        "id": "nguoi-giu-cua-van-gioi-16974",
-        "title": "Người Giữ Cửa Vạn Giới",
-        "channel_id": 1409460128947765338,
-        "last_chapter": 161,
-        "latest_chapter_date": "17/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chuyen-sinh-thanh-lieu-dot-bien-12979",
         "title": "Chuyển Sinh Thành Liễu Đột Biến",
         "channel_id": 1374605106431000676,
@@ -382,15 +463,6 @@
         "title": "Hãy Hành Động Như Một Boss Đi Ngài Mr Devourer",
         "channel_id": 1416619646294954128,
         "last_chapter": 126,
-        "latest_chapter_date": "16/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "toan-tri-doc-gia-9702",
-        "title": "Toàn Trí Độc Giả",
-        "channel_id": 1377467480120754248,
-        "last_chapter": 310,
         "latest_chapter_date": "16/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -549,15 +621,6 @@
         "error": null
     },
     {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 363,
-        "latest_chapter_date": "13/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "chua-te-dong-tien-10787",
         "title": "Chúa Tể Đồng Tiền",
         "channel_id": 1398720923334610954,
@@ -684,15 +747,6 @@
         "error": null
     },
     {
-        "id": "onepunch-man-244",
-        "title": "Onepunch Man",
-        "channel_id": 1438368221357932666,
-        "last_chapter": 302,
-        "latest_chapter_date": "06/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "blue-box-11258",
         "title": "Blue Box",
         "channel_id": 1398719506720886864,
@@ -724,15 +778,6 @@
         "title": "Lúc Đó, Tôi Đã Chuyển Sinh Thành Slime",
         "channel_id": 1374613564291285063,
         "last_chapter": 140,
-        "latest_chapter_date": "04/05/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "nen-van-minh-nebula-15204",
-        "title": "Nền Văn Minh Nebula",
-        "channel_id": 1374646772709855284,
-        "last_chapter": 126,
         "latest_chapter_date": "04/05/2026",
         "source": "truyenqqto",
         "error": null
@@ -1269,24 +1314,6 @@
         "error": null
     },
     {
-        "id": "hoa-son-tai-xuat-11376",
-        "title": "Hoa Sơn Tái Khởi",
-        "channel_id": 1374624181324353607,
-        "last_chapter": 163,
-        "latest_chapter_date": "20/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 514,
-        "latest_chapter_date": "19/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
         "id": "remonster-1132",
         "title": "Re:Monster",
         "channel_id": 1373490392229740685,
@@ -1354,15 +1381,6 @@
         "title": "Hoàng Tử Bán Thuốc",
         "channel_id": 1393815363766063104,
         "last_chapter": 105,
-        "latest_chapter_date": "07/04/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "van-co-chi-ton-11261",
-        "title": "Vạn Cổ Chí Tôn",
-        "channel_id": 1358993391534215350,
-        "last_chapter": 513,
         "latest_chapter_date": "07/04/2026",
         "source": "truyenqqto",
         "error": null
@@ -1516,15 +1534,6 @@
         "title": "The Fragrant Flower Blooms With Dignity - Kaoru Hana Wa Rin To Saku",
         "channel_id": 1398702655030693888,
         "last_chapter": 181,
-        "latest_chapter_date": "20/03/2026",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "su-thuc-tinh-cua-hac-ma-phap-su-sau-66666-nam-11431",
-        "title": "Sự Thức Tỉnh Của Hắc Ma Pháp Sư Sau 66666 Năm",
-        "channel_id": 1359019599240233000,
-        "last_chapter": 175,
         "latest_chapter_date": "20/03/2026",
         "source": "truyenqqto",
         "error": null
@@ -1949,15 +1958,6 @@
         "channel_id": 1407383279132217465,
         "last_chapter": 106,
         "latest_chapter_date": "05/12/2025",
-        "source": "truyenqqto",
-        "error": null
-    },
-    {
-        "id": "kiem-si-thien-tai-cua-hoc-vien-14538",
-        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
-        "channel_id": 1380001406848733214,
-        "last_chapter": 129,
-        "latest_chapter_date": "01/12/2025",
         "source": "truyenqqto",
         "error": null
     },
