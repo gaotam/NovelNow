@@ -12,6 +12,8 @@ from .story import Story
 
 logger = setup_logger()
 
+TRACKING_PATH = "story_tracking.json"
+
 
 class Runner:
     def __init__(self):
@@ -41,16 +43,16 @@ class Runner:
         return sorted(data, key=lambda x: parse_date(x.latest_chapter_date), reverse=True)
 
     def fetch_latest_chapters(self):
-        """
-        Fetches the latest chapters for all stories.
+        skip_source = [s for s in self.stories if s.source == "metruyenchu"]
+        skip_stale = [s for s in self.stories if s.source != "metruyenchu" and s._should_skip_check()]
+        will_check = len(self.stories) - len(skip_source) - len(skip_stale)
+        logger.info(
+            f"📋 Fetch plan: {len(self.stories)} tổng"
+            f" | ✅ sẽ check: {will_check}"
+            f" | ⏭️  stale skip: {len(skip_stale)}"
+            f" | ⏭️  metruyenchu: {len(skip_source)}"
+        )
 
-        This method iterates through the list of stories and calls the `get_latest_chapter`
-        method for each story to retrieve the latest chapter information. It also introduces
-        a delay between each fetch operation to avoid overwhelming the server.
-
-        Raises:
-            Exception: If there is an issue fetching the latest chapter for a story.
-        """
         for index, story in enumerate(self.stories):
             prefix = f"[{index + 1}/{len(self.stories)}] - "
             story.logger = PrefixAdapter(logger, {"prefix": prefix})
@@ -59,43 +61,40 @@ class Runner:
                 time.sleep(get_config("common.story_fetch_delay_sec"))
 
     def prepare(self):
-        """
-        Prepares the stories by loading data from a JSON file and initializing
-        Story objects.
-        """
         data = load_json_file(self.data_path)
         self.stories = [Story(**d) for d in data]
 
     def update_data(self):
-        """
-        Updates the data file with the latest information about uncompleted stories.
-
-        This method filters the list of stories to include only those that are not completed,
-        sorts them by their update date in descending order, converts them to dictionary format,
-        and writes the updated data to a JSON file. It also logs a success message upon completion.
-
-        Raises:
-            Exception: If there is an issue writing to the JSON file.
-        """
-        stories_to_process = self.get_stories_to_process()
-        if not stories_to_process:
-            return
-
         uncompleted_stories = [story for story in self.stories if not story.is_completed]
         data = [story.to_dict() for story in Runner.sort_by_update_date(uncompleted_stories)]
         write_json_file(self.data_path, data)
-        logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
+        logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
+
+    def update_tracking(self):
+        try:
+            tracking = load_json_file(TRACKING_PATH)
+        except Exception:
+            tracking = {}
+
+        today_str = datetime.today().strftime("%d/%m/%Y")
+        for story in self.stories:
+            if not story.is_new_chapter:
+                continue
+            entry = tracking.setdefault(story.id, {
+                "title": story.title,
+                "source": story.source,
+                "snapshots": [],
+            })
+            entry["title"] = story.title
+            entry["snapshots"].append({
+                "date": today_str,
+                "chapter": story.last_chapter,
+                "avg_days_per_chapter": story.avg_days_per_chapter,
+            })
+
+        write_json_file(TRACKING_PATH, tracking)
 
     def send_story_channels(self, stories: List[Story]):
-        """
-        Sends a notification message to the respective Discord channels for stories with new chapters.
-
-        This method iterates through the list of stories, checks if a story has a new chapter,
-        and sends a notification message to the Discord channel associated with that story.
-
-        Raises:
-            Exception: If there is an issue sending the message to Discord.
-        """
         filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_PER_STORY]
         story_send_delay_sec = get_config('discord.story_send_delay_sec')
 
@@ -110,22 +109,11 @@ class Runner:
                 time.sleep(story_send_delay_sec)
 
     def send_general_channel(self, stories: List[Story]):
-        """
-        Sends a notification message to the general Discord channel.
-
-        This method sends a predefined message to the general channel specified
-        in the configuration. It is useful for broadcasting general updates or
-        notifications.
-
-        Raises:
-            Exception: If there is an issue sending the message to Discord.
-        """
-
         filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_GENERAL]
         if not filtered_stories:
             return
 
-        header = f"**📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]**"
+        header = f"**📢 BẢN TIN CẬP NHẬT CÔNG PHÁP! [{get_time_now_format()}]**"
         channel_id = get_config('discord.general_channel_id')
 
         sorted_stories = Runner.sort_by_update_date(filtered_stories)
@@ -138,7 +126,7 @@ class Runner:
 
             try:
                 self.discord_client.send_message(channel_id, message)
-                logger.info(f"✅ Gửi thông báo vào kênh chung thành công. (chunk {i + 1}/{len(chunk_stories)}).")
+                logger.info(f"✅ Gửi thông báo vào kênh chung thành công. (chunk {i + 1}/{len(chunk_stories)}).")
             except Exception:
                 success = False
 
@@ -148,25 +136,14 @@ class Runner:
             time.sleep(get_config('discord.general_send_delay_sec'))
 
     def confirm_and_send_discord(self, time_format: str):
-        """
-        Confirms with the user and sends notifications to Discord.
-
-        This method checks if the Discord bot token is configured. If it is,
-        it prompts the user to confirm whether they want to send notifications
-        to Discord. If the user confirms, it sends messages to both the general
-        channel and the story-specific channels.
-
-        Returns:
-            None
-        """
         if not get_config('discord.bot_token'):
-            logger.warning("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
+            logger.warning("⚠️ Bot token không được cấu hình. Bỏ qua gửi thông báo.")
             return
 
         stories_to_process = self.get_stories_to_process()
 
         if not stories_to_process:
-            logger.info(f"🚫 Không truyện nào có chương mới.")
+            logger.info(f"🚫 Không truyện nào có chương mới.")
             return
 
         logger.warning(f"Số truyện có chương mới: {len(stories_to_process)} truyện.")
@@ -174,7 +151,7 @@ class Runner:
         self.log_output_console(stories_to_process, time_format)
 
         # print("----------Đã load xong dữ liệu, tiến hành gửi vào discord----------")
-        choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
+        choice = input("Bạn muốn gửi vào Discord? [y/N]: ").strip().lower()
         if choice == 'y':
             self.send_general_channel(stories_to_process)
             self.send_story_channels(stories_to_process)
@@ -222,13 +199,14 @@ class Runner:
 
     def run(self):
         start_time = time.time()
-        logger.info(f"🚀 Đang khởi động...")
+        logger.info(f"🚀 Đang khởi động...")
         self.prepare()
         self.fetch_latest_chapters()
 
         elapsed = time.time() - start_time
         time_format = time.strftime('%H:%M:%S', time.gmtime(elapsed))
-        logger.info(f"⏱ Thời gian chạy: {time_format}")
+        logger.info(f"⏱ Thời gian chạy: {time_format}")
 
         self.confirm_and_send_discord(time_format)
         self.update_data()
+        self.update_tracking()

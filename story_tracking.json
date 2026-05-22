@@ -1,0 +1,35 @@
+{
+  "trieu-hoi-su-cuoi-cung-9182": {
+    "title": "Triệu Hồi Sư Cuối Cùng",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 367,
+        "avg_days_per_chapter": 1.0
+      }
+    ]
+  },
+  "dai-phap-su-toan-nang-13507": {
+    "title": "Đại Pháp Sư Toàn Năng",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 169,
+        "avg_days_per_chapter": 8.0
+      }
+    ]
+  },
+  "nga-lao-ma-than-10514": {
+    "title": "Ngã Lão Ma Thần",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 313,
+        "avg_days_per_chapter": 8.0
+      }
+    ]
+  }
+}
