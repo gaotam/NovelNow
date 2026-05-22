@@ -7,6 +7,11 @@
         "date": "22/05/2026",
         "chapter": 367,
         "avg_days_per_chapter": 1.0
+      },
+      {
+        "date": "22/05/2026",
+        "chapter": 368,
+        "avg_days_per_chapter": 1.0
       }
     ]
   },
@@ -28,6 +33,50 @@
       {
         "date": "22/05/2026",
         "chapter": 313,
+        "avg_days_per_chapter": 8.0
+      }
+    ]
+  },
+  "bat-dau-danh-dau-hoang-co-thanh-the-14633": {
+    "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 154,
+        "avg_days_per_chapter": 3.0
+      }
+    ]
+  },
+  "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836": {
+    "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 904,
+        "avg_days_per_chapter": 4.0
+      }
+    ]
+  },
+  "dai-quan-gia-la-ma-hoang-7015": {
+    "title": "Đại Quản Gia Là Ma Hoàng",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 859,
+        "avg_days_per_chapter": 5.0
+      }
+    ]
+  },
+  "song-sot-qua-ngay-tan-the-15787": {
+    "title": "Sống Sót Qua Ngày Tận Thế",
+    "source": "truyenqqto",
+    "snapshots": [
+      {
+        "date": "22/05/2026",
+        "chapter": 81,
         "avg_days_per_chapter": 8.0
       }
     ]
