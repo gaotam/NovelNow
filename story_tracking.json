@@ -1,84 +1,177 @@
 {
-  "trieu-hoi-su-cuoi-cung-9182": {
-    "title": "Triệu Hồi Sư Cuối Cùng",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 367,
-        "avg_days_per_chapter": 1.0
-      },
-      {
-        "date": "22/05/2026",
-        "chapter": 368,
-        "avg_days_per_chapter": 1.0
-      }
-    ]
-  },
-  "dai-phap-su-toan-nang-13507": {
-    "title": "Đại Pháp Sư Toàn Năng",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 169,
-        "avg_days_per_chapter": 8.0
-      }
-    ]
-  },
-  "nga-lao-ma-than-10514": {
-    "title": "Ngã Lão Ma Thần",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 313,
-        "avg_days_per_chapter": 8.0
-      }
-    ]
-  },
-  "bat-dau-danh-dau-hoang-co-thanh-the-14633": {
-    "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 154,
-        "avg_days_per_chapter": 3.0
-      }
-    ]
-  },
-  "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836": {
-    "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 904,
-        "avg_days_per_chapter": 4.0
-      }
-    ]
-  },
-  "dai-quan-gia-la-ma-hoang-7015": {
-    "title": "Đại Quản Gia Là Ma Hoàng",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 859,
-        "avg_days_per_chapter": 5.0
-      }
-    ]
-  },
-  "song-sot-qua-ngay-tan-the-15787": {
-    "title": "Sống Sót Qua Ngày Tận Thế",
-    "source": "truyenqqto",
-    "snapshots": [
-      {
-        "date": "22/05/2026",
-        "chapter": 81,
-        "avg_days_per_chapter": 8.0
-      }
-    ]
-  }
+    "trieu-hoi-su-cuoi-cung-9182": {
+        "title": "Triệu Hồi Sư Cuối Cùng",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 367,
+                "avg_days_per_chapter": 1.0
+            },
+            {
+                "date": "22/05/2026",
+                "chapter": 368,
+                "avg_days_per_chapter": 1.0
+            },
+            {
+                "date": "23/05/2026",
+                "chapter": 370,
+                "avg_days_per_chapter": 1.0
+            }
+        ]
+    },
+    "dai-phap-su-toan-nang-13507": {
+        "title": "Đại Pháp Sư Toàn Năng",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 169,
+                "avg_days_per_chapter": 8.0
+            }
+        ]
+    },
+    "nga-lao-ma-than-10514": {
+        "title": "Ngã Lão Ma Thần",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 313,
+                "avg_days_per_chapter": 8.0
+            }
+        ]
+    },
+    "bat-dau-danh-dau-hoang-co-thanh-the-14633": {
+        "title": "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 154,
+                "avg_days_per_chapter": 3.0
+            }
+        ]
+    },
+    "moi-tuan-ta-co-mot-nghe-nghiep-moi-11836": {
+        "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 904,
+                "avg_days_per_chapter": 4.0
+            }
+        ]
+    },
+    "dai-quan-gia-la-ma-hoang-7015": {
+        "title": "Đại Quản Gia Là Ma Hoàng",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 859,
+                "avg_days_per_chapter": 5.0
+            }
+        ]
+    },
+    "song-sot-qua-ngay-tan-the-15787": {
+        "title": "Sống Sót Qua Ngày Tận Thế",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "22/05/2026",
+                "chapter": 81,
+                "avg_days_per_chapter": 8.0
+            }
+        ]
+    },
+    "kiem-si-thien-tai-cua-hoc-vien-14538": {
+        "title": "Kiếm Sĩ Thiên Tài Của Học Viện",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 135,
+                "avg_days_per_chapter": 1.0
+            }
+        ]
+    },
+    "hoa-son-tai-xuat-11376": {
+        "title": "Hoa Sơn Tái Khởi",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 168,
+                "avg_days_per_chapter": 2.0
+            }
+        ]
+    },
+    "healer-cap-s-chua-tri-cho-quai-vat-18866": {
+        "title": "Healer Cấp S Chữa Trị Cho Quái Vật",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 48,
+                "avg_days_per_chapter": 4.0
+            }
+        ]
+    },
+    "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448": {
+        "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 118,
+                "avg_days_per_chapter": 6.0
+            }
+        ]
+    },
+    "chuyen-sinh-thanh-goblin-16569": {
+        "title": "Chuyển Sinh Thành Goblin",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 109,
+                "avg_days_per_chapter": 6.0
+            }
+        ]
+    },
+    "thong-linh-hoc-vien-chi-bang-dao-sashimi-16170": {
+        "title": "Thống Lĩnh Học Viện Chỉ Bằng Dao Sashimi",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 79,
+                "avg_days_per_chapter": 7.0
+            }
+        ]
+    },
+    "nha-dau-tu-nhin-thay-tuong-lai-16318": {
+        "title": "Nhà Đầu Tư Nhìn Thấy Tương Lai",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 95,
+                "avg_days_per_chapter": 7.0
+            }
+        ]
+    },
+    "tro-thanh-nguoi-bao-tro-cho-nhung-ke-phan-dien-22179": {
+        "title": "Trở Thành Người Bảo Trợ Cho Những Kẻ Phản Diện",
+        "source": "truyenqqto",
+        "snapshots": [
+            {
+                "date": "23/05/2026",
+                "chapter": 34,
+                "avg_days_per_chapter": 20.0
+            }
+        ]
+    }
 }
