@@ -1,4 +1,5 @@
 import time
+import sqlite3
 from datetime import datetime
 from typing import List, Dict
 
@@ -13,6 +14,7 @@ from .story import Story
 logger = setup_logger()
 
 TRACKING_PATH = "story_tracking.json"
+TRACKING_DB_PATH = "story_tracking.db"
 MAX_TRACKING_SNAPSHOTS = 30
 
 
@@ -22,6 +24,7 @@ class Runner:
         self.data_path = get_config('common.data_path')
         self.discord_client = DiscordClient(get_config('discord.bot_token'))
         self.stories: List[Story] = []
+        self._init_tracking_db()
 
     @staticmethod
     def sort_by_update_date(data: List[Story]) -> List[Story]:
@@ -72,46 +75,100 @@ class Runner:
         logger.info(f"✅ data.json cập nhật thành công.[{get_time_now_format()}]")
 
     def update_tracking(self):
+        today_str = datetime.today().strftime("%d/%m/%Y")
+        story_channel_map = {story.id: str(story.channel_id) for story in self.stories}
+        self._migrate_tracking_json_to_db(story_channel_map)
+
+        with sqlite3.connect(TRACKING_DB_PATH) as conn:
+            for story in self.stories:
+                if not story.is_new_chapter:
+                    continue
+
+                channel_key = str(story.channel_id)
+                conn.execute(
+                    """
+                    INSERT INTO story_snapshots (channel_id, snapshot_date, chapter, avg_days_per_chapter)
+                    VALUES (?, ?, ?, ?)
+                    ON CONFLICT(channel_id, snapshot_date)
+                    DO UPDATE SET
+                        chapter = excluded.chapter,
+                        avg_days_per_chapter = excluded.avg_days_per_chapter
+                    """,
+                    (channel_key, today_str, story.last_chapter, story.avg_days_per_chapter),
+                )
+
+                conn.execute(
+                    """
+                    DELETE FROM story_snapshots
+                    WHERE channel_id = ?
+                      AND id NOT IN (
+                        SELECT id
+                        FROM story_snapshots
+                        WHERE channel_id = ?
+                        ORDER BY id DESC
+                        LIMIT ?
+                      )
+                    """,
+                    (channel_key, channel_key, MAX_TRACKING_SNAPSHOTS),
+                )
+
+    def _init_tracking_db(self):
+        with sqlite3.connect(TRACKING_DB_PATH) as conn:
+            conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS story_snapshots (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    channel_id TEXT NOT NULL,
+                    snapshot_date TEXT NOT NULL,
+                    chapter INTEGER NOT NULL,
+                    avg_days_per_chapter REAL,
+                    created_at TEXT NOT NULL DEFAULT (datetime('now')),
+                    UNIQUE(channel_id, snapshot_date)
+                )
+                """
+            )
+
+    def _migrate_tracking_json_to_db(self, story_id_to_channel: Dict[str, str]):
         try:
             tracking = load_json_file(TRACKING_PATH)
         except Exception:
-            tracking = {}
+            return
 
-        # Normalize old format:
-        # - old key: story.id
-        # - new key: str(channel_id)
-        # - keep only snapshots
-        story_id_to_channel = {story.id: str(story.channel_id) for story in self.stories}
-        normalized_tracking: Dict[str, Dict] = {}
-        for key, value in tracking.items():
-            normalized_key = story_id_to_channel.get(key, str(key))
-            snapshots = value.get("snapshots", []) if isinstance(value, dict) else []
-            entry = normalized_tracking.setdefault(normalized_key, {"snapshots": []})
-            entry["snapshots"].extend(snapshots)
+        if not isinstance(tracking, dict) or not tracking:
+            return
 
-        today_str = datetime.today().strftime("%d/%m/%Y")
-        for story in self.stories:
-            if not story.is_new_chapter:
-                continue
-            channel_key = str(story.channel_id)
-            entry = normalized_tracking.setdefault(channel_key, {"snapshots": []})
-            new_snapshot = {
-                "date": today_str,
-                "chapter": story.last_chapter,
-                "avg_days_per_chapter": story.avg_days_per_chapter,
-            }
+        with sqlite3.connect(TRACKING_DB_PATH) as conn:
+            already_migrated = conn.execute("SELECT 1 FROM story_snapshots LIMIT 1").fetchone()
+            if already_migrated:
+                return
 
-            snapshots = entry["snapshots"]
-            # If already has a snapshot today, update latest record instead of appending.
-            if snapshots and snapshots[-1].get("date") == today_str:
-                snapshots[-1] = new_snapshot
-            else:
-                snapshots.append(new_snapshot)
+            for key, value in tracking.items():
+                channel_id = story_id_to_channel.get(key, str(key))
+                snapshots = value.get("snapshots", []) if isinstance(value, dict) else []
+                normalized = []
+                for snap in snapshots:
+                    if normalized and normalized[-1].get("date") == snap.get("date"):
+                        normalized[-1] = snap
+                    else:
+                        normalized.append(snap)
 
-            if len(snapshots) > MAX_TRACKING_SNAPSHOTS:
-                entry["snapshots"] = snapshots[-MAX_TRACKING_SNAPSHOTS:]
-
-        write_json_file(TRACKING_PATH, normalized_tracking)
+                for snap in normalized[-MAX_TRACKING_SNAPSHOTS:]:
+                    conn.execute(
+                        """
+                        INSERT INTO story_snapshots (channel_id, snapshot_date, chapter, avg_days_per_chapter)
+                        VALUES (?, ?, ?, ?)
+                        ON CONFLICT(channel_id, snapshot_date)
+                        DO UPDATE SET
+                            chapter = excluded.chapter,
+                            avg_days_per_chapter = excluded.avg_days_per_chapter
+                        """,
+                        (
+                            channel_id,
+                            snap.get("date"),
+                            snap.get("chapter"),
+                            snap.get("avg_days_per_chapter"),
+                        ),
+                    )
 
     def send_story_channels(self, stories: List[Story]):
         filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_PER_STORY]
