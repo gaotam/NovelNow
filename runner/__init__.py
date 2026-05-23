@@ -13,6 +13,7 @@ from .story import Story
 logger = setup_logger()
 
 TRACKING_PATH = "story_tracking.json"
+MAX_TRACKING_SNAPSHOTS = 30
 
 
 class Runner:
@@ -76,23 +77,41 @@ class Runner:
         except Exception:
             tracking = {}
 
+        # Normalize old format:
+        # - old key: story.id
+        # - new key: str(channel_id)
+        # - keep only snapshots
+        story_id_to_channel = {story.id: str(story.channel_id) for story in self.stories}
+        normalized_tracking: Dict[str, Dict] = {}
+        for key, value in tracking.items():
+            normalized_key = story_id_to_channel.get(key, str(key))
+            snapshots = value.get("snapshots", []) if isinstance(value, dict) else []
+            entry = normalized_tracking.setdefault(normalized_key, {"snapshots": []})
+            entry["snapshots"].extend(snapshots)
+
         today_str = datetime.today().strftime("%d/%m/%Y")
         for story in self.stories:
             if not story.is_new_chapter:
                 continue
-            entry = tracking.setdefault(story.id, {
-                "title": story.title,
-                "source": story.source,
-                "snapshots": [],
-            })
-            entry["title"] = story.title
-            entry["snapshots"].append({
+            channel_key = str(story.channel_id)
+            entry = normalized_tracking.setdefault(channel_key, {"snapshots": []})
+            new_snapshot = {
                 "date": today_str,
                 "chapter": story.last_chapter,
                 "avg_days_per_chapter": story.avg_days_per_chapter,
-            })
+            }
 
-        write_json_file(TRACKING_PATH, tracking)
+            snapshots = entry["snapshots"]
+            # If already has a snapshot today, update latest record instead of appending.
+            if snapshots and snapshots[-1].get("date") == today_str:
+                snapshots[-1] = new_snapshot
+            else:
+                snapshots.append(new_snapshot)
+
+            if len(snapshots) > MAX_TRACKING_SNAPSHOTS:
+                entry["snapshots"] = snapshots[-MAX_TRACKING_SNAPSHOTS:]
+
+        write_json_file(TRACKING_PATH, normalized_tracking)
 
     def send_story_channels(self, stories: List[Story]):
         filtered_stories = [s for s in stories if s.error is None or s.error == StoryError.SEND_DISCORD_PER_STORY]
