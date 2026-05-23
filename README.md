@@ -16,6 +16,9 @@ python main.py
 ```
 
 ## Tracking (SQLite)
+- Source-of-truth của danh sách truyện hiện là SQLite trong `story_tracking.db` (bảng `stories`).
+- Lần chạy đầu, nếu DB chưa có dữ liệu, app sẽ bootstrap từ `data.json`.
+- `data.json` không còn là nơi đọc chính; file này chỉ được đồng bộ ngược từ SQLite mỗi `3` ngày.
 - Tracking chapter hiện dùng SQLite: `story_tracking.db`.
 - Bảng: `story_snapshots`.
 - Unique theo `(channel_id, snapshot_date)` nên không bị trùng snapshot cùng ngày.
