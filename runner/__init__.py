@@ -11,7 +11,6 @@ from utils import chunk_by_size, load_json_file, write_json_file
 from utils.config import get_config, load_config_project
 from utils.datetime import get_time_now_format
 from utils.discord import DiscordClient
-
 from .story import Story
 
 logger = setup_logger()
@@ -220,7 +219,8 @@ class Runner:
     def fetch_latest_chapters(self):
         skip_source = [s for s in self.stories if s.get_skip_reason() == "metruyenchu"]
         skip_stale = [s for s in self.stories if s.get_skip_reason() == "stale_interval"]
-        will_check = len(self.stories) - len(skip_source) - len(skip_stale)
+        stories_to_fetch = [s for s in self.stories if s.get_skip_reason() is None]
+        will_check = len(stories_to_fetch)
         self.last_fetch_summary = {
             "fetched": will_check,
             "skip_stale": len(skip_stale),
@@ -242,9 +242,9 @@ class Runner:
                 preview += f", ... +{len(skip_stale) - 5} truyện"
             logger.info(f"⏭️ Stale schedule preview: {preview}")
 
-        remaining_requests = will_check
-        for index, story in enumerate(self.stories):
-            prefix = f"[{index + 1}/{len(self.stories)}] - "
+        remaining_requests = len(stories_to_fetch)
+        for index, story in enumerate(stories_to_fetch):
+            prefix = f"[{index + 1}/{len(stories_to_fetch)}] - "
             story.logger = PrefixAdapter(logger, {"prefix": prefix})
             attempted = story.get_latest_chapter()
             if attempted:
