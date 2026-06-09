@@ -233,14 +233,14 @@ class Runner:
             f" | ⏭️ metruyenchu: {len(skip_source)}"
         )
 
-        if skip_stale:
-            preview = ", ".join(
-                f"{story.title} (next_due={story._format_date(story._get_stale_next_due_date()) if story._get_stale_next_due_date() else 'unknown'})"
-                for story in skip_stale[:5]
-            )
-            if len(skip_stale) > 5:
-                preview += f", ... +{len(skip_stale) - 5} truyện"
-            logger.info(f"⏭️ Stale schedule preview: {preview}")
+        # if skip_stale:
+        #     preview = ", ".join(
+        #         f"{story.title} (next_due={story._format_date(story._get_stale_next_due_date()) if story._get_stale_next_due_date() else 'unknown'})"
+        #         for story in skip_stale[:5]
+        #     )
+        #     if len(skip_stale) > 5:
+        #         preview += f", ... +{len(skip_stale) - 5} truyện"
+        #     logger.info(f"⏭️ Stale schedule preview: {preview}")
 
         remaining_requests = len(stories_to_fetch)
         for index, story in enumerate(stories_to_fetch):
