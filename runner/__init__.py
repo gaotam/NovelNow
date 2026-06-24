@@ -217,7 +217,7 @@ class Runner:
         logger.info(f"✅ Đồng bộ SQLite -> data.json thành công.[{get_time_now_format()}]")
 
     def fetch_latest_chapters(self):
-        skip_source = [s for s in self.stories if s.get_skip_reason() == "metruyenchu"]
+        skip_source = [s for s in self.stories if s.get_skip_reason() == "metruyenchu2"]
         skip_stale = [s for s in self.stories if s.get_skip_reason() == "stale_interval"]
         stories_to_fetch = [s for s in self.stories if s.get_skip_reason() is None]
         will_check = len(stories_to_fetch)
