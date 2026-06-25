@@ -460,13 +460,5 @@ class Runner:
         )
 
         self.confirm_and_send_discord(time_format)
-
-        logger.info("-------------start update data-------------")
-        time_start_update = time.time()
-
         self.update_data()
         self.update_tracking()
-
-        time_run_update = time.time() - time_start_update
-        time_run_update_format = time.strftime("%H:%M:%S", time.gmtime(time_run_update))
-        logger.info(f"-------------end update data({time_run_update_format})-------------")
