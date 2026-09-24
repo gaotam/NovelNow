@@ -1,5 +1,313 @@
 [
     {
+        "id": "cao-vo-tien-hoa-bat-dau-thuc-tinh-quai-thu-chi-vuong-17584",
+        "title": "Cao Võ Tiến Hóa: Bắt Đầu Thức Tỉnh Quái Thú Chi Vương",
+        "channel_id": 1526049463423078421,
+        "last_chapter": 160,
+        "latest_chapter_date": "24/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.326623309211745,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "dai-phap-su-toan-nang-13507",
+        "title": "Đại Pháp Sư Toàn Năng",
+        "channel_id": 1377468296995147807,
+        "last_chapter": 187,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.528762993957322,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "hoa-son-tai-xuat-11376",
+        "title": "Hoa Sơn Tái Khởi",
+        "channel_id": 1374624181324353607,
+        "last_chapter": 186,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.652848909719777,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "tinh-giap-hon-tuong-11989",
+        "title": "Tinh Giáp Hồn Tướng",
+        "channel_id": 1374645511323127869,
+        "last_chapter": 393,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 6.020553488045681,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
+        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
+        "channel_id": 1404687720298709095,
+        "last_chapter": 201,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 9.639308914425273,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
+        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+        "channel_id": 1358987506413994144,
+        "last_chapter": 559,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 3.487009270958831,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "nguoi-giu-cua-van-gioi-16974",
+        "title": "Người Giữ Cửa Vạn Giới",
+        "channel_id": 1409460128947765338,
+        "last_chapter": 198,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.487227768094144,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "ky-nguyen-ky-la-12533",
+        "title": "Kỷ Nguyên Kỳ Lạ",
+        "channel_id": 1374600250563493928,
+        "last_chapter": 642,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.156172176440577,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "ta-mo-phong-truong-sinh-lo-22428",
+        "title": "Ta Mô Phỏng Trường Sinh Lộ",
+        "channel_id": 1462122248625193066,
+        "last_chapter": 83,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.681380868734523,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
+        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
+        "channel_id": 1398692580128067674,
+        "last_chapter": 119,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.049759546797587,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "tham-hoa-tu-linh-su-14421",
+        "title": "Thảm Họa Tử Linh Sư",
+        "channel_id": 1374602804752289823,
+        "last_chapter": 308,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.724331471261227,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "ta-khong-muon-trung-sinh-dau-12538",
+        "title": "Ta Không Muốn Trùng Sinh Đâu",
+        "channel_id": 1374601516991647896,
+        "last_chapter": 499,
+        "latest_chapter_date": "23/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 3.9036500782875994,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "cao-dang-linh-hon-6931",
+        "title": "Cao Đẳng Linh Hồn",
+        "channel_id": 1397942857674788914,
+        "last_chapter": 397,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 9.738746401348898,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
+        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
+        "channel_id": 1358987742679273674,
+        "last_chapter": 482,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 5.277292403083797,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
+        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
+        "channel_id": 1410470638644236348,
+        "last_chapter": 107,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.352392329900939,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "cam-kiem-tuyet-doi-12431",
+        "title": "Cảm Kiếm Tuyệt Đối",
+        "channel_id": 1375005323495997450,
+        "last_chapter": 202,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.733155536429715,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "tuyet-the-hoi-quy-16039",
+        "title": "Tuyệt Thế Hồi Quy",
+        "channel_id": 1407384025617797120,
+        "last_chapter": 120,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.263848881657532,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "sat-thu-peter-14786",
+        "title": "Sát Thủ Peter",
+        "channel_id": 1430164632299110431,
+        "last_chapter": 149,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 7.925081337253118,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "inko-demo-seishun-shitai-23372",
+        "title": "Inko Demo Seishun Shitai",
+        "channel_id": 1526143607671750737,
+        "last_chapter": 6,
+        "latest_chapter_date": "22/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 20.04,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "van-co-chi-ton-11261",
+        "title": "Vạn Cổ Chí Tôn",
+        "channel_id": 1358993391534215350,
+        "last_chapter": 568,
+        "latest_chapter_date": "21/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 3.7754292595645813,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "nhat-nhan-chi-ha-1943",
+        "title": "Nhất Nhân Chi Hạ",
+        "channel_id": 1377467924553535539,
+        "last_chapter": 767,
+        "latest_chapter_date": "21/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 2.5995932877942622,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
+        "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
+        "channel_id": 1380005184993886318,
+        "last_chapter": 323,
+        "latest_chapter_date": "21/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.466786587970004,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
         "id": "di-bien-giang-lam-nhan-gian-trieu-hoan-chi-chu-18448",
         "title": "Dị Biến Giáng Lâm Nhân Gian: Triệu Hoán Chi Chủ!",
         "channel_id": 1465029388713197679,
@@ -7,52 +315,94 @@
         "latest_chapter_date": "20/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 4.145323727344754,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
         "id": "toan-dan-chuyen-chuc-ngu-long-su-la-chuc-nghiep-yeu-nhat-15432",
         "title": "Toàn Dân Chuyển Chức: Ngự Long Sư Là Chức Nghiệp Yếu Nhất?",
         "channel_id": 1378408547594928188,
-        "last_chapter": 286,
-        "latest_chapter_date": "19/09/2026",
+        "last_chapter": 287,
+        "latest_chapter_date": "20/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.351728100734054,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 3.3462096705138373,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
-        "id": "hoa-son-tai-xuat-11376",
-        "title": "Hoa Sơn Tái Khởi",
-        "channel_id": 1374624181324353607,
-        "last_chapter": 185,
-        "latest_chapter_date": "19/09/2026",
+        "id": "van-co-toi-cuong-tong-11262",
+        "title": "Vạn Cổ Tối Cường Tông",
+        "channel_id": 1358989381020684438,
+        "last_chapter": 555,
+        "latest_chapter_date": "20/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 8.78978415674254,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 4.653753175238467,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
-        "id": "nguoi-giu-cua-van-gioi-16974",
-        "title": "Người Giữ Cửa Vạn Giới",
-        "channel_id": 1409460128947765338,
-        "last_chapter": 197,
-        "latest_chapter_date": "19/09/2026",
+        "id": "dai-phung-da-canh-nhan-12047",
+        "title": "Đại Phụng Đả Canh Nhân",
+        "channel_id": 1374646108315451432,
+        "last_chapter": 679,
+        "latest_chapter_date": "20/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.267468240134491,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 3.438693915236692,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "ban-chat-cua-chuyen-sinh-12759",
+        "title": "Bản Chất Của Chuyển Sinh",
+        "channel_id": 1387285252862509096,
+        "last_chapter": 199,
+        "latest_chapter_date": "20/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 8.867191499999999,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "hay-hanh-dong-nhu-mot-boss-di-ngai-mr-devourer-15283",
+        "title": "Hãy Hành Động Như Một Boss Đi Ngài Mr Devourer",
+        "channel_id": 1416619646294954128,
+        "last_chapter": 143,
+        "latest_chapter_date": "20/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 9.594301461666666,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "thiet-huyet-kiem-si-hoi-quy-14046",
+        "title": "Thiết Huyết Kiếm Sĩ Hồi Quy",
+        "channel_id": 1516351723852267671,
+        "last_chapter": 180,
+        "latest_chapter_date": "20/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 9.226609967469999,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -63,10 +413,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.613009310409899,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -77,10 +427,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.301710586346337,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -91,10 +441,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.992961888799996,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -105,10 +455,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.953897741929998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -119,10 +469,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.6358,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -133,10 +483,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.416479360953373,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -147,10 +497,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.024920189006249,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -161,10 +511,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.717666656425333,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -175,10 +525,10 @@
         "latest_chapter_date": "19/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.336139999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -189,10 +539,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.707508360193419,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -203,10 +553,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.931842102124612,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -217,24 +567,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.056303358843467,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "ta-mo-phong-truong-sinh-lo-22428",
-        "title": "Ta Mô Phỏng Trường Sinh Lộ",
-        "channel_id": 1462122248625193066,
-        "last_chapter": 82,
-        "latest_chapter_date": "18/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.1162583839064615,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -245,10 +581,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.093300190124914,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -259,24 +595,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.084555242766427,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "nhat-nhan-chi-ha-1943",
-        "title": "Nhất Nhân Chi Hạ",
-        "channel_id": 1377467924553535539,
-        "last_chapter": 764,
-        "latest_chapter_date": "18/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 3.1422761254203753,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -287,10 +609,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.675090726745498,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -301,24 +623,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.778515644999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "cuoc-song-thong-dong-o-di-the-gioi-4290",
-        "title": "Cuộc Sống Thong Dong Ở Dị Thế Giới",
-        "channel_id": 1380005184993886318,
-        "last_chapter": 322,
-        "latest_chapter_date": "18/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.666837982814291,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -329,10 +637,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.776240760689694,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -343,24 +651,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.790285119999997,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "ta-khong-muon-trung-sinh-dau-12538",
-        "title": "Ta Không Muốn Trùng Sinh Đâu",
-        "channel_id": 1374601516991647896,
-        "last_chapter": 497,
-        "latest_chapter_date": "18/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.844183833239999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -371,10 +665,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 9.286458849104747,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -385,10 +679,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.188631212599995,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -399,10 +693,10 @@
         "latest_chapter_date": "18/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.294423599999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -413,10 +707,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.445729447575356,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -427,10 +721,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.638715626904961,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -441,10 +735,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 4.279414737056129,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -455,24 +749,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.9026463929999995,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "do-de-cua-ta-deu-la-dai-phan-phai-13414",
-        "title": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
-        "channel_id": 1358987506413994144,
-        "last_chapter": 557,
-        "latest_chapter_date": "17/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 3.3816515733853705,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -483,10 +763,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.584483119596815,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -497,10 +777,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.874239166666664,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -511,10 +791,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.232428884471599,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -525,10 +805,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.662055671437628,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -539,10 +819,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 12.848412319999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -553,10 +833,24 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.122458103999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
+        "error_count": 0
+    },
+    {
+        "id": "quai-luc-loan-than-15528",
+        "title": "Quái Lực Loạn Thần",
+        "channel_id": 1375006332611985460,
+        "last_chapter": 115,
+        "latest_chapter_date": "17/09/2026",
+        "source": "truyenqqto",
+        "error": null,
+        "last_check_date": "24/09/2026",
+        "avg_days_per_chapter": 32.5,
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -567,10 +861,10 @@
         "latest_chapter_date": "17/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.445464700399999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -581,10 +875,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.854511360429094,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -595,38 +889,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.743325858717653,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "dai-phap-su-toan-nang-13507",
-        "title": "Đại Pháp Sư Toàn Năng",
-        "channel_id": 1377468296995147807,
-        "last_chapter": 186,
-        "latest_chapter_date": "16/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.326804277081889,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "tinh-giap-hon-tuong-11989",
-        "title": "Tinh Giáp Hồn Tướng",
-        "channel_id": 1374645511323127869,
-        "last_chapter": 392,
-        "latest_chapter_date": "16/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 5.172219268636687,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -637,24 +903,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.592245507256,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "ky-nguyen-ky-la-12533",
-        "title": "Kỷ Nguyên Kỳ Lạ",
-        "channel_id": 1374600250563493928,
-        "last_chapter": 640,
-        "latest_chapter_date": "16/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.223103109200824,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -665,24 +917,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.107715488068999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "the-gioi-toan-nguoi-dien-tinh-tao-chinh-la-bi-benh-18782",
-        "title": "Thế Giới Toàn Người Điên, Tỉnh Táo Chính Là Bị Bệnh",
-        "channel_id": 1398692580128067674,
-        "last_chapter": 117,
-        "latest_chapter_date": "16/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.071085066853696,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -693,10 +931,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.952709615384615,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -707,10 +945,10 @@
         "latest_chapter_date": "16/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 12.674601735999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -721,24 +959,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.000519953108331,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "moi-linh-danh-thue-tro-ve-deu-co-mot-ke-hoach-16550",
-        "title": "Mỗi Lính Đánh Thuê Trở Về Đều Có Một Kế Hoạch",
-        "channel_id": 1410470638644236348,
-        "last_chapter": 106,
-        "latest_chapter_date": "15/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.5034176141441975,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -749,38 +973,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.2632582706604,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "dai-phung-da-canh-nhan-12047",
-        "title": "Đại Phụng Đả Canh Nhân",
-        "channel_id": 1374646108315451432,
-        "last_chapter": 677,
-        "latest_chapter_date": "15/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 3.8409913074809885,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "tuyet-the-hoi-quy-16039",
-        "title": "Tuyệt Thế Hồi Quy",
-        "channel_id": 1407384025617797120,
-        "last_chapter": 119,
-        "latest_chapter_date": "15/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.376926973796474,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -791,10 +987,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.806659925056165,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -805,10 +1001,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 10.2903253,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -819,10 +1015,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.678210592474999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -833,10 +1029,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.75710333333333,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -847,10 +1043,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 22.486792384499992,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -861,80 +1057,10 @@
         "latest_chapter_date": "15/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.759760469299998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "van-co-toi-cuong-tong-11262",
-        "title": "Vạn Cổ Tối Cường Tông",
-        "channel_id": 1358989381020684438,
-        "last_chapter": 554,
-        "latest_chapter_date": "14/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.076790250340669,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "van-co-chi-ton-11261",
-        "title": "Vạn Cổ Chí Tôn",
-        "channel_id": 1358993391534215350,
-        "last_chapter": 566,
-        "latest_chapter_date": "14/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 3.679184656520831,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "ta-troi-sinh-da-la-nhan-vat-phan-dien-11951",
-        "title": "Ta Trời Sinh Đã Là Nhân Vật Phản Diện",
-        "channel_id": 1358987742679273674,
-        "last_chapter": 480,
-        "latest_chapter_date": "14/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 5.504678373640402,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "cam-kiem-tuyet-doi-12431",
-        "title": "Cảm Kiếm Tuyệt Đối",
-        "channel_id": 1375005323495997450,
-        "last_chapter": 201,
-        "latest_chapter_date": "14/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.618793623471021,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "tham-hoa-tu-linh-su-14421",
-        "title": "Thảm Họa Tử Linh Sư",
-        "channel_id": 1374602804752289823,
-        "last_chapter": 306,
-        "latest_chapter_date": "14/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 4.37618667604332,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -945,10 +1071,10 @@
         "latest_chapter_date": "14/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.151039999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -959,10 +1085,10 @@
         "latest_chapter_date": "14/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.333591001133333,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -973,10 +1099,10 @@
         "latest_chapter_date": "14/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 4.7095726666666655,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -987,24 +1113,10 @@
         "latest_chapter_date": "14/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.2,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "sat-thu-peter-14786",
-        "title": "Sát Thủ Peter",
-        "channel_id": 1430164632299110431,
-        "last_chapter": 148,
-        "latest_chapter_date": "13/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.464401910361598,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1015,10 +1127,10 @@
         "latest_chapter_date": "13/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 37.83985999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1029,24 +1141,10 @@
         "latest_chapter_date": "13/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.636121128561399,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "cao-vo-tien-hoa-bat-dau-thuc-tinh-quai-thu-chi-vuong-17584",
-        "title": "Cao Võ Tiến Hóa: Bắt Đầu Thức Tỉnh Quái Thú Chi Vương",
-        "channel_id": 1526049463423078421,
-        "last_chapter": 158,
-        "latest_chapter_date": "13/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 3.3808638963504993,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1057,10 +1155,10 @@
         "latest_chapter_date": "13/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.418918999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1071,24 +1169,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.231769999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "ban-chat-cua-chuyen-sinh-12759",
-        "title": "Bản Chất Của Chuyển Sinh",
-        "channel_id": 1387285252862509096,
-        "last_chapter": 198,
-        "latest_chapter_date": "12/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 9.238844999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1099,10 +1183,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.027548896207599,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1113,10 +1197,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.825263157894736,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1127,10 +1211,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 14.099999999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1141,10 +1225,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.409999999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1155,10 +1239,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.719444444444443,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1169,10 +1253,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 9.726305899999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1183,10 +1267,10 @@
         "latest_chapter_date": "12/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.904999999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1197,10 +1281,10 @@
         "latest_chapter_date": "11/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.281251143999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1211,10 +1295,10 @@
         "latest_chapter_date": "11/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 10.239570432333332,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1225,10 +1309,10 @@
         "latest_chapter_date": "11/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.120833333333333,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1239,10 +1323,10 @@
         "latest_chapter_date": "11/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 94.24999999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1253,10 +1337,10 @@
         "latest_chapter_date": "11/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.364106699999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1267,10 +1351,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 15.030103699999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1281,10 +1365,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 10.167593545454544,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1295,10 +1379,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.316653425199998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1309,10 +1393,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.982128735999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1323,10 +1407,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 18.717419999999997,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1337,10 +1421,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.394038489090908,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1351,10 +1435,10 @@
         "latest_chapter_date": "10/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 70.46666666666667,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1365,10 +1449,10 @@
         "latest_chapter_date": "09/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 4.385399376268092,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1379,10 +1463,10 @@
         "latest_chapter_date": "09/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 9.591083504886749,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1393,10 +1477,10 @@
         "latest_chapter_date": "09/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.2262300922087706,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1407,10 +1491,10 @@
         "latest_chapter_date": "09/09/2026",
         "source": "nettruyen",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.985356809999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1421,24 +1505,10 @@
         "latest_chapter_date": "09/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.634505306666664,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "cao-dang-linh-hon-6931",
-        "title": "Cao Đẳng Linh Hồn",
-        "channel_id": 1397942857674788914,
-        "last_chapter": 396,
-        "latest_chapter_date": "08/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.055352001926998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1449,10 +1519,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 17.712938148,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1463,10 +1533,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.814318181818181,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1477,10 +1547,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.135294117647058,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1491,10 +1561,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.638190889999997,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1505,10 +1575,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.654166666666666,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1519,10 +1589,10 @@
         "latest_chapter_date": "08/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 9.225719999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1533,10 +1603,10 @@
         "latest_chapter_date": "07/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.001107315774799,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1547,10 +1617,10 @@
         "latest_chapter_date": "07/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.616397749999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1561,10 +1631,10 @@
         "latest_chapter_date": "07/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 17.896666666666665,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1575,10 +1645,10 @@
         "latest_chapter_date": "07/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.289884999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1589,10 +1659,10 @@
         "latest_chapter_date": "07/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 81.23849999999996,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1603,52 +1673,10 @@
         "latest_chapter_date": "06/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.298904883232493,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "thiet-huyet-kiem-si-hoi-quy-14046",
-        "title": "Thiết Huyết Kiếm Sĩ Hồi Quy",
-        "channel_id": 1516351723852267671,
-        "last_chapter": 179,
-        "latest_chapter_date": "06/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.180871382099999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "toan-dan-chuyen-chuc-bi-dong-cua-ta-vo-dich-18384",
-        "title": "Toàn Dân Chuyển Chức: Bị Động Của Ta Vô Địch",
-        "channel_id": 1404687720298709095,
-        "last_chapter": 200,
-        "latest_chapter_date": "05/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 5.627584163464675,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "hay-hanh-dong-nhu-mot-boss-di-ngai-mr-devourer-15283",
-        "title": "Hãy Hành Động Như Một Boss Đi Ngài Mr Devourer",
-        "channel_id": 1416619646294954128,
-        "last_chapter": 142,
-        "latest_chapter_date": "05/09/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 7.277573516666665,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1659,10 +1687,10 @@
         "latest_chapter_date": "05/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.198648848807165,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1673,10 +1701,10 @@
         "latest_chapter_date": "05/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.14128462366132,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1687,10 +1715,10 @@
         "latest_chapter_date": "05/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.528675173499999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1701,10 +1729,10 @@
         "latest_chapter_date": "05/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 21.221999999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1715,10 +1743,10 @@
         "latest_chapter_date": "04/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.946427632999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1729,10 +1757,10 @@
         "latest_chapter_date": "04/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.095997580828498,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1743,10 +1771,10 @@
         "latest_chapter_date": "03/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.755424661691698,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1757,10 +1785,10 @@
         "latest_chapter_date": "03/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.257,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1771,10 +1799,10 @@
         "latest_chapter_date": "03/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.375,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1785,10 +1813,10 @@
         "latest_chapter_date": "03/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 13.119999999999997,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1799,10 +1827,10 @@
         "latest_chapter_date": "03/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 68.3,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1813,10 +1841,10 @@
         "latest_chapter_date": "01/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.162137022014018,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1827,10 +1855,10 @@
         "latest_chapter_date": "01/09/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 28.999999999999996,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1841,10 +1869,10 @@
         "latest_chapter_date": "28/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 25.6,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1855,10 +1883,10 @@
         "latest_chapter_date": "27/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 10.857176158666666,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1869,10 +1897,10 @@
         "latest_chapter_date": "27/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 27.2,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1883,10 +1911,10 @@
         "latest_chapter_date": "27/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 57.41999999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1897,10 +1925,10 @@
         "latest_chapter_date": "26/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 15.25,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1911,10 +1939,10 @@
         "latest_chapter_date": "24/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 60.89230769230769,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1925,10 +1953,10 @@
         "latest_chapter_date": "24/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.650235629999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1939,10 +1967,10 @@
         "latest_chapter_date": "22/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 13.922979999999999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1953,24 +1981,10 @@
         "latest_chapter_date": "19/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.516813333333332,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "inko-demo-seishun-shitai-23372",
-        "title": "Inko Demo Seishun Shitai",
-        "channel_id": 1526143607671750737,
-        "last_chapter": 5,
-        "latest_chapter_date": "19/08/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "20/09/2026",
-        "avg_days_per_chapter": 13.2,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1981,10 +1995,10 @@
         "latest_chapter_date": "18/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.668399916621999,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -1995,10 +2009,10 @@
         "latest_chapter_date": "18/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.016010924999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2009,10 +2023,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 21.83,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2023,10 +2037,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 33.666666666666664,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2037,10 +2051,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 19.6175,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2051,10 +2065,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 14.25,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2065,10 +2079,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 29.82,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2079,10 +2093,10 @@
         "latest_chapter_date": "17/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 15.863636363636363,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2093,10 +2107,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.836268216398332,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2107,10 +2121,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 8.62521,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2121,10 +2135,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.0,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2135,10 +2149,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.036726304999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2149,10 +2163,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 5.89295,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2163,10 +2177,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 6.764705882352941,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2177,10 +2191,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 18.666666666666668,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2191,10 +2205,10 @@
         "latest_chapter_date": "16/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 287.0,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2205,10 +2219,10 @@
         "latest_chapter_date": "15/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 108.0,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2219,10 +2233,10 @@
         "latest_chapter_date": "15/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 3.308132477777777,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2233,10 +2247,10 @@
         "latest_chapter_date": "12/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 1.3895262320681405,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2247,10 +2261,10 @@
         "latest_chapter_date": "11/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 9.868937999999998,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "25/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2303,10 +2317,10 @@
         "latest_chapter_date": "03/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "16/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 11.019047619047619,
-        "next_check_date": "17/09/2026",
-        "last_success_date": "16/09/2026",
+        "next_check_date": "01/10/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2331,10 +2345,10 @@
         "latest_chapter_date": "01/08/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": 9.28126607,
-        "next_check_date": "15/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2387,10 +2401,10 @@
         "latest_chapter_date": "28/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 2.0,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "27/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2415,10 +2429,10 @@
         "latest_chapter_date": "20/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "16/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 7.103684299999999,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "16/09/2026",
+        "next_check_date": "01/10/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2443,10 +2457,10 @@
         "latest_chapter_date": "14/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "16/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": 6.97,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "16/09/2026",
+        "next_check_date": "26/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2457,10 +2471,10 @@
         "latest_chapter_date": "12/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "15/09/2026",
+        "last_check_date": "22/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "22/09/2026",
-        "last_success_date": "15/09/2026",
+        "next_check_date": "29/09/2026",
+        "last_success_date": "22/09/2026",
         "error_count": 0
     },
     {
@@ -2485,10 +2499,10 @@
         "latest_chapter_date": "05/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "17/09/2026",
+        "last_check_date": "22/09/2026",
         "avg_days_per_chapter": 3.0853468866923794,
-        "next_check_date": "22/09/2026",
-        "last_success_date": "17/09/2026",
+        "next_check_date": "27/09/2026",
+        "last_success_date": "22/09/2026",
         "error_count": 0
     },
     {
@@ -2499,10 +2513,10 @@
         "latest_chapter_date": "03/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": 10.132933333333334,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2513,10 +2527,10 @@
         "latest_chapter_date": "03/07/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 16.100099999999998,
-        "next_check_date": "24/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "04/10/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2527,10 +2541,10 @@
         "latest_chapter_date": "29/06/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 1.5166666666666666,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "27/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2541,10 +2555,10 @@
         "latest_chapter_date": "28/06/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "17/09/2026",
+        "last_check_date": "22/09/2026",
         "avg_days_per_chapter": 2.6526749999999995,
-        "next_check_date": "22/09/2026",
-        "last_success_date": "17/09/2026",
+        "next_check_date": "27/09/2026",
+        "last_success_date": "22/09/2026",
         "error_count": 0
     },
     {
@@ -2555,11 +2569,11 @@
         "latest_chapter_date": "27/06/2026",
         "source": "goctruyentranhvui",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": 7.075949999999999,
-        "next_check_date": "14/09/2026",
+        "next_check_date": "21/09/2026",
         "last_success_date": "06/07/2026",
-        "error_count": 65
+        "error_count": 66
     },
     {
         "id": "thien-tai-ma-phap-su-vat-li-17338",
@@ -2569,10 +2583,10 @@
         "latest_chapter_date": "20/06/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "12/09/2026",
+        "last_check_date": "22/09/2026",
         "avg_days_per_chapter": 16.001999999999995,
-        "next_check_date": "22/09/2026",
-        "last_success_date": "12/09/2026",
+        "next_check_date": "02/10/2026",
+        "last_success_date": "22/09/2026",
         "error_count": 0
     },
     {
@@ -2653,10 +2667,10 @@
         "latest_chapter_date": "25/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "20/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": 0.9264999999999999,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "20/09/2026",
+        "next_check_date": "27/09/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2723,10 +2737,10 @@
         "latest_chapter_date": "04/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "16/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "16/09/2026",
+        "next_check_date": "01/10/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2737,10 +2751,10 @@
         "latest_chapter_date": "02/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2751,10 +2765,10 @@
         "latest_chapter_date": "02/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2765,10 +2779,10 @@
         "latest_chapter_date": "02/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2779,10 +2793,10 @@
         "latest_chapter_date": "01/05/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2807,10 +2821,10 @@
         "latest_chapter_date": "27/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "16/09/2026",
+        "last_check_date": "24/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "23/09/2026",
-        "last_success_date": "16/09/2026",
+        "next_check_date": "01/10/2026",
+        "last_success_date": "24/09/2026",
         "error_count": 0
     },
     {
@@ -2821,10 +2835,10 @@
         "latest_chapter_date": "26/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2835,10 +2849,10 @@
         "latest_chapter_date": "22/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2849,10 +2863,10 @@
         "latest_chapter_date": "18/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2863,10 +2877,10 @@
         "latest_chapter_date": "17/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2877,10 +2891,10 @@
         "latest_chapter_date": "08/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2891,10 +2905,10 @@
         "latest_chapter_date": "05/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": 12.545454545454545,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2905,10 +2919,10 @@
         "latest_chapter_date": "04/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2919,10 +2933,10 @@
         "latest_chapter_date": "04/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2933,10 +2947,10 @@
         "latest_chapter_date": "01/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2947,10 +2961,10 @@
         "latest_chapter_date": "01/04/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2961,10 +2975,10 @@
         "latest_chapter_date": "30/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2975,10 +2989,10 @@
         "latest_chapter_date": "27/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -2989,10 +3003,10 @@
         "latest_chapter_date": "26/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3003,10 +3017,10 @@
         "latest_chapter_date": "26/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3017,10 +3031,10 @@
         "latest_chapter_date": "26/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3031,10 +3045,10 @@
         "latest_chapter_date": "24/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3045,10 +3059,10 @@
         "latest_chapter_date": "20/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3059,10 +3073,10 @@
         "latest_chapter_date": "16/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3073,10 +3087,10 @@
         "latest_chapter_date": "13/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3087,24 +3101,10 @@
         "latest_chapter_date": "12/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
-        "error_count": 0
-    },
-    {
-        "id": "quai-luc-loan-than-15528",
-        "title": "Quái Lực Loạn Thần",
-        "channel_id": 1375006332611985460,
-        "last_chapter": 109,
-        "latest_chapter_date": "10/03/2026",
-        "source": "truyenqqto",
-        "error": null,
-        "last_check_date": "14/09/2026",
-        "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3115,10 +3115,10 @@
         "latest_chapter_date": "06/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3129,10 +3129,10 @@
         "latest_chapter_date": "05/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3143,10 +3143,10 @@
         "latest_chapter_date": "04/03/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3157,10 +3157,10 @@
         "latest_chapter_date": "28/02/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3171,10 +3171,10 @@
         "latest_chapter_date": "12/02/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3227,10 +3227,10 @@
         "latest_chapter_date": "07/02/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3241,10 +3241,10 @@
         "latest_chapter_date": "03/02/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3255,10 +3255,10 @@
         "latest_chapter_date": "31/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3269,10 +3269,10 @@
         "latest_chapter_date": "22/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3283,10 +3283,10 @@
         "latest_chapter_date": "17/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3297,11 +3297,11 @@
         "latest_chapter_date": "17/01/2026",
         "source": "goctruyentranhvui",
         "error": null,
-        "last_check_date": "12/09/2026",
+        "last_check_date": "22/09/2026",
         "avg_days_per_chapter": 75.5,
-        "next_check_date": "12/09/2026",
+        "next_check_date": "22/09/2026",
         "last_success_date": "03/07/2026",
-        "error_count": 7
+        "error_count": 8
     },
     {
         "id": "moi-cong-tu-tram-yeu-17452",
@@ -3311,10 +3311,10 @@
         "latest_chapter_date": "14/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3325,10 +3325,10 @@
         "latest_chapter_date": "10/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3339,10 +3339,10 @@
         "latest_chapter_date": "07/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3353,10 +3353,10 @@
         "latest_chapter_date": "02/01/2026",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3367,10 +3367,10 @@
         "latest_chapter_date": "30/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3381,10 +3381,10 @@
         "latest_chapter_date": "27/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3395,10 +3395,10 @@
         "latest_chapter_date": "24/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3437,10 +3437,10 @@
         "latest_chapter_date": "15/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3451,10 +3451,10 @@
         "latest_chapter_date": "08/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3465,10 +3465,10 @@
         "latest_chapter_date": "05/12/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3479,10 +3479,10 @@
         "latest_chapter_date": "30/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3493,10 +3493,10 @@
         "latest_chapter_date": "30/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3507,10 +3507,10 @@
         "latest_chapter_date": "29/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3521,10 +3521,10 @@
         "latest_chapter_date": "21/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3535,10 +3535,10 @@
         "latest_chapter_date": "16/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3549,10 +3549,10 @@
         "latest_chapter_date": "11/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3563,10 +3563,10 @@
         "latest_chapter_date": "03/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3577,10 +3577,10 @@
         "latest_chapter_date": "02/11/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3591,10 +3591,10 @@
         "latest_chapter_date": "24/10/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3605,10 +3605,10 @@
         "latest_chapter_date": "21/10/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3619,10 +3619,10 @@
         "latest_chapter_date": "06/10/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3633,10 +3633,10 @@
         "latest_chapter_date": "30/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3647,10 +3647,10 @@
         "latest_chapter_date": "22/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3661,10 +3661,10 @@
         "latest_chapter_date": "20/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3689,10 +3689,10 @@
         "latest_chapter_date": "16/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3703,10 +3703,10 @@
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3717,10 +3717,10 @@
         "latest_chapter_date": "10/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3731,10 +3731,10 @@
         "latest_chapter_date": "05/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3745,10 +3745,10 @@
         "latest_chapter_date": "03/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3759,10 +3759,10 @@
         "latest_chapter_date": "01/09/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3773,10 +3773,10 @@
         "latest_chapter_date": "30/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3787,10 +3787,10 @@
         "latest_chapter_date": "21/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3801,10 +3801,10 @@
         "latest_chapter_date": "19/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3815,10 +3815,10 @@
         "latest_chapter_date": "13/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3829,10 +3829,10 @@
         "latest_chapter_date": "13/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3843,10 +3843,10 @@
         "latest_chapter_date": "01/08/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3857,10 +3857,10 @@
         "latest_chapter_date": "29/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3871,10 +3871,10 @@
         "latest_chapter_date": "26/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3885,10 +3885,10 @@
         "latest_chapter_date": "24/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3899,10 +3899,10 @@
         "latest_chapter_date": "22/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3913,10 +3913,10 @@
         "latest_chapter_date": "19/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3927,10 +3927,10 @@
         "latest_chapter_date": "18/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3941,10 +3941,10 @@
         "latest_chapter_date": "16/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3955,10 +3955,10 @@
         "latest_chapter_date": "13/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3969,10 +3969,10 @@
         "latest_chapter_date": "04/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3983,10 +3983,10 @@
         "latest_chapter_date": "01/07/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -3997,10 +3997,10 @@
         "latest_chapter_date": "18/06/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4011,10 +4011,10 @@
         "latest_chapter_date": "21/05/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4025,10 +4025,10 @@
         "latest_chapter_date": "21/05/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4039,10 +4039,10 @@
         "latest_chapter_date": "09/05/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4053,10 +4053,10 @@
         "latest_chapter_date": "06/05/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4067,10 +4067,10 @@
         "latest_chapter_date": "15/04/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4081,10 +4081,10 @@
         "latest_chapter_date": "09/04/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4095,10 +4095,10 @@
         "latest_chapter_date": "08/04/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4109,10 +4109,10 @@
         "latest_chapter_date": "18/03/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4123,10 +4123,10 @@
         "latest_chapter_date": "16/03/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4137,10 +4137,10 @@
         "latest_chapter_date": "03/01/2025",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4151,10 +4151,10 @@
         "latest_chapter_date": "18/11/2024",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4165,10 +4165,10 @@
         "latest_chapter_date": "23/09/2024",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4179,10 +4179,10 @@
         "latest_chapter_date": "25/08/2024",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4193,10 +4193,10 @@
         "latest_chapter_date": "08/02/2024",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4207,10 +4207,10 @@
         "latest_chapter_date": "31/01/2024",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4221,10 +4221,10 @@
         "latest_chapter_date": "28/12/2023",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4235,10 +4235,10 @@
         "latest_chapter_date": "24/12/2023",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4249,10 +4249,10 @@
         "latest_chapter_date": "11/08/2023",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4263,10 +4263,10 @@
         "latest_chapter_date": "13/05/2022",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4277,10 +4277,10 @@
         "latest_chapter_date": "09/11/2021",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     },
     {
@@ -4291,10 +4291,10 @@
         "latest_chapter_date": "10/11/2020",
         "source": "truyenqqto",
         "error": null,
-        "last_check_date": "14/09/2026",
+        "last_check_date": "21/09/2026",
         "avg_days_per_chapter": null,
-        "next_check_date": "21/09/2026",
-        "last_success_date": "14/09/2026",
+        "next_check_date": "28/09/2026",
+        "last_success_date": "21/09/2026",
         "error_count": 0
     }
 ]
